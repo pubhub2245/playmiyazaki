@@ -1,0 +1,33 @@
+{
+  "slug": "trip-rentacar-miyazaki",
+  "genre": "surf",
+  "category": [
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "トリップレンタカー宮崎",
+    "en": "SURF & TURF Trip Rent a Car MIYAZAKI"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市学園木花台南3-16-4",
+    "en": "3-16-4 Gakuen Kibanadai-Minami, Miyazaki-shi, Miyazaki 889-2153"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "070-9005-1173",
+  "website": "https://www.trip-rent-a-car.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎空港の送迎付きレンタカー。サーフボードのレンタル込み。サーフトリップ向けの車両サイズ。",
+    "en": "Rental car service with airport pickup and surfboard rental included. Vehicles sized for surf trips."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.trip-rent-a-car.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

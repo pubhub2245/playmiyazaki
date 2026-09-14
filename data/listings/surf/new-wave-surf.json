@@ -1,0 +1,35 @@
+{
+  "slug": "new-wave-surf",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ニューウェーブ",
+    "en": "NEW WAVE SURF & SKATE"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字熊野1315-1",
+    "en": "1315-1 Kumano, Miyazaki-shi, Miyazaki 889-2151"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-58-2155",
+  "website": "https://newwavesurf.shop/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "木崎浜近くのショップ。スクール、レンタル、ガイドツアーを扱う。JPBA プロショップ。",
+    "en": "Shop near Kizakihama. Handles lessons, rentals, and guided tours. JPBA pro shop."
+  },
+  "tags": null,
+  "sources": [
+    "https://newwavesurf.shop/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

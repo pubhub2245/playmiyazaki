@@ -1,0 +1,35 @@
+{
+  "slug": "on-the-beach",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "オンザビーチ",
+    "en": "ON THE BEACH"
+  },
+  "address": {
+    "ja": "宮崎県日向市平岩金ヶ浜2220-9",
+    "en": "2220-9 Hiraiwa Kanegahama, Hyuga-shi, Miyazaki 883-0022"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-57-2548",
+  "website": "https://onthebeach.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "1996年創業。JPSA プロの久保田聡が営むショップ。カスタムボード・ウェットスーツ、オンラインコーチングあり。",
+    "en": "Established in 1996 and run by JPSA pro Satoshi Kubota. Custom boards and wetsuits, plus online coaching."
+  },
+  "tags": null,
+  "sources": [
+    "https://onthebeach.jp/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

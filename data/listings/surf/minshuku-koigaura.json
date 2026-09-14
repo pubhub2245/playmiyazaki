@@ -1,0 +1,33 @@
+{
+  "slug": "minshuku-koigaura",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "民宿恋ヶ浦",
+    "en": "Minshuku Koigaura"
+  },
+  "address": {
+    "ja": "宮崎県串間市大納2030",
+    "en": "2030 Ono, Kushima-shi, Miyazaki 888-0221"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-76-1631",
+  "website": "https://koigaurashokudo.wixsite.com/koigaura",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "恋ヶ浦の真向かいにある民宿。素泊まり。基本的なサーフ用品の販売とレンタルもあり。",
+    "en": "Minshuku directly opposite Koigaura. Room-only, with basic surf gear sales and rentals."
+  },
+  "tags": null,
+  "sources": [
+    "https://koigaurashokudo.wixsite.com/koigaura"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

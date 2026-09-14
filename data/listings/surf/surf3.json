@@ -1,0 +1,37 @@
+{
+  "slug": "surf3",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "サーフスリー",
+    "en": "Surf3"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字熊野2278-8",
+    "en": "2278-8 Kumano, Miyazaki-shi, Miyazaki 889-2151"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-58-5035",
+  "website": "https://www.surf3-sincere.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "ボードレンタル 3,000円/日、ウェットスーツ 2,000円",
+    "en": "Board rental 3,000 yen/day; wetsuit 2,000 yen"
+  },
+  "description": {
+    "ja": "木崎浜近くのショップ。店内にウェットスーツ工場を併設。ブランド問わず修理を受け付ける。木曜定休。",
+    "en": "Shop near Kizakihama with an in-house wetsuit factory. Repairs boards from any brand. Closed Thursdays."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11547"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

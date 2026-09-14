@@ -1,0 +1,33 @@
+{
+  "slug": "kazatahama",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "風田浜",
+    "en": "Kazatahama"
+  },
+  "address": {
+    "ja": "宮崎県日南市風田",
+    "en": "Kazata, Nichinan-shi, Miyazaki 887-0034"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-31-1134",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "大会が開かれる海岸。ウミガメの産卵地でもある。駐車場は約15台、トイレは近隣に無し。",
+    "en": "Beach that hosts competitions and is a sea turtle nesting site. About 15 parking spaces, no restrooms on site."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1165"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

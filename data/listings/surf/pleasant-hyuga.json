@@ -1,0 +1,33 @@
+{
+  "slug": "pleasant-hyuga",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "プレザント日向",
+    "en": "Pleasant Hyuga"
+  },
+  "address": {
+    "ja": "宮崎県日向市平岩64-1",
+    "en": "64-1 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-57-2727",
+  "website": "https://pleasant-hyuga.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "お倉ヶ浜を見下ろす宿。サーファーとファミリー向け。",
+    "en": "Lodging overlooking Okuragahama, aimed at surfers and families."
+  },
+  "tags": null,
+  "sources": [
+    "https://hyuga.or.jp/app/hotels"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

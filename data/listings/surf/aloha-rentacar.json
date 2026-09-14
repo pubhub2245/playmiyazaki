@@ -1,0 +1,33 @@
+{
+  "slug": "aloha-rentacar",
+  "genre": "surf",
+  "category": [
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "アロハレンタカー",
+    "en": "Aloha Rentacar"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大島町高崎416-1",
+    "en": "416-1 Takasaki, Oshima-cho, Miyazaki-shi, Miyazaki 880-0824"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "070-7622-0039",
+  "website": "https://aloha-rentacar.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "サーファー向けのレンタカー。ポリタンクやハンガーなどの付属品は無料。",
+    "en": "Rental cars for surfers. Poly-tank and hangers included free."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11550"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

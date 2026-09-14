@@ -1,0 +1,33 @@
+{
+  "slug": "ana-holiday-inn-resort-miyazaki",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ANA ホリデイ・イン リゾート 宮崎",
+    "en": "ANA Holiday Inn Resort MIYAZAKI"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島1-16-1",
+    "en": "1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-65-1555",
+  "website": "https://www.anahirmiyazaki.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島ビーチから徒歩圏内のリゾートホテル。館内にムラサキスポーツ青島（サブスク型サーフ用品）あり。",
+    "en": "Resort hotel within walking distance of Aoshima Beach. In-house Murasaki Sports Aoshima offers subscription-based surf gear."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.anahirmiyazaki.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

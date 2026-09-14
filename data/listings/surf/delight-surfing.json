@@ -1,0 +1,35 @@
+{
+  "slug": "delight-surfing",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "ディライトサーフィンサービス",
+    "en": "Delight Surfing Service"
+  },
+  "address": {
+    "ja": "宮崎県都城市広原町10-6",
+    "en": "10-6 Kobaru-cho, Miyakonojo-shi, Miyazaki 885-0036"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-21-1110",
+  "website": "https://www.delight-mjc.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市内のショップ。ボード、ボディボード、ウェットスーツを扱い、カスタムボード製造（ヒロタサーフボードラボ）も行う。",
+    "en": "Shop in Miyakonojo. Handles boards, bodyboards, and wetsuits, and manufactures custom boards (Hirota Surfboards Lab)."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.delight-mjc.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "connect-journey",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "コネクトジャーニー",
+    "en": "CONNECT JOURNEY"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市田代町59-1 ハピネス田代501",
+    "en": "Happiness Tashiro 501, 59-1 Tashiro-cho, Miyazaki-shi, Miyazaki 880-0855"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "090-1873-8344",
+  "website": "http://connect-journey.com",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "スクール 7,000円、ガイド・レンタル 3,500円/日",
+    "en": "Lesson 7,000 yen; guide and rental 3,500 yen/day"
+  },
+  "description": {
+    "ja": "プロサーファー秋元翔平のブランド。スクール、ガイド、レンタルを扱う。",
+    "en": "Brand run by pro surfer Shohei Akimoto. Lessons, guiding, and rentals."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11554"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "glance-surfboards",
+  "genre": "surf",
+  "category": [
+    "shop"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "グランスサーフボード",
+    "en": "glance surfboards"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字熊野10314-6",
+    "en": "10314-6 Kumano, Miyazaki-shi, Miyazaki 889-2151"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-55-3818",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "ボード製造、カスタムエアブラシ、修理を扱うショップ。レンタルとスクールは無し。",
+    "en": "Shop that handles board manufacturing, custom airbrush, and repairs. No rentals or lessons."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11553"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

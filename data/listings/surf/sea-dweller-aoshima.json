@@ -1,0 +1,33 @@
+{
+  "slug": "sea-dweller-aoshima",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "お宿 海の居住者 SEA-DWELLER",
+    "en": "SEA-DWELLER Aoshima"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島6-8-13",
+    "en": "6-8-13 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-66-0740",
+  "website": "https://www.seadweller-aoshima.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島の宿。木崎浜サーフポイントをアクティビティとして紹介している。",
+    "en": "Lodging in Aoshima. The owners' site lists the Kizakihama surf point among activities."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.seadweller-aoshima.com/activity/446839.html"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

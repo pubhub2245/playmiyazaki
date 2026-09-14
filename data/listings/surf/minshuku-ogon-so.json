@@ -1,0 +1,33 @@
+{
+  "slug": "minshuku-ogon-so",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "民宿黄金荘",
+    "en": "Minshuku Ogon-so"
+  },
+  "address": {
+    "ja": "宮崎県串間市大納48-7",
+    "en": "48-7 Ono, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-76-1029",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "恋ヶ浦のある大納エリアの民宿。",
+    "en": "Minshuku in the Ono district near Koigaura."
+  },
+  "tags": null,
+  "sources": [
+    "https://kushima-city.jp/stay/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

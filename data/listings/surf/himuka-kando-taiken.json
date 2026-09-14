@@ -1,0 +1,39 @@
+{
+  "slug": "himuka-kando-taiken",
+  "genre": "surf",
+  "category": [
+    "school"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "NPO法人 ひむか感動体験ワールド",
+    "en": "NPO Himuka Kando Taiken World"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北川町川内7344",
+    "en": "7344 Kawachi, Kitakawa-cho, Nobeoka-shi, Miyazaki 889-0101"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-27-6322",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜18:00 水曜定休、12/29〜1/3 休み",
+    "en": "9:00–18:00, closed Wed and Dec 29–Jan 3"
+  },
+  "price": {
+    "ja": "1人 7,000円（別途レンタル料）",
+    "en": "7,000 yen per person (rental fee extra)"
+  },
+  "description": {
+    "ja": "初心者向けロングボードから上級者向けショートボードまで、プロが指導するサーフィン体験。延岡市北川町拠点。",
+    "en": "Surf sessions taught by a pro, from beginner longboard to advanced shortboard. Based in Kitakawa, Nobeoka."
+  },
+  "tags": null,
+  "sources": [
+    "https://nobekan.jp/activity/index.php?p=620"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

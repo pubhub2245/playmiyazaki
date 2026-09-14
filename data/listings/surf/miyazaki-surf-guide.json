@@ -1,0 +1,37 @@
+{
+  "slug": "miyazaki-surf-guide",
+  "genre": "surf",
+  "category": [
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎サーフガイド",
+    "en": "Miyazaki Surf Guide"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島1-16-1 ANAホリデイ・イン・リゾート宮崎アクティビティセンター内",
+    "en": "ANA Holiday Inn Resort Miyazaki Activity Center, 1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2161"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "050-6870-9992",
+  "website": "https://miyazakisurfguide.com",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜17:00（要予約）",
+    "en": "9:00–17:00 (reservation required)"
+  },
+  "price": null,
+  "description": {
+    "ja": "初心者体験、レベルアップレッスン、プライベートサーフガイド、ボード・ウェットレンタルを扱う。温水シャワー、更衣室、タオル付き。英語対応あり。",
+    "en": "Beginner sessions, level-up lessons, private guiding, and board/wetsuit rental. Hot shower, changing room, and towels included. English support available."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/13152"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

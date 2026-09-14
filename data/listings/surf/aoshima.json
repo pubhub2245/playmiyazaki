@@ -1,0 +1,33 @@
+{
+  "slug": "aoshima",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "青島",
+    "en": "Aoshima"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島1-16-1",
+    "en": "1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-65-1055",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島神社に隣接する海岸。南側は穏やか、北側は木崎浜方面へ広がる。青島ビーチセンターにロッカーと温水シャワーあり。",
+    "en": "Beach next to Aoshima Shrine. South side is calmer; the north side extends toward Kizakihama. Aoshima Beach Center has lockers and hot showers."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1447"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

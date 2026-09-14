@@ -1,0 +1,33 @@
+{
+  "slug": "odotsu",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "大堂津",
+    "en": "Odotsu"
+  },
+  "address": {
+    "ja": "宮崎県日南市大堂津",
+    "en": "Odotsu, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-31-1134",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "島に囲まれた湾のため、比較的波が穏やか。初心者向けのポイント。",
+    "en": "A bay ringed by islands, so the waves are relatively calm. A beginner-friendly break."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kankou-nichinan.jp/tourisms/1352/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

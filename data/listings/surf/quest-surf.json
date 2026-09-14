@@ -1,0 +1,35 @@
+{
+  "slug": "quest-surf",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "クエスト",
+    "en": "QUEST"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市恒久南2-1-4",
+    "en": "2-1-4 Tsunehisa-Minami, Miyazaki-shi, Miyazaki 880-0915"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-50-7227",
+  "website": "https://www.quest-surf.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "南宮崎駅から約300mのショップ。Firewire、Tokoro を扱う。修理、レンタル、スクールあり。",
+    "en": "Shop about 300 m from Minami-Miyazaki Station. Carries Firewire and Tokoro. Repairs, rentals, and lessons."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11552"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

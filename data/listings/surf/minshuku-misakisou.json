@@ -1,0 +1,33 @@
+{
+  "slug": "minshuku-misakisou",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "民宿みさき荘",
+    "en": "Minshuku Misaki-sou"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島1-5-4",
+    "en": "1-5-4 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-65-0038",
+  "website": "http://www.misakisou.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "こどものくに前のサーフブレイクの真ん前にある民宿。割引航空券付きのサーフトリップパックあり。",
+    "en": "Minshuku facing the Kodomo-no-Kuni surf break. Surf-trip packages with discounted airfare available."
+  },
+  "tags": null,
+  "sources": [
+    "http://www.misakisou.com/index.html"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

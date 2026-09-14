@@ -1,0 +1,38 @@
+{
+  "slug": "first-trip",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ファーストトリップ サーフ&ヴィンテージ",
+    "en": "First Trip Surf & Vintage"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市学園木花台桜1-15-6",
+    "en": "1-15-6 Gakuen Kibanadai Sakura, Miyazaki-shi, Miyazaki 889-2154"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-71-2694",
+  "website": "https://firsttrip-surfboard.stores.jp",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "2泊3日レンタルパック 4,800円〜",
+    "en": "2-night/3-day rental pack from 4,800 yen"
+  },
+  "description": {
+    "ja": "木崎浜から車で約5分のショップ。1対1レッスンとレンタルパックを扱う。",
+    "en": "Shop about a 5-minute drive from Kizakihama. Offers 1-on-1 lessons and rental packs."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11549"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

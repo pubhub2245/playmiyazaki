@@ -1,0 +1,34 @@
+{
+  "slug": "koigaura",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "恋ヶ浦",
+    "en": "Koigaura"
+  },
+  "address": {
+    "ja": "宮崎県串間市大納",
+    "en": "Ono, Kushima-shi, Miyazaki 888-0221"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-55-1128",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "1年を通して波が立つポイント。左右のブレイクがある。無料駐車場は3台のみ。",
+    "en": "Waves throughout the year, with left and right breaks. Only three free parking spaces."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1162",
+    "https://kushima-city.jp/koi/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

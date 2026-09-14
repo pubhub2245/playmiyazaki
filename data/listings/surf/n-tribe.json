@@ -1,0 +1,33 @@
+{
+  "slug": "n-tribe",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "n'tribe（フリーダム内）",
+    "en": "n'tribe (inside Freedom Surfshop)"
+  },
+  "address": {
+    "ja": "宮崎県日南市平山2318-2",
+    "en": "2318-2 Hirayama, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-23-6873",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "フリーダムサーフショップ内のロッジ。8室、最大32名。素泊まり。",
+    "en": "Lodge inside Freedom Surf Shop. Eight rooms for up to 32 guests. Room-only."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kankou-nichinan.jp/tourisms/711/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

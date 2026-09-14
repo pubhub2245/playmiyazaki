@@ -1,0 +1,36 @@
+{
+  "slug": "kizakihama",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "木崎浜",
+    "en": "Kizakihama"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市熊野2206-1",
+    "en": "2206-1 Kumano, Miyazaki-shi, Miyazaki 888-9215"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-21-1791",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "温水シャワー200円、冷水シャワー無料",
+    "en": "Warm shower 200 yen, cold shower free"
+  },
+  "description": {
+    "ja": "宮崎市南部のロングビーチ。駐車場は約300台。ソラシドエアサーフィンセンター木崎浜（2022年4月開設）にシャワー室・更衣室あり。",
+    "en": "Long beach south of central Miyazaki. Parking for about 300. Solaseed Air Surfing Center (opened April 2022) has showers and changing rooms."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1446"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

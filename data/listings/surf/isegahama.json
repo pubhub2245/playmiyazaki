@@ -1,0 +1,36 @@
+{
+  "slug": "isegahama",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "伊勢ヶ浜",
+    "en": "Isegahama"
+  },
+  "address": {
+    "ja": "宮崎県日向市日知屋599-3",
+    "en": "599-3 Hichiya, Hyuga-shi, Miyazaki 883-0062"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-66-1026",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "シャワー100円",
+    "en": "Shower 100 yen"
+  },
+  "description": {
+    "ja": "日本の海水浴場100選に選ばれた海岸。無料駐車場82台。",
+    "en": "Selected among Japan's 100 Best Bathing Beaches. 82 free parking spaces."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1171"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

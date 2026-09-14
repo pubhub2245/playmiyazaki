@@ -1,0 +1,33 @@
+{
+  "slug": "minshuku-kanegahama",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "民宿金ヶ浜",
+    "en": "Minshuku Kanegahama"
+  },
+  "address": {
+    "ja": "宮崎県日向市平岩2221-1",
+    "en": "2221-1 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-57-1550",
+  "website": "https://www.kanegahama.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "金ヶ浜の真向かいにある民宿。ボードロッカーと地魚を使った夕食あり。",
+    "en": "Minshuku directly opposite Kanegahama. Board lockers and dinner featuring local seafood."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanegahama.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

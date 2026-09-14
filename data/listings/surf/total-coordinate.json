@@ -1,0 +1,36 @@
+{
+  "slug": "total-coordinate",
+  "genre": "surf",
+  "category": [
+    "school"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "トータルコーディネート",
+    "en": "Total Coordinate"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市小戸町27",
+    "en": "27 Ondo-cho, Miyazaki-shi, Miyazaki 880-0857"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-69-3999",
+  "website": "https://www.totalcoordinate-world.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜19:00",
+    "en": "9:00–19:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "サーフィン指導25年のガイドが在籍。サーフ、SUP、SUPヨガ、ヨガ、コアトレーニングを扱う。宮崎駅からの送迎あり。駐車場7台。",
+    "en": "Guide with 25 years of surf instruction experience. Handles surf, SUP, SUP yoga, yoga, and core training. Pickup from Miyazaki Station. Parking for seven."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11559"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "nagisa-store",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ナギサストア",
+    "en": "Nagisa Store"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島1-11-7",
+    "en": "1-11-7 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-65-1070",
+  "website": "http://www.nagisastore.com",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島ビーチから徒歩30秒のショップ。60本以上のボードを扱う。水曜定休。",
+    "en": "Shop 30 seconds' walk from Aoshima Beach. Stocks over 60 boards. Closed Wednesdays."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11560"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

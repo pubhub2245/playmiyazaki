@@ -1,0 +1,34 @@
+{
+  "slug": "umegahama",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "梅ヶ浜",
+    "en": "Umegahama"
+  },
+  "address": {
+    "ja": "宮崎県日南市平野 梅ケ浜",
+    "en": "Umegahama, Hirano, Nichinan-shi, Miyazaki 887-0017"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-31-1134",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "ライオン岩を目印にした上級者向けブレイク。近くには広渡川の河口ポイントもある。",
+    "en": "Advanced-level break with the Lion Rock landmark. The Hirowatari river mouth is also nearby."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1166",
+    "https://www.kankou-nichinan.jp/tourisms/1347/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

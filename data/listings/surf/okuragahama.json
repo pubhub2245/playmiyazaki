@@ -1,0 +1,37 @@
+{
+  "slug": "okuragahama",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "お倉ヶ浜",
+    "en": "Okuragahama"
+  },
+  "address": {
+    "ja": "宮崎県日向市平岩12298-6",
+    "en": "12298-6 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-66-1026",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "温水・冷水シャワーあり",
+    "en": "Hot and cold showers on site"
+  },
+  "description": {
+    "ja": "約4kmのロングビーチ。2017年 ISA ワールドジュニアサーフィン選手権の会場。マリンウェーブビーチハウスに駐車305台（無料）。",
+    "en": "About a 4 km beach. Venue for the 2017 ISA World Junior Surfing Championship. Marine Wave Beach House has 305 free parking spaces."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1167",
+    "https://hyuga.or.jp/app/spots/view/2"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

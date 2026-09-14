@@ -1,0 +1,35 @@
+{
+  "slug": "sunrise-surfshop",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "サンライズサーフショップ",
+    "en": "SUNRISE SURFSHOP"
+  },
+  "address": {
+    "ja": "宮崎県日向市（お倉ヶ浜近く）",
+    "en": "Near Okuragahama, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-56-2609",
+  "website": "https://www.sunrise-surfshop.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "お倉ヶ浜のすぐそば。ゲストハウス OCEANSIDE お倉ヶ浜（2024年3月開業）に隣接する。",
+    "en": "Right next to Okuragahama. Adjacent to the OCEANSIDE Okuragahama guesthouse, which opened in March 2024."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.sunrise-surfshop.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

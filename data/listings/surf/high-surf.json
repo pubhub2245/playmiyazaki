@@ -1,0 +1,38 @@
+{
+  "slug": "high-surf",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ハイサーフ",
+    "en": "HIGH SURF"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字加江田4710-13",
+    "en": "4710-13 Kaeda, Miyazaki-shi, Miyazaki 889-2161"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-75-0473",
+  "website": "https://www.highsurf-miyazaki.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "スクール 5,500円、SUP あり",
+    "en": "Lesson 5,500 yen; SUP available"
+  },
+  "description": {
+    "ja": "加江田エリアのショップ。スクールと SUP を扱う。駐車場20台。",
+    "en": "Shop in the Kaeda area. Lessons and SUP available. 20 parking spaces."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11561"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

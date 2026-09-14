@@ -1,0 +1,62 @@
+{
+  "genres": [
+    { "slug": "surf", "ja": "サーフィン", "en": "Surfing" },
+    { "slug": "camp", "ja": "キャンプ・車中泊", "en": "Camping & Van Life" },
+    { "slug": "food", "ja": "食", "en": "Food" },
+    { "slug": "golf", "ja": "ゴルフ", "en": "Golf" }
+  ],
+  "categories": {
+    "surf": [
+      { "slug": "shop", "ja": "サーフショップ", "en": "Surf Shop" },
+      { "slug": "school", "ja": "サーフスクール", "en": "Surf School" },
+      { "slug": "rental", "ja": "レンタル", "en": "Board Rental" },
+      { "slug": "point", "ja": "サーフポイント", "en": "Surf Point" },
+      { "slug": "stay", "ja": "サーファー向け宿", "en": "Surfer Stay" }
+    ],
+    "camp": [
+      { "slug": "campsite", "ja": "キャンプ場", "en": "Campsite" },
+      { "slug": "rvpark", "ja": "RVパーク", "en": "RV Park" },
+      { "slug": "carstay", "ja": "車中泊スポット", "en": "Car Stay" },
+      { "slug": "onsen", "ja": "温泉", "en": "Onsen" }
+    ],
+    "food": [
+      { "slug": "jidori", "ja": "地鶏炭火焼", "en": "Charcoal-grilled Jidori Chicken" },
+      { "slug": "shochu", "ja": "焼酎蔵見学", "en": "Shochu Distillery Tour" },
+      { "slug": "farm", "ja": "農園体験", "en": "Farm Experience" },
+      { "slug": "market", "ja": "直売所", "en": "Farmers Market" }
+    ],
+    "golf": [
+      { "slug": "course", "ja": "ゴルフ場", "en": "Golf Course" },
+      { "slug": "range", "ja": "練習場", "en": "Driving Range" },
+      { "slug": "stay", "ja": "ゴルフ宿", "en": "Golf Stay" }
+    ]
+  },
+  "areas": [
+    { "slug": "miyazaki-shi", "ja": "宮崎市", "en": "Miyazaki City" },
+    { "slug": "miyakonojo", "ja": "都城市", "en": "Miyakonojo" },
+    { "slug": "nobeoka", "ja": "延岡市", "en": "Nobeoka" },
+    { "slug": "nichinan", "ja": "日南市", "en": "Nichinan" },
+    { "slug": "kobayashi", "ja": "小林市", "en": "Kobayashi" },
+    { "slug": "hyuga", "ja": "日向市", "en": "Hyuga" },
+    { "slug": "kushima", "ja": "串間市", "en": "Kushima" },
+    { "slug": "saito", "ja": "西都市", "en": "Saito" },
+    { "slug": "ebino", "ja": "えびの市", "en": "Ebino" },
+    { "slug": "mimata", "ja": "三股町", "en": "Mimata" },
+    { "slug": "takaharu", "ja": "高原町", "en": "Takaharu" },
+    { "slug": "kunitomi", "ja": "国富町", "en": "Kunitomi" },
+    { "slug": "aya", "ja": "綾町", "en": "Aya" },
+    { "slug": "takanabe", "ja": "高鍋町", "en": "Takanabe" },
+    { "slug": "shintomi", "ja": "新富町", "en": "Shintomi" },
+    { "slug": "nishimera", "ja": "西米良村", "en": "Nishimera" },
+    { "slug": "kijo", "ja": "木城町", "en": "Kijo" },
+    { "slug": "kawaminami", "ja": "川南町", "en": "Kawaminami" },
+    { "slug": "tsuno", "ja": "都農町", "en": "Tsuno" },
+    { "slug": "kadogawa", "ja": "門川町", "en": "Kadogawa" },
+    { "slug": "morotsuka", "ja": "諸塚村", "en": "Morotsuka" },
+    { "slug": "shiiba", "ja": "椎葉村", "en": "Shiiba" },
+    { "slug": "misato", "ja": "美郷町", "en": "Misato" },
+    { "slug": "takachiho", "ja": "高千穂町", "en": "Takachiho" },
+    { "slug": "hinokage", "ja": "日之影町", "en": "Hinokage" },
+    { "slug": "gokase", "ja": "五ヶ瀬町", "en": "Gokase" }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "killer-surf-miyazaki",
+  "genre": "surf",
+  "category": [
+    "school",
+    "shop",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "キラーサーフ宮崎",
+    "en": "Killer Surf Miyazaki"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市加江田4877-1",
+    "en": "4877-1 Kaeda, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "090-1366-1365",
+  "website": "https://www.miyazaki-killersurfjapan.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "JPSA プロの川端太志が営むスクール。ガイド、レンタル、STAND ウェットスーツも扱う。",
+    "en": "School run by JPSA pro Taishi Kawabata. Guiding, rentals, and STAND wetsuits."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-killersurfjapan.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "surf-city-miyazaki",
+  "genre": "surf",
+  "category": [
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "サーフシティ宮崎",
+    "en": "SURF CITY MIYAZAKI"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島2-1-11",
+    "en": "2-1-11 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "050-3571-3238",
+  "website": "https://surfcity-miyazaki.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島海浜公園に隣接。サーフ、SUP、ヨガ、キッズ放課後サーフを扱う。アソビューから予約可。",
+    "en": "Adjacent to Aoshima Beach Park. Surf, SUP, yoga, and after-school kids' surf. Bookable via Asoview."
+  },
+  "tags": null,
+  "sources": [
+    "https://surfcity-miyazaki.jp/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

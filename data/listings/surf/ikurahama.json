@@ -1,0 +1,36 @@
+{
+  "slug": "ikurahama",
+  "genre": "surf",
+  "category": [
+    "point"
+  ],
+  "area": "kawaminami",
+  "name": {
+    "ja": "伊倉浜",
+    "en": "Ikurahama"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡川南町大字川南17661-1",
+    "en": "17661-1 Kawaminami, Kawaminami-cho, Miyazaki 889-1301"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-27-8011",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "冷水シャワー無料",
+    "en": "Cold showers free"
+  },
+  "description": {
+    "ja": "約9kmの海岸線。サーフセンターにシャワーとロッカーあり。",
+    "en": "About 9 km of coastline. Surf center has showers and lockers."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/golf_surfing/1164"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

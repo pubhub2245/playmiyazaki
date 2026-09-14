@@ -1,0 +1,38 @@
+{
+  "slug": "see-u-surf",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "シーユー",
+    "en": "See u Surf Shop"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島1-4-10",
+    "en": "1-4-10 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-69-0697",
+  "website": "https://seeu-surf.shop/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "ソフトボードレンタル 2,500〜4,500円、スクール 5,000円",
+    "en": "Soft board rental 2,500–4,500 yen; lesson 5,000 yen"
+  },
+  "description": {
+    "ja": "青島ビーチから徒歩約1分のショップ。JPSA プロの梅野航星が営む。",
+    "en": "About a one-minute walk from Aoshima Beach. Run by JPSA pro Kosei Umeno."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11548"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

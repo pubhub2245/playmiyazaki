@@ -1,0 +1,33 @@
+{
+  "slug": "swell-guesthouse-cafe",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "SWELL Guesthouse & Cafe",
+    "en": "SWELL Guesthouse & Cafe"
+  },
+  "address": {
+    "ja": "宮崎県日向市財光寺1848-2",
+    "en": "1848-2 Zaikoji, Hyuga-shi, Miyazaki 883-0021"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-66-6120",
+  "website": "https://swell-gh.co.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "ゲストハウス併設のカフェ。屋外シャワーあり。",
+    "en": "Guesthouse with an attached cafe. Outdoor shower available."
+  },
+  "tags": null,
+  "sources": [
+    "https://swell-gh.co.jp/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

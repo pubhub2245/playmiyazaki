@@ -1,0 +1,35 @@
+{
+  "slug": "connection-nobeoka",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "コネクション",
+    "en": "CONNECTION"
+  },
+  "address": {
+    "ja": "宮崎県延岡市方財町64",
+    "en": "64 Hozai-cho, Nobeoka-shi, Miyazaki 882-0853"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-32-0517",
+  "website": "https://www.connection-nobeoka.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "フルカスタムボードを扱うショップ。BeMoLo シューズ取扱い。初心者体験とコーチングあり。木曜定休。",
+    "en": "Shop that handles fully custom boards. BeMoLo shoes dealer. Beginner sessions and coaching. Closed Thursdays."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.connection-nobeoka.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

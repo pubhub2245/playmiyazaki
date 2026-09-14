@@ -1,0 +1,33 @@
+{
+  "slug": "oceanside-okuragahama",
+  "genre": "surf",
+  "category": [
+    "stay"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "オーシャンサイド お倉ヶ浜 ゲストハウス",
+    "en": "OCEANSIDE Okuragahama Beach Garden"
+  },
+  "address": {
+    "ja": "宮崎県日向市平岩10873-26",
+    "en": "10873-26 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-56-2609",
+  "website": "https://oceansideokuragahama.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "お倉ヶ浜から徒歩5分のコンテナハウス型ゲストハウス。隣にサンライズサーフショップがある。",
+    "en": "Container-house guesthouse a five-minute walk from Okuragahama. Sunrise Surf Shop is next door."
+  },
+  "tags": null,
+  "sources": [
+    "https://hyuga.or.jp/app/hotels"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

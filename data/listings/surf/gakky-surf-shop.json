@@ -1,0 +1,38 @@
+{
+  "slug": "gakky-surf-shop",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ガッキーサーフショップ",
+    "en": "GAKKY SURF SHOP"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字赤江262",
+    "en": "262 Akae, Miyazaki-shi, Miyazaki 880-0912"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-71-0214",
+  "website": "http://gakkysurfshop.blogspot.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "スクール 5,500円〜",
+    "en": "Lesson from 5,500 yen"
+  },
+  "description": {
+    "ja": "宮崎空港から徒歩3分ほどのショップ。空港からの無料送迎あり。",
+    "en": "Shop about a 3-minute walk from Miyazaki Airport. Free airport shuttle available."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11551"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}

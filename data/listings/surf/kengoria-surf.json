@@ -1,0 +1,38 @@
+{
+  "slug": "kengoria-surf",
+  "genre": "surf",
+  "category": [
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ケンゴリア",
+    "en": "KENGORIA"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市吉村町曽師中甲3104-6",
+    "en": "3104-6 Sojinaka-ko, Yoshimura-cho, Miyazaki-shi, Miyazaki 880-0841"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-71-0270",
+  "website": "https://www.kengoriasurf.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "スクール 6,600円〜、ガイド 14,700円〜、フォイル 13,750円",
+    "en": "Lesson from 6,600 yen; guide from 14,700 yen; foil 13,750 yen"
+  },
+  "description": {
+    "ja": "サーフ、SUP、フォイルのレッスンとガイドを扱う。営業9:00〜18:00。",
+    "en": "Surf, SUP, and foil lessons and guiding. Open 9:00–18:00."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/spot/11546",
+    "https://www.kengoriasurf.com/"
+  ],
+  "verified_at": "2026-09-14",
+  "status": "open"
+}
