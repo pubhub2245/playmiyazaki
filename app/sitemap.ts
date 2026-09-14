@@ -1,10 +1,14 @@
 import type { MetadataRoute } from "next";
-import { loadAllListings, loadTaxonomy } from "@/lib/data";
+import { loadAllListings } from "@/lib/data";
 import { LANGS, SITE_URL } from "@/lib/i18n";
 import { absolute, urlArea, urlCategory, urlGenre, urlHome, urlListing } from "@/lib/url";
+import {
+  areasWithListings,
+  categoriesWithListings,
+  genresWithListings,
+} from "@/lib/coverage";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const taxonomy = loadTaxonomy();
   const listings = loadAllListings();
   const urls: MetadataRoute.Sitemap = [];
   const now = new Date();
@@ -13,13 +17,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const lang of LANGS) {
     urls.push({ url: absolute(urlHome(lang)), lastModified: now });
-    for (const g of taxonomy.genres) {
-      urls.push({ url: absolute(urlGenre(lang, g.slug)), lastModified: now });
-      for (const c of taxonomy.categories[g.slug] ?? []) {
-        urls.push({ url: absolute(urlCategory(lang, g.slug, c.slug)), lastModified: now });
+    for (const g of genresWithListings()) {
+      urls.push({ url: absolute(urlGenre(lang, g)), lastModified: now });
+      for (const c of categoriesWithListings(g)) {
+        urls.push({ url: absolute(urlCategory(lang, g, c)), lastModified: now });
       }
-      for (const a of taxonomy.areas) {
-        urls.push({ url: absolute(urlArea(lang, g.slug, a.slug)), lastModified: now });
+      for (const a of areasWithListings(g)) {
+        urls.push({ url: absolute(urlArea(lang, g, a)), lastModified: now });
       }
     }
     for (const l of listings) {

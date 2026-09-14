@@ -2,10 +2,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
-import { LANGS, SITE_NAME, UI, type Lang } from "@/lib/i18n";
+import { LANGS, NEARBY_HEADING, UI, type Lang } from "@/lib/i18n";
 import { absolute, googleMapsUrl, urlArea, urlCategory, urlGenre, urlListing } from "@/lib/url";
+import { nearbyInArea } from "@/lib/coverage";
 
 type Props = { params: { lang: string; genre: string; slug: string } };
+
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   const listings = loadAllListings();
@@ -26,7 +29,7 @@ export function generateMetadata({ params }: Props): Metadata {
   if (!listing) return {};
   const desc = listing.description?.[lang] || listing.address[lang];
   return {
-    title: `${listing.name[lang]} | ${SITE_NAME[lang]}`,
+    title: listing.name[lang],
     description: desc,
     alternates: {
       canonical: absolute(urlListing(lang, params.genre, params.slug)),
@@ -57,6 +60,7 @@ export default function ListingDetail({ params }: Props) {
 
   const jsonLd = buildJsonLd(listing, lang, absolute(urlListing(lang, listing.genre, listing.slug)));
   const CHECK = UI.check_official[lang];
+  const nearby = nearbyInArea(listing, 5);
 
   return (
     <article className="space-y-5">
@@ -151,6 +155,32 @@ export default function ListingDetail({ params }: Props) {
           )}
         </dd>
       </dl>
+
+      {nearby.length > 0 && (
+        <section className="border-t border-slate-200 pt-4 text-sm">
+          <h2 className="text-xs font-semibold text-slate-600 mb-2">
+            {NEARBY_HEADING[lang]}（{areaName}）
+          </h2>
+          <ul className="divide-y divide-slate-200 border border-slate-200 rounded">
+            {nearby.map((n) => {
+              const nCats = n.category
+                .map((c) => catLabels.find((x) => x.slug === c)?.[lang] ?? c)
+                .join(" / ");
+              return (
+                <li key={n.slug}>
+                  <Link
+                    href={urlListing(lang, n.genre, n.slug)}
+                    className="flex items-baseline justify-between px-3 py-2 no-underline hover:bg-slate-50"
+                  >
+                    <span className="text-slate-900">{n.name[lang]}</span>
+                    <span className="text-xs text-slate-500 ml-3">{nCats}</span>
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )}
 
       <section className="border-t border-slate-200 pt-4 text-sm">
         <div className="text-xs text-slate-500 mb-1">{UI.sources[lang]}</div>

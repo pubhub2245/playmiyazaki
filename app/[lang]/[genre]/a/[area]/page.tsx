@@ -1,20 +1,27 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, SITE_NAME, UI, type Lang } from "@/lib/i18n";
+import { LANGS, UI, type Lang } from "@/lib/i18n";
 import { absolute, urlArea } from "@/lib/url";
 import { ListingRow } from "@/app/_components/ListingRow";
 import { FilterBar } from "@/app/_components/FilterBar";
+import {
+  areasWithListings,
+  categoriesWithListings,
+  genresWithListings,
+  hasArea,
+} from "@/lib/coverage";
 
 type Props = { params: { lang: string; genre: string; area: string } };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
-  const taxonomy = loadTaxonomy();
   const params: { lang: string; genre: string; area: string }[] = [];
   for (const lang of LANGS) {
-    for (const g of taxonomy.genres) {
-      for (const a of taxonomy.areas) {
-        params.push({ lang, genre: g.slug, area: a.slug });
+    for (const g of genresWithListings()) {
+      for (const a of areasWithListings(g)) {
+        params.push({ lang, genre: g, area: a });
       }
     }
   }
@@ -29,8 +36,8 @@ export function generateMetadata({ params }: Props): Metadata {
   if (!genre || !area) return {};
   const title =
     lang === "ja"
-      ? `${area.ja}の${genre.ja}一覧 | ${SITE_NAME.ja}`
-      : `${genre.en} in ${area.en} | ${SITE_NAME.en}`;
+      ? `${area.ja}の${genre.ja}一覧`
+      : `${genre.en} in ${area.en}`;
   const description =
     lang === "ja"
       ? `${area.ja}の${genre.ja}を出典URL付きで一覧にしています。`
@@ -53,24 +60,19 @@ export default function AreaPage({ params }: Props) {
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const area = taxonomy.areas.find((a) => a.slug === params.area);
-  if (!genre || !area) notFound();
-
-  const all = listingsByGenre(params.genre);
-  const listings = all
-    .filter((l) => l.area === params.area)
-    .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"));
+  if (!genre || !area || !hasArea(params.genre, params.area)) notFound();
 
   const catLabels: Record<string, { ja: string; en: string }> = {};
   for (const c of taxonomy.categories[params.genre] ?? []) catLabels[c.slug] = c;
   const areaLabels: Record<string, { ja: string; en: string }> = {};
   for (const a of taxonomy.areas) areaLabels[a.slug] = a;
 
-  const usedCategories = new Set<string>();
-  const usedAreas = new Set<string>();
-  for (const l of all) {
-    for (const c of l.category) usedCategories.add(c);
-    usedAreas.add(l.area);
-  }
+  const listings = listingsByGenre(params.genre)
+    .filter((l) => l.area === params.area)
+    .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"));
+
+  const availableCategories = new Set(categoriesWithListings(params.genre));
+  const availableAreas = new Set(areasWithListings(params.genre));
 
   return (
     <div className="space-y-5">
@@ -89,24 +91,20 @@ export default function AreaPage({ params }: Props) {
         genre={params.genre}
         taxonomy={taxonomy}
         activeArea={params.area}
-        availableCategories={usedCategories}
-        availableAreas={usedAreas}
+        availableCategories={availableCategories}
+        availableAreas={availableAreas}
       />
-      {listings.length === 0 ? (
-        <p className="text-sm text-slate-500">{UI.no_listings[lang]}</p>
-      ) : (
-        <div className="divide-y divide-slate-200 border border-slate-200 rounded">
-          {listings.map((l) => (
-            <ListingRow
-              key={l.slug}
-              listing={l}
-              lang={lang}
-              categoryLabels={catLabels}
-              areaLabels={areaLabels}
-            />
-          ))}
-        </div>
-      )}
+      <div className="divide-y divide-slate-200 border border-slate-200 rounded">
+        {listings.map((l) => (
+          <ListingRow
+            key={l.slug}
+            listing={l}
+            lang={lang}
+            categoryLabels={catLabels}
+            areaLabels={areaLabels}
+          />
+        ))}
+      </div>
     </div>
   );
 }

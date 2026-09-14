@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
-import { SITE_NAME, SITE_TAGLINE, UI, type Lang } from "@/lib/i18n";
+import { HOME_TITLE, SITE_TAGLINE, UI, type Lang } from "@/lib/i18n";
 import { absolute, urlGenre, urlHome } from "@/lib/url";
+import { genresWithListings } from "@/lib/coverage";
 
 type Props = { params: { lang: string } };
 
@@ -10,7 +11,7 @@ export function generateMetadata({ params }: Props): Metadata {
   const lang = (params.lang === "en" ? "en" : "ja") as Lang;
   const url = absolute(urlHome(lang));
   return {
-    title: SITE_NAME[lang],
+    title: { absolute: HOME_TITLE[lang] },
     description: SITE_TAGLINE[lang],
     alternates: {
       canonical: url,
@@ -29,6 +30,9 @@ export default function HomePage({ params }: Props) {
   const counts = new Map<string, number>();
   for (const l of listings) counts.set(l.genre, (counts.get(l.genre) ?? 0) + 1);
 
+  const activeGenres = new Set(genresWithListings());
+  const genres = taxonomy.genres.filter((g) => activeGenres.has(g.slug));
+
   return (
     <div className="space-y-6">
       <p className="text-slate-700 text-sm">
@@ -37,7 +41,7 @@ export default function HomePage({ params }: Props) {
           : "A directory for playing in Miyazaki. Only facts, always linked to a source."}
       </p>
       <div className="divide-y divide-slate-200 border border-slate-200 rounded">
-        {taxonomy.genres.map((g) => {
+        {genres.map((g) => {
           const count = counts.get(g.slug) ?? 0;
           return (
             <Link

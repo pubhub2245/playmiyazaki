@@ -5,13 +5,23 @@ export const LANGS: Lang[] = ["ja", "en"];
 export const SITE_URL = "https://playmiyazaki.com";
 
 export const SITE_NAME = {
-  ja: "Play Miyazaki（プレイ宮崎）",
+  ja: "Play Miyazaki",
   en: "Play Miyazaki",
 };
 
 export const SITE_TAGLINE = {
   ja: "宮崎で遊ぶための一覧サイト。サーフィン・キャンプ・食・ゴルフ。",
   en: "Directory for playing in Miyazaki: surfing, camping, food, and golf.",
+};
+
+export const HOME_TITLE = {
+  ja: "Play Miyazaki — 宮崎で遊ぶための一覧サイト",
+  en: "Play Miyazaki — Surf, camp, food and golf in Miyazaki",
+};
+
+export const NEARBY_HEADING = {
+  ja: "同じエリアのスポット",
+  en: "Also in this area",
 };
 
 export const UI = {

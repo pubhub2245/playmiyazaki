@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/i18n";
+import { HOME_TITLE, SITE_TAGLINE, SITE_URL } from "@/lib/i18n";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: SITE_NAME.ja,
-    template: `%s | ${SITE_NAME.ja}`,
+    default: HOME_TITLE.ja,
+    template: "%s | Play Miyazaki",
   },
   description: SITE_TAGLINE.ja,
 };
