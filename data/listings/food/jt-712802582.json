@@ -7,11 +7,11 @@
   "area": "miyakonojo",
   "name": {
     "ja": "ろばた焼 明石",
-    "en": "ろばた焼 明石"
+    "en": "Robatayaki Akashi"
   },
   "address": {
     "ja": "宮崎県都城市栄町22－2",
-    "en": "宮崎県都城市栄町22－2 (Miyazaki)"
+    "en": "22-2 Sakae-cho, Miyakonojo, Miyazaki"
   },
   "lat": 31.735963,
   "lng": 131.073259,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日、祝日の月曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "都城市栄町のろばた焼き。テイクアウトあり。営業17：00～22：00。定休日曜日、祝日の月曜日。みやざき地頭鶏の指定店。",
+    "en": "Robatayaki in Miyakonojo that serves Miyazaki Jitokko. Takeout available. Open 17：00～22：00."
   },
   "tags": null,
   "features": [

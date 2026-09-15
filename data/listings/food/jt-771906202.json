@@ -7,11 +7,11 @@
   "area": "tsuno",
   "name": {
     "ja": "美食鳥",
-    "en": "美食鳥"
+    "en": "Bishokutori"
   },
   "address": {
     "ja": "宮崎県児湯郡都農町川北5521-2",
-    "en": "宮崎県児湯郡都農町川北5521-2 (Miyazaki)"
+    "en": "5521-2 Kawakita, Tsuno, Miyazaki"
   },
   "lat": 32.2540796,
   "lng": 131.5534891,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "都農町川北の居酒屋。組合の指定店。テイクアウトあり。精肉・加工品の販売あり。営業18:00～22:30。定休日曜日。",
+    "en": "Cooperative-designated izakaya in Tsuno. Takeout available. Meat and prepared products sold. Open 18:00～22:30."
   },
   "tags": null,
   "features": [

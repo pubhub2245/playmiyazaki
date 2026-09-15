@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎鶏はねや 別館",
-    "en": "宮崎鶏はねや 別館"
+    "en": "Miyazaki-dori Haneya Bekkan"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通8-27 たそがれビル1F",
-    "en": "宮崎県宮崎市中央通8-27 たそがれビル1F (Miyazaki)"
+    "en": "1F Tasogare Bldg, 8-27 Chuo-dori, Miyazaki City, Miyazaki"
   },
   "lat": 31.913498,
   "lng": 131.420916,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休月曜日、火曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "みやざき地頭鶏の指定店。宮崎市中央通の鶏料理店。営業17:00～23:00。定休月曜日、火曜日。",
+    "en": "Chicken restaurant in Miyazaki City on the Miyazaki Jitokko cooperative roster. Open 17:00～23:00."
   },
   "tags": null,
   "features": [],

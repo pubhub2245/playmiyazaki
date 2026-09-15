@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "はに和",
-    "en": "はに和"
+    "en": "Haniwa"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通り6-5ウエストビル107",
-    "en": "宮崎県宮崎市中央通り6-5ウエストビル107 (Miyazaki)"
+    "en": "West Bldg 107, 6-5 Chuo-dori, Miyazaki City, Miyazaki"
   },
   "lat": 31.91545,
   "lng": 131.4206,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "みやざき地頭鶏の指定店。宮崎市中央通の居酒屋。テイクアウトあり。営業18:00～22：00。",
+    "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～22：00."
   },
   "tags": null,
   "features": [

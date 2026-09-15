@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎食酒処 ぎんの月",
-    "en": "宮崎食酒処 ぎんの月"
+    "en": "Miyazaki Shoku-dokoro Ginnotsuki"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通東2-4-5",
-    "en": "宮崎県宮崎市橘通東2-4-5 (Miyazaki)"
+    "en": "2-4-5 Tachibana-dori Higashi, Miyazaki City, Miyazaki"
   },
   "lat": 31.9118613,
   "lng": 131.4227002,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市橘通東の居酒屋。テイクアウトあり。営業17:30～23:00。みやざき地頭鶏の指定店。",
+    "en": "Izakaya in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Open 17:30～23:00."
   },
   "tags": null,
   "features": [

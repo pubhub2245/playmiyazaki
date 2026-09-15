@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "創作酒膳 彩華",
-    "en": "創作酒膳 彩華"
+    "en": "Sosaku Shuzen Saika"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-1-17",
-    "en": "宮崎県宮崎市橘通西3-1-17 (Miyazaki)"
+    "en": "3-1-17 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
   },
   "lat": 31.9135681,
   "lng": 131.4217505,
@@ -21,8 +21,8 @@
   "hours": null,
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "創作居酒屋。宮崎市橘通西にある。みやざき地頭鶏の指定店。テイクアウトあり。",
+    "en": "Creative izakaya in Miyazaki City. Takeout available. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [

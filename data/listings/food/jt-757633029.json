@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "原始焼酒場 炭げん",
-    "en": "原始焼酒場 炭げん"
+    "en": "Genshiyaki Sakaba Sumigen"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通2-11第2吉野ビル1F",
-    "en": "宮崎県宮崎市中央通2-11第2吉野ビル1F (Miyazaki)"
+    "en": "1F Dai-2 Yoshino Bldg, 2-11 Chuo-dori, Miyazaki City, Miyazaki"
   },
   "lat": 31.9147436,
   "lng": 131.4213793,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休月曜日、火曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市中央通にある居酒屋。みやざき地頭鶏の指定店。営業17:00～23:00。定休月曜日、火曜日。",
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 17:00～23:00."
   },
   "tags": null,
   "features": [],

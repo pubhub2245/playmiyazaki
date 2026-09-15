@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "Foodaly青葉店",
-    "en": "Foodaly青葉店"
+    "en": "Foodaly Aoba"
   },
   "address": {
     "ja": "宮崎県宮崎市宮崎駅東3丁目12番地6",
-    "en": "宮崎県宮崎市宮崎駅東3丁目12番地6 (Miyazaki)"
+    "en": "3-12-6 Miyazaki-Eki-Higashi, Miyazaki City, Miyazaki"
   },
   "lat": 31.9196,
   "lng": 131.43466,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の直売・販売店。定休1／2～1／4。",
-    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+    "ja": "宮崎市宮崎駅東にあるスーパー。みやざき地頭鶏の指定店。精肉・加工品の販売あり。営業10:00～22:00。定休1／2～1／4。",
+    "en": "Miyazaki Jitokko cooperative-designated supermarket in Miyazaki City. Meat and prepared products sold. Open 10:00～22:00."
   },
   "tags": null,
   "features": [

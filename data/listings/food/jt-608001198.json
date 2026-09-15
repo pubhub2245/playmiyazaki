@@ -7,11 +7,11 @@
   "area": "nichinan",
   "name": {
     "ja": "こっこ家くまちゃん",
-    "en": "こっこ家くまちゃん"
+    "en": "Kokkoya Kuma-chan"
   },
   "address": {
     "ja": "宮崎県日南市大字下方1616番地",
-    "en": "宮崎県日南市大字下方1616番地 (Miyazaki)"
+    "en": "1616 Shimogata, Nichinan, Miyazaki"
   },
   "lat": 31.5649062,
   "lng": 131.3670315,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の直売・販売店。定休日曜日。",
-    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+    "ja": "みやざき地頭鶏の指定店。日南市下方の精肉直売店。精肉・加工品の販売あり。営業10:00～16:00。定休日曜日。",
+    "en": "Meat direct sales in Nichinan on the Miyazaki Jitokko cooperative roster. Meat and prepared products sold. Open 10:00～16:00."
   },
   "tags": null,
   "features": [

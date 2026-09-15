@@ -7,11 +7,11 @@
   "area": "nobeoka",
   "name": {
     "ja": "地鶏炭火焼 もも太郎",
-    "en": "地鶏炭火焼 もも太郎"
+    "en": "Momotaro (Sumibiyaki Jidori)"
   },
   "address": {
     "ja": "宮崎県延岡市中央通３丁目4-3",
-    "en": "宮崎県延岡市中央通３丁目4-3 (Miyazaki)"
+    "en": "3-4-3 Chuo-dori, Nobeoka, Miyazaki"
   },
   "lat": 32.5804554,
   "lng": 131.6690692,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "延岡市中央通にある炭火焼専門店。みやざき地頭鶏の指定店。テイクアウトあり。営業17:30～22:30。",
+    "en": "Miyazaki Jitokko cooperative-designated charcoal-grill specialty in Nobeoka. Takeout available. Open 17:30～22:30."
   },
   "tags": null,
   "features": [

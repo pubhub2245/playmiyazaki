@@ -7,11 +7,11 @@
   "area": "kobayashi",
   "name": {
     "ja": "えびの地頭鶏",
-    "en": "えびの地頭鶏"
+    "en": "Ebino Jitokko"
   },
   "address": {
     "ja": "宮崎県小林市大字北西方8179-1",
-    "en": "宮崎県小林市大字北西方8179-1 (Miyazaki)"
+    "en": "8179-1 Kita-Nishikata, Kobayashi, Miyazaki"
   },
   "lat": 32.030406,
   "lng": 130.910681,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。地頭鶏専門店。定休月曜日・木曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "鶏料理店。小林市北西方にある。みやざき地頭鶏の指定店。精肉・加工品の販売あり。営業12:00～16:00「売り切れ御免」。定休月曜日・木曜日。",
+    "en": "Chicken restaurant in Kobayashi. Meat and prepared products sold. Open 12:00～16:00「売り切れ御免」. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [

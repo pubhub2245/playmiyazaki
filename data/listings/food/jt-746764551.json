@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "みやざき晴海 漁港直送海ノ幸 契約農家山ノ幸",
-    "en": "みやざき晴海 漁港直送海ノ幸 契約農家山ノ幸"
+    "en": "Miyazaki Harumi (Seafood & Farm)"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-9-1カメリアセキモトビル1階",
-    "en": "宮崎県宮崎市橘通西3-9-1カメリアセキモトビル1階 (Miyazaki)"
+    "en": "1F Camellia Sekimoto Bldg, 3-9-1 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
   },
   "lat": 31.9151713,
   "lng": 131.4221803,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市橘通西にある居酒屋。みやざき地頭鶏の指定店。営業11:30～23:30。定休元日。",
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 11:30～23:30."
   },
   "tags": null,
   "features": [],

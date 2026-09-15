@@ -7,11 +7,11 @@
   "area": "hyuga",
   "name": {
     "ja": "海鮮問屋",
-    "en": "海鮮問屋"
+    "en": "Kaisen Tonya"
   },
   "address": {
     "ja": "宮崎県日向市都町1-7",
-    "en": "宮崎県日向市都町1-7 (Miyazaki)"
+    "en": "1-7 Miyako-machi, Hyuga, Miyazaki"
   },
   "lat": 32.4254979,
   "lng": 131.6259905,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "海鮮居酒屋。日向市都町にある。みやざき地頭鶏の指定店。テイクアウトあり。営業17:00～22:00。",
+    "en": "Seafood izakaya in Hyuga. Takeout available. Open 17:00～22:00. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [

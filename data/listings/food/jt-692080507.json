@@ -7,11 +7,11 @@
   "area": "nichinan",
   "name": {
     "ja": "日南地頭鶏センター",
-    "en": "日南地頭鶏センター"
+    "en": "Nichinan Jitokko Center"
   },
   "address": {
     "ja": "宮崎県日南市大字隈谷乙１７９８番地１",
-    "en": "宮崎県日南市大字隈谷乙１７９８番地１ (Miyazaki)"
+    "en": "1798-1 Kumatani-otsu, Nichinan, Miyazaki"
   },
   "lat": 31.5822409,
   "lng": 131.3718085,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の直売・販売店。定休無し。",
-    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+    "ja": "日南市隈谷の処理・直売センター。精肉・加工品の販売あり。営業9：00 ～ 16：00。定休無し。みやざき地頭鶏の指定店。",
+    "en": "Poultry processing and direct sales in Nichinan that serves Miyazaki Jitokko. Meat and prepared products sold. Open 9：00 ～ 16：00."
   },
   "tags": null,
   "features": [

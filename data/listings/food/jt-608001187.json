@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "びんちょう家",
-    "en": "びんちょう家"
+    "en": "Binchoya"
   },
   "address": {
     "ja": "宮崎県宮崎市恒久南1-2-12",
-    "en": "宮崎県宮崎市恒久南1-2-12 (Miyazaki)"
+    "en": "1-2-12 Tsunehisa-Minami, Miyazaki City, Miyazaki"
   },
   "lat": 31.893738,
   "lng": 131.424272,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休火・水（夜営業）。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "焼鳥店。宮崎市恒久南にある。みやざき地頭鶏の指定店。定休火・水（夜営業）。",
+    "en": "Yakitori in Miyazaki City. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [],

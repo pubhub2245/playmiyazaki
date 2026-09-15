@@ -7,11 +7,11 @@
   "area": "nobeoka",
   "name": {
     "ja": "ロボットごはん屋 徳とく",
-    "en": "ロボットごはん屋 徳とく"
+    "en": "Robot Gohan-ya Tokutoku"
   },
   "address": {
     "ja": "宮崎県延岡市紺屋町１丁目4-18",
-    "en": "宮崎県延岡市紺屋町１丁目4-18 (Miyazaki)"
+    "en": "1-4-18 Konya-cho, Nobeoka, Miyazaki"
   },
   "lat": null,
   "lng": null,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休月曜日・火曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "延岡市紺屋町にある食事処。みやざき地頭鶏の指定店。テイクアウトあり。営業18:00～21:30。定休月曜日・火曜日。",
+    "en": "Miyazaki Jitokko cooperative-designated diner in Nobeoka. Takeout available. Open 18:00～21:30."
   },
   "tags": null,
   "features": [

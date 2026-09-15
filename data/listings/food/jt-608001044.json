@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "黒木屋 宮崎総本家",
-    "en": "黒木屋 宮崎総本家"
+    "en": "Kurokiya Miyazaki Sohonke"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西2-7-18 長尾ビル1・2Ｆ",
-    "en": "宮崎県宮崎市橘通西2-7-18 長尾ビル1・2Ｆ (Miyazaki)"
+    "en": "1-2F Nagao Bldg, 2-7-18 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
   },
   "lat": 31.91292,
   "lng": 131.421649,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休なし。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市橘通西の居酒屋。組合の指定店。営業17:00～24:00。定休なし。",
+    "en": "Cooperative-designated izakaya in Miyazaki City. Open 17:00～24:00."
   },
   "tags": null,
   "features": [],

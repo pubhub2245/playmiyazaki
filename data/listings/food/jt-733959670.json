@@ -7,11 +7,11 @@
   "area": "nobeoka",
   "name": {
     "ja": "味処 いち花",
-    "en": "味処 いち花"
+    "en": "Ajidokoro Ichihana"
   },
   "address": {
     "ja": "宮崎県延岡市紺屋町２丁目１番地２",
-    "en": "宮崎県延岡市紺屋町２丁目１番地２ (Miyazaki)"
+    "en": "2-1-2 Konya-cho, Nobeoka, Miyazaki"
   },
   "lat": 32.5843799,
   "lng": 131.6714429,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "延岡市紺屋町にある和食店。みやざき地頭鶏の指定店。営業18:00～22:30。定休日曜日。",
+    "en": "Miyazaki Jitokko cooperative-designated Japanese restaurant in Nobeoka. Open 18:00～22:30."
   },
   "tags": null,
   "features": [],

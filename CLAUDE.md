@@ -34,6 +34,7 @@
 | 英語テキスト | 同じ JSON の `en` フィールド | 閲覧時に翻訳APIを呼ばない(課金と遅延を避ける) |
 | 営業時間・料金 | 出典URLに書いてある値のみ | 出典に無ければ `null` にして UI は「公式サイトで確認」と表示 |
 | ジャンル・種別の定義 | `data/taxonomy.json` | ここに無い genre / category を JSON に書かない |
+| listing の features | 各 JSON の `features` 配列 | `scripts/patch-features.ts` は UNION（追加のみ）で付ける。外すときは JSON を手で直す |
 
 # North Star Metric
 

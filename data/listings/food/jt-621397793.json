@@ -7,11 +7,11 @@
   "area": "miyakonojo",
   "name": {
     "ja": "個室大衆居酒屋かがわ",
-    "en": "個室大衆居酒屋かがわ"
+    "en": "Kagawa (private-room izakaya)"
   },
   "address": {
     "ja": "宮崎県都城市鷹尾３丁目４街区３号",
-    "en": "宮崎県都城市鷹尾３丁目４街区３号 (Miyazaki)"
+    "en": "3-4-3 Takao, Miyakonojo, Miyazaki"
   },
   "lat": 31.721823,
   "lng": 131.041039,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休水曜日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "みやざき地頭鶏の指定店。都城市鷹尾の個室居酒屋。テイクアウトあり。営業16：00～22：00。定休水曜日。",
+    "en": "Private-room izakaya in Miyakonojo on the Miyazaki Jitokko cooperative roster. Takeout available. Open 16：00～22：00."
   },
   "tags": null,
   "features": [

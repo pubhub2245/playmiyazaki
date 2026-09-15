@@ -7,11 +7,11 @@
   "area": "hyuga",
   "name": {
     "ja": "金ヶ浜食堂",
-    "en": "金ヶ浜食堂"
+    "en": "Kanegahama Shokudo"
   },
   "address": {
     "ja": "宮崎県日向市大字平岩2221-1",
-    "en": "宮崎県日向市大字平岩2221-1 (Miyazaki)"
+    "en": "2221-1 Hiraiwa, Hyuga, Miyazaki"
   },
   "lat": 32.3566816,
   "lng": 131.6213844,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "食堂。日向市平岩にある。みやざき地頭鶏の指定店。営業11:30～14:00 18:00～20:00。",
+    "en": "Diner in Hyuga. Open 11:30～14:00 18:00～20:00. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [],

@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "居酒屋 葱坊主",
-    "en": "居酒屋 葱坊主"
+    "en": "Izakaya Negibozu"
   },
   "address": {
     "ja": "宮崎県宮崎市清武町船引488-5",
-    "en": "宮崎県宮崎市清武町船引488-5 (Miyazaki)"
+    "en": "488-5 Funahiki, Kiyotake-cho, Miyazaki City, Miyazaki"
   },
   "lat": 31.859126,
   "lng": 131.389701,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "居酒屋。宮崎市清武町にある。みやざき地頭鶏の指定店。テイクアウトあり。営業17:00～23:00。",
+    "en": "Izakaya in Miyazaki City. Takeout available. Open 17:00～23:00. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [

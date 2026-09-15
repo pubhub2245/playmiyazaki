@@ -7,11 +7,11 @@
   "area": "takachiho",
   "name": {
     "ja": "ともえまる食堂",
-    "en": "ともえまる食堂"
+    "en": "Tomoemaru Shokudo"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町大字三田井1265-13",
-    "en": "宮崎県西臼杵郡高千穂町大字三田井1265-13 (Miyazaki)"
+    "en": "1265-13 Mitai, Takachiho, Miyazaki"
   },
   "lat": 32.7069642,
   "lng": 131.3038685,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "高千穂町三田井の食堂。営業平日 11:00～14:00 土・日・祝 11:00～15:00。みやざき地頭鶏の指定店。",
+    "en": "Diner in Takachiho that serves Miyazaki Jitokko. Open 平日 11:00～14:00 土・日・祝 11:00～15:00."
   },
   "tags": null,
   "features": [],

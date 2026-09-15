@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "黒木屋 佐土原",
-    "en": "黒木屋 佐土原"
+    "en": "Kurokiya Sadowara"
   },
   "address": {
     "ja": "宮崎県宮崎市佐土原町下田島9832-5",
-    "en": "宮崎県宮崎市佐土原町下田島9832-5 (Miyazaki)"
+    "en": "9832-5 Shimo-Tajima, Sadowara-cho, Miyazaki City, Miyazaki"
   },
   "lat": 32.023695,
   "lng": 131.475213,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市佐土原町にある居酒屋。みやざき地頭鶏の指定店。営業平日17:00～24:00 金・土・祝前日 17:00～翌2:00。",
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 平日17:00～24:00 金・土・祝前日 17:00～翌2:00."
   },
   "tags": null,
   "features": [],

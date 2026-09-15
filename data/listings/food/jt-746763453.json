@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎風土 あっぱれ食堂",
-    "en": "宮崎風土 あっぱれ食堂"
+    "en": "Miyazaki Fudo Appare Shokudo"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-8-12 吉田ビル1階",
-    "en": "宮崎県宮崎市橘通西3-8-12 吉田ビル1階 (Miyazaki)"
+    "en": "1F Yoshida Bldg, 3-8-12 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
   },
   "lat": 31.9150721,
   "lng": 131.4220398,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "食堂。宮崎市橘通西にある。みやざき地頭鶏の指定店。営業11:30～23:30。定休元日。",
+    "en": "Diner in Miyazaki City. Open 11:30～23:30. Cooperative-designated Miyazaki Jitokko store."
   },
   "tags": null,
   "features": [],

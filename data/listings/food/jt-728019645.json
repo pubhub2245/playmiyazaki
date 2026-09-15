@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "完全個室居酒屋 つどいや",
-    "en": "完全個室居酒屋 つどいや"
+    "en": "Tsudoiya (private-room izakaya)"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通7-2",
-    "en": "宮崎県宮崎市中央通7-2 (Miyazaki)"
+    "en": "7-2 Chuo-dori, Miyazaki City, Miyazaki"
   },
   "lat": 31.9141131,
   "lng": 131.4209111,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市中央通の個室居酒屋。テイクアウトあり。営業17:00～24:00。みやざき地頭鶏の指定店。",
+    "en": "Private-room izakaya in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Open 17:00～24:00."
   },
   "tags": null,
   "features": [

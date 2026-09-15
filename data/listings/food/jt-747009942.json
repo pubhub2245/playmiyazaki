@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ここちや本店 地鶏や肴や鰻やら",
-    "en": "ここちや本店 地鶏や肴や鰻やら"
+    "en": "Kokochiya Honten (Jidori, Sakana, Unagi)"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通６番３号ウエストビル１階",
-    "en": "宮崎県宮崎市中央通６番３号ウエストビル１階 (Miyazaki)"
+    "en": "1F West Bldg, 6-3 Chuo-dori, Miyazaki City, Miyazaki"
   },
   "lat": 31.9152978,
   "lng": 131.4205744,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市中央通の居酒屋。組合の指定店。営業17:00～23:00。定休元日。",
+    "en": "Cooperative-designated izakaya in Miyazaki City. Open 17:00～23:00."
   },
   "tags": null,
   "features": [],

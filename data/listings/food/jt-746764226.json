@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "みやざき晴夜 炭火地鶏 藁焼かつお せいろ蒸し",
-    "en": "みやざき晴夜 炭火地鶏 藁焼かつお せいろ蒸し"
+    "en": "Miyazaki Hareya (Sumibi Jidori, Warayaki Katsuo, Seiro-mushi)"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3丁目1番4号ラ・ルーチェビル1階",
-    "en": "宮崎県宮崎市橘通西3丁目1番4号ラ・ルーチェビル1階 (Miyazaki)"
+    "en": "1F La Luce Bldg, 3-1-4 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
   },
   "lat": 31.9135319,
   "lng": 131.4216914,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "みやざき地頭鶏の指定店。宮崎市橘通西の居酒屋。営業17:00～23:30。定休元日。",
+    "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Open 17:00～23:30."
   },
   "tags": null,
   "features": [],

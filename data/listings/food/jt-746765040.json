@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "みやざき晴マチ",
-    "en": "みやざき晴マチ"
+    "en": "Miyazaki Haremachi"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通3-1",
-    "en": "宮崎県宮崎市中央通3-1 (Miyazaki)"
+    "en": "3-1 Chuo-dori, Miyazaki City, Miyazaki"
   },
   "lat": 31.9151671,
   "lng": 131.4217442,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "宮崎市中央通の居酒屋。営業11:30～23:30。定休元日。みやざき地頭鶏の指定店。",
+    "en": "Izakaya in Miyazaki City that serves Miyazaki Jitokko. Open 11:30～23:30."
   },
   "tags": null,
   "features": [],

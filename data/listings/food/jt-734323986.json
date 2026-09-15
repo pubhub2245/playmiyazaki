@@ -7,11 +7,11 @@
   "area": "takachiho",
   "name": {
     "ja": "酒処 ひだりうま",
-    "en": "酒処 ひだりうま"
+    "en": "Sakedokoro Hidariuma"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町大字三田井799-3",
-    "en": "宮崎県西臼杵郡高千穂町大字三田井799-3 (Miyazaki)"
+    "en": "799-3 Mitai, Takachiho, Miyazaki"
   },
   "lat": 32.7100562,
   "lng": 131.3079881,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日・火曜日(その他臨時休業あり）。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "高千穂町三田井の居酒屋。組合の指定店。営業17:00～22:00。定休日曜日・火曜日(その他臨時休業あり）。",
+    "en": "Cooperative-designated izakaya in Takachiho. Open 17:00～22:00."
   },
   "tags": null,
   "features": [],

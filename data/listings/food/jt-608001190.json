@@ -7,11 +7,11 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "Foodaly霧島店",
-    "en": "Foodaly霧島店"
+    "en": "Foodaly Kirishima"
   },
   "address": {
     "ja": "宮崎県宮崎市霧島3丁目57番地2",
-    "en": "宮崎県宮崎市霧島3丁目57番地2 (Miyazaki)"
+    "en": "3-57-2 Kirishima, Miyazaki City, Miyazaki"
   },
   "lat": 31.93176,
   "lng": 131.41253,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の直売・販売店。定休1／2～1／4。",
-    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+    "ja": "みやざき地頭鶏の指定店。宮崎市霧島のスーパー。精肉・加工品の販売あり。営業10:00～21:00。定休1／2～1／4。",
+    "en": "Supermarket in Miyazaki City on the Miyazaki Jitokko cooperative roster. Meat and prepared products sold. Open 10:00～21:00."
   },
   "tags": null,
   "features": [

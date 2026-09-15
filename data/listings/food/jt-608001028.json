@@ -7,11 +7,11 @@
   "area": "kobayashi",
   "name": {
     "ja": "居酒屋あねさん",
-    "en": "居酒屋あねさん"
+    "en": "Izakaya Anesan"
   },
   "address": {
     "ja": "宮崎県小林市大字細野１１７－６ (仲町）",
-    "en": "宮崎県小林市大字細野１１７－６ (仲町） (Miyazaki)"
+    "en": "117-6 Hosono (Nakamachi), Kobayashi, Miyazaki"
   },
   "lat": 31.992415,
   "lng": 130.979248,
@@ -24,8 +24,8 @@
   },
   "price": null,
   "description": {
-    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日休。",
-    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+    "ja": "小林市細野にある居酒屋。みやざき地頭鶏の指定店。テイクアウトあり。営業17:00～21:00（L.O. 20:30）。定休日休。",
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Kobayashi. Takeout available. Open 17:00～21:00（L.O. 20:30）."
   },
   "tags": null,
   "features": [
