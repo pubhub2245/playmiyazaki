@@ -25,6 +25,9 @@
     "en": "Minshuku facing the Kodomo-no-Kuni surf break. Surf-trip packages with discounted airfare available."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "http://www.misakisou.com/index.html"
   ],

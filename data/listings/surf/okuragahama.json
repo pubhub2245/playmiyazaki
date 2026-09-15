@@ -28,6 +28,10 @@
     "en": "About a 4 km beach. Venue for the 2017 ISA World Junior Surfing Championship. Marine Wave Beach House has 305 free parking spaces."
   },
   "tags": null,
+  "features": [
+    "shower",
+    "parking"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1167",
     "https://hyuga.or.jp/app/spots/view/2"

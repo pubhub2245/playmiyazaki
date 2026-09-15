@@ -30,6 +30,11 @@
     "en": "Shop in the Kaeda area. Lessons and SUP available. 20 parking spaces."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner",
+    "parking"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11561"
   ],

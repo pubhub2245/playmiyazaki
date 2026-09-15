@@ -28,6 +28,10 @@
     "en": "Long beach south of central Miyazaki. Parking for about 300. Solaseed Air Surfing Center (opened April 2022) has showers and changing rooms."
   },
   "tags": null,
+  "features": [
+    "shower",
+    "parking"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1446"
   ],

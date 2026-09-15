@@ -26,6 +26,11 @@
     "en": "Adjacent to Aoshima Beach Park. Surf, SUP, yoga, and after-school kids' surf. Bookable via Asoview."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner",
+    "kids"
+  ],
   "sources": [
     "https://surfcity-miyazaki.jp/"
   ],

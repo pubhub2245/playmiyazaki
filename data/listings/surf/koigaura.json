@@ -25,6 +25,9 @@
     "en": "Waves throughout the year, with left and right breaks. Only three free parking spaces."
   },
   "tags": null,
+  "features": [
+    "parking"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1162",
     "https://kushima-city.jp/koi/"

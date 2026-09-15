@@ -25,6 +25,10 @@
     "en": "City-run auto campsite facing Shirahama Beach in south Miyazaki. Short drive from Aoshima."
   },
   "tags": null,
+  "features": [
+    "sea",
+    "auto"
+  ],
   "sources": [
     "https://www.city.miyazaki.miyazaki.jp/institution/list/item43/"
   ],

@@ -25,6 +25,9 @@
     "en": "Carbonated hot spring in Takaharu, with day-use bathing available."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://yunomoto.org/spa.php"
   ],

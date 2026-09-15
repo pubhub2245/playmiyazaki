@@ -26,6 +26,11 @@
     "en": "Lakeside complex on the Mimikawa reservoir. Lodging, camping, and the Mimikawa-no-Yu onsen."
   },
   "tags": null,
+  "features": [
+    "river",
+    "lake",
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1134"
   ],

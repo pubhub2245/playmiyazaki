@@ -25,6 +25,10 @@
     "en": "Auto camp in Sachiwaki, southern Hyuga. Close to the coast."
   },
   "tags": null,
+  "features": [
+    "sea",
+    "auto"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/10524"
   ],

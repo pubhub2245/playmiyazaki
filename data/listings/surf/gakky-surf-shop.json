@@ -30,6 +30,11 @@
     "en": "Shop about a 3-minute walk from Miyazaki Airport. Free airport shuttle available."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner",
+    "pickup"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11551"
   ],

@@ -28,6 +28,11 @@
     "en": "Prefectural lodge on the Ebino Highlands. Day-use bathing available."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "onsen",
+    "cottage"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1325"
   ],

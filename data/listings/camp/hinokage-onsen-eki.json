@@ -31,6 +31,9 @@
     "en": "Day-use hot spring housed in the former Hinokage station of the Takachiho Railway."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1135"
   ],

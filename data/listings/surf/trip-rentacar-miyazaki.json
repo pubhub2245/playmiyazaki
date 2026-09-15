@@ -25,6 +25,10 @@
     "en": "Rental car service with airport pickup and surfboard rental included. Vehicles sized for surf trips."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "pickup"
+  ],
   "sources": [
     "https://www.trip-rent-a-car.com/"
   ],

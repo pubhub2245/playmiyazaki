@@ -25,6 +25,9 @@
     "en": "City-run campsite in the hills west of Miyazaki, inside Tsubakiyama Forest Park."
   },
   "tags": null,
+  "features": [
+    "mountain"
+  ],
   "sources": [
     "https://www.city.miyazaki.miyazaki.jp/institution/list/item10/"
   ],

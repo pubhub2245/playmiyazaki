@@ -39,6 +39,9 @@ function main(): void {
     const categorySlugs = new Set(
       (taxonomy.categories[genreDir] ?? []).map((c) => c.slug),
     );
+    const featureSlugs = new Set(
+      (taxonomy.features[genreDir] ?? []).map((f) => f.slug),
+    );
     const dir = path.join(LISTINGS_DIR, genreDir);
     const files = fs.readdirSync(dir).filter((f) => f.endsWith(".json"));
 
@@ -89,6 +92,14 @@ function main(): void {
           failures.push({
             file: filePath,
             message: `unknown category "${c}" for genre "${genreDir}"`,
+          });
+        }
+      }
+      for (const f of listing.features) {
+        if (!featureSlugs.has(f)) {
+          failures.push({
+            file: filePath,
+            message: `unknown feature "${f}" for genre "${genreDir}"`,
           });
         }
       }

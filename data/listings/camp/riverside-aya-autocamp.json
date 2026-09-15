@@ -29,6 +29,11 @@
     "en": "Auto camp along the Ayakita River. Ayakawaso on the same site offers day-use onsen."
   },
   "tags": null,
+  "features": [
+    "river",
+    "onsen",
+    "auto"
+  ],
   "sources": [
     "https://ayakawasou.com/facility"
   ],

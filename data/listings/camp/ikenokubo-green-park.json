@@ -25,6 +25,10 @@
     "en": "Morotsuka Village campsite at around 800 m elevation, with bungalows and tent sites."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "cottage"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1049"
   ],

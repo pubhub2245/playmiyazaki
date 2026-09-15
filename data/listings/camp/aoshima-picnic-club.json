@@ -27,6 +27,11 @@
     "en": "Camp and RV park inside Kodomo-no-Kuni. Only JRVA-certified RV park in Aoshima, with car-stay stalls too."
   },
   "tags": null,
+  "features": [
+    "auto",
+    "carstay",
+    "rv"
+  ],
   "sources": [
     "https://aoshimapicnicclub.com/",
     "https://www.kurumatabi.com/park/rvpark/1255.html",

@@ -25,6 +25,9 @@
     "en": "Rental cars for surfers. Poly-tank and hangers included free."
   },
   "tags": null,
+  "features": [
+    "rental"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11550"
   ],

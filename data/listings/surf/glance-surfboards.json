@@ -25,6 +25,9 @@
     "en": "Shop that handles board manufacturing, custom airbrush, and repairs. No rentals or lessons."
   },
   "tags": null,
+  "features": [
+    "rental"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11553"
   ],

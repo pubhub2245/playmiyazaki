@@ -30,6 +30,10 @@
     "en": "Brand run by pro surfer Shohei Akimoto. Lessons, guiding, and rentals."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11554"
   ],

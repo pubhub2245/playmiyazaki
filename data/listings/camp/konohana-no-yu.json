@@ -28,6 +28,9 @@
     "en": "City-run day-use bathhouse in Kaeda, Miyazaki. Short drive from Aoshima."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.city.miyazaki.miyazaki.jp/culture/facilities/89165.html"
   ],

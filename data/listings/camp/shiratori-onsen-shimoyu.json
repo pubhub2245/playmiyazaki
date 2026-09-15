@@ -25,6 +25,10 @@
     "en": "Day-use hot spring at the foot of the Ebino Highlands, with a garden outdoor bath and private baths."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1403"
   ],

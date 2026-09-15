@@ -30,6 +30,10 @@
     "en": "Shop about a 5-minute drive from Kizakihama. Offers 1-on-1 lessons and rental packs."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11549"
   ],

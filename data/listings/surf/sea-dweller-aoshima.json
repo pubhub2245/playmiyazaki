@@ -25,6 +25,9 @@
     "en": "Lodging in Aoshima. The owners' site lists the Kizakihama surf point among activities."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "https://www.seadweller-aoshima.com/activity/446839.html"
   ],

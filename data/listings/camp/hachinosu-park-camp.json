@@ -25,6 +25,9 @@
     "en": "Riverside town-run camp along the Sakatani in Kitago, Nichinan. River play in summer."
   },
   "tags": null,
+  "features": [
+    "river"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1321"
   ],

@@ -25,6 +25,9 @@
     "en": "Town-run camp at 1,200 m, one of the highest-elevation campsites in Kyushu."
   },
   "tags": null,
+  "features": [
+    "mountain"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1301"
   ],

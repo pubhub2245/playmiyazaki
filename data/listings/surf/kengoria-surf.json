@@ -29,6 +29,10 @@
     "en": "Surf, SUP, and foil lessons and guiding. Open 9:00–18:00."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11546",
     "https://www.kengoriasurf.com/"

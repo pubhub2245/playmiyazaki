@@ -25,6 +25,9 @@
     "en": "Riverside campsite on the Horigawa, close to the Ogatayama trailhead."
   },
   "tags": null,
+  "features": [
+    "river"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1304"
   ],

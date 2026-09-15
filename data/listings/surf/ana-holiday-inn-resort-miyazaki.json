@@ -25,6 +25,9 @@
     "en": "Resort hotel within walking distance of Aoshima Beach. In-house Murasaki Sports Aoshima offers subscription-based surf gear."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "https://www.anahirmiyazaki.com/"
   ],

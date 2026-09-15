@@ -25,6 +25,9 @@
     "en": "Highland campsite in Shiiba Village."
   },
   "tags": null,
+  "features": [
+    "mountain"
+  ],
   "sources": [
     "https://www.shiibakanko.jp/tourism/play/play3"
   ],

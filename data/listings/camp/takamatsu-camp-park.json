@@ -26,6 +26,11 @@
     "en": "Next to Takamatsu Beach. Free, auto, campervan, and BBQ sites available."
   },
   "tags": null,
+  "features": [
+    "sea",
+    "auto",
+    "carstay"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1323"
   ],

@@ -25,6 +25,9 @@
     "en": "Camp near Oseri Falls in Saigo, Misato."
   },
   "tags": null,
+  "features": [
+    "river"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/10516"
   ],

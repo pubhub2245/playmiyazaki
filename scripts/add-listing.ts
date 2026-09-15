@@ -95,6 +95,7 @@ async function main(): Promise<void> {
     price: null,
     description: null,
     tags: null,
+    features: [] as string[],
     sources: [source],
     verified_at: today,
     status: "open",

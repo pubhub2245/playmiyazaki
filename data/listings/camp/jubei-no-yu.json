@@ -25,6 +25,9 @@
     "en": "Day-use bathhouse in the Kyomachi Onsen area, with private family baths."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/2502"
   ],

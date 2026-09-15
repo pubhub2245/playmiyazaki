@@ -26,6 +26,11 @@
     "en": "Auto camp on the shore of Lake Miike, with an on-site natural hot spring."
   },
   "tags": null,
+  "features": [
+    "lake",
+    "onsen",
+    "auto"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1317"
   ],

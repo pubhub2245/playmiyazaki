@@ -25,6 +25,9 @@
     "en": "Beach that hosts competitions and is a sea turtle nesting site. About 15 parking spaces, no restrooms on site."
   },
   "tags": null,
+  "features": [
+    "parking"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1165"
   ],

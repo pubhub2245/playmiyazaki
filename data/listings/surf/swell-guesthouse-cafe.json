@@ -25,6 +25,10 @@
     "en": "Guesthouse with an attached cafe. Outdoor shower available."
   },
   "tags": null,
+  "features": [
+    "shower",
+    "stay"
+  ],
   "sources": [
     "https://swell-gh.co.jp/"
   ],

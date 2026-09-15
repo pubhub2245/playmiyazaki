@@ -28,6 +28,11 @@
     "en": "Guide with 25 years of surf instruction experience. Handles surf, SUP, SUP yoga, yoga, and core training. Pickup from Miyazaki Station. Parking for seven."
   },
   "tags": null,
+  "features": [
+    "beginner",
+    "parking",
+    "pickup"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11559"
   ],

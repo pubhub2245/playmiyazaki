@@ -31,6 +31,10 @@
     "en": "Day-use hot spring in Kadogawa near the coast, with a seafood restaurant on site."
   },
   "tags": null,
+  "features": [
+    "sea",
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/2294"
   ],

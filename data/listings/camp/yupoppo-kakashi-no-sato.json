@@ -28,6 +28,9 @@
     "en": "Day-use hot spring in Yamada, Miyakonojo, part of the Kakashi-no-Sato complex."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://miyakonojo-bonchi.com/yupoppo/"
   ],

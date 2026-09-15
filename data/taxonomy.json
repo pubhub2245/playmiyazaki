@@ -31,6 +31,41 @@
       { "slug": "stay", "ja": "ゴルフ宿", "en": "Golf Stay" }
     ]
   },
+  "features": {
+    "camp": [
+      { "slug": "sea",              "ja": "海が近い",           "en": "Near the sea",          "heading_ja": "宮崎の海が近いキャンプ場",     "heading_en": "Campsites near the sea in Miyazaki" },
+      { "slug": "river",            "ja": "川沿い",             "en": "Riverside",             "heading_ja": "宮崎の川沿いのキャンプ場",     "heading_en": "Riverside campsites in Miyazaki" },
+      { "slug": "lake",             "ja": "湖畔",               "en": "Lakeside",              "heading_ja": "宮崎の湖畔のキャンプ場",       "heading_en": "Lakeside campsites in Miyazaki" },
+      { "slug": "mountain",         "ja": "山・高原",           "en": "Mountain / highland",   "heading_ja": "宮崎の山・高原のキャンプ場",   "heading_en": "Mountain and highland campsites in Miyazaki" },
+      { "slug": "power",            "ja": "電源サイトあり",     "en": "Power sites",           "heading_ja": "電源サイトのある宮崎のキャンプ場", "heading_en": "Campsites with power in Miyazaki" },
+      { "slug": "shower",           "ja": "シャワーあり",       "en": "Showers",               "heading_ja": "シャワーのある宮崎のキャンプ場",   "heading_en": "Campsites with showers in Miyazaki" },
+      { "slug": "flush-toilet",     "ja": "水洗トイレ",         "en": "Flush toilet",          "heading_ja": "水洗トイレのある宮崎のキャンプ場", "heading_en": "Campsites with flush toilets in Miyazaki" },
+      { "slug": "onsen",            "ja": "温泉あり・隣接",     "en": "Onsen on site or nearby","heading_ja": "温泉のある宮崎のキャンプ・車中泊", "heading_en": "Camping and car stays with onsen in Miyazaki" },
+      { "slug": "wifi",             "ja": "Wi-Fi",              "en": "Wi-Fi",                 "heading_ja": "Wi-Fi のある宮崎のキャンプ場",   "heading_en": "Campsites with Wi-Fi in Miyazaki" },
+      { "slug": "auto",             "ja": "オートキャンプ",     "en": "Auto camp",             "heading_ja": "宮崎のオートキャンプ場",           "heading_en": "Auto campsites in Miyazaki" },
+      { "slug": "free-site",        "ja": "フリーサイト",       "en": "Free site",             "heading_ja": "宮崎のフリーサイトのキャンプ場",  "heading_en": "Campsites with free sites in Miyazaki" },
+      { "slug": "cottage",          "ja": "コテージ・バンガロー","en": "Cottage / bungalow",   "heading_ja": "宮崎のコテージ・バンガローがあるキャンプ場", "heading_en": "Campsites with cottages or bungalows in Miyazaki" },
+      { "slug": "glamping",         "ja": "グランピング",       "en": "Glamping",              "heading_ja": "宮崎のグランピング",              "heading_en": "Glamping in Miyazaki" },
+      { "slug": "day-camp",         "ja": "デイキャンプ可",     "en": "Day camp OK",           "heading_ja": "デイキャンプができる宮崎のキャンプ場", "heading_en": "Campsites that allow day camp in Miyazaki" },
+      { "slug": "rental-gear",      "ja": "手ぶら・レンタル",   "en": "Gear rental",           "heading_ja": "手ぶらで泊まれる宮崎のキャンプ場", "heading_en": "Campsites with gear rental in Miyazaki" },
+      { "slug": "pet",              "ja": "ペット可",           "en": "Pet-friendly",          "heading_ja": "ペットと泊まれる宮崎のキャンプ場", "heading_en": "Pet-friendly campsites in Miyazaki" },
+      { "slug": "carstay",          "ja": "車中泊可",           "en": "Car-stay allowed",      "heading_ja": "宮崎の車中泊できるスポット",       "heading_en": "Car-stay spots in Miyazaki" },
+      { "slug": "rv",               "ja": "RVパーク",           "en": "RV park",               "heading_ja": "宮崎のRVパーク",                   "heading_en": "RV parks in Miyazaki" },
+      { "slug": "reservation-online","ja": "ネット予約",         "en": "Online booking",        "heading_ja": "ネット予約できる宮崎のキャンプ場", "heading_en": "Campsites with online booking in Miyazaki" }
+    ],
+    "surf": [
+      { "slug": "beginner", "ja": "初心者スクールあり", "en": "Beginner-friendly school", "heading_ja": "宮崎の初心者向けサーフスクール",       "heading_en": "Beginner surf schools in Miyazaki" },
+      { "slug": "rental",   "ja": "レンタルあり",       "en": "Board / wetsuit rental",  "heading_ja": "宮崎のレンタルができるサーフスポット", "heading_en": "Surf rentals in Miyazaki" },
+      { "slug": "shower",   "ja": "シャワーあり",       "en": "Shower on site",          "heading_ja": "宮崎のシャワーのあるサーフスポット",   "heading_en": "Surf spots with showers in Miyazaki" },
+      { "slug": "parking",  "ja": "駐車場あり",         "en": "Parking",                 "heading_ja": "宮崎の駐車場のあるサーフスポット",     "heading_en": "Surf spots with parking in Miyazaki" },
+      { "slug": "english",  "ja": "英語対応",           "en": "English OK",              "heading_ja": "宮崎の英語対応のサーフスクール",       "heading_en": "English-friendly surf schools in Miyazaki" },
+      { "slug": "stay",     "ja": "宿泊できる",         "en": "Lodging on site",         "heading_ja": "宮崎のサーファーが泊まれる宿",         "heading_en": "Surfer stays in Miyazaki" },
+      { "slug": "pickup",   "ja": "送迎あり",           "en": "Pickup service",          "heading_ja": "宮崎の送迎ありのサーフショップ・宿",   "heading_en": "Surf shops and stays with pickup in Miyazaki" },
+      { "slug": "kids",     "ja": "子ども向けあり",     "en": "Kids programs",           "heading_ja": "宮崎の子ども向けサーフスクール",       "heading_en": "Kids surf programs in Miyazaki" }
+    ],
+    "food": [],
+    "golf": []
+  },
   "areas": [
     { "slug": "miyazaki-shi", "ja": "宮崎市", "en": "Miyazaki City" },
     { "slug": "miyakonojo", "ja": "都城市", "en": "Miyakonojo" },

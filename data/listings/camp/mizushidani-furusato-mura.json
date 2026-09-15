@@ -25,6 +25,10 @@
     "en": "Riverside auto camp in Nango, Misato."
   },
   "tags": null,
+  "features": [
+    "river",
+    "auto"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1308"
   ],

@@ -25,6 +25,9 @@
     "en": "Lodging overlooking Okuragahama, aimed at surfers and families."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "https://hyuga.or.jp/app/hotels"
   ],

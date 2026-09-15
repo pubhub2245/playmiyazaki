@@ -9,6 +9,7 @@ import {
   hasArea,
 } from "@/lib/coverage";
 import { CategoryChips, categoryCountsForGenre } from "@/app/_components/FilterBar";
+import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureChips";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilterableList } from "@/app/_components/FilterableList";
 import { listingToRow } from "@/lib/rows";
@@ -66,6 +67,7 @@ export default function AreaPage({ params }: Props) {
     .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"));
 
   const catCounts = categoryCountsForGenre(filtered);
+  const featCounts = featureCountsForGenre(filtered);
   const items = filtered.map((l) => listingToRow(l, taxonomy, lang));
 
   return (
@@ -87,12 +89,20 @@ export default function AreaPage({ params }: Props) {
         </p>
       </div>
 
-      <CategoryChips
-        lang={lang}
-        genre={params.genre}
-        taxonomy={taxonomy}
-        categoryCounts={catCounts}
-      />
+      <div className="space-y-3">
+        <FeatureChips
+          lang={lang}
+          genre={params.genre}
+          taxonomy={taxonomy}
+          featureCounts={featCounts}
+        />
+        <CategoryChips
+          lang={lang}
+          genre={params.genre}
+          taxonomy={taxonomy}
+          categoryCounts={catCounts}
+        />
+      </div>
 
       <FilterableList items={items} lang={lang} />
     </div>

@@ -26,6 +26,9 @@
     "en": "Complex in Takajo, Miyakonojo. Campground, pool, and the Kannon-sakura-no-Sato hot spring."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1091"
   ],

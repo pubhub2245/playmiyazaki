@@ -27,6 +27,10 @@
     "en": "Established in 1996 and run by JPSA pro Satoshi Kubota. Custom boards and wetsuits, plus online coaching."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://onthebeach.jp/"
   ],

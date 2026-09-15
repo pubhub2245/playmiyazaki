@@ -25,6 +25,10 @@
     "en": "Lakeside campground at Lake Miike, with tent sites and bungalows."
   },
   "tags": null,
+  "features": [
+    "lake",
+    "cottage"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1318"
   ],

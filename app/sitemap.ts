@@ -1,10 +1,11 @@
 import type { MetadataRoute } from "next";
 import { loadAllListings } from "@/lib/data";
 import { LANGS, SITE_URL } from "@/lib/i18n";
-import { absolute, urlArea, urlCategory, urlGenre, urlHome, urlListing } from "@/lib/url";
+import { absolute, urlArea, urlCategory, urlFeature, urlGenre, urlHome, urlListing } from "@/lib/url";
 import {
   areasWithListings,
   categoriesWithListings,
+  featuresWithListings,
   genresWithListings,
 } from "@/lib/coverage";
 
@@ -24,6 +25,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       }
       for (const a of areasWithListings(g)) {
         urls.push({ url: absolute(urlArea(lang, g, a)), lastModified: now });
+      }
+      for (const f of featuresWithListings(g)) {
+        urls.push({ url: absolute(urlFeature(lang, g, f)), lastModified: now });
       }
     }
     for (const l of listings) {

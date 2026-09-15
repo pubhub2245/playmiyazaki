@@ -6,9 +6,10 @@ const TODAY = "2026-09-14";
 const ROOT = process.cwd();
 const OUT = path.join(ROOT, "data", "listings", "surf");
 
-type Seed = Omit<Listing, "genre" | "verified_at" | "status"> & {
+type Seed = Omit<Listing, "genre" | "verified_at" | "status" | "features"> & {
   status?: Listing["status"];
   verified_at?: string;
+  features?: string[];
 };
 
 const seeds: Seed[] = [
@@ -1057,6 +1058,7 @@ function main(): void {
       price: s.price,
       description: s.description,
       tags: s.tags,
+      features: s.features ?? [],
       sources: s.sources,
       verified_at: s.verified_at ?? TODAY,
       status: s.status ?? "open",

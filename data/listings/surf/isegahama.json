@@ -28,6 +28,10 @@
     "en": "Selected among Japan's 100 Best Bathing Beaches. 82 free parking spaces."
   },
   "tags": null,
+  "features": [
+    "shower",
+    "parking"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1171"
   ],

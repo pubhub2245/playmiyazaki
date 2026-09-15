@@ -25,6 +25,11 @@
     "en": "Riverside free-site camp in Gokase. Pets welcome."
   },
   "tags": null,
+  "features": [
+    "river",
+    "free-site",
+    "pet"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/16860"
   ],

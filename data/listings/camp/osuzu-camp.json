@@ -25,6 +25,10 @@
     "en": "Town-run camp inside Osuzu Prefectural Natural Park. Pay fees at the tourism office at JR Tsuno Station."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "onsen"
+  ],
   "sources": [
     "https://www.tsunokanko.com/contents/camp.html"
   ],

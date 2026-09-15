@@ -25,6 +25,9 @@
     "en": "Camp field beside Sekinoo Falls, run jointly by Miyakonojo City and Snow Peak."
   },
   "tags": null,
+  "features": [
+    "river"
+  ],
   "sources": [
     "https://www.city.miyakonojo.miyazaki.jp/soshiki/3/61718.html"
   ],

@@ -33,6 +33,7 @@ export const listingSchema = z.object({
     })
     .nullable(),
   tags: z.array(z.string()).nullable(),
+  features: z.array(z.string()),
   sources: z.array(z.string().url()).min(1, "sources must have at least 1 URL"),
   verified_at: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, "verified_at must be YYYY-MM-DD"),
   status: z.enum(["open", "closed", "unknown"]),
@@ -40,12 +41,23 @@ export const listingSchema = z.object({
 
 export type Listing = z.infer<typeof listingSchema>;
 
+const featureEntry = z.object({
+  slug: z.string(),
+  ja: z.string(),
+  en: z.string(),
+  heading_ja: z.string(),
+  heading_en: z.string(),
+});
+
+export type FeatureEntry = z.infer<typeof featureEntry>;
+
 export const taxonomySchema = z.object({
   genres: z.array(z.object({ slug: z.string(), ja: z.string(), en: z.string() })),
   categories: z.record(
     z.string(),
     z.array(z.object({ slug: z.string(), ja: z.string(), en: z.string() })),
   ),
+  features: z.record(z.string(), z.array(featureEntry)),
   areas: z.array(z.object({ slug: z.string(), ja: z.string(), en: z.string() })),
 });
 

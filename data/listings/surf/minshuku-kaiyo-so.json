@@ -25,6 +25,9 @@
     "en": "Minshuku in the Ono district near Koigaura."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "https://kushima-city.jp/stay/"
   ],

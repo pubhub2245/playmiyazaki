@@ -25,6 +25,9 @@
     "en": "Lodge inside Freedom Surf Shop. Eight rooms for up to 32 guests. Room-only."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "https://www.kankou-nichinan.jp/tourisms/711/"
   ],

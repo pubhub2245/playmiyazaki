@@ -356,6 +356,30 @@ a:hover {
   color: var(--accent);
 }
 
+/* Small feature tag (mini chip) on rows and detail */
+.pm-tag {
+  display: inline-flex;
+  align-items: center;
+  height: 22px;
+  padding: 0 8px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: transparent;
+  color: var(--text-primary);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 11px;
+  text-decoration: none;
+  line-height: 20px;
+  transition: background 200ms var(--ease-out);
+}
+.pm-tag:hover {
+  background: var(--panel);
+  color: var(--text-primary);
+}
+.pm-tag-plain {
+  color: var(--text-secondary);
+}
+
 /* Touch targets on coarse pointer */
 @media (pointer: coarse) {
   .pm-touch,

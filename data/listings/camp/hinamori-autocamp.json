@@ -25,6 +25,10 @@
     "en": "Prefectural auto campsite at ~630 m at the foot of the Kirishima range. Stays cool in summer."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "auto"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1313"
   ],

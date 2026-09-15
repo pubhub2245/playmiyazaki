@@ -25,6 +25,11 @@
     "en": "JRVA-certified RV park in Kadogawa, next to a produce and seafood direct sales shop."
   },
   "tags": null,
+  "features": [
+    "sea",
+    "auto",
+    "rv"
+  ],
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/585.html"
   ],

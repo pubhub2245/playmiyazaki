@@ -31,6 +31,10 @@
     "en": "Surf sessions taught by a pro, from beginner longboard to advanced shortboard. Based in Kitakawa, Nobeoka."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://nobekan.jp/activity/index.php?p=620"
   ],

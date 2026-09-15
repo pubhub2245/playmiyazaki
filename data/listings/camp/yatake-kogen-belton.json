@@ -25,6 +25,10 @@
     "en": "Auto camp on the Yatake Highlands in Ebino. The lookout takes in the Ebino basin."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "auto"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1314"
   ],

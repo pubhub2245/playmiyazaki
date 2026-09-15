@@ -30,6 +30,10 @@
     "en": "About a one-minute walk from Aoshima Beach. Run by JPSA pro Kosei Umeno."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11548"
   ],

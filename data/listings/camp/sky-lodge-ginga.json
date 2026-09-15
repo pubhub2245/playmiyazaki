@@ -25,6 +25,10 @@
     "en": "Mountain lodges and campsite at around 900 m in Kitago, Misato."
   },
   "tags": null,
+  "features": [
+    "mountain",
+    "cottage"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/10519"
   ],

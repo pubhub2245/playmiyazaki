@@ -25,6 +25,9 @@
     "en": "Family-oriented Nobeoka campsite next to Sumie Beach. Pool and small aquarium on site."
   },
   "tags": null,
+  "features": [
+    "sea"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1306"
   ],

@@ -25,6 +25,9 @@
     "en": "Beach break. Kaguchihama Seaside Park campsite is adjacent. 50 free parking spaces."
   },
   "tags": null,
+  "features": [
+    "parking"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1163"
   ],

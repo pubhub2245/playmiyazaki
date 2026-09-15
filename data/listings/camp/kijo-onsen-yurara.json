@@ -31,6 +31,9 @@
     "en": "Day-use hot spring in Kijo, with an outdoor bath and a restaurant."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/2576"
   ],

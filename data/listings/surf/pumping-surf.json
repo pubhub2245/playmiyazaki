@@ -25,6 +25,10 @@
     "en": "Three-minute walk to Okuragahama. Free bikes, BBQ, and free shuttle from Minami-Hyuga Station."
   },
   "tags": null,
+  "features": [
+    "stay",
+    "pickup"
+  ],
   "sources": [
     "http://pumpingsurf.com/"
   ],

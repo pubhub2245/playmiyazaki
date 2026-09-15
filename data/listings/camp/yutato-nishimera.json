@@ -25,6 +25,9 @@
     "en": "Day-use hot spring in central Nishimera, named after the local Karikobōzu folklore spirits."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1143"
   ],

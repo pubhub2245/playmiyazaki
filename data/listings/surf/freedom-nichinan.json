@@ -26,6 +26,9 @@
     "en": "Shop that runs lessons based at Miyaura Beach. Three students per instructor. Book at least three days in advance."
   },
   "tags": null,
+  "features": [
+    "beginner"
+  ],
   "sources": [
     "https://www.kankou-nichinan.jp/tourisms/370/"
   ],

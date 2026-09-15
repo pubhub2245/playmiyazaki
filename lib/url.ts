@@ -20,6 +20,10 @@ export function urlListing(lang: Lang, genre: string, slug: string): string {
   return `/${lang}/${genre}/${slug}`;
 }
 
+export function urlFeature(lang: Lang, genre: string, feature: string): string {
+  return `/${lang}/${genre}/f/${feature}`;
+}
+
 export function absolute(p: string): string {
   return `${SITE_URL}${p}`;
 }

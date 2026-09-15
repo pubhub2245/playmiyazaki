@@ -31,6 +31,13 @@
     "en": "Aoidake hot spring with an on-site campsite, JRVA RV park, and car-stay bays. RV sites have power and water."
   },
   "tags": null,
+  "features": [
+    "onsen",
+    "auto",
+    "carstay",
+    "rv",
+    "power"
+  ],
   "sources": [
     "https://aoidake.com/camp/",
     "https://www.kurumatabi.com/park/rvpark/1454.html",

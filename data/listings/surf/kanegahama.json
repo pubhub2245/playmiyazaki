@@ -28,6 +28,9 @@
     "en": "Beach right off Route 10. STAIRS OF THE SEA complex is nearby."
   },
   "tags": null,
+  "features": [
+    "shower"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1168"
   ],

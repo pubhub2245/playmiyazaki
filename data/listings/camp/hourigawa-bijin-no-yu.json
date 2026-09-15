@@ -31,6 +31,10 @@
     "en": "Day-use hot spring in Kitagawa, Nobeoka. Convenient stop after hiking Ogatayama."
   },
   "tags": null,
+  "features": [
+    "river",
+    "onsen"
+  ],
   "sources": [
     "https://www.city.nobeoka.miyazaki.jp/site/miryoku/1245.html"
   ],

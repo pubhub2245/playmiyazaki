@@ -25,6 +25,10 @@
     "en": "Riverside campground along a stream near Mount Morotsuka."
   },
   "tags": null,
+  "features": [
+    "river",
+    "mountain"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/10513"
   ],

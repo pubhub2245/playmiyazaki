@@ -30,6 +30,10 @@
     "en": "Long-established shop in the Hitotsuba area. Handles lessons, rentals, and guided tours."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11562"
   ],

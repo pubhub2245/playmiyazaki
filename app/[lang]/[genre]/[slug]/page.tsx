@@ -3,8 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
 import { LANGS, NEARBY_HEADING, UI, type Lang } from "@/lib/i18n";
-import { absolute, googleMapsUrl, urlArea, urlCategory, urlGenre, urlHome, urlListing } from "@/lib/url";
-import { nearbyInArea } from "@/lib/coverage";
+import { absolute, googleMapsUrl, urlArea, urlCategory, urlFeature, urlGenre, urlHome, urlListing } from "@/lib/url";
+import { FEATURE_MIN_COUNT, featureCount, nearbyInArea } from "@/lib/coverage";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { Row } from "@/app/_components/Row";
 import { RevealList } from "@/app/_components/RevealList";
@@ -58,8 +58,11 @@ export default function ListingDetail({ params }: Props) {
   if (!genre || !listing) notFound();
 
   const catLabels = taxonomy.categories[params.genre] ?? [];
+  const featureLabels = taxonomy.features[params.genre] ?? [];
   const area = taxonomy.areas.find((a) => a.slug === listing.area);
   const areaName = area?.[lang] ?? listing.area;
+  const FEATURES_LABEL = { ja: "特徴", en: "Features" };
+  const VERIFIED_LABEL = { ja: "確認済み", en: "Verified" };
 
   const gmap =
     listing.google_maps_url ??
@@ -194,6 +197,35 @@ export default function ListingDetail({ params }: Props) {
                   )
                 }
               />
+              {listing.features.length > 0 && (
+                <FactItem
+                  label={FEATURES_LABEL[lang]}
+                  value={
+                    <span className="flex flex-wrap gap-1.5">
+                      {listing.features.map((f) => {
+                        const entry = featureLabels.find((x) => x.slug === f);
+                        if (!entry) return null;
+                        const label = entry[lang];
+                        const canLink =
+                          featureCount(params.genre, f) >= FEATURE_MIN_COUNT;
+                        return canLink ? (
+                          <Link
+                            key={f}
+                            href={urlFeature(lang, params.genre, f)}
+                            className="pm-tag"
+                          >
+                            {label}
+                          </Link>
+                        ) : (
+                          <span key={f} className="pm-tag pm-tag-plain">
+                            {label}
+                          </span>
+                        );
+                      })}
+                    </span>
+                  }
+                />
+              )}
               <div className="border-t border-line pt-3 space-y-2">
                 <dt className="pm-mono text-[12px] text-text-secondary">
                   {UI.sources[lang]}
@@ -211,7 +243,10 @@ export default function ListingDetail({ params }: Props) {
                 </dd>
               </div>
               <div className="pm-verified">
-                {UI.verified_at[lang]} {listing.verified_at}
+                <span className="text-accent" aria-hidden>
+                  ✓
+                </span>{" "}
+                {VERIFIED_LABEL[lang]} {listing.verified_at}
               </div>
             </dl>
           </div>

@@ -25,6 +25,9 @@
     "en": "Mountain camp in Kitakata, Nobeoka, in the heart of the Kyushu Spine range."
   },
   "tags": null,
+  "features": [
+    "mountain"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/10485"
   ],

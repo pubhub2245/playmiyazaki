@@ -27,6 +27,10 @@
     "en": "Shop near Kizakihama. Handles lessons, rentals, and guided tours. JPBA pro shop."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://newwavesurf.shop/"
   ],

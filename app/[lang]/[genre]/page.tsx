@@ -15,6 +15,7 @@ import {
   areaCountsForGenre,
   categoryCountsForGenre,
 } from "@/app/_components/FilterBar";
+import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureChips";
 import { TideBand } from "@/app/_components/TideBand";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilteredCategoryGroups, type Group } from "@/app/_components/FilteredCategoryGroups";
@@ -67,6 +68,7 @@ export default function GenrePage({ params }: Props) {
   const listings = listingsByGenre(params.genre);
   const catCounts = categoryCountsForGenre(listings);
   const areaCounts = areaCountsForGenre(listings);
+  const featCounts = featureCountsForGenre(listings);
   const activeCats = new Set(categoriesWithListings(params.genre));
   // Ensure both coverage helpers are wired to this page (chip filter reads both).
   void areasWithListings(params.genre);
@@ -108,6 +110,12 @@ export default function GenrePage({ params }: Props) {
         />
 
         <div className="space-y-3">
+          <FeatureChips
+            lang={lang}
+            genre={params.genre}
+            taxonomy={taxonomy}
+            featureCounts={featCounts}
+          />
           <CategoryChips
             lang={lang}
             genre={params.genre}

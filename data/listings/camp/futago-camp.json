@@ -25,6 +25,10 @@
     "en": "Auto camp in Nishimera Village, close to Yutato hot spring."
   },
   "tags": null,
+  "features": [
+    "onsen",
+    "auto"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/10492"
   ],

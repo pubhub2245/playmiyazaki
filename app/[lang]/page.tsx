@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
 import { HOME_TITLE, SITE_TAGLINE, type Lang } from "@/lib/i18n";
-import { absolute, urlGenre, urlHome } from "@/lib/url";
-import { genresWithListings } from "@/lib/coverage";
+import { absolute, urlFeature, urlGenre, urlHome } from "@/lib/url";
+import { allFeaturePagesRanked, genresWithListings } from "@/lib/coverage";
 import { GenreIcon } from "@/app/_components/GenreIcon";
 import { FilterableList } from "@/app/_components/FilterableList";
 import { RevealList } from "@/app/_components/RevealList";
@@ -18,12 +18,14 @@ const HERO = {
     leadPrefix: "サーフィン・キャンプ・食・ゴルフ。出典つきで ",
     leadSuffix: " か所。",
     recentHeading: "最近確認したスポット",
+    intentHeading: "条件から探す",
   },
   en: {
     heading: "Every place to play in Miyazaki.",
     leadPrefix: "Surf, camp, food and golf. ",
     leadSuffix: " places, every one with a source.",
     recentHeading: "Recently verified",
+    intentHeading: "Browse by feature",
   },
 };
 
@@ -63,6 +65,9 @@ export default function HomePage({ params }: Props) {
     .sort((a, b) => (b.verified_at + b.slug).localeCompare(a.verified_at + a.slug))
     .slice(0, 6)
     .map((l) => listingToRow(l, taxonomy, lang));
+
+  const topFeaturePages = allFeaturePagesRanked().slice(0, 12);
+  const genreLabelMap = new Map(taxonomy.genres.map((g) => [g.slug, g]));
 
   const t = HERO[lang];
 
@@ -106,6 +111,35 @@ export default function HomePage({ params }: Props) {
           ))}
         </div>
       </section>
+
+      {topFeaturePages.length > 0 && (
+        <section className="space-y-3">
+          <h2 className="pm-mono text-[12px] uppercase tracking-wider text-text-secondary">
+            {t.intentHeading}
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {topFeaturePages.map(({ genre, feature, count }) => {
+              const g = genreLabelMap.get(genre);
+              const featureEntry = (taxonomy.features[genre] ?? []).find((f) => f.slug === feature);
+              if (!g || !featureEntry) return null;
+              return (
+                <Link
+                  key={`${genre}-${feature}`}
+                  href={urlFeature(lang, genre, feature)}
+                  className="pm-chip"
+                >
+                  <span>
+                    {g[lang]}
+                    {lang === "ja" ? "：" : ": "}
+                    {featureEntry[lang]}
+                  </span>
+                  <span className="pm-chip-count">{count}</span>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
       {recent.length > 0 && (
         <section className="space-y-3">

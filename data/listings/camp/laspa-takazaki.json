@@ -28,6 +28,9 @@
     "en": "Day-use hot spring in Takazaki, Miyakonojo. Close to RV Park Takazaki."
   },
   "tags": null,
+  "features": [
+    "onsen"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/2565"
   ],

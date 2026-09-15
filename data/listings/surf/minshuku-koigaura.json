@@ -25,6 +25,10 @@
     "en": "Minshuku directly opposite Koigaura. Room-only, with basic surf gear sales and rentals."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "stay"
+  ],
   "sources": [
     "https://koigaurashokudo.wixsite.com/koigaura"
   ],

@@ -26,6 +26,11 @@
     "en": "Private camp with dog run and a JRVA-certified RV park on the same site."
   },
   "tags": null,
+  "features": [
+    "auto",
+    "pet",
+    "rv"
+  ],
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/1363.html"
   ],

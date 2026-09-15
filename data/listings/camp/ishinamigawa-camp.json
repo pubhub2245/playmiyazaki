@@ -28,6 +28,9 @@
     "en": "Riverside city-run camp along the Ishinamigawa. Open only in summer. River play on site."
   },
   "tags": null,
+  "features": [
+    "river"
+  ],
   "sources": [
     "https://ishinami.rdy.jp/"
   ],

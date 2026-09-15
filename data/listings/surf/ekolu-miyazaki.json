@@ -26,6 +26,10 @@
     "en": "Run by former JPSA pro Koshi Mizumoto. Offers surf guiding and surfer-focused rental cars near the airport."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11545"
   ],

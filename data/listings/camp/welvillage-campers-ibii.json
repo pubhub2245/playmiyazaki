@@ -25,6 +25,9 @@
     "en": "Coastal camp in Nichinan near JR Ibii Station, within walking distance of the sea."
   },
   "tags": null,
+  "features": [
+    "sea"
+  ],
   "sources": [
     "https://www.nap-camp.com/miyazaki/15809"
   ],

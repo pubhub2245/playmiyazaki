@@ -25,6 +25,10 @@
     "en": "Shiiba Village camp with cottages beside the reservoir."
   },
   "tags": null,
+  "features": [
+    "lake",
+    "cottage"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1307"
   ],

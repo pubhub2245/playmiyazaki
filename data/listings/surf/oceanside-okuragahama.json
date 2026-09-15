@@ -25,6 +25,9 @@
     "en": "Container-house guesthouse a five-minute walk from Okuragahama. Sunrise Surf Shop is next door."
   },
   "tags": null,
+  "features": [
+    "stay"
+  ],
   "sources": [
     "https://hyuga.or.jp/app/hotels"
   ],

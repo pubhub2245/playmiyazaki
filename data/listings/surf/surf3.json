@@ -29,6 +29,9 @@
     "en": "Shop near Kizakihama with an in-house wetsuit factory. Repairs boards from any brand. Closed Thursdays."
   },
   "tags": null,
+  "features": [
+    "rental"
+  ],
   "sources": [
     "https://www.miyazaki-city.tourism.or.jp/spot/11547"
   ],

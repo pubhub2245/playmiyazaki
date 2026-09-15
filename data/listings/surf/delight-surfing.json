@@ -27,6 +27,10 @@
     "en": "Shop in Miyakonojo. Handles boards, bodyboards, and wetsuits, and manufactures custom boards (Hirota Surfboards Lab)."
   },
   "tags": null,
+  "features": [
+    "rental",
+    "beginner"
+  ],
   "sources": [
     "https://www.delight-mjc.com/"
   ],

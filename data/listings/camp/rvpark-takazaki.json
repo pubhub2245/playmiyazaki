@@ -25,6 +25,11 @@
     "en": "JRVA-certified RV park at Takazaki Park Golf Course. Laspa Takazaki onsen is nearby."
   },
   "tags": null,
+  "features": [
+    "onsen",
+    "auto",
+    "rv"
+  ],
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/629.html"
   ],

@@ -25,6 +25,10 @@
     "en": "Riverside camp along the Gokase in Hinokage, with tent sites and bungalows."
   },
   "tags": null,
+  "features": [
+    "river",
+    "cottage"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1303"
   ],
