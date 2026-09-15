@@ -1,0 +1,33 @@
+{
+  "slug": "shiratori-onsen-shimoyu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "白鳥温泉 下湯",
+    "en": "Shiratori Onsen Shimoyu"
+  },
+  "address": {
+    "ja": "宮崎県えびの市末永1470",
+    "en": "1470 Suenaga, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-33-3611",
+  "website": "http://shiratori-onsen.com/wp/down/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "えびの高原ふもとの日帰り温泉。庭園の露天風呂と貸切風呂がある。",
+    "en": "Day-use hot spring at the foot of the Ebino Highlands, with a garden outdoor bath and private baths."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1403"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

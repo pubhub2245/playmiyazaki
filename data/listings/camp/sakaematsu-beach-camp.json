@@ -1,0 +1,33 @@
+{
+  "slug": "sakaematsu-beach-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "栄松ビーチ・キャンプ場",
+    "en": "Sakaematsu Beach Camp"
+  },
+  "address": {
+    "ja": "宮崎県日南市南郷町中村乙4178-1",
+    "en": "4178-1 Nakamura-otsu, Nango-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-64-0002",
+  "website": "https://sakaematsu-beach.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "南郷の栄松ビーチに面したオートキャンプ場。海水浴とキャンプが同じ場所で楽しめる。",
+    "en": "Auto camp facing Sakaematsu Beach in Nango. Swimming and camping in one spot."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1320"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

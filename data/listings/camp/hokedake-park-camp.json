@@ -1,0 +1,33 @@
+{
+  "slug": "hokedake-park-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "kunitomi",
+  "name": {
+    "ja": "法華嶽公園キャンプ場",
+    "en": "Hokedake Park Campground"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡国富町大字深年4106-18",
+    "en": "4106-18 Fukatoshi, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-78-1943",
+  "website": "http://www.town.kunitomi.miyazaki.jp/main/tourism/tourism_nature/hokedake/page001388.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "国富町の法華嶽公園にある町営キャンプ場。桜と紅葉の名所。",
+    "en": "Town-run campsite in Hokedake Park, Kunitomi. Known for cherry blossoms and autumn colours."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1299"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "makisui-park",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "牧水公園",
+    "en": "Bokusui Park"
+  },
+  "address": {
+    "ja": "宮崎県日向市東郷町坪谷1267",
+    "en": "1267 Tsuboya, Togo-cho, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "歌人・若山牧水の生家近くにある日向市東郷町の公園キャンプ場。",
+    "en": "Park campsite in Togo, Hyuga, near the birthplace of the poet Wakayama Bokusui."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10525"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

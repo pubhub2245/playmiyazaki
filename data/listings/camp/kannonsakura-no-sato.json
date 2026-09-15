@@ -1,0 +1,36 @@
+{
+  "slug": "kannonsakura-no-sato",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "観音さくらの里",
+    "en": "Kannon-sakura-no-Sato"
+  },
+  "address": {
+    "ja": "宮崎県都城市高城町石山4195",
+    "en": "4195 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-29-2100",
+  "website": "https://miyakonojo-bonchi.com/kannonsakura/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "420円",
+    "en": "420 yen"
+  },
+  "description": {
+    "ja": "観音池公園にある日帰り温泉。露天風呂を含む13種類の湯船。",
+    "en": "Day-use hot spring inside Kannonike Park, with 13 baths including an outdoor bath."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1145"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

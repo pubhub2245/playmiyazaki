@@ -1,0 +1,39 @@
+{
+  "slug": "hourigawa-bijin-no-yu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "祝子川温泉 美人の湯",
+    "en": "Horigawa Onsen Bijin-no-Yu"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北川町下赤",
+    "en": "Shimoaka, Kitagawa-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-23-3080",
+  "website": "https://www.city.nobeoka.miyazaki.jp/site/miryoku/1245.html",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜20:00",
+    "en": "10:00–20:00"
+  },
+  "price": {
+    "ja": "大人（中学生以上） 520円",
+    "en": "Adult (middle school+) 520 yen"
+  },
+  "description": {
+    "ja": "延岡市北川町の日帰り温泉。大崩山の登山帰りに寄れる。",
+    "en": "Day-use hot spring in Kitagawa, Nobeoka. Convenient stop after hiking Ogatayama."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.city.nobeoka.miyazaki.jp/site/miryoku/1245.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

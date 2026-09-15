@@ -1,0 +1,33 @@
+{
+  "slug": "shio-no-mori",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "潮の杜キャンプ場",
+    "en": "Shio-no-Mori Camp"
+  },
+  "address": {
+    "ja": "宮崎県日南市富士4028-4",
+    "en": "4028-4 Fuji, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "旧小学校を活用した日南のキャンプ場。",
+    "en": "Nichinan campsite in a repurposed former elementary school."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/13904"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

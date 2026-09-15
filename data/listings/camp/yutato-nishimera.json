@@ -1,0 +1,33 @@
+{
+  "slug": "yutato-nishimera",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "nishimera",
+  "name": {
+    "ja": "西米良温泉 カリコボーズの湯 ゆた〜と",
+    "en": "Nishimera Onsen Yutato"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡西米良村大字村所260-6",
+    "en": "260-6 Murasho, Nishimera-son, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-41-4126",
+  "website": "http://www.yutato.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "西米良村の中心にある日帰り温泉。カリコボーズという地元の妖怪が名前の由来。",
+    "en": "Day-use hot spring in central Nishimera, named after the local Karikobōzu folklore spirits."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1143"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

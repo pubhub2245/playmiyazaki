@@ -1,0 +1,36 @@
+{
+  "slug": "ebino-kogen-hotel",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "えびの高原ホテル（国民宿舎えびの高原荘）",
+    "en": "Ebino Kogen Hotel"
+  },
+  "address": {
+    "ja": "宮崎県えびの市大字末永1489",
+    "en": "1489 Suenaga, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-33-0161",
+  "website": "https://ebinokogen-hotel.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "日帰り温泉 11:00〜17:00（最終受付 16:00）",
+    "en": "Day-use onsen 11:00–17:00 (last entry 16:00)"
+  },
+  "price": null,
+  "description": {
+    "ja": "えびの高原の県営国民宿舎。日帰り入浴もできる。",
+    "en": "Prefectural lodge on the Ebino Highlands. Day-use bathing available."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1325"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

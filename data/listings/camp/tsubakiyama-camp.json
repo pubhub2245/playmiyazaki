@@ -1,0 +1,33 @@
+{
+  "slug": "tsubakiyama-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "椿山キャンプ場",
+    "en": "Tsubakiyama Campground"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字鏡洲4343-1",
+    "en": "4343-1 Kagamizu, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-58-0896",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市の山あいにある市営キャンプ場。椿山森林公園内。",
+    "en": "City-run campsite in the hills west of Miyazaki, inside Tsubakiyama Forest Park."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.city.miyazaki.miyazaki.jp/institution/list/item10/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

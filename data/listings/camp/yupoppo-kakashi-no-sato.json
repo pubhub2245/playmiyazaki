@@ -1,0 +1,36 @@
+{
+  "slug": "yupoppo-kakashi-no-sato",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "かかしの里 ゆぽっぽ",
+    "en": "Kakashi-no-Sato Yupoppo"
+  },
+  "address": {
+    "ja": "宮崎県都城市山田町中霧島3340-2",
+    "en": "3340-2 Naka-Kirishima, Yamada-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-64-3711",
+  "website": "https://miyakonojo-bonchi.com/yupoppo/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "月〜土 9:00〜22:00（最終受付 21:00）",
+    "en": "Mon–Sat 9:00–22:00 (last entry 21:00)"
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市山田町の日帰り温泉。かかしの里の複合施設内。",
+    "en": "Day-use hot spring in Yamada, Miyakonojo, part of the Kakashi-no-Sato complex."
+  },
+  "tags": null,
+  "sources": [
+    "https://miyakonojo-bonchi.com/yupoppo/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

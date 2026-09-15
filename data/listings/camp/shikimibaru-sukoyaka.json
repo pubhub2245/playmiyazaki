@@ -1,0 +1,33 @@
+{
+  "slug": "shikimibaru-sukoyaka",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "四季見原すこやかの森キャンプ場",
+    "en": "Shikimibaru Sukoyaka-no-Mori Camp"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字上野3751-722",
+    "en": "3751-722 Ueno, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-82-2151",
+  "website": "https://www.town-takachiho.jp/top/soshiki/kikakukanko/2/3/3/303.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "標高1,200mにある町営キャンプ場。九州でもっとも高い場所のキャンプ場のひとつ。",
+    "en": "Town-run camp at 1,200 m, one of the highest-elevation campsites in Kyushu."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1301"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "ishinamigawa-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "石並川キャンプ場",
+    "en": "Ishinamigawa Campground"
+  },
+  "address": {
+    "ja": "宮崎県日向市美々津町",
+    "en": "Mimitsu-cho, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-58-1080",
+  "website": "https://ishinami.rdy.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "夏期のみ営業（7月〜9月）",
+    "en": "Open in summer only (July–September)"
+  },
+  "price": null,
+  "description": {
+    "ja": "石並川ぞいの市営キャンプ場。夏だけ営業。川あそびができる。",
+    "en": "Riverside city-run camp along the Ishinamigawa. Open only in summer. River play on site."
+  },
+  "tags": null,
+  "sources": [
+    "https://ishinami.rdy.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "welvillage-campers-ibii",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "ウエルビレッジ・キャンパーズ伊比井",
+    "en": "Wel-Village Campers Ibii"
+  },
+  "address": {
+    "ja": "宮崎県日南市伊比井1689",
+    "en": "1689 Ibii, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "伊比井駅ちかくの日南のキャンプ場。海まで歩ける。",
+    "en": "Coastal camp in Nichinan near JR Ibii Station, within walking distance of the sea."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/15809"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

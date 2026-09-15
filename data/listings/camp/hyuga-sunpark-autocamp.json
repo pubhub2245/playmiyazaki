@@ -1,0 +1,33 @@
+{
+  "slug": "hyuga-sunpark-autocamp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "日向サンパークオートキャンプ場",
+    "en": "Hyuga Sun Park Auto Camp"
+  },
+  "address": {
+    "ja": "宮崎県日向市幸脇303-5",
+    "en": "303-5 Sachiwaki, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向市南部・幸脇のオートキャンプ場。海に近い。",
+    "en": "Auto camp in Sachiwaki, southern Hyuga. Close to the coast."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10524"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

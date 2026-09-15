@@ -1,0 +1,33 @@
+{
+  "slug": "rvparksmart-meirin",
+  "genre": "camp",
+  "category": [
+    "rvpark"
+  ],
+  "area": "takanabe",
+  "name": {
+    "ja": "RVパークsmart 高鍋町めいりん公園",
+    "en": "RV Park smart Takanabe Meirin Park"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡高鍋町上江6884-1",
+    "en": "6884-1 Kamie, Takanabe-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "092-433-7370",
+  "website": "https://rvparksmart.jp/rv-smart/meirinspa.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高鍋温泉めいりんの湯のそば、めいりん公園の駐車場に整備されたRVパークsmart。",
+    "en": "RV Park smart in the Meirin Park lot next to Takanabe Meirin-no-Yu onsen."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kurumatabi.com/park/rvpark/599.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

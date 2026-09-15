@@ -1,0 +1,33 @@
+{
+  "slug": "hachinosu-park-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "蜂之巣公園キャンプ場",
+    "en": "Hachinosu Park Camp"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町郷之原甲2850-1",
+    "en": "2850-1 Gonohara-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-55-3828",
+  "website": "https://gonharu.info/hachinosu/index.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市北郷、酒谷川ぞいの町営キャンプ場。夏は川遊びができる。",
+    "en": "Riverside town-run camp along the Sakatani in Kitago, Nichinan. River play in summer."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1321"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

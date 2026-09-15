@@ -1,0 +1,35 @@
+{
+  "slug": "autocamp-takachiho",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "rvpark"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "オートキャンプ場in高千穂",
+    "en": "Autocamp in Takachiho"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町三田井3121-2",
+    "en": "3121-2 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-82-2351",
+  "website": "https://www.autocamp-takachiho.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂の中心部から車で約5分。同じ敷地にJRVA認定「RVパーク高千穂」を併設。",
+    "en": "About 5 minutes by car from central Takachiho. Includes the JRVA-certified RV Park Takachiho."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1300",
+    "https://www.kurumatabi.com/park/rvpark/816.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

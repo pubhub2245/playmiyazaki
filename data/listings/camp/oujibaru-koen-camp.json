@@ -1,0 +1,33 @@
+{
+  "slug": "oujibaru-koen-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "皇子原公園キャンプ場",
+    "en": "Ouji-baru Park Camp"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町大字蒲牟田3-251",
+    "en": "3-251 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-42-3393",
+  "website": "https://oujibaru-koen.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂峰の登山口近く、高原町の皇子原公園にあるキャンプ場。",
+    "en": "Campsite in Ouji-baru Park in Takaharu, near the trailhead for Takachiho-no-Mine."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1316"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "konohana-no-yu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "このはなの湯（宮崎市自然休養村センター）",
+    "en": "Konohana-no-Yu"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字加江田6896",
+    "en": "6896 Kaeda, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-65-1921",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜21:00（最終受付 20:30）",
+    "en": "10:00–21:00 (last entry 20:30)"
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市加江田にある市営の日帰り入浴施設。青島から車で近い。",
+    "en": "City-run day-use bathhouse in Kaeda, Miyazaki. Short drive from Aoshima."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.city.miyazaki.miyazaki.jp/culture/facilities/89165.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

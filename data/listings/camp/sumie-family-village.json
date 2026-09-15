@@ -1,0 +1,33 @@
+{
+  "slug": "sumie-family-village",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "須美江家族旅行村",
+    "en": "Sumie Family Travel Village"
+  },
+  "address": {
+    "ja": "宮崎県延岡市須美江町1450-2",
+    "en": "1450-2 Sumie-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-43-0201",
+  "website": "http://sunbeach-sumie.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "須美江海水浴場に隣接した延岡市の家族向けキャンプ場。プールや水族館もある。",
+    "en": "Family-oriented Nobeoka campsite next to Sumie Beach. Pool and small aquarium on site."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1306"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

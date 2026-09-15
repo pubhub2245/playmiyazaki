@@ -1,0 +1,33 @@
+{
+  "slug": "keiryu-no-sato",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "morotsuka",
+  "name": {
+    "ja": "諸塚山 渓流の里",
+    "en": "Morotsuka-yama Keiryu-no-Sato"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡諸塚村七ツ山8650-2",
+    "en": "8650-2 Nanatsuyama, Morotsuka-son, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "諸塚山ぞいの渓流にあるキャンプ場。",
+    "en": "Riverside campground along a stream near Mount Morotsuka."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10513"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

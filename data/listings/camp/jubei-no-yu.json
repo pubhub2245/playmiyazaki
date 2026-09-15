@@ -1,0 +1,33 @@
+{
+  "slug": "jubei-no-yu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "十兵衛の湯（京町温泉）",
+    "en": "Jubei-no-Yu (Kyomachi Onsen)"
+  },
+  "address": {
+    "ja": "宮崎県えびの市大字向江212-1",
+    "en": "212-1 Mukae, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-37-2799",
+  "website": "http://www.jyubei.co.jp/index.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "京町温泉郷の日帰り入浴施設。家族貸切風呂もある。",
+    "en": "Day-use bathhouse in the Kyomachi Onsen area, with private family baths."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2502"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

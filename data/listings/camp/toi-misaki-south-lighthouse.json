@@ -1,0 +1,33 @@
+{
+  "slug": "toi-misaki-south-lighthouse",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "都井岬南灯台キャンプ場",
+    "en": "Toi Misaki South Lighthouse Campground"
+  },
+  "address": {
+    "ja": "宮崎県串間市大字大納57-イ",
+    "en": "57-i Ono, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都井岬の南、灯台の近くにあるキャンプ場。周辺には野生馬の岬馬。",
+    "en": "Campsite near the lighthouse on Cape Toi, home to the wild Misaki horses."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/15962"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

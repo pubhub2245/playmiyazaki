@@ -1,0 +1,33 @@
+{
+  "slug": "oku-kirishima-miike-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "奥霧島御池キャンプ村",
+    "en": "Oku-Kirishima Miike Camp Village"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町大字蒲牟田長尾",
+    "en": "Nagao, Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-42-4038",
+  "website": "https://lake-miike.com/camp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "御池の湖畔にあるキャンプ場。テントサイトとバンガロー。",
+    "en": "Lakeside campground at Lake Miike, with tent sites and bungalows."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1318"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

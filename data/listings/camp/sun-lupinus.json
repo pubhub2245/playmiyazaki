@@ -1,0 +1,39 @@
+{
+  "slug": "sun-lupinus",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "shintomi",
+  "name": {
+    "ja": "新富町温泉健康センター サン・ルピナス",
+    "en": "Sun Lupinus"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡新富町三納代1859-1",
+    "en": "1859-1 Minoushiro, Shintomi-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-33-1000",
+  "website": "https://sun-lupinus.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜22:00",
+    "en": "10:00–22:00"
+  },
+  "price": {
+    "ja": "大人 500円",
+    "en": "Adult 500 yen"
+  },
+  "description": {
+    "ja": "新富町のラジウム温泉。町営の日帰り施設。",
+    "en": "Municipal day-use radium hot spring in Shintomi."
+  },
+  "tags": null,
+  "sources": [
+    "https://sun-lupinus.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

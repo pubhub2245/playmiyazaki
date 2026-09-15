@@ -1,0 +1,34 @@
+{
+  "slug": "kannonike-koen",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "onsen"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "観音池公園",
+    "en": "Kannonike Park"
+  },
+  "address": {
+    "ja": "宮崎県都城市高城町石山4195",
+    "en": "4195 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-58-6139",
+  "website": "https://miyakonojo-bonchi.com/kannonike-park/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市高城町の複合施設。キャンプ場、プール、温泉「観音さくらの里」を持つ。",
+    "en": "Complex in Takajo, Miyakonojo. Campground, pool, and the Kannon-sakura-no-Sato hot spring."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1091"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

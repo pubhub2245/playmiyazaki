@@ -1,0 +1,33 @@
+{
+  "slug": "oseri-taki-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "misato",
+  "name": {
+    "ja": "おせりの滝キャンプ場",
+    "en": "Oseri-no-Taki Camp"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡美郷町西郷小原1040-1",
+    "en": "1040-1 Kohara, Saigo, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "美郷町西郷、おせりの滝のそばのキャンプ場。",
+    "en": "Camp near Oseri Falls in Saigo, Misato."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10516"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

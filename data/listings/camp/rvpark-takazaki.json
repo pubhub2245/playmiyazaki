@@ -1,0 +1,33 @@
+{
+  "slug": "rvpark-takazaki",
+  "genre": "camp",
+  "category": [
+    "rvpark"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "RVパークたかざき",
+    "en": "RV Park Takazaki"
+  },
+  "address": {
+    "ja": "宮崎県都城市高崎町大牟田1399 高崎パークゴルフ場",
+    "en": "Takazaki Park Golf Course, 1399 Omuta, Takazaki-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-62-4448",
+  "website": "https://miyakonojo-bonchi.com",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高崎パークゴルフ場に併設されたJRVA認定RVパーク。近くにラスパたかざき温泉。",
+    "en": "JRVA-certified RV park at Takazaki Park Golf Course. Laspa Takazaki onsen is nearby."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kurumatabi.com/park/rvpark/629.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

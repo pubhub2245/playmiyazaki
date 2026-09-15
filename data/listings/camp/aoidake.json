@@ -1,0 +1,41 @@
+{
+  "slug": "aoidake",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "rvpark",
+    "carstay",
+    "onsen"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "青井岳温泉・青井岳キャンプ場",
+    "en": "Aoidake Onsen & Camp"
+  },
+  "address": {
+    "ja": "宮崎県都城市山之口町山之口2123",
+    "en": "2123 Yamanokuchi, Yamanokuchi-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-57-2177",
+  "website": "https://aoidake.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "温泉 7:00〜22:00（最終受付21:00）年中無休",
+    "en": "Onsen 7:00–22:00 (last entry 21:00), open year round"
+  },
+  "price": null,
+  "description": {
+    "ja": "青井岳の温泉と、同じ敷地のキャンプ場・RVパーク・車中泊エリア。RVサイトは電源・水場あり。",
+    "en": "Aoidake hot spring with an on-site campsite, JRVA RV park, and car-stay bays. RV sites have power and water."
+  },
+  "tags": null,
+  "sources": [
+    "https://aoidake.com/camp/",
+    "https://www.kurumatabi.com/park/rvpark/1454.html",
+    "https://www.kanko-miyazaki.jp/spot/2384"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

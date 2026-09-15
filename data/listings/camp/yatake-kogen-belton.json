@@ -1,0 +1,33 @@
+{
+  "slug": "yatake-kogen-belton",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "矢岳高原ベルトンオートキャンプ場",
+    "en": "Yatake Kogen Belton Auto Camp"
+  },
+  "address": {
+    "ja": "宮崎県えびの市大字西川北1377-2",
+    "en": "1377-2 Nishikawakita, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-37-1033",
+  "website": "https://wakuwakucamp.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "えびの市の矢岳高原にあるオートキャンプ場。展望台からえびの盆地を見渡せる。",
+    "en": "Auto camp on the Yatake Highlands in Ebino. The lookout takes in the Ebino basin."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1314"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

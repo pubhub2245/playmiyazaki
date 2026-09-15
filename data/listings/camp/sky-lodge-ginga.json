@@ -1,0 +1,33 @@
+{
+  "slug": "sky-lodge-ginga",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "misato",
+  "name": {
+    "ja": "スカイロッジ銀河村",
+    "en": "Sky Lodge Ginga Village"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡美郷町北郷宇納間7527-17",
+    "en": "7527-17 Unama, Kitago, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "美郷町北郷、標高約900mの山あいのロッジとキャンプ場。",
+    "en": "Mountain lodges and campsite at around 900 m in Kitago, Misato."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10519"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

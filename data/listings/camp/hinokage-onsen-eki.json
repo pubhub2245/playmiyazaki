@@ -1,0 +1,39 @@
+{
+  "slug": "hinokage-onsen-eki",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "hinokage",
+  "name": {
+    "ja": "日之影温泉駅",
+    "en": "Hinokage Onsen Eki"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡日之影町大字七折3235-5",
+    "en": "3235-5 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-87-2690",
+  "website": "https://hinokagecho.com/hinokageonsen.html",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "温泉 12:00〜20:30",
+    "en": "Onsen 12:00–20:30"
+  },
+  "price": {
+    "ja": "大人 500円",
+    "en": "Adult 500 yen"
+  },
+  "description": {
+    "ja": "旧高千穂鉄道の日之影駅を再利用した日帰り温泉施設。",
+    "en": "Day-use hot spring housed in the former Hinokage station of the Takachiho Railway."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1135"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

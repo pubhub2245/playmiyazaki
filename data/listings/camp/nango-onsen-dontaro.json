@@ -1,0 +1,39 @@
+{
+  "slug": "nango-onsen-dontaro",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "misato",
+  "name": {
+    "ja": "南郷温泉 山霧（どんタロの湯）",
+    "en": "Nango Onsen Yamagiri (Dontaro-no-Yu)"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡美郷町南郷神門151-1",
+    "en": "151-1 Mikado, Nango, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-59-0100",
+  "website": "http://www.nango-spa.co.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "温泉 10:00〜20:00",
+    "en": "Onsen 10:00–20:00"
+  },
+  "price": {
+    "ja": "大人 520円",
+    "en": "Adult 520 yen"
+  },
+  "description": {
+    "ja": "美郷町南郷の日帰り温泉。山あいの静かな立地。",
+    "en": "Day-use hot spring in Nango, Misato, tucked into the hills."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1147"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "otoshima-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "kadogawa",
+  "name": {
+    "ja": "無人島「乙島」キャンプ場",
+    "en": "Otoshima Uninhabited Island Camp"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡門川町門川尾末",
+    "en": "Kadogawa-Suenaga, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-57-4110",
+  "website": "https://kadogawa-ta.com/otojima/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "門川湾の無人島にある船で渡るキャンプ場。予約は門川町観光協会で。",
+    "en": "Boat-access camp on an uninhabited island in Kadogawa Bay. Book via the Kadogawa Tourism Association."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1310"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

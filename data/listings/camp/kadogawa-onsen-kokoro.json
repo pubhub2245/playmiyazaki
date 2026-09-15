@@ -1,0 +1,39 @@
+{
+  "slug": "kadogawa-onsen-kokoro",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "kadogawa",
+  "name": {
+    "ja": "かどがわ温泉 心の杜",
+    "en": "Kadogawa Onsen Kokoro-no-Mori"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡門川町大字庵川1942",
+    "en": "1942 Iogawa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-63-7780",
+  "website": "https://kadogawa-kokoronomori.com",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "温泉 10:00〜21:00",
+    "en": "Onsen 10:00–21:00"
+  },
+  "price": {
+    "ja": "大人 600円",
+    "en": "Adult 600 yen"
+  },
+  "description": {
+    "ja": "門川町の日帰り温泉。海のそばで海鮮の食事もできる。",
+    "en": "Day-use hot spring in Kadogawa near the coast, with a seafood restaurant on site."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2294"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

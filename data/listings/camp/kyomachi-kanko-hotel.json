@@ -1,0 +1,36 @@
+{
+  "slug": "kyomachi-kanko-hotel",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "京町観光ホテル",
+    "en": "Kyomachi Kanko Hotel"
+  },
+  "address": {
+    "ja": "宮崎県えびの市向江669",
+    "en": "669 Mukae, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-37-1231",
+  "website": "https://kyoukan.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "立ち寄り湯 7:00〜22:00（最終受付 21:00）",
+    "en": "Day-use bath 7:00–22:00 (last entry 21:00)"
+  },
+  "price": null,
+  "description": {
+    "ja": "京町温泉のホテル。立ち寄り湯もできる。",
+    "en": "Hotel in the Kyomachi Onsen area that also welcomes day-use bathers."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2601"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

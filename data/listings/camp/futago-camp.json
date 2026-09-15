@@ -1,0 +1,33 @@
+{
+  "slug": "futago-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nishimera",
+  "name": {
+    "ja": "双子キャンプ村オートキャンプ場",
+    "en": "Futago Camp Village Auto Camp"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡西米良村村所字広瀬264-1",
+    "en": "264-1 Hirose, Murasho, Nishimera-son, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "西米良村のオートキャンプ場。西米良温泉ゆた〜とに近い。",
+    "en": "Auto camp in Nishimera Village, close to Yutato hot spring."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10492"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

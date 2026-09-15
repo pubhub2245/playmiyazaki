@@ -1,0 +1,33 @@
+{
+  "slug": "ikenokubo-green-park",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "morotsuka",
+  "name": {
+    "ja": "池の窪グリーンパーク",
+    "en": "Ikenokubo Green Park"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡諸塚村家代3574-2",
+    "en": "3574-2 Iejiro, Morotsuka-son, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-65-0526",
+  "website": "https://www.morotsuka-tourism.jp/spot/ikenokubo/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "標高約800mにある諸塚村のキャンプ場。バンガローとテントサイト。",
+    "en": "Morotsuka Village campsite at around 800 m elevation, with bungalows and tent sites."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1049"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

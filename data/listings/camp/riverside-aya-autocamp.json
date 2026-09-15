@@ -1,0 +1,37 @@
+{
+  "slug": "riverside-aya-autocamp",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "onsen"
+  ],
+  "area": "aya",
+  "name": {
+    "ja": "リバーサイド綾オートキャンプ場（綾川荘）",
+    "en": "Riverside Aya Auto Camp (Ayakawaso)"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡綾町北俣3765",
+    "en": "3765 Kitamata, Aya-cho, Higashi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0570-008-015",
+  "website": "https://ayakawasou.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "温泉入浴 10:00〜21:00",
+    "en": "Onsen 10:00–21:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "綾北川沿いのオートキャンプ場。同じ敷地内の綾川荘で日帰り入浴もできる。",
+    "en": "Auto camp along the Ayakita River. Ayakawaso on the same site offers day-use onsen."
+  },
+  "tags": null,
+  "sources": [
+    "https://ayakawasou.com/facility"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

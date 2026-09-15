@@ -1,0 +1,33 @@
+{
+  "slug": "mizushidani-furusato-mura",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "misato",
+  "name": {
+    "ja": "水清谷ふるさと村オートキャンプ場",
+    "en": "Mizushidani Furusato-mura Auto Camp"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡美郷町南郷水清谷47",
+    "en": "47 Mizushidani, Nango, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-59-0613",
+  "website": "https://www.visit-misato.jp/infopage/camp-mizushidani/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "美郷町南郷の川ぞいのオートキャンプ場。",
+    "en": "Riverside auto camp in Nango, Misato."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1308"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

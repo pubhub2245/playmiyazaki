@@ -1,0 +1,33 @@
+{
+  "slug": "gokase-no-sato",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "gokase",
+  "name": {
+    "ja": "五ヶ瀬の里キャンプ村",
+    "en": "Gokase-no-Sato Camp Village"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡五ヶ瀬町三ヶ所141-1",
+    "en": "141-1 Sangasho, Gokase-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "090-4475-5005",
+  "website": "https://www.gokasens.org/camp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "五ヶ瀬町にあるゲストハウス併設のキャンプ場。",
+    "en": "Camp village with an attached guesthouse in Gokase."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.gokasens.org/camp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "kijo-onsen-yurara",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "kijo",
+  "name": {
+    "ja": "木城温泉館 湯らら",
+    "en": "Kijo Onsen-kan Yurara"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡木城町大字高城1403-1",
+    "en": "1403-1 Takajo, Kijo-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-32-2525",
+  "website": "http://service.kijo.jp/~yurara/index.html",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜21:00",
+    "en": "10:00–21:00"
+  },
+  "price": {
+    "ja": "大人 600円",
+    "en": "Adult 600 yen"
+  },
+  "description": {
+    "ja": "木城町の日帰り温泉。露天風呂と食事処あり。",
+    "en": "Day-use hot spring in Kijo, with an outdoor bath and a restaurant."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2576"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

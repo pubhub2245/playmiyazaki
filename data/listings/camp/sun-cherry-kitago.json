@@ -1,0 +1,36 @@
+{
+  "slug": "sun-cherry-kitago",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "サンチェリーきたごう",
+    "en": "Sun Cherry Kitago"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町大藤甲1519-1",
+    "en": "1519-1 Ofuji-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-67-4737",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "大浴場 11:00〜20:00",
+    "en": "Bath 11:00–20:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "日南市北郷の市営温泉施設。2024年12月に再開。",
+    "en": "Municipal hot spring in Kitago, Nichinan. Reopened in December 2024."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.city.nichinan.lg.jp/soshikikarasagasu/kanko_cruiseka/1/3/5913.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "hinamori-autocamp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "ひなもりオートキャンプ場",
+    "en": "Hinamori Auto Camp"
+  },
+  "address": {
+    "ja": "宮崎県小林市細野字山中之前5739-14",
+    "en": "5739-14 Hosono Yamanaka-no-mae, Kobayashi-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-23-8100",
+  "website": "https://www.hinamori.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "霧島山の麓、標高約630mにある県立のオートキャンプ場。夏でも涼しい。",
+    "en": "Prefectural auto campsite at ~630 m at the foot of the Kirishima range. Stays cool in summer."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1313"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

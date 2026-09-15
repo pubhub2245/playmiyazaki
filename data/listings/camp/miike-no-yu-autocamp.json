@@ -1,0 +1,34 @@
+{
+  "slug": "miike-no-yu-autocamp",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "onsen"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "御池の湯オートキャンプ場",
+    "en": "Miike-no-Yu Auto Camp"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町大字蒲牟田7412-2",
+    "en": "7412-2 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-42-4088",
+  "website": "https://miikenoyu-camp.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "御池の湖畔、天然温泉が併設されたオートキャンプ場。",
+    "en": "Auto camp on the shore of Lake Miike, with an on-site natural hot spring."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1317"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

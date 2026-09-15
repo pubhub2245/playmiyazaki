@@ -1,0 +1,33 @@
+{
+  "slug": "shimoso-hamayuu",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "下阿蘇ビーチ「浜木綿村」ソレイユ・ルヴァン",
+    "en": "Shimo-Aso Beach Hamayuu-mura / Soleil Levant"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北浦町古江3337-1",
+    "en": "3337-1 Furue, Kitaura-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-45-3811",
+  "website": "https://michinoeki-kitaura.com/cms/soleil-levant/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "道の駅北浦の中にあるビーチキャンプ場。下阿蘇ビーチは日本の海水浴場100選。",
+    "en": "Beach camp within Michi-no-Eki Kitaura. Shimo-Aso Beach is on Japan's Top 100 Beaches list."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1305"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

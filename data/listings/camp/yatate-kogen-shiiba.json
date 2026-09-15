@@ -1,0 +1,33 @@
+{
+  "slug": "yatate-kogen-shiiba",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "shiiba",
+  "name": {
+    "ja": "矢立高原キャンプ場",
+    "en": "Yatate Kogen Campground"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡椎葉村大河内字矢立",
+    "en": "Yatate, Ookawachi, Shiiba-son, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-38-1440",
+  "website": "https://www.shiibakanko.jp/tourism/play/play3",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "椎葉村の高原にあるキャンプ場。",
+    "en": "Highland campsite in Shiiba Village."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.shiibakanko.jp/tourism/play/play3"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "hinokage-camp-mura",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hinokage",
+  "name": {
+    "ja": "日之影キャンプ村",
+    "en": "Hinokage Camp Village"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡日之影町七折6164",
+    "en": "6164 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-87-2820",
+  "website": "https://hinokage-camp.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日之影町の五ヶ瀬川沿いのキャンプ場。テントサイトとバンガロー。",
+    "en": "Riverside camp along the Gokase in Hinokage, with tent sites and bungalows."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1303"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

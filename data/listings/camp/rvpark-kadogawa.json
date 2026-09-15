@@ -1,0 +1,33 @@
+{
+  "slug": "rvpark-kadogawa",
+  "genre": "camp",
+  "category": [
+    "rvpark"
+  ],
+  "area": "kadogawa",
+  "name": {
+    "ja": "RVパークかどがわ",
+    "en": "RV Park Kadogawa"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡門川町加草2333",
+    "en": "2333 Kagusa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-68-1101",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "農海産物直売所に隣接する門川町のJRVA認定RVパーク。",
+    "en": "JRVA-certified RV park in Kadogawa, next to a produce and seafood direct sales shop."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kurumatabi.com/park/rvpark/585.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

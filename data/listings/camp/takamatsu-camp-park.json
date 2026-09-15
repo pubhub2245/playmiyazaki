@@ -1,0 +1,34 @@
+{
+  "slug": "takamatsu-camp-park",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "carstay"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "高松キャンプ公園",
+    "en": "Takamatsu Camp Park"
+  },
+  "address": {
+    "ja": "宮崎県串間市大字高松1233-6",
+    "en": "1233-6 Takamatsu, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-55-1126",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高松海水浴場のとなり。フリー、オート、キャンピングカー、バーベキューの各サイトがある。",
+    "en": "Next to Takamatsu Beach. Free, auto, campervan, and BBQ sites available."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1323"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

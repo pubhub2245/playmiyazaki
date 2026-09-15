@@ -1,0 +1,33 @@
+{
+  "slug": "sakatani-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "酒谷キャンプ場",
+    "en": "Sakatani Campground"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字酒谷甲3360-2",
+    "en": "3360-2 Sakatani-ko, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-26-1216",
+  "website": "https://michinoeki-sakatani.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "道の駅酒谷に隣接するキャンプ場。買い出しは道の駅で。",
+    "en": "Campground next to Michi-no-Eki Sakatani. Provisions available at the roadside station."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1322"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

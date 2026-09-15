@@ -1,0 +1,34 @@
+{
+  "slug": "dog-run-camp-suzu",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "rvpark"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "DOG RUN & CAMP FIELD SUZU",
+    "en": "Dog Run & Camp Field Suzu"
+  },
+  "address": {
+    "ja": "宮崎県日向市日知屋682-192",
+    "en": "682-192 Hichiya, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-52-4092",
+  "website": "https://dogandcampsuzu.studio.site",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "貸切キャンプ場とドッグランに、JRVA認定RVパークを併設。",
+    "en": "Private camp with dog run and a JRVA-certified RV park on the same site."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kurumatabi.com/park/rvpark/1363.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

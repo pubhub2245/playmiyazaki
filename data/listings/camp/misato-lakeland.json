@@ -1,0 +1,34 @@
+{
+  "slug": "misato-lakeland",
+  "genre": "camp",
+  "category": [
+    "campsite",
+    "onsen"
+  ],
+  "area": "misato",
+  "name": {
+    "ja": "美郷レイクランド（石峠レイクランド）",
+    "en": "Misato Lakeland"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡美郷町西郷田代5812-1",
+    "en": "5812-1 Tashiro, Saigo, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-68-2222",
+  "website": "https://i-lakeland.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "耳川ダム湖ぞいの複合施設。宿泊、キャンプ、温泉「耳川の湯」がある。",
+    "en": "Lakeside complex on the Mimikawa reservoir. Lodging, camping, and the Mimikawa-no-Yu onsen."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1134"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "shikakawa-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "鹿川キャンプ場",
+    "en": "Shikakawa Campground"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北方町上鹿川申986-45",
+    "en": "986-45 Kami-Shikakawa, Kitakata-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北方町、九州脊梁の山あいにある山岳系キャンプ場。",
+    "en": "Mountain camp in Kitakata, Nobeoka, in the heart of the Kyushu Spine range."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.nap-camp.com/miyazaki/10485"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

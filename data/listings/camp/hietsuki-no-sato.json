@@ -1,0 +1,33 @@
+{
+  "slug": "hietsuki-no-sato",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "shiiba",
+  "name": {
+    "ja": "BASE CAMP shiiba",
+    "en": "Base Camp Shiiba"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡椎葉村大字下福良1-2",
+    "en": "1-2 Shimo-fukura, Shiiba-son, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-67-2722",
+  "website": "https://www.shiibakanko.jp/tourism/play/play3",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "椎葉村のダム湖ぞい、コテージ併設のキャンプ場。",
+    "en": "Shiiba Village camp with cottages beside the reservoir."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1307"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

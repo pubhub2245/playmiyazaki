@@ -1,0 +1,36 @@
+{
+  "slug": "sukimuland-kajika",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "すきむらんど かじかの湯",
+    "en": "Sukimu-Land Kajika-no-Yu"
+  },
+  "address": {
+    "ja": "宮崎県小林市須木下田356-1",
+    "en": "356-1 Sugi-Shimoda, Kobayashi-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-48-2480",
+  "website": "https://sukimuland.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "中学生以上 500円、小学生 250円",
+    "en": "Middle school+ 500 yen; elementary 250 yen"
+  },
+  "description": {
+    "ja": "小林市須木のすきむらんど内の日帰り温泉。",
+    "en": "Day-use hot spring inside the Sukimu-Land complex in Sugi, Kobayashi."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1059"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

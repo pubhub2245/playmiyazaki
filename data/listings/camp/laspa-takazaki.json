@@ -1,0 +1,36 @@
+{
+  "slug": "laspa-takazaki",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "都城たかざき温泉 ラスパたかざき",
+    "en": "Laspa Takazaki"
+  },
+  "address": {
+    "ja": "宮崎県都城市高崎町大牟田1332-8",
+    "en": "1332-8 Omuta, Takazaki-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-62-5526",
+  "website": "https://www.laspatakazaki.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜21:00（最終受付 20:30）",
+    "en": "8:00–21:00 (last entry 20:30)"
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市高崎町の日帰り温泉。RVパークたかざきに近い。",
+    "en": "Day-use hot spring in Takazaki, Miyakonojo. Close to RV Park Takazaki."
+  },
+  "tags": null,
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2565"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}
