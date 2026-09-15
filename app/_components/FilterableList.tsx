@@ -1,8 +1,9 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useState } from "react";
 import { Row, type RowData } from "./Row";
 import type { Lang } from "@/lib/i18n";
+import { useReveal } from "./useReveal";
 
 export type FilterableItem = RowData & {
   searchIndex: string;
@@ -35,37 +36,7 @@ export function FilterableList({
   hideWhenEmpty?: boolean;
 }) {
   const [q, setQ] = useState("");
-  const ref = useRef<HTMLUListElement>(null);
-  const [inView, setInView] = useState(false);
-
-  useEffect(() => {
-    const prefersReduced =
-      typeof window !== "undefined" &&
-      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (prefersReduced) {
-      setInView(true);
-      return;
-    }
-    const el = ref.current;
-    if (!el) return;
-    if (typeof IntersectionObserver === "undefined") {
-      setInView(true);
-      return;
-    }
-    const io = new IntersectionObserver(
-      (entries) => {
-        for (const e of entries) {
-          if (e.isIntersecting) {
-            setInView(true);
-            io.disconnect();
-          }
-        }
-      },
-      { rootMargin: "0px 0px -10% 0px", threshold: 0.05 },
-    );
-    io.observe(el);
-    return () => io.disconnect();
-  }, []);
+  const { ref, className: revealClass } = useReveal<HTMLUListElement>();
 
   const query = q.trim().toLowerCase();
   const filtered = useMemo(() => {
@@ -93,7 +64,7 @@ export function FilterableList({
         ) : (
           <ul
             ref={ref}
-            className={"pm-list list-none p-0 m-0 " + (inView ? "in" : "")}
+            className={"pm-list list-none p-0 m-0 " + revealClass}
           >
             {filtered.map((it) => (
               <Row key={it.slug} data={it} lang={lang} />

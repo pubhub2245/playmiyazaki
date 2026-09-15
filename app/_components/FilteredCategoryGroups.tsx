@@ -1,9 +1,10 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useState } from "react";
 import { Row } from "./Row";
 import type { FilterableItem } from "./FilterableList";
 import type { Lang } from "@/lib/i18n";
+import { useReveal } from "./useReveal";
 
 export type Group = {
   key: string;
@@ -72,48 +73,14 @@ export function FilteredCategoryGroups({
 }
 
 function GroupSection({ group, lang }: { group: Group; lang: Lang }) {
-  const ref = useRef<HTMLUListElement>(null);
-  const [inView, setInView] = useState(false);
-
-  useEffect(() => {
-    const prefersReduced =
-      typeof window !== "undefined" &&
-      window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (prefersReduced) {
-      setInView(true);
-      return;
-    }
-    const el = ref.current;
-    if (!el) return;
-    if (typeof IntersectionObserver === "undefined") {
-      setInView(true);
-      return;
-    }
-    const io = new IntersectionObserver(
-      (entries) => {
-        for (const e of entries) {
-          if (e.isIntersecting) {
-            setInView(true);
-            io.disconnect();
-          }
-        }
-      },
-      { rootMargin: "0px 0px -10% 0px", threshold: 0.05 },
-    );
-    io.observe(el);
-    return () => io.disconnect();
-  }, []);
-
+  const { ref, className: revealClass } = useReveal<HTMLUListElement>();
   return (
     <section className="space-y-2">
       <h2 className="pm-subhead">
         <span>{group.label}</span>
         <span className="pm-mono text-text-secondary">{group.items.length}</span>
       </h2>
-      <ul
-        ref={ref}
-        className={"pm-list list-none p-0 m-0 " + (inView ? "in" : "")}
-      >
+      <ul ref={ref} className={"pm-list list-none p-0 m-0 " + revealClass}>
         {group.items.map((it) => (
           <Row key={it.slug} data={it} lang={lang} />
         ))}
