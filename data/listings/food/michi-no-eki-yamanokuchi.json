@@ -25,7 +25,9 @@
     "en": "Direct-sales shop at Michi-no-Eki Yamanokuchi, Miyakonojo. Local vegetables and kanchisu."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1128"
   ],

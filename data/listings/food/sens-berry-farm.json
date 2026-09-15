@@ -25,7 +25,9 @@
     "en": "Strawberry-picking farm in Harada, Ebino."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/strawberry"
   ],

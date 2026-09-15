@@ -25,7 +25,9 @@
     "en": "Miyazaki Jitokko farm in Takazaki, Miyakonojo. Sells whole birds and prepared products direct."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://www.city.miyakonojo.miyazaki.jp/site/chicken/22834.html"
   ],

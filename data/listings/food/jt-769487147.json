@@ -1,0 +1,39 @@
+{
+  "slug": "jt-769487147",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎食酒処 ぎんの月",
+    "en": "宮崎食酒処 ぎんの月"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通東2-4-5",
+    "en": "宮崎県宮崎市橘通東2-4-5 (Miyazaki)"
+  },
+  "lat": 31.9118613,
+  "lng": 131.4227002,
+  "phone": "0985-60-7830",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:30～23:00",
+    "en": "17:30～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1769487147"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

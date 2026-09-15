@@ -28,7 +28,9 @@
     "en": "Strawberry farm in Shiomi, Hyuga. 50-minute all-you-can-eat picking."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/strawberry"
   ],

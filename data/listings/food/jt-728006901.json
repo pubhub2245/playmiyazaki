@@ -1,0 +1,37 @@
+{
+  "slug": "jt-728006901",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "焼鳥 蒼樹",
+    "en": "焼鳥 蒼樹"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市高松町1-1 第七匠家ビル1F",
+    "en": "宮崎県宮崎市高松町1-1 第七匠家ビル1F (Miyazaki)"
+  },
+  "lat": 31.9133327,
+  "lng": 131.4202397,
+  "phone": "0985-89-4555",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～24:00",
+    "en": "18:00～24:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1728006901"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

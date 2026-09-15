@@ -1,0 +1,39 @@
+{
+  "slug": "jt-733461366",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "海鮮問屋",
+    "en": "海鮮問屋"
+  },
+  "address": {
+    "ja": "宮崎県日向市都町1-7",
+    "en": "宮崎県日向市都町1-7 (Miyazaki)"
+  },
+  "lat": 32.4254979,
+  "lng": 131.6259905,
+  "phone": "0982-55-3646",
+  "website": "https://kaisendonya.sunnygarden.jp",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～22:00",
+    "en": "17:00～22:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1733461366"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

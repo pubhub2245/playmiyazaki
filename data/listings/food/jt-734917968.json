@@ -1,0 +1,37 @@
+{
+  "slug": "jt-734917968",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "一休",
+    "en": "一休"
+  },
+  "address": {
+    "ja": "宮崎県日向市本町13-5",
+    "en": "宮崎県日向市本町13-5 (Miyazaki)"
+  },
+  "lat": 32.4237119,
+  "lng": 131.6252678,
+  "phone": "0982-66-1900",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:00",
+    "en": "17:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休毎週火曜日、第三水曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1734917968"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

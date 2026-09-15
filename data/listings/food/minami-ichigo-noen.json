@@ -28,7 +28,9 @@
     "en": "Strawberry farm in Kitago, Nichinan. Grapes and persimmons also in season."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.373strawberryfarm.com/picking.php"
   ],

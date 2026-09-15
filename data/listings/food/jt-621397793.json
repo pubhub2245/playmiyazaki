@@ -1,0 +1,39 @@
+{
+  "slug": "jt-621397793",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "個室大衆居酒屋かがわ",
+    "en": "個室大衆居酒屋かがわ"
+  },
+  "address": {
+    "ja": "宮崎県都城市鷹尾３丁目４街区３号",
+    "en": "宮崎県都城市鷹尾３丁目４街区３号 (Miyazaki)"
+  },
+  "lat": 31.721823,
+  "lng": 131.041039,
+  "phone": "0986-77-9193",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "16：00～22：00",
+    "en": "16：00～22：00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休水曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1621397793"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

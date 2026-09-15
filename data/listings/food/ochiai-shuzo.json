@@ -28,7 +28,10 @@
     "en": "Shochu brewery in Kagamizu, Miyazaki. Tours by reservation only."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura2"
   ],

@@ -25,7 +25,9 @@
     "en": "Aoshima fisheries co-op direct sales. Aoshima-dore seafood."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://www.pride-fish.jp/shop/index.php?c=shop2&pk=1424737936"
   ],

@@ -28,7 +28,9 @@
     "en": "Strawberry farm in Kiyotake, Miyazaki. Choose between weigh-out or all-you-can-pick."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/strawberry"
   ],

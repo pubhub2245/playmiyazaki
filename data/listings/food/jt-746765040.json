@@ -1,0 +1,37 @@
+{
+  "slug": "jt-746765040",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "みやざき晴マチ",
+    "en": "みやざき晴マチ"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市中央通3-1",
+    "en": "宮崎県宮崎市中央通3-1 (Miyazaki)"
+  },
+  "lat": 31.9151671,
+  "lng": 131.4217442,
+  "phone": "0985-83-0222",
+  "website": "https://www.hotpepper.jp/strJ001249270/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "11:30～23:30",
+    "en": "11:30～23:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746765040"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

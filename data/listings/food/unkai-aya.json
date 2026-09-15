@@ -28,7 +28,11 @@
     "en": "Unkai's Aya facility. Tour is about 90 min with tasting. Direct sales on site."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "tasting",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura2"
   ],

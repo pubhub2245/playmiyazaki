@@ -1,0 +1,39 @@
+{
+  "slug": "jt-718865553",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "はに和",
+    "en": "はに和"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市中央通り6-5ウエストビル107",
+    "en": "宮崎県宮崎市中央通り6-5ウエストビル107 (Miyazaki)"
+  },
+  "lat": 31.91545,
+  "lng": 131.4206,
+  "phone": "0985-23-7173",
+  "website": "http://www.haniwa-miyazaki.com",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～22：00",
+    "en": "18:00～22：00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1718865553"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

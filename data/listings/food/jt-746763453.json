@@ -1,0 +1,37 @@
+{
+  "slug": "jt-746763453",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎風土 あっぱれ食堂",
+    "en": "宮崎風土 あっぱれ食堂"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通西3-8-12 吉田ビル1階",
+    "en": "宮崎県宮崎市橘通西3-8-12 吉田ビル1階 (Miyazaki)"
+  },
+  "lat": 31.9150721,
+  "lng": 131.4220398,
+  "phone": "0985-64-9995",
+  "website": "https://www.hotpepper.jp/strJ000763546/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "11:30～23:30",
+    "en": "11:30～23:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746763453"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

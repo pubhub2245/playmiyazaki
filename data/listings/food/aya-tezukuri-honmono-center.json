@@ -25,7 +25,9 @@
     "en": "Aya direct-sales facility. Certified organic produce, prepared foods, and crafts."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://www.town.aya.miyazaki.jp/site/tour-guide/9339.html"
   ],

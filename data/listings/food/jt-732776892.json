@@ -1,0 +1,39 @@
+{
+  "slug": "jt-732776892",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "居酒屋 無我夢中",
+    "en": "居酒屋 無我夢中"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町三田井4番地 松本ビル2階",
+    "en": "宮崎県西臼杵郡高千穂町三田井4番地 松本ビル2階 (Miyazaki)"
+  },
+  "lat": 32.7101859,
+  "lng": 131.3077653,
+  "phone": "0982-72-6001",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～21:30",
+    "en": "17:00～21:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1732776892"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

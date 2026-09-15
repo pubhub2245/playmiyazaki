@@ -1,0 +1,37 @@
+{
+  "slug": "jt-746764226",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "みやざき晴夜 炭火地鶏 藁焼かつお せいろ蒸し",
+    "en": "みやざき晴夜 炭火地鶏 藁焼かつお せいろ蒸し"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通西3丁目1番4号ラ・ルーチェビル1階",
+    "en": "宮崎県宮崎市橘通西3丁目1番4号ラ・ルーチェビル1階 (Miyazaki)"
+  },
+  "lat": 31.9135319,
+  "lng": 131.4216914,
+  "phone": "0985-64-9003",
+  "website": "https://www.hotpepper.jp/strJ001010609/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:30",
+    "en": "17:00～23:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746764226"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -28,7 +28,9 @@
     "en": "A former railway tunnel used as a shochu cellar. Free tastings of Kagura Shuzo's shochu."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tasting"
+  ],
   "sources": [
     "https://tonnerunoeki.com/about"
   ],

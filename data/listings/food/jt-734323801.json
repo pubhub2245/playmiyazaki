@@ -1,0 +1,37 @@
+{
+  "slug": "jt-734323801",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "ともえまる食堂",
+    "en": "ともえまる食堂"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字三田井1265-13",
+    "en": "宮崎県西臼杵郡高千穂町大字三田井1265-13 (Miyazaki)"
+  },
+  "lat": 32.7069642,
+  "lng": 131.3038685,
+  "phone": "0982-83-1166",
+  "website": "https://Tomoemaru.jp",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 11:00～14:00 土・日・祝 11:00～15:00",
+    "en": "平日 11:00～14:00 土・日・祝 11:00～15:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1734323801"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

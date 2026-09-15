@@ -1,0 +1,40 @@
+{
+  "slug": "jt-608001124",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "みやざき地頭鶏 百笑村",
+    "en": "みやざき地頭鶏 百笑村"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市田野町乙9281-3",
+    "en": "宮崎県宮崎市田野町乙9281-3 (Miyazaki)"
+  },
+  "lat": 31.8425426,
+  "lng": 131.3004796,
+  "phone": "0985-86-1443",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00～16:00",
+    "en": "8:00～16:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の直売・販売店。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [
+    "takeout",
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001124"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

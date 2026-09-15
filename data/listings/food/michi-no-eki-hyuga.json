@@ -25,7 +25,9 @@
     "en": "Direct-sales shop at Michi-no-Eki Hyuga in the south of the city, near the sea."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://sanchoku55.com/miyazaki/sanchoku/"
   ],

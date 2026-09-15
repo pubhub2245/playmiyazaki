@@ -28,7 +28,9 @@
     "en": "Strawberry-picking farm in Nobeoka."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/strawberry"
   ],

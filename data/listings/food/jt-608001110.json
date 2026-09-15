@@ -1,0 +1,37 @@
+{
+  "slug": "jt-608001110",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "炭火居酒屋みなとや",
+    "en": "炭火居酒屋みなとや"
+  },
+  "address": {
+    "ja": "宮崎県日南市中央通2丁目4番地20",
+    "en": "宮崎県日南市中央通2丁目4番地20 (Miyazaki)"
+  },
+  "lat": 31.604226,
+  "lng": 131.379803,
+  "phone": "0987-22-4609",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:00",
+    "en": "17:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001110"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

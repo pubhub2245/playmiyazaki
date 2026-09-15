@@ -28,7 +28,10 @@
     "en": "Michi-no-Eki Nango shop in Nichinan. Tropical fruit and ripe mango."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales",
+    "seasonal"
+  ],
   "sources": [
     "https://www.michinoeki-nango.jp/"
   ],

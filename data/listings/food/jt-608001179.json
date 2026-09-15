@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001179",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "トリホルテルヤ本店",
+    "en": "トリホルテルヤ本店"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市錦町1－68",
+    "en": "宮崎県宮崎市錦町1－68 (Miyazaki)"
+  },
+  "lat": 31.917729,
+  "lng": 131.431708,
+  "phone": "0985-89-3106",
+  "website": "https://santel.co.jp",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:30",
+    "en": "17:00～23:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休無。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001179"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

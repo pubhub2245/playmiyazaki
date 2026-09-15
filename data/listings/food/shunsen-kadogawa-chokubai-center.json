@@ -25,7 +25,9 @@
     "en": "Kadogawa direct-sales shop. Vegetables, fish, honey, hand-pressed hebesu juice."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "http://www.yappamiyazaki.jp/store/search.php?codeNumber=1358401086"
   ],

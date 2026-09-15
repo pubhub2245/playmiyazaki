@@ -1,0 +1,37 @@
+{
+  "slug": "jt-638426060",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "takanabe",
+  "name": {
+    "ja": "鶏専家 一本気",
+    "en": "鶏専家 一本気"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡高鍋町大字高鍋町900－1",
+    "en": "宮崎県児湯郡高鍋町大字高鍋町900－1 (Miyazaki)"
+  },
+  "lat": 32.12905,
+  "lng": 131.50657,
+  "phone": "0983-23-7402",
+  "website": "https://www.ippongi.jp",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17：30 ～ 21：30",
+    "en": "17：30 ～ 21：30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。定休水、日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1638426060"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

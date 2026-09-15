@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001175",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "ロボットごはん屋 徳とく",
+    "en": "ロボットごはん屋 徳とく"
+  },
+  "address": {
+    "ja": "宮崎県延岡市紺屋町１丁目4-18",
+    "en": "宮崎県延岡市紺屋町１丁目4-18 (Miyazaki)"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-21-2278",
+  "website": "https://nobeoka-tokutoku.jimdofree.com",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～21:30",
+    "en": "18:00～21:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休月曜日・火曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001175"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

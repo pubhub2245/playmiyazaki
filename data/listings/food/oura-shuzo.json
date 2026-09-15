@@ -25,7 +25,10 @@
     "en": "Shochu brewery in Otsubo, Miyakonojo. Tour by reservation. Adjacent direct-sales shop."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura4"
   ],

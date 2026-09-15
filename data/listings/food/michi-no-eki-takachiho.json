@@ -25,7 +25,9 @@
     "en": "Michi-no-Eki Takachiho's shop. Local vegetables and prepared products."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://takachiho-kanko.info/shopping/26/"
   ],

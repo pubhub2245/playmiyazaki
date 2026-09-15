@@ -1,0 +1,40 @@
+{
+  "slug": "jt-644902344",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "とり松",
+    "en": "とり松"
+  },
+  "address": {
+    "ja": "宮崎県日南市吾田東5-9-48",
+    "en": "宮崎県日南市吾田東5-9-48 (Miyazaki)"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-31-1667",
+  "website": "https://www.facebook.com/torimatsu.jitokko",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "11：00 ～ 19：00（14：00～16：30は準備中になる場合があります）",
+    "en": "11：00 ～ 19：00（14：00～16：30は準備中になる場合があります）"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout",
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1644902344"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

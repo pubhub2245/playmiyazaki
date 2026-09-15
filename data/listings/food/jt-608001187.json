@@ -1,0 +1,37 @@
+{
+  "slug": "jt-608001187",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "びんちょう家",
+    "en": "びんちょう家"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市恒久南1-2-12",
+    "en": "宮崎県宮崎市恒久南1-2-12 (Miyazaki)"
+  },
+  "lat": 31.893738,
+  "lng": 131.424272,
+  "phone": "0985-51-3110",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "昼（ラーメン）毎週日・月・火 10:30～13:30 (第１日曜を除く） 夜 18:00～23:00",
+    "en": "昼（ラーメン）毎週日・月・火 10:30～13:30 (第１日曜を除く） 夜 18:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休火・水（夜営業）。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001187"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

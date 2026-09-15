@@ -28,7 +28,10 @@
     "en": "Kushima shochu brewery. Tour and direct sales by reservation."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura3"
   ],

@@ -63,7 +63,16 @@
       { "slug": "pickup",   "ja": "送迎あり",           "en": "Pickup service",          "heading_ja": "宮崎の送迎ありのサーフショップ・宿",   "heading_en": "Surf shops and stays with pickup in Miyazaki" },
       { "slug": "kids",     "ja": "子ども向けあり",     "en": "Kids programs",           "heading_ja": "宮崎の子ども向けサーフスクール",       "heading_en": "Kids surf programs in Miyazaki" }
     ],
-    "food": [],
+    "food": [
+      { "slug": "takeout",     "ja": "テイクアウト可", "en": "Takeout OK",       "heading_ja": "宮崎のテイクアウトできる食のスポット",   "heading_en": "Miyazaki food spots with takeout" },
+      { "slug": "meat-sales",  "ja": "精肉・加工品販売", "en": "Meat and prepared products", "heading_ja": "精肉や加工品を扱う宮崎の食のスポット", "heading_en": "Miyazaki food spots selling meat or prepared products" },
+      { "slug": "tour",        "ja": "見学できる",       "en": "Tour available",    "heading_ja": "見学できる宮崎の食のスポット",           "heading_en": "Miyazaki food spots you can tour" },
+      { "slug": "tasting",     "ja": "試飲・試食",       "en": "Tasting",           "heading_ja": "試飲・試食ができる宮崎の食のスポット",   "heading_en": "Miyazaki food spots with tastings" },
+      { "slug": "reservation", "ja": "要予約",           "en": "Reservation required", "heading_ja": "要予約の宮崎の食のスポット",         "heading_en": "Miyazaki food spots that require reservation" },
+      { "slug": "seasonal",    "ja": "季節限定",         "en": "Seasonal",          "heading_ja": "宮崎の季節限定の食のスポット",           "heading_en": "Miyazaki seasonal food spots" },
+      { "slug": "parking",     "ja": "駐車場あり",       "en": "Parking",           "heading_ja": "駐車場のある宮崎の食のスポット",         "heading_en": "Miyazaki food spots with parking" },
+      { "slug": "english",     "ja": "英語対応",         "en": "English OK",        "heading_ja": "英語対応の宮崎の食のスポット",           "heading_en": "Miyazaki food spots with English support" }
+    ],
     "golf": []
   },
   "areas": [

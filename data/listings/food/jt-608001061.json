@@ -1,0 +1,37 @@
+{
+  "slug": "jt-608001061",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "黒木屋 佐土原",
+    "en": "黒木屋 佐土原"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町下田島9832-5",
+    "en": "宮崎県宮崎市佐土原町下田島9832-5 (Miyazaki)"
+  },
+  "lat": 32.023695,
+  "lng": 131.475213,
+  "phone": "0985-73-4433",
+  "website": "http://kids-kyushu.co.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日17:00～24:00 金・土・祝前日 17:00～翌2:00",
+    "en": "平日17:00～24:00 金・土・祝前日 17:00～翌2:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001061"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

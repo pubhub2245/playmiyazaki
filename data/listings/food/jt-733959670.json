@@ -1,0 +1,37 @@
+{
+  "slug": "jt-733959670",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "味処 いち花",
+    "en": "味処 いち花"
+  },
+  "address": {
+    "ja": "宮崎県延岡市紺屋町２丁目１番地２",
+    "en": "宮崎県延岡市紺屋町２丁目１番地２ (Miyazaki)"
+  },
+  "lat": 32.5843799,
+  "lng": 131.6714429,
+  "phone": "0982-33-8675",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～22:30",
+    "en": "18:00～22:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1733959670"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

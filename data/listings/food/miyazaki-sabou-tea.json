@@ -25,7 +25,10 @@
     "en": "Organic tea farm in Gokase. Farm walks and tasting experiences."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "tasting"
+  ],
   "sources": [
     "https://takachiho-kanko.info/shopping/32/"
   ],

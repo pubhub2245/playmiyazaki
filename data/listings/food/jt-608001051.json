@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001051",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "kawaminami",
+  "name": {
+    "ja": "株式会社黒木食鳥",
+    "en": "株式会社黒木食鳥"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡川南町川南11260-1",
+    "en": "宮崎県児湯郡川南町川南11260-1 (Miyazaki)"
+  },
+  "lat": 32.223153,
+  "lng": 131.564505,
+  "phone": "0983-27-2637",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00～17:00",
+    "en": "8:00～17:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の直売・販売店。",
+    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001051"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

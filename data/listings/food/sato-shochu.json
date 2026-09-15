@@ -28,7 +28,10 @@
     "en": "Nobeoka shochu brewery. Tours by reservation. Direct sales on site."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura1"
   ],

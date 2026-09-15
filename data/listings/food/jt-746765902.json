@@ -1,0 +1,37 @@
+{
+  "slug": "jt-746765902",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "まんりょう 地鶏や肴や鰻やら",
+    "en": "まんりょう 地鶏や肴や鰻やら"
+  },
+  "address": {
+    "ja": "宮崎県日南市南郷町東町14ｰ4",
+    "en": "宮崎県日南市南郷町東町14ｰ4 (Miyazaki)"
+  },
+  "lat": 31.5341685,
+  "lng": 131.3730187,
+  "phone": "0987-64-0323",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "11:00～21:30",
+    "en": "11:00～21:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746765902"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "jt-712802582",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "ろばた焼 明石",
+    "en": "ろばた焼 明石"
+  },
+  "address": {
+    "ja": "宮崎県都城市栄町22－2",
+    "en": "宮崎県都城市栄町22－2 (Miyazaki)"
+  },
+  "lat": 31.735963,
+  "lng": 131.073259,
+  "phone": "0986-25-8504",
+  "website": "https://www.hotpepper.jp/StrJ000590557",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17：00～22：00",
+    "en": "17：00～22：00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日、祝日の月曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1712802582"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

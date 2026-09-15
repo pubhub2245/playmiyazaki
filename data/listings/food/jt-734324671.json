@@ -1,0 +1,37 @@
+{
+  "slug": "jt-734324671",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "金ヶ浜食堂",
+    "en": "金ヶ浜食堂"
+  },
+  "address": {
+    "ja": "宮崎県日向市大字平岩2221-1",
+    "en": "宮崎県日向市大字平岩2221-1 (Miyazaki)"
+  },
+  "lat": 32.3566816,
+  "lng": 131.6213844,
+  "phone": "0982-57-1550",
+  "website": "http://www.kanegahama.com",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "11:30～14:00 18:00～20:00",
+    "en": "11:30～14:00 18:00～20:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1734324671"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

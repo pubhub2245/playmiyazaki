@@ -25,7 +25,10 @@
     "en": "Rice-shochu brewery in Takachiho. Tours by reservation only."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura1"
   ],

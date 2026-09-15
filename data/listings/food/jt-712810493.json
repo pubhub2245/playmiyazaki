@@ -1,0 +1,39 @@
+{
+  "slug": "jt-712810493",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ふらんす食堂Bistroマルハチ",
+    "en": "ふらんす食堂Bistroマルハチ"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通東2-9-14",
+    "en": "宮崎県宮崎市橘通東2-9-14 (Miyazaki)"
+  },
+  "lat": 31.9121664,
+  "lng": 131.4245376,
+  "phone": "0985-72-6862",
+  "website": "https://www.facebook.com/maruhachi.maruhachi",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～22:30",
+    "en": "18:00～22:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。定休月曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1712810493"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

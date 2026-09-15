@@ -28,7 +28,9 @@
     "en": "Blueberry-picking farm in Takajo, Miyakonojo. 30 varieties grown pesticide-free."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/fruit"
   ],

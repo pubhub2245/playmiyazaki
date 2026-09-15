@@ -28,9 +28,12 @@
     "en": "Miyazaki Jitokko production centre. The retail counter next to the processing plant sells whole birds and prepared products."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
-    "https://www.kankou-nichinan.jp/tourisms/764/"
+    "https://www.kankou-nichinan.jp/tourisms/764/",
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001024"
   ],
   "verified_at": "2026-09-15",
   "status": "open"

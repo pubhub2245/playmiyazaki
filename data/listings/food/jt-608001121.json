@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001121",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "炭火焼 山空",
+    "en": "炭火焼 山空"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字風田２６９３",
+    "en": "宮崎県日南市大字風田２６９３ (Miyazaki)"
+  },
+  "lat": 31.627491,
+  "lng": 131.424149,
+  "phone": "0987-23-7345",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～22:00（完全予約制）",
+    "en": "18:00～22:00（完全予約制）"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。食堂・レストラン。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "reservation"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001121"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

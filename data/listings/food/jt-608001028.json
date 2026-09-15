@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001028",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "居酒屋あねさん",
+    "en": "居酒屋あねさん"
+  },
+  "address": {
+    "ja": "宮崎県小林市大字細野１１７－６ (仲町）",
+    "en": "宮崎県小林市大字細野１１７－６ (仲町） (Miyazaki)"
+  },
+  "lat": 31.992415,
+  "lng": 130.979248,
+  "phone": "0984-22-2267",
+  "website": "http://g.pia.co.jp/front/contents/pumadarude/SH945077",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～21:00（L.O. 20:30）",
+    "en": "17:00～21:00（L.O. 20:30）"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日休。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001028"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -28,7 +28,9 @@
     "en": "Strawberry-picking farm in Miyazaki City, using elevated-bed cultivation."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/strawberry"
   ],

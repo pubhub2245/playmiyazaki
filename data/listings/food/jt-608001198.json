@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001198",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "こっこ家くまちゃん",
+    "en": "こっこ家くまちゃん"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字下方1616番地",
+    "en": "宮崎県日南市大字下方1616番地 (Miyazaki)"
+  },
+  "lat": 31.5649062,
+  "lng": 131.3670315,
+  "phone": "0987-27-0484",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00～16:00",
+    "en": "10:00～16:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の直売・販売店。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001198"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

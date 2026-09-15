@@ -25,7 +25,9 @@
     "en": "Shikisai, the shop at Michi-no-Eki Togo, Hyuga."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://sanchoku55.com/miyazaki/sanchoku/"
   ],

@@ -55,6 +55,24 @@ const CAMP_RULES: Record<string, Extractor> = {
   "reservation-online": (_, t) => /ネット予約|オンライン予約|online booking/i.test(t),
 };
 
+const FOOD_RULES: Record<string, Extractor> = {
+  takeout: (_, t) => /テイクアウト|持ち帰り|takeout|Takeout|take-out/i.test(t),
+  "meat-sales": (l, t) =>
+    l.category.includes("market") ||
+    /精肉|肉の販売|meat sales|meat and prepared|prepared products|whole birds/i.test(t),
+  tour: (_, t) =>
+    /蔵見学|工場見学|見学|tour|Tour|brewery tour|farm walk|hands-on/i.test(t),
+  tasting: (_, t) => /試飲|試食|tasting|Tasting/i.test(t),
+  reservation: (_, t) =>
+    /要予約|予約制|要事前予約|reservation required|by reservation|reservation only/i.test(t),
+  seasonal: (_, t) =>
+    /季節限定|季節の|seasonal|Seasonal|\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\b[\s\-–—]|[1-9１-９]月[〜～ー\-]|[1-9１-９]月〜|picking/i.test(
+      t,
+    ),
+  parking: (_, t) => /駐車|parking|Parking/i.test(t),
+  english: (_, t) => /英語|English/i.test(t),
+};
+
 const SURF_RULES: Record<string, Extractor> = {
   rental: (l, t) =>
     l.category.includes("rental") ||
@@ -90,20 +108,35 @@ function combinedText(l: Listing): string {
 
 function extractFeatures(l: Listing, taxonomy: Taxonomy): string[] {
   const text = combinedText(l);
-  const rules = l.genre === "surf" ? SURF_RULES : l.genre === "camp" ? CAMP_RULES : {};
+  const rules =
+    l.genre === "surf"
+      ? SURF_RULES
+      : l.genre === "camp"
+        ? CAMP_RULES
+        : l.genre === "food"
+          ? FOOD_RULES
+          : {};
   const validFeatureSlugs = new Set(
     (taxonomy.features[l.genre] ?? []).map((f) => f.slug),
   );
-  const out: string[] = [];
+  // Start from any features already on the listing that are still in taxonomy —
+  // preserves flags added by import scripts (e.g., takeout / meat-sales set from
+  // the mjitokko cooperative detail page, which won't appear in the description).
+  const out = new Set<string>();
+  for (const f of l.features) {
+    if (validFeatureSlugs.has(f)) out.add(f);
+  }
   for (const [slug, rule] of Object.entries(rules)) {
     if (!validFeatureSlugs.has(slug)) continue;
     try {
-      if (rule(l, text)) out.push(slug);
+      if (rule(l, text)) out.add(slug);
     } catch {
       // ignore
     }
   }
-  return out;
+  // Preserve taxonomy order for stable output.
+  const order = (taxonomy.features[l.genre] ?? []).map((f) => f.slug);
+  return order.filter((s) => out.has(s));
 }
 
 function serializeWithFeatures(existing: unknown, features: string[]): string {

@@ -25,7 +25,10 @@
     "en": "Tourist dairy farm at the foot of the Kirishima range. Butter and ice-cream making, milking, horse riding (reservation required)."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/activity/1502"
   ],

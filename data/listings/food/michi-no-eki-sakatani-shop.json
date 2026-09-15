@@ -25,7 +25,9 @@
     "en": "Michi-no-Eki Sakatani shop. Local produce and mountain vegetables; kusa-dango and tanada soba."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://michinoeki-sakatani.com/"
   ],

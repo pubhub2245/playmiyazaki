@@ -28,7 +28,9 @@
     "en": "Organic orchard in Mukabaki, Nobeoka. Grape and kiwi picking in season."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/fruit"
   ],

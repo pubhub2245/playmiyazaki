@@ -25,7 +25,9 @@
     "en": "Michi-no-Eki Kushima shop. Sea and mountain produce. Opened 2022."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://michinoeki-kushima.com/"
   ],

@@ -1,0 +1,37 @@
+{
+  "slug": "jt-733880135",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "酒肴 湊",
+    "en": "酒肴 湊"
+  },
+  "address": {
+    "ja": "宮崎県延岡市船倉町2丁目4-17",
+    "en": "宮崎県延岡市船倉町2丁目4-17 (Miyazaki)"
+  },
+  "lat": 32.5823287,
+  "lng": 131.6706139,
+  "phone": "0982-40-3208",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18：00～23：00",
+    "en": "18：00～23：00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1733880135"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

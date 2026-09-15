@@ -25,7 +25,9 @@
     "en": "Orchard in Kitakata, Nobeoka. Picking experiences for strawberries, persimmons, grapes, peaches, kinkan."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/fruit"
   ],

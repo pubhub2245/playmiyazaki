@@ -25,7 +25,9 @@
     "en": "Michi-no-Eki direct-sales shop in Kitakata, Nobeoka."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://sanchoku55.com/miyazaki/sanchoku/"
   ],

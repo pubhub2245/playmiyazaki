@@ -28,7 +28,9 @@
     "en": "Kushima strawberry field. Also serves ripe kinkan, hyuganatsu, and animal petting."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.city.kushima.lg.jp/ecotourism/activity/2021/02/sup.html"
   ],

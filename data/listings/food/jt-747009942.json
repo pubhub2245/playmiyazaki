@@ -1,0 +1,37 @@
+{
+  "slug": "jt-747009942",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ここちや本店 地鶏や肴や鰻やら",
+    "en": "ここちや本店 地鶏や肴や鰻やら"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市中央通６番３号ウエストビル１階",
+    "en": "宮崎県宮崎市中央通６番３号ウエストビル１階 (Miyazaki)"
+  },
+  "lat": 31.9152978,
+  "lng": 131.4205744,
+  "phone": "0985-31-5676",
+  "website": "https://www.hotpepper.jp/strJ000033639",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:00",
+    "en": "17:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1747009942"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608000956",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "居酒屋たくちゃん",
+    "en": "居酒屋たくちゃん"
+  },
+  "address": {
+    "ja": "宮崎県えびの市大字向江564-1",
+    "en": "宮崎県えびの市大字向江564-1 (Miyazaki)"
+  },
+  "lat": 32.048196,
+  "lng": 130.7690223,
+  "phone": "080-1770-0905",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～23:00",
+    "en": "18:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日、月曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608000956"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

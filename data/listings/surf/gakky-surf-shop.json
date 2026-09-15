@@ -31,8 +31,8 @@
   },
   "tags": null,
   "features": [
-    "rental",
     "beginner",
+    "rental",
     "pickup"
   ],
   "sources": [

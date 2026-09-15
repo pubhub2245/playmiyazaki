@@ -25,7 +25,9 @@
     "en": "Michi-no-Eki Ebino direct sales. Local produce, fruit, and Miyazaki Beef. Operated by JA."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://life.ja-group.jp/farm/market/detail?id=231"
   ],

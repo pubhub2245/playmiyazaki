@@ -28,7 +28,9 @@
     "en": "Cafe-orchard in Kitakata, Nobeoka. Strawberry, grape and persimmon picking in season."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/fruit"
   ],

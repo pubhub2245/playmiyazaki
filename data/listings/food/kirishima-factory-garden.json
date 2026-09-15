@@ -25,7 +25,10 @@
     "en": "Kirishima Shuzo's public factory. Tour, tasting, direct sales shop and restaurant on site."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "tasting"
+  ],
   "sources": [
     "https://www.city.miyakonojo.miyazaki.jp/site/kanko/10169.html"
   ],

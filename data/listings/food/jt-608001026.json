@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001026",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "みやざき地頭鶏直売店 鶏愛",
+    "en": "みやざき地頭鶏直売店 鶏愛"
+  },
+  "address": {
+    "ja": "宮崎県都城市山田町山田4645-1",
+    "en": "宮崎県都城市山田町山田4645-1 (Miyazaki)"
+  },
+  "lat": 31.815242,
+  "lng": 131.050814,
+  "phone": "0986-64-2758",
+  "website": "http://www.miyazaki-keiai.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:30～18:00",
+    "en": "10:30～18:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の直売・販売店。定休日曜日、月曜日の祝日。",
+    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001026"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

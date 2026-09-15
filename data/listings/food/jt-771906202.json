@@ -1,0 +1,40 @@
+{
+  "slug": "jt-771906202",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "tsuno",
+  "name": {
+    "ja": "美食鳥",
+    "en": "美食鳥"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡都農町川北5521-2",
+    "en": "宮崎県児湯郡都農町川北5521-2 (Miyazaki)"
+  },
+  "lat": 32.2540796,
+  "lng": 131.5534891,
+  "phone": "0983-32-6811",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～22:30",
+    "en": "18:00～22:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout",
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1771906202"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

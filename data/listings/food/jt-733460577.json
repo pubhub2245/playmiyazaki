@@ -1,0 +1,39 @@
+{
+  "slug": "jt-733460577",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "まるみ",
+    "en": "まるみ"
+  },
+  "address": {
+    "ja": "宮崎県日向市亀崎西1-65",
+    "en": "宮崎県日向市亀崎西1-65 (Miyazaki)"
+  },
+  "lat": 32.4377545,
+  "lng": 131.6277988,
+  "phone": "0982-52-2419",
+  "website": "https://marumi.sunnygarden.jp",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "11:30～14:30 17:00～21:30",
+    "en": "11:30～14:30 17:00～21:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1733460577"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

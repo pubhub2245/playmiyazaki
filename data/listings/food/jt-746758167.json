@@ -1,0 +1,37 @@
+{
+  "slug": "jt-746758167",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "はればれ 宮崎地鶏と日向海鮮",
+    "en": "はればれ 宮崎地鶏と日向海鮮"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市中央通6番3号 ウエストビル1階",
+    "en": "宮崎県宮崎市中央通6番3号 ウエストビル1階 (Miyazaki)"
+  },
+  "lat": 31.9152704,
+  "lng": 131.420997,
+  "phone": "0985-65-8833",
+  "website": "https://www.hotpepper.jp/strJ000746381/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:30",
+    "en": "17:00～23:30"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休元日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746758167"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

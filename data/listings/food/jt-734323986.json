@@ -1,0 +1,37 @@
+{
+  "slug": "jt-734323986",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "酒処 ひだりうま",
+    "en": "酒処 ひだりうま"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字三田井799-3",
+    "en": "宮崎県西臼杵郡高千穂町大字三田井799-3 (Miyazaki)"
+  },
+  "lat": 32.7100562,
+  "lng": 131.3079881,
+  "phone": "0982-72-0930",
+  "website": "https://r.goope.jp/hidariuma",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～22:00",
+    "en": "17:00～22:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。定休日曜日・火曜日(その他臨時休業あり）。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1734323986"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

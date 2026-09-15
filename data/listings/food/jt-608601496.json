@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608601496",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "焼き鳥 安兵衛",
+    "en": "焼き鳥 安兵衛"
+  },
+  "address": {
+    "ja": "宮崎県小林市細野156",
+    "en": "宮崎県小林市細野156 (Miyazaki)"
+  },
+  "lat": 31.9932,
+  "lng": 130.97821,
+  "phone": "0984-23-7954",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:00",
+    "en": "17:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。焼鳥専門。定休月曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608601496"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

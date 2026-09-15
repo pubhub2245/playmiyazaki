@@ -1,0 +1,37 @@
+{
+  "slug": "jt-621398621",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "七輪焼き はじめ",
+    "en": "七輪焼き はじめ"
+  },
+  "address": {
+    "ja": "宮崎県都城市広原町１４－１４－２",
+    "en": "宮崎県都城市広原町１４－１４－２ (Miyazaki)"
+  },
+  "lat": 31.726098,
+  "lng": 131.092644,
+  "phone": "0986-77-2026",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18：00～23：00",
+    "en": "18：00～23：00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1621398621"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608000954",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "えびの地頭鶏",
+    "en": "えびの地頭鶏"
+  },
+  "address": {
+    "ja": "宮崎県小林市大字北西方8179-1",
+    "en": "宮崎県小林市大字北西方8179-1 (Miyazaki)"
+  },
+  "lat": 32.030406,
+  "lng": 130.910681,
+  "phone": "0984-27-0336",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "12:00～16:00「売り切れ御免」",
+    "en": "12:00～16:00「売り切れ御免」"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。地頭鶏専門店。定休月曜日・木曜日。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608000954"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

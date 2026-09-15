@@ -25,7 +25,9 @@
     "en": "Direct-sales shop at Michi-no-Eki Tsuno. Vegetables and fruit from Tsuno and Kawaminami, plus Tsuno Wine."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1082"
   ],

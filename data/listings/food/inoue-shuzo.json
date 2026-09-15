@@ -25,7 +25,11 @@
     "en": "Shochu brewery in Nango, Nichinan. Tour, tasting, and direct sales by reservation."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "tasting",
+    "reservation"
+  ],
   "sources": [
     "https://www.obisugi.co.jp/tour/"
   ],

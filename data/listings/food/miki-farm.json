@@ -28,7 +28,9 @@
     "en": "Lychee-picking farm in Takanabe, one of few lychee-picking farms in Japan."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/fruit"
   ],

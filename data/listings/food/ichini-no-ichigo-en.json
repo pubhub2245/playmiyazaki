@@ -28,7 +28,9 @@
     "en": "Strawberry farm in Nobeoka growing five varieties."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "seasonal"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/strawberry"
   ],

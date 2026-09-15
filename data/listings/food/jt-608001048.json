@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001048",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "居酒屋 葱坊主",
+    "en": "居酒屋 葱坊主"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市清武町船引488-5",
+    "en": "宮崎県宮崎市清武町船引488-5 (Miyazaki)"
+  },
+  "lat": 31.859126,
+  "lng": 131.389701,
+  "phone": "0985-85-9664",
+  "website": "https://www.instagram,com/negibouzu_sakaba/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "17:00～23:00",
+    "en": "17:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001048"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

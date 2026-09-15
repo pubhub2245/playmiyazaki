@@ -1,0 +1,37 @@
+{
+  "slug": "jt-608001192",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "風流里",
+    "en": "風流里"
+  },
+  "address": {
+    "ja": "宮崎県えびの市大字大河平１９５３－７",
+    "en": "宮崎県えびの市大字大河平１９５３－７ (Miyazaki)"
+  },
+  "lat": 32.04932,
+  "lng": 130.8983,
+  "phone": "0984-33-4441",
+  "website": "https://e-lifesupport.com/furusato/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～23:00",
+    "en": "18:00～23:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。居酒屋。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001192"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "jt-692080507",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "日南地頭鶏センター",
+    "en": "日南地頭鶏センター"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字隈谷乙１７９８番地１",
+    "en": "宮崎県日南市大字隈谷乙１７９８番地１ (Miyazaki)"
+  },
+  "lat": 31.5822409,
+  "lng": 131.3718085,
+  "phone": "0987-22-3321",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9：00 ～ 16：00",
+    "en": "9：00 ～ 16：00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の直売・販売店。定休無し。",
+    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1692080507"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

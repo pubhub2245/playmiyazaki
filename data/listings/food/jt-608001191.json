@@ -1,0 +1,39 @@
+{
+  "slug": "jt-608001191",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "Foodaly青葉店",
+    "en": "Foodaly青葉店"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市宮崎駅東3丁目12番地6",
+    "en": "宮崎県宮崎市宮崎駅東3丁目12番地6 (Miyazaki)"
+  },
+  "lat": 31.9196,
+  "lng": 131.43466,
+  "phone": "0985-73-8833",
+  "website": "http://www.foodaly.jp",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00～22:00",
+    "en": "10:00～22:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の直売・販売店。定休1／2～1／4。",
+    "en": "A Miyazaki Jitokko cooperative retail outlet. Whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001191"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -25,7 +25,9 @@
     "en": "Town-run product hall in Mimata. Local specialties and vegetables."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://www.town.mimata.lg.jp/kanko/buy-yokamonya/"
   ],

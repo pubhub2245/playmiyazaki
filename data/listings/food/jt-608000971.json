@@ -1,0 +1,40 @@
+{
+  "slug": "jt-608000971",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "みやざき地頭鶏炭火焼 司",
+    "en": "みやざき地頭鶏炭火焼 司"
+  },
+  "address": {
+    "ja": "宮崎県延岡市船倉１丁目４－１",
+    "en": "宮崎県延岡市船倉１丁目４－１ (Miyazaki)"
+  },
+  "lat": 32.581892,
+  "lng": 131.670017,
+  "phone": "0982-34-0383",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "18:00～21:30（ラストオーダー）",
+    "en": "18:00～21:30（ラストオーダー）"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の指定店。焼鳥専門。定休木曜日・日曜日（要予約相談可）。",
+    "en": "A Miyazaki Jitokko cooperative-designated restaurant. Grilled and prepared jidori dishes."
+  },
+  "tags": null,
+  "features": [
+    "takeout",
+    "reservation"
+  ],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608000971"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

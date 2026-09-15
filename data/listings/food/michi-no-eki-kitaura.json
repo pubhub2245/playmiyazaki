@@ -25,7 +25,9 @@
     "en": "Michi-no-Eki Kitaura shop. Local produce, crafts, fisheries co-op section, tsuki-no-shio salt and more."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://nobekan.jp/souvenir/%E9%81%93%E3%81%AE%E9%A7%85%E5%8C%97%E6%B5%A6%E3%80%80%E7%89%A9%E7%94%A3%E9%A4%A8/"
   ],

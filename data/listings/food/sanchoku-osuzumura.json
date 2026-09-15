@@ -25,7 +25,9 @@
     "en": "JA direct-sales shop in Kawaminami."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "meat-sales"
+  ],
   "sources": [
     "https://life.ja-group.jp/farm/market/list?state=%E5%AE%AE%E5%B4%8E%E7%9C%8C"
   ],

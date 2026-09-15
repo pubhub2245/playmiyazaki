@@ -16,7 +16,7 @@
 
 # 用語（実装と会話で統一）
 
-`listing` = 一覧に載る1件（店・施設・スポット）。`data/listings/<genre>/<slug>.json`。UI表記は「スポット」
+`listing` = 一覧に載る1件（店・施設・スポット）。`data/listings/<genre>/<slug>.json`。UI表記は「スポット」。同じ敷地でも、役割と連絡先が別なら別 listing にしてよい（例：道の駅の物産館とキャンプ場）
 `genre` = ジャンル。`surf` / `camp` / `food` / `golf` の4つ固定。UI表記は「サーフィン」「キャンプ・車中泊」「食」「ゴルフ」
 `category` = ジャンル内の種別（例：surf の `shop` / `school` / `rental` / `point` / `stay`）。UI表記は「種類」
 `area` = 市町村（例：宮崎市・日向市・都城市）。UI表記は「エリア」

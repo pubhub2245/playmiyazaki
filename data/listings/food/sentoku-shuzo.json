@@ -25,7 +25,10 @@
     "en": "Nobeoka brewery. Miyazaki's only sake (seishu) brewery. Tours by reservation."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "reservation"
+  ],
   "sources": [
     "https://www.kanko-miyazaki.jp/feature/sakagura1"
   ],

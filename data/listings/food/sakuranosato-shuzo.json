@@ -25,7 +25,10 @@
     "en": "Nichinan brewery 'Shochu Dojo'. Walk-in tour, tasting, and make-your-own blend, no reservation needed."
   },
   "tags": null,
-  "features": [],
+  "features": [
+    "tour",
+    "tasting"
+  ],
   "sources": [
     "https://www.sakuranosato.co.jp/tour/"
   ],
