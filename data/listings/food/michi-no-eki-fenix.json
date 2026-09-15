@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-fenix",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "道の駅 フェニックス",
+    "en": "Michi-no-Eki Phoenix"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字内海字三池381-1",
+    "en": "381-1 Miike, Uchiumi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市南部・日南海岸の道の駅の物産館。",
+    "en": "Michi-no-Eki shop on the Nichinan coast, south of Miyazaki City."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://sanchoku55.com/miyazaki/sanchoku/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

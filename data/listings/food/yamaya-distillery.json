@@ -1,0 +1,37 @@
+{
+  "slug": "yamaya-distillery",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "saito",
+  "name": {
+    "ja": "やまや蒸留所",
+    "en": "Yamaya Distillery"
+  },
+  "address": {
+    "ja": "宮崎県西都市三納10029",
+    "en": "10029 Minou, Saito-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-45-1013",
+  "website": "https://yamayadistillery.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜17:00 蔵見学は要予約 土日休",
+    "en": "8:00–17:00, tour by reservation, closed weekends"
+  },
+  "price": null,
+  "description": {
+    "ja": "西都市三納の焼酎蔵。蔵見学は要予約。店頭販売あり。",
+    "en": "Shochu distillery in Minou, Saito. Tours by reservation. Direct sales on site."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura2"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

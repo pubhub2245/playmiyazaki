@@ -1,0 +1,34 @@
+{
+  "slug": "sakuranosato-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "櫻の郷酒造 焼酎道場",
+    "en": "Sakuranosato Shuzo (Shochu Dojo)"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町郷之原甲888",
+    "en": "888 Gonohara-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-55-4134",
+  "website": "https://www.sakuranosato.co.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市北郷の焼酎蔵「焼酎道場」。予約不要で見学と試飲、オリジナルブレンド体験ができる。",
+    "en": "Nichinan brewery 'Shochu Dojo'. Walk-in tour, tasting, and make-your-own blend, no reservation needed."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.sakuranosato.co.jp/tour/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

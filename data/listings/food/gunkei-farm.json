@@ -1,0 +1,37 @@
+{
+  "slug": "gunkei-farm",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ぐんけい農園直営店",
+    "en": "Gunkei Farm Store"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市高岡町上倉永1087-1",
+    "en": "1087-1 Kami-Kuranaga, Takaoka-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-41-6001",
+  "website": "http://www.gunkei.jp/farm/miyazaki-jitokko/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜17:00",
+    "en": "9:00–17:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏を林間放し飼いで育てる直営農場。物販あり。",
+    "en": "The farm where Gunkei raises Miyazaki Jitokko free-range in the woodland. Retail on site."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001034"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

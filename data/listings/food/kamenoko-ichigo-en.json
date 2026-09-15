@@ -1,0 +1,37 @@
+{
+  "slug": "kamenoko-ichigo-en",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "亀の子いちご園",
+    "en": "Kamenoko Ichigo Farm"
+  },
+  "address": {
+    "ja": "宮崎県日向市塩見字亀ノ甲7028",
+    "en": "7028 Kamenoko, Shiomi, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://kamenoko15.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "いちご狩り 2月〜5月（50分食べ放題）",
+    "en": "Strawberry picking February–May (50 min all-you-can-eat)"
+  },
+  "price": null,
+  "description": {
+    "ja": "日向市塩見のいちご狩り農園。50分の食べ放題方式。",
+    "en": "Strawberry farm in Shiomi, Hyuga. 50-minute all-you-can-eat picking."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/strawberry"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

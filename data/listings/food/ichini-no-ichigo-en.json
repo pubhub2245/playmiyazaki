@@ -1,0 +1,37 @@
+{
+  "slug": "ichini-no-ichigo-en",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "いちにのいちご園",
+    "en": "Ichini no Ichigo En"
+  },
+  "address": {
+    "ja": "宮崎県延岡市大貫町4-1439",
+    "en": "4-1439 Onuki-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://1215.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "いちご狩り 1月〜5月",
+    "en": "Strawberry picking January–May"
+  },
+  "price": null,
+  "description": {
+    "ja": "延岡市のいちご狩り農園。5品種を扱う。",
+    "en": "Strawberry farm in Nobeoka growing five varieties."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/strawberry"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

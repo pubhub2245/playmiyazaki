@@ -1,0 +1,34 @@
+{
+  "slug": "taguchi-family-farm",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "田口ファミリーファーム",
+    "en": "Taguchi Family Farm"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北方町蔵田辰816",
+    "en": "816 Kurada-Tatsu, Kitakata-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://taguchifamily.farm/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北方町の果樹園。いちご、柿、ぶどう、桃、きんかんの収穫体験。",
+    "en": "Orchard in Kitakata, Nobeoka. Picking experiences for strawberries, persimmons, grapes, peaches, kinkan."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/fruit"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

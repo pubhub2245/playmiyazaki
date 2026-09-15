@@ -1,0 +1,37 @@
+{
+  "slug": "unkai-aya",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "aya",
+  "name": {
+    "ja": "雲海酒造 綾自然蔵見学館",
+    "en": "Unkai Shuzo Aya Natural Cellar"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡綾町南俣1795-1",
+    "en": "1795-1 Minamimata, Aya-cho, Higashi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-77-3737",
+  "website": "http://unkai.co.jp/learn/facility",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "蔵見学 10:30／14:30（要予約）",
+    "en": "Tours 10:30 or 14:30 (reservation required)"
+  },
+  "price": null,
+  "description": {
+    "ja": "雲海酒造の綾工場。蔵見学は約90分、試飲つき。店頭販売あり。",
+    "en": "Unkai's Aya facility. Tour is about 90 min with tasting. Direct sales on site."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura2"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

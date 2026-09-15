@@ -1,0 +1,34 @@
+{
+  "slug": "minato-aoshima-chokubai-center",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "港あおしま 直売センター",
+    "en": "Minato Aoshima Direct Sales Center"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島3-5-1",
+    "en": "3-5-1 Aoshima, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-65-0606",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島漁港の漁協直売所。青島どれの魚介類を扱う。",
+    "en": "Aoshima fisheries co-op direct sales. Aoshima-dore seafood."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.pride-fish.jp/shop/index.php?c=shop2&pk=1424737936"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

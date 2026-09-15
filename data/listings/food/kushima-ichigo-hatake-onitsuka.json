@@ -1,0 +1,37 @@
+{
+  "slug": "kushima-ichigo-hatake-onitsuka",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "串間いちご畑（おにつか農園）",
+    "en": "Kushima Ichigo Hatake (Onitsuka Farm)"
+  },
+  "address": {
+    "ja": "宮崎県串間市大字本城",
+    "en": "Honjo, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "080-5215-2140",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "いちご狩り 12月〜5月中旬 量り売り",
+    "en": "Strawberry picking December–mid-May, pay by weight"
+  },
+  "price": null,
+  "description": {
+    "ja": "串間市のいちご畑。完熟きんかん、日向夏、動物ふれあいもある。",
+    "en": "Kushima strawberry field. Also serves ripe kinkan, hyuganatsu, and animal petting."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.city.kushima.lg.jp/ecotourism/activity/2021/02/sup.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

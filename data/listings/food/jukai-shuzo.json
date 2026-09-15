@@ -1,0 +1,37 @@
+{
+  "slug": "jukai-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "寿海酒造",
+    "en": "Jukai Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県串間市北方1295",
+    "en": "1295 Kitakata, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-72-5611",
+  "website": "https://www.jyukai-shuzou.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "13:00〜16:00 蔵見学・店頭販売は要予約",
+    "en": "13:00–16:00, tour and direct sales by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "串間市の焼酎蔵。蔵見学と店頭販売は要予約。",
+    "en": "Kushima shochu brewery. Tour and direct sales by reservation."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura3"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

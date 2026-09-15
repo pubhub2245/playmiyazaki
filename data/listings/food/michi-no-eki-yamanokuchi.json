@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-yamanokuchi",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "道の駅 山之口 ふるさと産品販売所",
+    "en": "Michi-no-Eki Yamanokuchi"
+  },
+  "address": {
+    "ja": "宮崎県都城市山之口町山之口2304-6",
+    "en": "2304-6 Yamanokuchi, Yamanokuchi-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-57-5222",
+  "website": "http://www.btvm.ne.jp/~yama-269/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市山之口の道の駅の直売所。地元の野菜と甘乳蘇を扱う。",
+    "en": "Direct-sales shop at Michi-no-Eki Yamanokuchi, Miyakonojo. Local vegetables and kanchisu."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1128"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

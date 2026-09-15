@@ -1,0 +1,34 @@
+{
+  "slug": "gunkei-miyazaki-ekimae-kiten",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ぐんけい宮崎駅前店 きてん",
+    "en": "Gunkei Miyazaki Ekimae Kiten"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市錦町1-10 宮崎グリーンスフィア壱番館2F",
+    "en": "2F Miyazaki Green Sphere Ichibankan, 1-10 Nishikimachi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-33-9001",
+  "website": "http://www.gunkei.jp/restaurant/info-kiten/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の炭火焼を出す店。JR宮崎駅前のグリーンスフィア2階。",
+    "en": "Charcoal-grilled Miyazaki Jitokko on the 2F of Green Sphere, right in front of JR Miyazaki Station."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001019"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

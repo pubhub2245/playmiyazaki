@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-kitagawa-hayuma",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "道の駅 北川はゆま",
+    "en": "Michi-no-Eki Kitagawa Hayuma"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北川町長井5751-1",
+    "en": "5751-1 Nagai, Kitagawa-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北川町の道の駅の物産館。新鮮野菜と手作りの特産品を扱う。",
+    "en": "Michi-no-Eki shop in Kitagawa, Nobeoka. Fresh vegetables and local products."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://sanchoku55.com/miyazaki/sanchoku/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

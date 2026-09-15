@@ -1,0 +1,34 @@
+{
+  "slug": "aya-tezukuri-honmono-center",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "aya",
+  "name": {
+    "ja": "綾 手づくりほんものセンター",
+    "en": "Aya Handmade Honmono Center"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡綾町大字南俣515",
+    "en": "515 Minamimata, Aya-cho, Higashi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-77-0777",
+  "website": "http://www.aya-honmono.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "綾町の直売施設。有機認証の農産物、加工品、工芸品を扱う。",
+    "en": "Aya direct-sales facility. Certified organic produce, prepared foods, and crafts."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.town.aya.miyazaki.jp/site/tour-guide/9339.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

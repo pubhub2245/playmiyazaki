@@ -1,0 +1,34 @@
+{
+  "slug": "suisen-jidori-sumibiyaki",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "地鶏炭火焼 粋仙",
+    "en": "Jidori Sumibiyaki Suisen"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市広島2-11-3",
+    "en": "2-11-3 Hiroshima, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-23-1588",
+  "website": "https://www.suisen-jidori.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏や宮崎鶏を日向備長炭で焼く炭火焼専門店。組合の指定店。",
+    "en": "Miyazaki Jitokko and regional chicken grilled over Hyuga binchotan. A cooperative-designated shop."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608000960"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

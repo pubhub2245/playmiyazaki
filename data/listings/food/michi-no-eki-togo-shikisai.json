@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-togo-shikisai",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "道の駅 とうごう 詩季彩",
+    "en": "Michi-no-Eki Togo Shikisai"
+  },
+  "address": {
+    "ja": "宮崎県日向市東郷町山陰辛244-1",
+    "en": "244-1 Yamakage-Kanoto, Togo-cho, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向市東郷町の道の駅の物産館「詩季彩」。",
+    "en": "Shikisai, the shop at Michi-no-Eki Togo, Hyuga."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://sanchoku55.com/miyazaki/sanchoku/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

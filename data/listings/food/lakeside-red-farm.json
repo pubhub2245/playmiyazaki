@@ -1,0 +1,37 @@
+{
+  "slug": "lakeside-red-farm",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "レイクサイドレッドファーム",
+    "en": "Lakeside Red Farm"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市清武町今泉丙1331-1",
+    "en": "1331-1 Imaizumi-hei, Kiyotake-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "http://www.corefarm.co.jp/lakeside/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "いちご狩り 1月〜6月",
+    "en": "Strawberry picking January–June"
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市清武町のいちご狩り農園。量り売りと食べ放題を選べる。",
+    "en": "Strawberry farm in Kiyotake, Miyazaki. Choose between weigh-out or all-you-can-pick."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/strawberry"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

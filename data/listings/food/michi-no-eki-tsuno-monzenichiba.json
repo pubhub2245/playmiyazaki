@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-tsuno-monzenichiba",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "tsuno",
+  "name": {
+    "ja": "道の駅 つの 門前市場",
+    "en": "Michi-no-Eki Tsuno Monzenichiba"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡都農町大字川北5129",
+    "en": "5129 Kawakita, Tsuno-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://michinoeki-tsuno.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都農町の道の駅の直売所。都農・川南の野菜と果物、都農ワインを扱う。",
+    "en": "Direct-sales shop at Michi-no-Eki Tsuno. Vegetables and fruit from Tsuno and Kawaminami, plus Tsuno Wine."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1082"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

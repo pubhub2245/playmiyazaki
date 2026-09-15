@@ -1,0 +1,34 @@
+{
+  "slug": "takachiho-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "高千穂酒造",
+    "en": "Takachiho Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字押方925",
+    "en": "925 Oshikata, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-72-2323",
+  "website": "https://www.takachihosyuzo.co.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂の焼酎蔵。蔵見学は要予約。",
+    "en": "Takachiho shochu brewery. Tours by reservation only."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura1"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

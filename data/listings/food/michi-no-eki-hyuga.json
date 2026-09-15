@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-hyuga",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "道の駅 日向",
+    "en": "Michi-no-Eki Hyuga"
+  },
+  "address": {
+    "ja": "宮崎県日向市大字幸脇241-7",
+    "en": "241-7 Sachiwaki, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向市南部の道の駅の直売所。海が近い。",
+    "en": "Direct-sales shop at Michi-no-Eki Hyuga in the south of the city, near the sea."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://sanchoku55.com/miyazaki/sanchoku/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

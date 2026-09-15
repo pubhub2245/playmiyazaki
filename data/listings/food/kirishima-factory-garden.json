@@ -1,0 +1,34 @@
+{
+  "slug": "kirishima-factory-garden",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "霧島ファクトリーガーデン",
+    "en": "Kirishima Factory Garden"
+  },
+  "address": {
+    "ja": "宮崎県都城市志比田町5480",
+    "en": "5480 Shihida-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-21-8111",
+  "website": "http://www.kirishima-fg.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "霧島酒造の工場見学施設。試飲、直売ショップ、レストランを併設。",
+    "en": "Kirishima Shuzo's public factory. Tour, tasting, direct sales shop and restaurant on site."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.city.miyakonojo.miyazaki.jp/site/kanko/10169.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

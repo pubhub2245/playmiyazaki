@@ -1,0 +1,37 @@
+{
+  "slug": "minato-aburatsu-asa-ichi",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "港あぶらつ朝市",
+    "en": "Minato Aburatsu Morning Market"
+  },
+  "address": {
+    "ja": "宮崎県日南市油津 油津漁港",
+    "en": "Aburatsu fishing port, Aburatsu, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "毎月第4日曜 7:00〜9:00",
+    "en": "4th Sunday of each month, 7:00–9:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "油津漁港で毎月第4日曜に開かれる朝市。日南どれの魚とセルフ焼き場もある。",
+    "en": "Morning market at Aburatsu port on the 4th Sunday of each month. Nichinan-dore fish and a self-grill area."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://miyazaki.uminohi.jp/event/%E6%B8%AF%E3%81%82%E3%81%B6%E3%82%89%E3%81%A4%E6%9C%9D%E5%B8%82/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

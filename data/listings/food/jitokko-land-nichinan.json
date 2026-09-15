@@ -1,0 +1,37 @@
+{
+  "slug": "jitokko-land-nichinan",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "地頭鶏ランド日南",
+    "en": "Jitokko Land Nichinan"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字毛吉田2723-1",
+    "en": "2723-1 Keyoshida, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-27-1269",
+  "website": "https://jitokko.co.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜17:00 日曜定休",
+    "en": "8:00–17:00, closed Sundays"
+  },
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の生産センター。処理場に併設された直売所で丸鶏や加工品を扱う。",
+    "en": "Miyazaki Jitokko production centre. The retail counter next to the processing plant sells whole birds and prepared products."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kankou-nichinan.jp/tourisms/764/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

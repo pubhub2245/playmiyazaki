@@ -1,0 +1,34 @@
+{
+  "slug": "shunsen-kadogawa-chokubai-center",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "kadogawa",
+  "name": {
+    "ja": "旬鮮かどがわ直売センター",
+    "en": "Shunsen Kadogawa Direct Sales Center"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡門川町加草2333",
+    "en": "2333 Kagusa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-68-1101",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "門川町の直売所。野菜・魚・蜂蜜・手搾りへべす果汁など。",
+    "en": "Kadogawa direct-sales shop. Vegetables, fish, honey, hand-pressed hebesu juice."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "http://www.yappamiyazaki.jp/store/search.php?codeNumber=1358401086"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

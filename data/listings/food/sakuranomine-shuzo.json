@@ -1,0 +1,37 @@
+{
+  "slug": "sakuranomine-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "櫻乃峰酒造",
+    "en": "Sakuranomine Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字隈谷甲1192",
+    "en": "1192 Kumatani-ko, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-27-0271",
+  "website": "https://sakuranomine.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜16:00 蔵見学は要予約",
+    "en": "9:00–16:00, tour by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "日南市の焼酎蔵。蔵見学は要予約。",
+    "en": "Nichinan shochu brewery. Tour by reservation only."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura3"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

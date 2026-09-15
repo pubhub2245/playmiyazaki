@@ -1,0 +1,37 @@
+{
+  "slug": "kagura-tunnel-no-eki",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "神楽酒造 トンネルの駅",
+    "en": "Kagura Shuzo — Tunnel no Eki"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町下野2221-2",
+    "en": "2221-2 Shimono, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-73-4050",
+  "website": "https://tonnerunoeki.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜17:00 第1水曜定休",
+    "en": "9:00–17:00, closed the first Wednesday"
+  },
+  "price": null,
+  "description": {
+    "ja": "旧鉄道トンネルを焼酎の貯蔵庫にした施設。神楽酒造の焼酎は無料試飲もできる。",
+    "en": "A former railway tunnel used as a shochu cellar. Free tastings of Kagura Shuzo's shochu."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://tonnerunoeki.com/about"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

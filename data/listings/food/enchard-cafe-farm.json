@@ -1,0 +1,37 @@
+{
+  "slug": "enchard-cafe-farm",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "ENCHARD cafe & shop",
+    "en": "ENCHARD cafe & shop"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北方町蔵田辰567-14",
+    "en": "567-14 Kurada-Tatsu, Kitakata-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "090-6295-5676",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "いちご 12月〜4月／ぶどう 8月〜9月／柿 10月〜11月",
+    "en": "Strawberry Dec–Apr, grape Aug–Sep, persimmon Oct–Nov"
+  },
+  "price": null,
+  "description": {
+    "ja": "延岡市北方町のカフェ併設の果樹園。いちご・ぶどう・柿の収穫体験。",
+    "en": "Cafe-orchard in Kitakata, Nobeoka. Strawberry, grape and persimmon picking in season."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/fruit"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

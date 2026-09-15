@@ -1,0 +1,34 @@
+{
+  "slug": "inoue-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "井上酒造",
+    "en": "Inoue Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県日南市南郷町榎原甲1326",
+    "en": "1326 Yowara-ko, Nango-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-68-1055",
+  "website": "https://www.obisugi.co.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市南郷の焼酎蔵。蔵見学と試飲・直売は予約制。",
+    "en": "Shochu brewery in Nango, Nichinan. Tour, tasting, and direct sales by reservation."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.obisugi.co.jp/tour/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

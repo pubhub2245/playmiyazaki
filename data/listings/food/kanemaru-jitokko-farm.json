@@ -1,0 +1,34 @@
+{
+  "slug": "kanemaru-jitokko-farm",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "かねまる地頭鶏農場",
+    "en": "Kanemaru Jitokko Farm"
+  },
+  "address": {
+    "ja": "宮崎県都城市高崎町縄瀬3203-2",
+    "en": "3203-2 Nawase, Takazaki-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://jitokko.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市高崎町のみやざき地頭鶏の農場。丸鶏や加工品を通販・直販。",
+    "en": "Miyazaki Jitokko farm in Takazaki, Miyakonojo. Sells whole birds and prepared products direct."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.city.miyakonojo.miyazaki.jp/site/chicken/22834.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

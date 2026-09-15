@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-kitaura",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "道の駅 北浦 物産館",
+    "en": "Michi-no-Eki Kitaura"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北浦町古江3337-1",
+    "en": "3337-1 Furue, Kitaura-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://nobekan.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "道の駅北浦の物産館。地元の野菜・加工品・漁協の直売コーナー、月の塩など。",
+    "en": "Michi-no-Eki Kitaura shop. Local produce, crafts, fisheries co-op section, tsuki-no-shio salt and more."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://nobekan.jp/souvenir/%E9%81%93%E3%81%AE%E9%A7%85%E5%8C%97%E6%B5%A6%E3%80%80%E7%89%A9%E7%94%A3%E9%A4%A8/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

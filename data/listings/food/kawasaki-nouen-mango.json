@@ -1,0 +1,34 @@
+{
+  "slug": "kawasaki-nouen-mango",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "saito",
+  "name": {
+    "ja": "川﨑農園",
+    "en": "Kawasaki Farm"
+  },
+  "address": {
+    "ja": "宮崎県西都市大字鹿野田481",
+    "en": "481 Kanoda, Saito-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-42-3404",
+  "website": "http://www.kawasakinouen.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "西都市の完熟マンゴー農園。宮崎マンゴー発祥の地とされる。",
+    "en": "Ripe-mango farm in Saito, considered the birthplace of Miyazaki mango."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.saito-kanko.jp/members/%E5%B7%9D%EF%A8%91%E8%BE%B2%E5%9C%92/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

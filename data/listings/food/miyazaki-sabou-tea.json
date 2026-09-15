@@ -1,0 +1,34 @@
+{
+  "slug": "miyazaki-sabou-tea",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "gokase",
+  "name": {
+    "ja": "宮﨑茶房",
+    "en": "Miyazaki Sabou"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡五ヶ瀬町大字桑野内4966",
+    "en": "4966 Kuwanouchi, Gokase-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-82-0211",
+  "website": "https://www.miyazaki-sabou.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "五ヶ瀬町の有機茶園。茶園の散策と試飲の体験ができる。",
+    "en": "Organic tea farm in Gokase. Farm walks and tasting experiences."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://takachiho-kanko.info/shopping/32/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

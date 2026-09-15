@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-kushima",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "道の駅 くしま ウミヤママルシェ",
+    "en": "Michi-no-Eki Kushima"
+  },
+  "address": {
+    "ja": "宮崎県串間市大字西方5503-1",
+    "en": "5503-1 Nishikata, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-72-0800",
+  "website": "https://michinoeki-kushima.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "串間市の道の駅の直売所。海の幸と山の幸を扱う。2022年開業。",
+    "en": "Michi-no-Eki Kushima shop. Sea and mountain produce. Opened 2022."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://michinoeki-kushima.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "hachina-kan-hyuga",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "八菜館 ひちや店",
+    "en": "Hachinakan Hichiya"
+  },
+  "address": {
+    "ja": "宮崎県日向市江良町2-62-2",
+    "en": "2-62-2 Era-cho, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-54-7810",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向市のJA直売所。",
+    "en": "JA direct-sales shop in Hyuga."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://life.ja-group.jp/farm/market/list?state=%E5%AE%AE%E5%B4%8E%E7%9C%8C"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "gunkei-honten-kakushigura",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ぐんけい本店 隠蔵",
+    "en": "Gunkei Honten Kakushigura"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市中央通8-12",
+    "en": "8-12 Chuo-dori, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0120-85-8170",
+  "website": "http://www.gunkei.jp/restaurant/info-kakushigura/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏を炭火で焼く店。ぐんけいグループの本店。中央通の裏路地にある。",
+    "en": "Charcoal-grilled Miyazaki Jitokko chicken. The flagship shop of the Gunkei group, in a Chuo-dori back alley."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.miyazaki-city.tourism.or.jp/gourmet/10120"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

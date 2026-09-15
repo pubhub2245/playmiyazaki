@@ -1,0 +1,34 @@
+{
+  "slug": "takachiho-bokujo-dairy-experience",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "高千穂牧場 手作り体験",
+    "en": "Takachiho Bokujo Hands-on Experience"
+  },
+  "address": {
+    "ja": "宮崎県都城市吉之元町5265-103",
+    "en": "5265-103 Yoshinomoto-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-33-2102",
+  "website": "https://www.takachiho-bokujou.co.jp/oneday/taiken/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "霧島連山ふもとの観光牧場。バターやアイスの手作り体験、乳しぼり、乗馬（要予約）。",
+    "en": "Tourist dairy farm at the foot of the Kirishima range. Butter and ice-cream making, milking, horse riding (reservation required)."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/activity/1502"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

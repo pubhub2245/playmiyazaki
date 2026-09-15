@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-ebino-yui-no-ichi",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "道の駅 えびの 結いの市",
+    "en": "Michi-no-Eki Ebino Yui-no-Ichi"
+  },
+  "address": {
+    "ja": "宮崎県えびの市大字永山1006-1",
+    "en": "1006-1 Nagayama, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-35-3338",
+  "website": "https://michinoeki-ebino.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "えびの市の道の駅の直売所。地場野菜と果物、宮崎牛。JAが運営。",
+    "en": "Michi-no-Eki Ebino direct sales. Local produce, fruit, and Miyazaki Beef. Operated by JA."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://life.ja-group.jp/farm/market/detail?id=231"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

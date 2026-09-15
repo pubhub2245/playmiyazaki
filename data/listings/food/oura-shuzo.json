@@ -1,0 +1,34 @@
+{
+  "slug": "oura-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "大浦酒造",
+    "en": "Oura Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県都城市乙房町4113-1",
+    "en": "4113-1 Otsubo-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-37-3883",
+  "website": "https://ooura-syuzou.net/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市乙房町の焼酎蔵。蔵見学は要予約。隣接の直売店あり。",
+    "en": "Shochu brewery in Otsubo, Miyakonojo. Tour by reservation. Adjacent direct-sales shop."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura4"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

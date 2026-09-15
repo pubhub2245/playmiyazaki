@@ -1,0 +1,34 @@
+{
+  "slug": "akatsuki-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "アカツキ酒造",
+    "en": "Akatsuki Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町河内1835-5",
+    "en": "1835-5 Kawachi, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-75-1612",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂町の米焼酎蔵。蔵見学は要予約。",
+    "en": "Rice-shochu brewery in Takachiho. Tours by reservation only."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura1"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

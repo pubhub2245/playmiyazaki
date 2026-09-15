@@ -1,0 +1,34 @@
+{
+  "slug": "tsukada-nojo-miyazaki-honten",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "塚田農場 宮崎本店",
+    "en": "Tsukada Farm Miyazaki Honten"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通西3-2-24 ライオンタワー宮崎ビル",
+    "en": "Lion Tower Miyazaki Bldg, 3-2-24 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-61-3361",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏をはじめとする宮崎食材の居酒屋。塚田農場グループの宮崎本店。",
+    "en": "Izakaya featuring Miyazaki Jitokko and other Miyazaki produce. Tsukada Farm's Miyazaki flagship."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001036"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

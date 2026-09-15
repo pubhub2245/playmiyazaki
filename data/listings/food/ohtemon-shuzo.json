@@ -1,0 +1,37 @@
+{
+  "slug": "ohtemon-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "酒蔵 王手門",
+    "en": "Ohtemon Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町大藤甲898-8",
+    "en": "898-8 Ofuji-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-21-7717",
+  "website": "https://ohtemon1895.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "水金土 9:00〜15:00 蔵見学は要予約",
+    "en": "Wed/Fri/Sat 9:00–15:00, tour by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "日南市北郷の焼酎蔵。蔵見学は水金土のみ、要予約。",
+    "en": "Shochu brewery in Kitago, Nichinan. Tours Wed/Fri/Sat by reservation."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura3"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

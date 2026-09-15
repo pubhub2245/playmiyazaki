@@ -1,0 +1,34 @@
+{
+  "slug": "asagiri-atom-miyakonojo",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "朝霧の里 ATOM",
+    "en": "Asagiri-no-Sato ATOM"
+  },
+  "address": {
+    "ja": "宮崎県都城市高木町6316",
+    "en": "6316 Takagi-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-38-1129",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市のJA直売所。",
+    "en": "JA direct-sales shop in Miyakonojo."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://life.ja-group.jp/farm/market/list?state=%E5%AE%AE%E5%B4%8E%E7%9C%8C"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

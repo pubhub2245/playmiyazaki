@@ -1,0 +1,34 @@
+{
+  "slug": "sentoku-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "千徳酒造",
+    "en": "Sentoku Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県延岡市大瀬町2-1-8",
+    "en": "2-1-8 Oze-machi, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-32-2024",
+  "website": "http://sentoku.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市の酒蔵。宮崎県で唯一の清酒蔵。蔵見学は要予約。",
+    "en": "Nobeoka brewery. Miyazaki's only sake (seishu) brewery. Tours by reservation."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura1"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

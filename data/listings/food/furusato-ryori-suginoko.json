@@ -1,0 +1,34 @@
+{
+  "slug": "furusato-ryori-suginoko",
+  "genre": "food",
+  "category": [
+    "jidori"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ふるさと料理 杉の子",
+    "en": "Furusato Ryori Suginoko"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通西2-1-4",
+    "en": "2-1-4 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-22-5798",
+  "website": "https://www.miyazaki-suginoko.net/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "みやざき地頭鶏の炭火焼を含む宮崎の郷土料理を出す店。組合の指定店。",
+    "en": "Miyazaki home-style dishes, including charcoal-grilled Miyazaki Jitokko. A cooperative-designated shop."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001031"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

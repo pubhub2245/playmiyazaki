@@ -1,0 +1,34 @@
+{
+  "slug": "sens-berry-farm",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "SEN's Berry Farm",
+    "en": "SEN's Berry Farm"
+  },
+  "address": {
+    "ja": "宮崎県えびの市原田4070",
+    "en": "4070 Harada, Ebino-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "えびの市原田のいちご狩り農園。",
+    "en": "Strawberry-picking farm in Harada, Ebino."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/strawberry"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

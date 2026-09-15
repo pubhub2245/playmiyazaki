@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-sakatani-shop",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "道の駅 酒谷 せせらぎの里 物産館",
+    "en": "Michi-no-Eki Sakatani Shop"
+  },
+  "address": {
+    "ja": "宮崎県日南市酒谷1840-4",
+    "en": "1840-4 Sakatani, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-26-1051",
+  "website": "https://michinoeki-sakatani.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市酒谷の道の駅の物産館。地元の野菜・山菜・果物、草だんごや棚田そばを扱う。",
+    "en": "Michi-no-Eki Sakatani shop. Local produce and mountain vegetables; kusa-dango and tanada soba."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://michinoeki-sakatani.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

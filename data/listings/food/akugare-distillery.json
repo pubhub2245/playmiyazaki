@@ -1,0 +1,37 @@
+{
+  "slug": "akugare-distillery",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "あくがれ蒸留所",
+    "en": "Akugare Distillery"
+  },
+  "address": {
+    "ja": "宮崎県日向市東郷町山陰辛212-1",
+    "en": "212-1 Yamakage-Kanoto, Togo-cho, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-68-3550",
+  "website": "https://www.akugare.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜17:00 蔵見学は要予約",
+    "en": "10:00–17:00, tour by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "日向市東郷町の焼酎蔵。蔵見学は要予約。",
+    "en": "Shochu brewery in Togo, Hyuga. Tours by reservation only."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura1"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

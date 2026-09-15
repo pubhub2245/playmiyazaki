@@ -1,0 +1,37 @@
+{
+  "slug": "minami-ichigo-noen",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "南いちご農園",
+    "en": "Minami Strawberry Farm"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町郷之原",
+    "en": "Gonohara, Kitago-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.373strawberryfarm.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "いちご狩り 1月〜5月",
+    "en": "Strawberry picking January–May"
+  },
+  "price": null,
+  "description": {
+    "ja": "日南市北郷のいちご狩り農園。ぶどうや柿など季節の果物も。",
+    "en": "Strawberry farm in Kitago, Nichinan. Grapes and persimmons also in season."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.373strawberryfarm.com/picking.php"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

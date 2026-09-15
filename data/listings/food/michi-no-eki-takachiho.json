@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-takachiho",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "道の駅 高千穂 物産館",
+    "en": "Michi-no-Eki Takachiho"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字三田井1296-5",
+    "en": "1296-5 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-72-9123",
+  "website": "https://takachiho-kanko.info/shopping/26/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂の道の駅の物産館。地元の野菜と加工品を扱う。",
+    "en": "Michi-no-Eki Takachiho's shop. Local vegetables and prepared products."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://takachiho-kanko.info/shopping/26/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

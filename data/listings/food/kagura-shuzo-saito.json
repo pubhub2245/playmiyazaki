@@ -1,0 +1,37 @@
+{
+  "slug": "kagura-shuzo-saito",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "saito",
+  "name": {
+    "ja": "神楽酒造 西の都アグリホール",
+    "en": "Kagura Shuzo (Saito Plant)"
+  },
+  "address": {
+    "ja": "宮崎県西都市鹿野田11365-1",
+    "en": "11365-1 Kanoda, Saito-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-41-1234",
+  "website": "https://www.kagurashuzo.co.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 9:00〜16:30 蔵見学は要予約",
+    "en": "Weekdays 9:00–16:30, tour by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "神楽酒造の西都工場。蔵見学は平日のみ、要予約。",
+    "en": "Kagura Shuzo's Saito plant. Weekday-only tours by reservation."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura2"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

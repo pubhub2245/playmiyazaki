@@ -1,0 +1,34 @@
+{
+  "slug": "michi-no-eki-takaoka-vitaminkan",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "道の駅 高岡 ビタミン館",
+    "en": "Michi-no-Eki Takaoka Vitaminkan"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市高岡町花見304-5",
+    "en": "304-5 Hanami, Takaoka-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-82-4936",
+  "website": "https://vitaminkan.miyazaki.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市高岡町の道の駅の直売所。農産物と特産・お土産を扱う。",
+    "en": "Direct-sales shop at Michi-no-Eki Takaoka in Miyazaki City. Produce and local specialties."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.city.miyazaki.miyazaki.jp/culture/facilities/718.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

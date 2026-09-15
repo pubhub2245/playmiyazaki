@@ -1,0 +1,37 @@
+{
+  "slug": "suki-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "すき酒造",
+    "en": "Suki Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県小林市須木下田唐池393-3",
+    "en": "393-3 Karaike, Sugi-Shimoda, Kobayashi-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-48-2016",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜16:00 蔵見学は要予約",
+    "en": "9:00–16:00, tour by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "小林市須木の焼酎蔵。蔵見学は要予約、店頭販売あり。",
+    "en": "Shochu brewery in Sugi, Kobayashi. Tour by reservation. Direct sales on site."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura4"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

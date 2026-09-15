@@ -1,0 +1,37 @@
+{
+  "slug": "ochiai-shuzo",
+  "genre": "food",
+  "category": [
+    "shochu"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "落合酒造場",
+    "en": "Ochiai Shuzo"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市鏡洲1626",
+    "en": "1626 Kagamizu, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-55-3206",
+  "website": "https://ochiaishuzojyo.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜16:00 蔵見学は要予約",
+    "en": "10:00–16:00, tour by reservation"
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市鏡洲の焼酎蔵。蔵見学は要予約。",
+    "en": "Shochu brewery in Kagamizu, Miyazaki. Tours by reservation only."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/feature/sakagura2"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}
