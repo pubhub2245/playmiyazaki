@@ -1,16 +1,18 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, UI, type Lang } from "@/lib/i18n";
-import { absolute, urlCategory } from "@/lib/url";
-import { ListingRow } from "@/app/_components/ListingRow";
-import { FilterBar } from "@/app/_components/FilterBar";
+import { LANGS, type Lang } from "@/lib/i18n";
+import { absolute, urlCategory, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
   categoriesWithListings,
   genresWithListings,
   hasCategory,
 } from "@/lib/coverage";
+import { AreaChips, areaCountsForGenre } from "@/app/_components/FilterBar";
+import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
+import { FilterableList } from "@/app/_components/FilterableList";
+import { listingToRow } from "@/lib/rows";
 
 type Props = { params: { lang: string; genre: string; category: string } };
 
@@ -62,55 +64,49 @@ export default function CategoryPage({ params }: Props) {
   const cat = taxonomy.categories[params.genre]?.find((c) => c.slug === params.category);
   if (!genre || !cat || !hasCategory(params.genre, params.category)) notFound();
 
-  const catLabels: Record<string, { ja: string; en: string }> = {};
-  for (const c of taxonomy.categories[params.genre] ?? []) catLabels[c.slug] = c;
-  const areaLabels: Record<string, { ja: string; en: string }> = {};
-  for (const a of taxonomy.areas) areaLabels[a.slug] = a;
-
-  const listings = listingsByGenre(params.genre)
+  const listings = listingsByGenre(params.genre);
+  const filtered = listings
     .filter((l) => l.category.includes(params.category))
     .sort((a, b) => {
-      const aArea = areaLabels[a.area]?.ja ?? a.area;
-      const bArea = areaLabels[b.area]?.ja ?? b.area;
+      const aArea = taxonomy.areas.find((x) => x.slug === a.area)?.ja ?? a.area;
+      const bArea = taxonomy.areas.find((x) => x.slug === b.area)?.ja ?? b.area;
       const areaCmp = aArea.localeCompare(bArea, "ja");
       if (areaCmp !== 0) return areaCmp;
       return a.name.ja.localeCompare(b.name.ja, "ja");
     });
 
-  const availableCategories = new Set(categoriesWithListings(params.genre));
-  const availableAreas = new Set(areasWithListings(params.genre));
+  const areaCounts = areaCountsForGenre(filtered);
+  void areasWithListings(params.genre);
+
+  const items = filtered.map((l) => listingToRow(l, taxonomy, lang));
 
   return (
-    <div className="space-y-5">
+    <div className="space-y-6">
+      <Breadcrumbs
+        lang={lang}
+        crumbs={[
+          { label: "Play Miyazaki", href: urlHome(lang) },
+          { label: lang === "ja" ? genre.ja : genre.en, href: urlGenre(lang, params.genre) },
+          { label: lang === "ja" ? cat.ja : cat.en },
+        ]}
+      />
       <div>
-        <h1 className="text-xl font-semibold text-slate-900">
-          {lang === "ja"
-            ? `宮崎の${cat.ja}（${genre.ja}）`
-            : `${cat.en} (${genre.en}) in Miyazaki`}
+        <h1 className="font-display font-bold text-[28px] leading-tight text-text-primary">
+          {lang === "ja" ? `宮崎の${cat.ja}（${genre.ja}）` : `${cat.en} (${genre.en}) in Miyazaki`}
         </h1>
-        <p className="text-xs text-slate-500 mt-1">
-          {listings.length} {UI.spot_count[lang]}
+        <p className="pm-mono text-[12px] text-text-secondary mt-1">
+          {filtered.length} {lang === "ja" ? "スポット" : "places"}
         </p>
       </div>
-      <FilterBar
+
+      <AreaChips
         lang={lang}
         genre={params.genre}
         taxonomy={taxonomy}
-        activeCategory={params.category}
-        availableCategories={availableCategories}
-        availableAreas={availableAreas}
+        areaCounts={areaCounts}
       />
-      <div className="divide-y divide-slate-200 border border-slate-200 rounded">
-        {listings.map((l) => (
-          <ListingRow
-            key={l.slug}
-            listing={l}
-            lang={lang}
-            categoryLabels={catLabels}
-            areaLabels={areaLabels}
-          />
-        ))}
-      </div>
+
+      <FilterableList items={items} lang={lang} />
     </div>
   );
 }

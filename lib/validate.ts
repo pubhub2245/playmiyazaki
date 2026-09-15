@@ -20,7 +20,7 @@ function main(): void {
   const areaSlugs = new Set(taxonomy.areas.map((a) => a.slug));
 
   if (!fs.existsSync(LISTINGS_DIR)) {
-    console.log("[validate] no data/listings directory yet — nothing to validate.");
+    console.log("[validate] no data/listings directory yet - nothing to validate.");
     return;
   }
 
@@ -99,14 +99,14 @@ function main(): void {
   }
 
   if (failures.length > 0) {
-    console.error(`[validate] FAIL — ${failures.length} issue(s):`);
+    console.error(`[validate] FAIL - ${failures.length} issue(s):`);
     for (const f of failures) {
       console.error(`  ${f.file}: ${f.message}`);
     }
     process.exit(1);
   }
 
-  console.log(`[validate] OK — ${checked} listing(s) valid.`);
+  console.log(`[validate] OK - ${checked} listing(s) valid.`);
 }
 
 main();

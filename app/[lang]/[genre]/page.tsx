@@ -1,16 +1,24 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, UI, type Lang } from "@/lib/i18n";
-import { absolute, urlGenre } from "@/lib/url";
-import { ListingRow } from "@/app/_components/ListingRow";
-import { FilterBar } from "@/app/_components/FilterBar";
+import { LANGS, type Lang } from "@/lib/i18n";
+import { absolute, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
   categoriesWithListings,
   genresWithListings,
   hasGenre,
 } from "@/lib/coverage";
+import {
+  AreaChips,
+  CategoryChips,
+  areaCountsForGenre,
+  categoryCountsForGenre,
+} from "@/app/_components/FilterBar";
+import { TideBand } from "@/app/_components/TideBand";
+import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
+import { FilteredCategoryGroups, type Group } from "@/app/_components/FilteredCategoryGroups";
+import { listingToRow } from "@/lib/rows";
 
 type Props = { params: { lang: string; genre: string } };
 
@@ -32,9 +40,7 @@ export function generateMetadata({ params }: Props): Metadata {
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   if (!genre) return {};
   const title =
-    lang === "ja"
-      ? `宮崎の${genre.ja}一覧`
-      : `${genre.en} in Miyazaki`;
+    lang === "ja" ? `宮崎の${genre.ja}一覧` : `${genre.en} in Miyazaki`;
   const description =
     lang === "ja"
       ? `宮崎県内の${genre.ja}を、出典URL付きで一覧にしています。`
@@ -59,71 +65,65 @@ export default function GenrePage({ params }: Props) {
   if (!genre || !hasGenre(params.genre)) notFound();
 
   const listings = listingsByGenre(params.genre);
-  const catLabels: Record<string, { ja: string; en: string }> = {};
-  for (const c of taxonomy.categories[params.genre] ?? []) catLabels[c.slug] = c;
-  const areaLabels: Record<string, { ja: string; en: string }> = {};
-  for (const a of taxonomy.areas) areaLabels[a.slug] = a;
+  const catCounts = categoryCountsForGenre(listings);
+  const areaCounts = areaCountsForGenre(listings);
+  const activeCats = new Set(categoriesWithListings(params.genre));
+  // Ensure both coverage helpers are wired to this page (chip filter reads both).
+  void areasWithListings(params.genre);
 
-  const availableCategories = new Set(categoriesWithListings(params.genre));
-  const availableAreas = new Set(areasWithListings(params.genre));
-
-  const categoryOrder = taxonomy.categories[params.genre] ?? [];
-  const groups = categoryOrder
-    .filter((c) => availableCategories.has(c.slug))
-    .map((c) => ({
-      category: c,
-      items: listings
+  const groups: Group[] = (taxonomy.categories[params.genre] ?? [])
+    .filter((c) => activeCats.has(c.slug))
+    .map((c) => {
+      const items = listings
         .filter((l) => l.category.includes(c.slug))
         .sort((a, b) => {
-          const aArea = areaLabels[a.area]?.ja ?? a.area;
-          const bArea = areaLabels[b.area]?.ja ?? b.area;
+          const aArea =
+            taxonomy.areas.find((x) => x.slug === a.area)?.ja ?? a.area;
+          const bArea =
+            taxonomy.areas.find((x) => x.slug === b.area)?.ja ?? b.area;
           const areaCmp = aArea.localeCompare(bArea, "ja");
           if (areaCmp !== 0) return areaCmp;
           return a.name.ja.localeCompare(b.name.ja, "ja");
-        }),
-    }))
-    .filter((g) => g.items.length > 0);
+        })
+        .map((l) => listingToRow(l, taxonomy, lang));
+      return { key: c.slug, label: c[lang], items };
+    });
 
   return (
-    <div className="space-y-5">
-      <div>
-        <h1 className="text-xl font-semibold text-slate-900">
-          {lang === "ja" ? `宮崎の${genre.ja}` : `${genre.en} in Miyazaki`}
-        </h1>
-        <p className="text-xs text-slate-500 mt-1">
-          {listings.length} {UI.spot_count[lang]}
-        </p>
+    <>
+      <div className="-mx-4 -mt-6 mb-6">
+        <TideBand
+          title={lang === "ja" ? genre.ja : genre.en}
+          count={listings.length}
+          lang={lang}
+        />
       </div>
-      <FilterBar
-        lang={lang}
-        genre={params.genre}
-        taxonomy={taxonomy}
-        availableCategories={availableCategories}
-        availableAreas={availableAreas}
-      />
       <div className="space-y-6">
-        {groups.map((group) => (
-          <section key={group.category.slug} className="space-y-2">
-            <h2 className="text-sm font-semibold text-slate-800">
-              {group.category[lang]}
-              <span className="ml-2 text-xs font-normal text-slate-500">
-                {group.items.length} {UI.spot_count[lang]}
-              </span>
-            </h2>
-            <div className="divide-y divide-slate-200 border border-slate-200 rounded">
-              {group.items.map((l) => (
-                <ListingRow
-                  key={l.slug}
-                  listing={l}
-                  lang={lang}
-                  categoryLabels={catLabels}
-                  areaLabels={areaLabels}
-                />
-              ))}
-            </div>
-          </section>
-        ))}
+        <Breadcrumbs
+          lang={lang}
+          crumbs={[
+            { label: "Play Miyazaki", href: urlHome(lang) },
+            { label: lang === "ja" ? genre.ja : genre.en },
+          ]}
+        />
+
+        <div className="space-y-3">
+          <CategoryChips
+            lang={lang}
+            genre={params.genre}
+            taxonomy={taxonomy}
+            categoryCounts={catCounts}
+          />
+          <AreaChips
+            lang={lang}
+            genre={params.genre}
+            taxonomy={taxonomy}
+            areaCounts={areaCounts}
+          />
+        </div>
+
+        <FilteredCategoryGroups groups={groups} lang={lang} />
       </div>
-    </div>
+    </>
   );
 }

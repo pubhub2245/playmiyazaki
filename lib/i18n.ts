@@ -15,8 +15,8 @@ export const SITE_TAGLINE = {
 };
 
 export const HOME_TITLE = {
-  ja: "Play Miyazaki — 宮崎で遊ぶための一覧サイト",
-  en: "Play Miyazaki — Surf, camp, food and golf in Miyazaki",
+  ja: "Play Miyazaki｜宮崎で遊ぶための一覧サイト",
+  en: "Play Miyazaki: Surf, camp, food and golf in Miyazaki",
 };
 
 export const NEARBY_HEADING = {

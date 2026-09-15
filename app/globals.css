@@ -2,25 +2,390 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --canvas: #FAF6EF;
+  --panel: #F1EBE0;
+  --sky: #EAF2F8;
+  --text-primary: #1B2A3A;
+  --text-secondary: #56677A;
+  --accent: #0B6AA8;
+  --accent-hover: #094F7E;
+  --line: #D9D0C2;
+  --line-strong: #81888E;
+  --sea: #0B6AA8;
+  --on-sea: #FAF6EF;
+  --on-dark: #FAF6EF;
+  --on-dark-sub: #B9C4CF;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-inout: cubic-bezier(0.65, 0, 0.35, 1);
+}
+
 html {
   color-scheme: light;
+  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 body {
-  color: #1f2937;
-  background: #ffffff;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN",
-    "Hiragino Sans", Meiryo, sans-serif;
+  color: var(--text-primary);
+  background: var(--canvas);
+  font-family: var(--font-display), sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
-  line-height: 1.55;
+  overflow-x: hidden;
+  overflow-x: clip;
+}
+
+.pm-canvas-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: linear-gradient(to bottom, var(--sky) 0, var(--canvas) 320px);
+}
+
+.pm-page {
+  position: relative;
+  z-index: 1;
 }
 
 a {
-  color: #0369a1;
+  color: var(--accent);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
 a:hover {
-  color: #075985;
+  color: var(--accent-hover);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.pm-skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  background: var(--text-primary);
+  color: var(--on-dark);
+  padding: 8px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 13px;
+}
+
+.pm-skip-link:focus {
+  left: 12px;
+  top: 12px;
+}
+
+/* Row (E) */
+.pm-list {
+  border-top: 1px solid var(--line);
+}
+.pm-list .pm-row {
+  border-bottom: 1px solid var(--line);
+  background: transparent;
+  transition: background 200ms var(--ease-out);
+}
+.pm-list .pm-row:hover {
+  background: var(--panel);
+}
+.pm-row-featured {
+  border-left: 3px solid var(--accent);
+  padding-left: calc(1rem - 3px);
+}
+
+/* Row reveal (motion). Container drives it so specificity beats nth-child overrides. */
+.pm-list .pm-row {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 400ms var(--ease-out), transform 400ms var(--ease-out), background 200ms var(--ease-out);
+}
+.pm-list .pm-row:nth-child(1) { transition-delay: 0ms, 0ms, 0ms; }
+.pm-list .pm-row:nth-child(2) { transition-delay: 60ms, 60ms, 0ms; }
+.pm-list .pm-row:nth-child(3) { transition-delay: 120ms, 120ms, 0ms; }
+.pm-list .pm-row:nth-child(4) { transition-delay: 180ms, 180ms, 0ms; }
+.pm-list .pm-row:nth-child(5) { transition-delay: 240ms, 240ms, 0ms; }
+.pm-list .pm-row:nth-child(6) { transition-delay: 300ms, 300ms, 0ms; }
+.pm-list .pm-row:nth-child(7) { transition-delay: 360ms, 360ms, 0ms; }
+.pm-list .pm-row:nth-child(8) { transition-delay: 420ms, 420ms, 0ms; }
+.pm-list.in .pm-row {
+  opacity: 1;
+  transform: none;
+}
+/* Once revealed, kill the enter delay so hover reacts immediately.
+   Higher specificity than the nth-child rules above (.pm-list.in matches +1 class). */
+.pm-list.in .pm-row:nth-child(1),
+.pm-list.in .pm-row:nth-child(2),
+.pm-list.in .pm-row:nth-child(3),
+.pm-list.in .pm-row:nth-child(4),
+.pm-list.in .pm-row:nth-child(5),
+.pm-list.in .pm-row:nth-child(6),
+.pm-list.in .pm-row:nth-child(7),
+.pm-list.in .pm-row:nth-child(8) {
+  transition-delay: 0ms;
+}
+
+/* Fact line with dotted leader (E) */
+.pm-fact {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+}
+.pm-fact-label {
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+.pm-fact-leader {
+  flex: 1;
+  border-bottom: 1px dotted var(--line);
+  transform: translateY(-3px);
+}
+.pm-fact-value {
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+
+/* Chip (D) */
+.pm-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  height: 32px;
+  padding: 0 12px;
+  border-radius: 999px;
+  border: 1px solid var(--line-strong);
+  background: transparent;
+  color: var(--text-primary);
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 13px;
+  text-decoration: none;
+  transition: background 200ms var(--ease-out);
+  line-height: 30px;
+}
+.pm-chip:hover {
+  background: var(--panel);
+  color: var(--text-primary);
+}
+.pm-chip-count {
+  color: var(--text-secondary);
+}
+.pm-chip.is-active {
+  background: var(--text-primary);
+  color: var(--on-dark);
+  border-color: var(--text-primary);
+}
+.pm-chip.is-active .pm-chip-count {
+  color: var(--on-dark-sub);
+}
+
+/* Search box (C) */
+.pm-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 12px;
+  border-radius: 8px;
+  border: 1px solid var(--line-strong);
+  background: var(--canvas);
+}
+.pm-search:focus-within {
+  border-color: var(--accent);
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+.pm-search input {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  flex: 1;
+  font-family: var(--font-display), sans-serif;
+  font-size: 15px;
+  color: var(--text-primary);
+}
+.pm-search input::placeholder {
+  color: var(--text-secondary);
+}
+
+/* Tide-table band (signature) */
+.pm-band {
+  position: relative;
+  background: var(--sea);
+  color: var(--on-sea);
+  padding: 24px 16px 40px;
+  min-height: 120px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+}
+@media (max-width: 640px) {
+  .pm-band {
+    min-height: 88px;
+    padding: 16px 16px 28px;
+  }
+}
+.pm-band-title {
+  font-family: var(--font-display), sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.1;
+}
+@media (max-width: 640px) {
+  .pm-band-title {
+    font-size: 28px;
+  }
+}
+.pm-band-count {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 14px;
+  color: var(--on-sea);
+}
+.pm-band-wave {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  width: 100%;
+  height: 20px;
+  display: block;
+  color: var(--canvas);
+}
+
+/* Section subhead with accent bar (used on genre index category groups) */
+.pm-subhead {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+  padding-left: 8px;
+  border-left: 2px solid var(--accent);
+}
+
+/* Sole button (G) */
+.pm-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 20px;
+  border-radius: 6px;
+  background: var(--accent);
+  color: var(--on-sea);
+  font-family: var(--font-display), sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  text-decoration: none;
+  transition: background 200ms var(--ease-out);
+}
+.pm-btn:hover {
+  background: var(--accent-hover);
+  color: var(--on-sea);
+}
+
+.pm-monogram {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  background: var(--panel);
+  color: var(--text-primary);
+  font-family: var(--font-display), sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.pm-monogram-sm {
+  width: 32px;
+  height: 32px;
+  font-size: 14px;
+}
+
+.pm-crumbs {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+}
+.pm-crumbs a {
+  color: var(--text-secondary);
+  text-decoration: none;
+}
+.pm-crumbs a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.pm-prose {
+  color: var(--text-primary);
+  font-size: 15px;
+  line-height: 1.7;
+}
+.pm-prose p {
+  max-width: 40ch;
+}
+
+.pm-mono {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  letter-spacing: 0.04em;
+}
+
+.pm-verified {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 11px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+/* Featured label (H) — displayed when a row has data-featured="true" */
+.pm-featured-label {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-size: 11px;
+  color: var(--accent);
+}
+
+/* Touch targets on coarse pointer */
+@media (pointer: coarse) {
+  .pm-touch,
+  .pm-chip,
+  .pm-btn {
+    min-height: 44px;
+  }
+  .pm-chip {
+    line-height: 42px;
+    height: 44px;
+    padding: 0 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+  }
+  .pm-list .pm-row {
+    opacity: 1 !important;
+    transform: none !important;
+  }
 }

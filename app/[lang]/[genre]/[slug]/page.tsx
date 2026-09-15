@@ -3,10 +3,17 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
 import { LANGS, NEARBY_HEADING, UI, type Lang } from "@/lib/i18n";
-import { absolute, googleMapsUrl, urlArea, urlCategory, urlGenre, urlListing } from "@/lib/url";
+import { absolute, googleMapsUrl, urlArea, urlCategory, urlGenre, urlHome, urlListing } from "@/lib/url";
 import { nearbyInArea } from "@/lib/coverage";
+import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
+import { Row } from "@/app/_components/Row";
+import { RevealList } from "@/app/_components/RevealList";
+import { listingToRow } from "@/lib/rows";
 
 type Props = { params: { lang: string; genre: string; slug: string } };
+
+const OPEN_SITE = { ja: "公式サイトを見る", en: "Visit the official site" };
+const OPEN_MAP = { ja: "Google マップで開く", en: "Open in Google Maps" };
 
 export const dynamicParams = false;
 
@@ -58,146 +65,182 @@ export default function ListingDetail({ params }: Props) {
     listing.google_maps_url ??
     googleMapsUrl(`${listing.address.ja} ${listing.name.ja}`);
 
-  const jsonLd = buildJsonLd(listing, lang, absolute(urlListing(lang, listing.genre, listing.slug)));
+  const jsonLd = buildJsonLd(
+    listing,
+    lang,
+    absolute(urlListing(lang, listing.genre, listing.slug)),
+  );
   const CHECK = UI.check_official[lang];
-  const nearby = nearbyInArea(listing, 5);
+  const nearby = nearbyInArea(listing, 5).map((n) => listingToRow(n, taxonomy, lang));
 
   return (
-    <article className="space-y-5">
+    <article className="space-y-8">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <nav className="text-xs text-slate-500">
-        <Link href={`/${lang}`} className="no-underline">
-          {UI.home[lang]}
-        </Link>
-        {UI.breadcrumb_sep[lang]}
-        <Link href={urlGenre(lang, params.genre)} className="no-underline">
-          {genre[lang]}
-        </Link>
-      </nav>
+      <Breadcrumbs
+        lang={lang}
+        crumbs={[
+          { label: "Play Miyazaki", href: urlHome(lang) },
+          { label: lang === "ja" ? genre.ja : genre.en, href: urlGenre(lang, params.genre) },
+          { label: areaName, href: urlArea(lang, params.genre, listing.area) },
+          { label: listing.name[lang] },
+        ]}
+      />
 
-      <header className="space-y-2">
-        <h1 className="text-2xl font-semibold text-slate-900">{listing.name[lang]}</h1>
-        <div className="text-xs text-slate-500 flex flex-wrap gap-x-2 gap-y-1">
-          {listing.category.map((c) => (
-            <Link
-              key={c}
-              href={urlCategory(lang, params.genre, c)}
-              className="no-underline"
+      <div className="grid grid-cols-1 md:grid-cols-[1fr_18rem] gap-8">
+        {/* Left column: name, chips, description, sole button */}
+        <div className="space-y-4 min-w-0">
+          <header className="space-y-3">
+            <h1 className="font-display font-bold text-[32px] leading-tight text-text-primary">
+              {listing.name[lang]}
+            </h1>
+            <div className="flex flex-wrap gap-2">
+              {listing.category.map((c) => (
+                <Link
+                  key={c}
+                  href={urlCategory(lang, params.genre, c)}
+                  className="pm-chip"
+                >
+                  {catLabels.find((x) => x.slug === c)?.[lang] ?? c}
+                </Link>
+              ))}
+              <Link
+                href={urlArea(lang, params.genre, listing.area)}
+                className="pm-chip"
+              >
+                {areaName}
+              </Link>
+            </div>
+            {listing.status !== "open" && (
+              <div className="pm-mono text-[13px] text-accent">
+                {listing.status === "closed"
+                  ? UI.status_closed[lang]
+                  : UI.status_unknown[lang]}
+              </div>
+            )}
+          </header>
+
+          {listing.description?.[lang] && (
+            <div className="pm-prose">
+              <p>{listing.description[lang]}</p>
+            </div>
+          )}
+
+          <div className="flex flex-wrap items-center gap-4 pt-2">
+            {listing.website ? (
+              <a
+                className="pm-btn"
+                href={listing.website}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {OPEN_SITE[lang]} <span aria-hidden>↗</span>
+              </a>
+            ) : (
+              <span className="pm-mono text-[13px] text-text-secondary">
+                {CHECK}
+              </span>
+            )}
+            <a
+              className="pm-mono text-[13px] text-accent"
+              href={gmap}
+              target="_blank"
+              rel="noopener noreferrer"
             >
-              {catLabels.find((x) => x.slug === c)?.[lang] ?? c}
-            </Link>
-          ))}
-          <span aria-hidden>·</span>
-          <Link href={urlArea(lang, params.genre, listing.area)} className="no-underline">
-            {areaName}
-          </Link>
-        </div>
-        {listing.status !== "open" && (
-          <div className="text-sm text-amber-700">
-            {listing.status === "closed" ? UI.status_closed[lang] : UI.status_unknown[lang]}
-          </div>
-        )}
-      </header>
-
-      {listing.description?.[lang] && (
-        <p className="text-slate-800">{listing.description[lang]}</p>
-      )}
-
-      <dl className="grid grid-cols-[8rem_1fr] gap-y-2 text-sm">
-        <dt className="text-slate-500">{UI.address[lang]}</dt>
-        <dd className="text-slate-900">{listing.address[lang]}</dd>
-
-        <dt className="text-slate-500">{UI.phone[lang]}</dt>
-        <dd className="text-slate-900">
-          {listing.phone ? (
-            <a href={`tel:${listing.phone.replace(/[^\d+]/g, "")}`}>{listing.phone}</a>
-          ) : (
-            <span className="text-slate-500">{CHECK}</span>
-          )}
-        </dd>
-
-        <dt className="text-slate-500">{UI.website[lang]}</dt>
-        <dd>
-          {listing.website ? (
-            <a href={listing.website} target="_blank" rel="noopener noreferrer">
-              {listing.website}
+              {OPEN_MAP[lang]} <span aria-hidden>↗</span>
             </a>
-          ) : (
-            <span className="text-slate-500">{CHECK}</span>
-          )}
-        </dd>
+          </div>
+        </div>
 
-        <dt className="text-slate-500">{UI.map[lang]}</dt>
-        <dd>
-          <a href={gmap} target="_blank" rel="noopener noreferrer">
-            {UI.map[lang]}
-          </a>
-        </dd>
-
-        <dt className="text-slate-500">{UI.hours[lang]}</dt>
-        <dd className="text-slate-900">
-          {listing.hours?.[lang] ? (
-            <span className="whitespace-pre-line">{listing.hours[lang]}</span>
-          ) : (
-            <span className="text-slate-500">{CHECK}</span>
-          )}
-        </dd>
-
-        <dt className="text-slate-500">{UI.price[lang]}</dt>
-        <dd className="text-slate-900">
-          {listing.price?.[lang] ? (
-            <span className="whitespace-pre-line">{listing.price[lang]}</span>
-          ) : (
-            <span className="text-slate-500">{CHECK}</span>
-          )}
-        </dd>
-      </dl>
+        {/* Right column: facts table */}
+        <aside className="min-w-0">
+          <div className="bg-panel/60 rounded-lg p-4">
+            <dl className="grid grid-cols-1 gap-y-3 text-[14px]">
+              <FactItem label={UI.address[lang]} value={listing.address[lang]} />
+              <FactItem
+                label={UI.phone[lang]}
+                value={
+                  listing.phone ? (
+                    <a
+                      href={`tel:${listing.phone.replace(/[^\d+]/g, "")}`}
+                      className="text-text-primary"
+                    >
+                      {listing.phone}
+                    </a>
+                  ) : (
+                    <span className="text-text-secondary">{CHECK}</span>
+                  )
+                }
+              />
+              <FactItem
+                label={UI.hours[lang]}
+                value={
+                  listing.hours?.[lang] ? (
+                    <span className="whitespace-pre-line">{listing.hours[lang]}</span>
+                  ) : (
+                    <span className="text-text-secondary">{CHECK}</span>
+                  )
+                }
+              />
+              <FactItem
+                label={UI.price[lang]}
+                value={
+                  listing.price?.[lang] ? (
+                    <span className="whitespace-pre-line">{listing.price[lang]}</span>
+                  ) : (
+                    <span className="text-text-secondary">{CHECK}</span>
+                  )
+                }
+              />
+              <div className="border-t border-line pt-3 space-y-2">
+                <dt className="pm-mono text-[12px] text-text-secondary">
+                  {UI.sources[lang]}
+                </dt>
+                <dd>
+                  <ul className="space-y-1 list-none p-0 m-0">
+                    {listing.sources.map((s) => (
+                      <li key={s} className="pm-mono text-[12px] break-all">
+                        <a href={s} target="_blank" rel="noopener noreferrer">
+                          {s}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </dd>
+              </div>
+              <div className="pm-verified">
+                {UI.verified_at[lang]} {listing.verified_at}
+              </div>
+            </dl>
+          </div>
+        </aside>
+      </div>
 
       {nearby.length > 0 && (
-        <section className="border-t border-slate-200 pt-4 text-sm">
-          <h2 className="text-xs font-semibold text-slate-600 mb-2">
-            {NEARBY_HEADING[lang]}（{areaName}）
+        <section className="space-y-3">
+          <h2 className="pm-subhead">
+            <span>{NEARBY_HEADING[lang]}</span>
+            <span className="pm-mono text-text-secondary">{areaName}</span>
           </h2>
-          <ul className="divide-y divide-slate-200 border border-slate-200 rounded">
-            {nearby.map((n) => {
-              const nCats = n.category
-                .map((c) => catLabels.find((x) => x.slug === c)?.[lang] ?? c)
-                .join(" / ");
-              return (
-                <li key={n.slug}>
-                  <Link
-                    href={urlListing(lang, n.genre, n.slug)}
-                    className="flex items-baseline justify-between px-3 py-2 no-underline hover:bg-slate-50"
-                  >
-                    <span className="text-slate-900">{n.name[lang]}</span>
-                    <span className="text-xs text-slate-500 ml-3">{nCats}</span>
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
+          <RevealList>
+            {nearby.map((n) => (
+              <Row key={n.slug} data={n} lang={lang} variant="small" />
+            ))}
+          </RevealList>
         </section>
       )}
-
-      <section className="border-t border-slate-200 pt-4 text-sm">
-        <div className="text-xs text-slate-500 mb-1">{UI.sources[lang]}</div>
-        <ul className="list-disc pl-5 space-y-1">
-          {listing.sources.map((s) => (
-            <li key={s}>
-              <a href={s} target="_blank" rel="noopener noreferrer">
-                {s}
-              </a>
-            </li>
-          ))}
-        </ul>
-        <div className="text-xs text-slate-500 mt-2">
-          {UI.verified_at[lang]}: {listing.verified_at}
-        </div>
-      </section>
     </article>
+  );
+}
+
+function FactItem({ label, value }: { label: string; value: React.ReactNode }) {
+  return (
+    <div className="grid grid-cols-[6rem_1fr] gap-x-3 items-baseline">
+      <dt className="pm-mono text-[12px] text-text-secondary">{label}</dt>
+      <dd className="text-text-primary">{value}</dd>
+    </div>
   );
 }
 
