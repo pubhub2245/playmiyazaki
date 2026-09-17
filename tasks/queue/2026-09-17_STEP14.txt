@@ -1,0 +1,32 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（DROP TABLE、条件なしの DELETE FROM、git push --force、rm -rf、git stash drop/clear など）
+(2) 課金や支払いが発生する操作
+(3) 出典に無い料金を書くこと。推測・概算・口コミからの転記。事業者への連絡。listing JSON の削除。
+
+【前提】
+CLAUDE.md、docs/要件.md、docs/design.md、docs/private.md を最初に読むこと。本番は main の 5307da4（PR #1 マージ＋seed スクリプト後始末）まで反映済み（315件・875ページ）。
+前回の実行環境はネットに出られなかったため、**料金データの拾い直しだけが未着手**。今回はそれをやる。ページのコードは触らない。
+
+【やること】STEP 14：料金の拾い直し（データのみ）
+
+1. 全 listing（camp 65 → golf 68 → surf 50 → food 132 の順）の sources を1件ずつ開き直し、料金が書いてあれば price.ja / price.en を埋める。書き方は CLAUDE.md の price の行に従う（出典の金額をそのまま短く1〜2行。税込／税別の表記も出典どおり。「約」「目安」は使わない）
+   - 出典に料金が無くても、同じ施設の公式サイト内の「料金」「ご利用案内」「プラン」ページにあることが多い。その場合はそのURLを sources に追加して price を埋める（sources への追記は許可）
+   - 料金ページが無い／PDFで読めない／前年度以前の料金しか無い → null のまま
+   - price を書き換えた listing は verified_at を今日の日付に更新
+   - 出典を開いたついでに、閉業・移転が分かった listing は status を "closed" にする（削除はしない）。それ以外の項目は触らない
+2. npm run validate → npm run build → コミット「Backfill prices from sources (STEP 14)」→ main に push
+
+【禁止】
+- 出典に無い金額（概算・推測・口コミ転記）
+- 料金・verified_at・sources 追記・status 以外の項目の書き換え
+- ページ・デザインのコード変更
+
+【報告してほしいこと】
+- ジャンル別に：price を埋められた件数／null のままの件数、null の主な理由（料金ページ無し／PDFのみ／年度が古い など）
+- camp と golf について、null のまま残った施設の名前一覧
+- status を closed にした listing があれば名前と理由
+- build と push（YES/NO、コミットハッシュ）
+- 迷った点（無ければ「なし」）
+
+END OF PROMPT
