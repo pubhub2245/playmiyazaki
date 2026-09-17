@@ -21,7 +21,11 @@ export type InfoContent = {
   updated?: string;
 };
 
-export const UPDATED_LABEL = { ja: "最終更新", en: "Last updated" };
+export const UPDATED_LABEL: Record<Lang, string> = {
+  ja: "最終更新",
+  en: "Last updated",
+  ko: "최종 업데이트",
+};
 
 export function infoMetadata(path: string, lang: Lang, content: InfoContent): Metadata {
   return {

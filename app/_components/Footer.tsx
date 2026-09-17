@@ -7,11 +7,11 @@ import { SUBMIT_LABEL } from "./Header";
 const PRIVATE_LINE = "MIYAZAKI PRIVATE — a private evening in Miyazaki →";
 
 // Four small pages that ad and affiliate programs ask for. Same row, quiet.
-const INFO_LINKS: { path: string; ja: string; en: string }[] = [
-  { path: "about", ja: "運営者情報", en: "About" },
-  { path: "privacy", ja: "プライバシーポリシー", en: "Privacy" },
-  { path: "disclosure", ja: "広告と紹介リンクについて", en: "Ads & affiliate links" },
-  { path: "contact", ja: "お問い合わせ", en: "Contact" },
+const INFO_LINKS: { path: string; ja: string; en: string; ko: string }[] = [
+  { path: "about", ja: "運営者情報", en: "About", ko: "운영자 정보" },
+  { path: "privacy", ja: "プライバシーポリシー", en: "Privacy", ko: "개인정보 처리방침" },
+  { path: "disclosure", ja: "広告と紹介リンクについて", en: "Ads & affiliate links", ko: "광고·제휴 링크 안내" },
+  { path: "contact", ja: "お問い合わせ", en: "Contact", ko: "문의" },
 ];
 
 const NOTICE = {
