@@ -1,3 +1,5 @@
+// このスクリプトは初回生成用。再実行すると data/listings/golf/*.json の手修正が
+// 上書きされるので再実行しないこと。listing の正は JSON ファイルのほう。
 import fs from "node:fs";
 import path from "node:path";
 import { listingSchema, type Listing } from "../lib/types";
@@ -205,7 +207,7 @@ const seeds: Seed[] = [
     category: ["course"],
     area: "miyazaki-shi",
     name: { ja: "宮崎大淀カントリークラブ", en: "Miyazaki Ohyodo Country Club" },
-    address: { ja: "宮崎県宮崎市長嶺唯ヶ迫1021", en: "1021 Yuigasako, Nagamine, Miyazaki-shi, Miyazaki" },
+    address: { ja: "宮崎県宮崎市長嶺唯ヶ迫1021", en: "1021 Nagamine, Miyazaki-shi, Miyazaki" },
     lat: null, lng: null,
     phone: null,
     website: "https://www.m-ohyodo-cc.co.jp/",
@@ -245,7 +247,7 @@ const seeds: Seed[] = [
     category: ["course"],
     area: "kunitomi",
     name: { ja: "宮崎ゴルフ倶楽部", en: "Miyazaki Golf Club" },
-    address: { ja: "宮崎県東諸県郡国富町三名六ツ野原", en: "Mutsunobaru, Sanmyo, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki" },
+    address: { ja: "宮崎県東諸県郡国富町三名六ツ野原", en: "Sanmyo, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki" },
     lat: null, lng: null,
     phone: null,
     website: "http://www.miyazakigolfclub.jp/",
@@ -1070,7 +1072,7 @@ const seeds: Seed[] = [
     slug: "kaorusaka-golf",
     category: ["range"],
     area: "miyazaki-shi",
-    name: { ja: "薫る坂ゴルフ練習場", en: "Kaorusaka Golf Range" },
+    name: { ja: "薫る坂ゴルフ練習場", en: "Kaoruzaka Golf Range" },
     address: { ja: "宮崎県宮崎市古城町南田6473-2", en: "6473-2 Minamida, Furujo-cho, Miyazaki-shi, Miyazaki" },
     lat: null, lng: null,
     phone: null,
