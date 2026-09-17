@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "日帰り温泉 11:00〜17:00（最終受付 16:00）",
-    "en": "Day-use onsen 11:00–17:00 (last entry 16:00)"
+    "en": "Day-use onsen 11:00–17:00 (last entry 16:00)",
+    "ko": "당일 온천 11:00~17:00(마지막 접수 16:00)"
   },
   "price": {
     "ja": "日帰り入浴 大人 800円、小人 500円。",

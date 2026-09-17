@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "月〜土 8:00〜21:00、日祝 8:00〜20:00。不定休",
-    "en": "Mon–Sat 8:00–21:00, Sun and holidays 8:00–20:00. Irregular closing days."
+    "en": "Mon–Sat 8:00–21:00, Sun and holidays 8:00–20:00. Irregular closing days.",
+    "ko": "월~토 8:00~21:00, 일·공휴일 8:00~20:00. 부정기 휴무"
   },
   "price": {
     "ja": "入会金 5,500円、月会費（メンバー）11,000円。ビジター 1時間 2,000円／30分 1,000円。入場料 300円。",

@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "定休日なし",
-    "en": "Open every day."
+    "en": "Open every day.",
+    "ko": "정기 휴무 없음"
   },
   "price": {
     "ja": "10月 平日 6,205円〜／土日祝 10,114円〜（セルフ・キャディ選択制）。",

@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "定休日 1/1",
-    "en": "Closed January 1."
+    "en": "Closed January 1.",
+    "ko": "휴무일 1월 1일"
   },
   "price": {
     "ja": "平日 6,550円、土日祝 8,950円（食事・カート込、税込）。",

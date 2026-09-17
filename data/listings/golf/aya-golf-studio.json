@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "24時間営業",
-    "en": "Open 24 hours."
+    "en": "Open 24 hours.",
+    "ko": "24시간 영업"
   },
   "price": null,
   "description": {

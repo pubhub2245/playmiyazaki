@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "平日 7:30〜21:30、土日祝 7:00〜21:30。定休日なし",
-    "en": "Weekdays 7:30–21:30, weekends and holidays 7:00–21:30. Open every day."
+    "en": "Weekdays 7:30–21:30, weekends and holidays 7:00–21:30. Open every day.",
+    "ko": "평일 7:30~21:30, 주말·공휴일 7:00~21:30. 정기 휴무 없음"
   },
   "price": {
     "ja": "ボール代 1球 4.8〜5.6円（1F・2F共通）。",
