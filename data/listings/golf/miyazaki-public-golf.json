@@ -22,7 +22,10 @@
     "ja": "受付 7:00〜17:00。食堂 9:00〜14:30",
     "en": "Reception 7:00–17:00. Canteen 9:00–14:30."
   },
-  "price": null,
+  "price": {
+    "ja": "18H 平日 3,700〜4,000円／土日祝 4,600〜4,900円、9H 平日 2,400円／土日祝 2,800円。貸クラブ 1セット 2,000円、シューズ 500円、パター無料。",
+    "en": "18H weekday 3,700–4,000 yen / weekend 4,600–4,900 yen; 9H weekday 2,400 yen / weekend 2,800 yen. Club rental 2,000 yen per set, shoes 500 yen, putter free."
+  },
   "description": {
     "ja": "田吉の9Hパブリックコース。5日前までネット予約可。食堂あり。",
     "en": "Nine-hole public course in Tayoshi. Online booking up to five days ahead. Canteen on site."
@@ -34,8 +37,9 @@
     "restaurant"
   ],
   "sources": [
-    "https://miyazaki-pg.com/"
+    "https://miyazaki-pg.com/",
+    "https://miyazaki-pg.com/fee/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

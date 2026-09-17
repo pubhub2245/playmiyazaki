@@ -22,7 +22,10 @@
     "ja": "温泉 10:00〜22:00",
     "en": "Onsen 10:00–22:00."
   },
-  "price": null,
+  "price": {
+    "ja": "バイキング1泊2食付 11,400円（税込）〜、岩盤浴プラン 11,700円（税込）〜。",
+    "en": "Buffet stay with 2 meals from 11,400 yen (tax incl.), stone-sauna plan from 11,700 yen (tax incl.)."
+  },
   "description": {
     "ja": "日南北郷カントリークラブ併設のホテル。宿泊ゴルフパックと日帰りプラン。展望露天風呂と岩盤浴、バイキングのレストラン。",
     "en": "Hotel attached to Nichinan Kitago Country Club. Stay-and-play packages and day plans, open-air baths, stone sauna and a buffet restaurant."
@@ -37,6 +40,6 @@
     "https://www.nk-resort.co.jp/",
     "https://www.nk-resort.co.jp/golf/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

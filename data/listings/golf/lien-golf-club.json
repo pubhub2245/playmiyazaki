@@ -22,7 +22,10 @@
     "ja": "8:00〜23:00",
     "en": "8:00–23:00."
   },
-  "price": null,
+  "price": {
+    "ja": "ビジター GDR（シミュレーター）2,200円（税込）／55分、ラウンドシミュレーター 9H 2,000円／18H 4,000円。月額会員 6,600〜13,200円（入会金 5,500円）。",
+    "en": "Visitor GDR simulator 2,200 yen (tax incl.) per 55 min, round simulator 9H 2,000 yen / 18H 4,000 yen. Membership 6,600–13,200 yen/month (enrollment 5,500 yen)."
+  },
   "description": {
     "ja": "都城市の11打席の練習場。GDR・VISIONなどのシミュレーター。プロレッスンあり。会員制。",
     "en": "Eleven-bay range in Miyakonojo with GDR and VISION simulators. Pro lessons, members only."
@@ -35,6 +38,6 @@
   "sources": [
     "https://www.njcgood.com/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

@@ -22,7 +22,10 @@
     "ja": "7:00〜21:00（日曜は7:00〜20:00）。定休日 毎月第4木曜（祝日は営業）、12/31、1/1",
     "en": "7:00–21:00 (Sundays to 20:00). Closed the fourth Thursday each month (open if a holiday), December 31 and January 1."
   },
-  "price": null,
+  "price": {
+    "ja": "入場料 400円（コインなしの場合、コイン購入時は無料）。ボール代 平日 7:00〜17:00 200球 800円／300球 1,300円、17:00〜21:00 200球 1,200円／300球 1,700円。土日祝 200球 1,300円／300球 1,600円。貸クラブ 1本 200円。",
+    "en": "Entry 400 yen (free if you buy coins). Balls: weekday 7:00–17:00 200 for 800 yen / 300 for 1,300 yen, 17:00–21:00 200 for 1,200 / 300 for 1,700 yen. Weekend/holiday 200 for 1,300 / 300 for 1,600 yen. Club rental 200 yen each."
+  },
   "description": {
     "ja": "宮崎市赤江の練習場。入場料制。初心者・一般・ジュニアのゴルフスクールあり。",
     "en": "Driving range in Akae, Miyazaki City. Entry-fee system. Golf school for beginners, general players and juniors."
@@ -32,8 +35,9 @@
     "lesson"
   ],
   "sources": [
-    "https://www.sakura-ga.com/"
+    "https://www.sakura-ga.com/",
+    "https://www.sakura-ga.com/service/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

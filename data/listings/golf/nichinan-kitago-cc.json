@@ -22,7 +22,10 @@
     "ja": "昼食 11:00〜14:00。温泉 10:00〜22:00。毎週木曜は完全セルフデー",
     "en": "Lunch 11:00–14:00. Onsen 10:00–22:00. Full self-play every Thursday."
   },
-  "price": null,
+  "price": {
+    "ja": "日帰り 平日 8,770円（税込）／土日祝 11,500円（税込）、キャディ付 ＋2,860円／人。宿泊+平日1プレー 19,000円（税込）〜。",
+    "en": "Day play weekday 8,770 yen (tax incl.) / weekend 11,500 yen; caddie +2,860 yen per person. Stay + one weekday round from 19,000 yen."
+  },
   "description": {
     "ja": "北郷の18H・7,012ヤード・パー72。ホテル併設で宿泊ゴルフパックと日帰りプランあり。温泉とレストランあり。",
     "en": "18-hole, 7,012-yard par-72 course in Kitago. Hotel on site with stay-and-play and day plans, hot spring and restaurant."
@@ -37,6 +40,6 @@
   "sources": [
     "https://www.nk-resort.co.jp/golf/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

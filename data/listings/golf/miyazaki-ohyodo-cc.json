@@ -19,7 +19,10 @@
   "website": "https://www.m-ohyodo-cc.co.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "ビジターセルフ 5〜9月 平日 6,855円／土日祝 8,905円、10〜4月 平日 8,700円／土日祝 14,900円。薄暮プレー（15:00〜）3,400〜3,900円。ゴルフ利用税・消費税込。",
+    "en": "Visitor self-play May–Sep weekday 6,855 yen / weekend 8,905 yen; Oct–Apr weekday 8,700 yen / weekend 14,900 yen. Twilight play (from 15:00) 3,400–3,900 yen. Golf tax and consumption tax included."
+  },
   "description": {
     "ja": "宮崎市長嶺の18Hコース。レストランあり。ネット予約可。",
     "en": "18-hole course in Nagamine, Miyazaki City. Restaurant on site and online booking."
@@ -30,8 +33,9 @@
     "reservation-online"
   ],
   "sources": [
-    "https://www.m-ohyodo-cc.co.jp/"
+    "https://www.m-ohyodo-cc.co.jp/",
+    "https://www.m-ohyodo-cc.co.jp/charge/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

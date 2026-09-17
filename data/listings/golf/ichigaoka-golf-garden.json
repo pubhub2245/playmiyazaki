@@ -22,7 +22,10 @@
     "ja": "6:00〜23:00、年中無休",
     "en": "6:00–23:00, open every day."
   },
-  "price": null,
+  "price": {
+    "ja": "ティーチング料 週1回 12,000〜18,000円（ボール別途）。",
+    "en": "Teaching fee 12,000–18,000 yen for a once-weekly class (balls extra)."
+  },
   "description": {
     "ja": "延岡市下伊形の200ヤード・60打席の練習場。ナイター設備あり。月・木・土にレッスン。",
     "en": "200-yard, 60-bay range in Shimoigata, Nobeoka. Floodlit for night play, lessons on Mondays, Thursdays and Saturdays."
@@ -35,6 +38,6 @@
   "sources": [
     "https://golf-jalan.net/gp02500/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

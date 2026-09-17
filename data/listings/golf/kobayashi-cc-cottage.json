@@ -19,7 +19,10 @@
   "website": "https://kobayashicc.jp/stay.html",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "ゴルフ宿泊パック 1泊朝食付 13,000円〜（平日）／16,000円〜（土日祝）、1泊2食付 15,200円〜／18,200円〜。宿泊のみ 1泊朝食付 6,000円〜、2食付 8,200円〜。",
+    "en": "Golf stay pack with breakfast from 13,000 yen weekday / 16,000 yen weekend; with 2 meals from 15,200 / 18,200 yen. Room only with breakfast from 6,000 yen, with 2 meals from 8,200 yen."
+  },
   "description": {
     "ja": "ゴルフ場の敷地内にあるコテージ18棟。1棟4名。1泊＋1ラウンド（昼食付）のパックと宿泊のみプラン。朝食付。",
     "en": "Eighteen cottages inside the golf course, sleeping four each. One-night, one-round package with lunch, or room-only. Breakfast included."
@@ -31,6 +34,6 @@
   "sources": [
     "https://kobayashicc.jp/stay.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

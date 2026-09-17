@@ -19,7 +19,10 @@
   "website": "https://www.miyazakicc.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1組4名・お一人様 4〜5月 平日 17,810円／土日祝 24,410円、6〜9月 16,040円／22,640円、10〜3月 19,460円／29,360円。貸クラブ 男性11本 4,950円／女性8本 3,850円、シューズ 550円。",
+    "en": "Per person in a 4-player group: Apr–May weekday 17,810 yen / weekend 24,410 yen; Jun–Sep 16,040 / 22,640 yen; Oct–Mar 19,460 / 29,360 yen. Club rental 4,950 yen (men's 11) / 3,850 yen (women's 8), shoes 550 yen."
+  },
   "description": {
     "ja": "宮崎市田吉の18Hコース。1960年開場。JLPGAツアーチャンピオンシップリコーカップの開催コース。",
     "en": "18-hole course in Tayoshi, Miyazaki City. Opened 1960; hosts the JLPGA Tour Championship Ricoh Cup."
@@ -30,8 +33,9 @@
     "english"
   ],
   "sources": [
-    "https://www.miyazakicc.jp/"
+    "https://www.miyazakicc.jp/",
+    "https://miyazakicc.jp/price/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

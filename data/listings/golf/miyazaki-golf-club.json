@@ -22,7 +22,10 @@
     "ja": "定休日 1/1",
     "en": "Closed January 1."
   },
-  "price": null,
+  "price": {
+    "ja": "平日 6,550円、土日祝 8,950円（食事・カート込、税込）。",
+    "en": "Weekday 6,550 yen, weekend/holiday 8,950 yen (lunch, cart and taxes included)."
+  },
   "description": {
     "ja": "国富町の18H・パー72・6,648ヤード。1973年開場。練習場あり。クレジットカード可。",
     "en": "18-hole par-72 course, 6,648 yards, in Kunitomi. Opened 1973. Practice range on site, credit cards accepted."
@@ -32,8 +35,9 @@
     "practice-range"
   ],
   "sources": [
-    "http://www.miyazakigolfclub.jp/"
+    "http://www.miyazakigolfclub.jp/",
+    "http://www.miyazakigolfclub.jp/price/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

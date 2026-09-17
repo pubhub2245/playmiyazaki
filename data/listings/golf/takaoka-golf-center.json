@@ -22,7 +22,10 @@
     "ja": "平日 7:30〜22:00、土日祝 7:00〜22:00。定休日なし",
     "en": "Weekdays 7:30–22:00, weekends and holidays 7:00–22:00. Open every day."
   },
-  "price": null,
+  "price": {
+    "ja": "打席料 200円。パター練習場 500円、バンカー練習場 500円、照明代 無料。",
+    "en": "Bay fee 200 yen. Putting green 500 yen, bunker practice 500 yen, lighting free."
+  },
   "description": {
     "ja": "宮崎市高岡町の200ヤード・68打席の練習場。照明は無料。レンタルクラブあり。",
     "en": "200-yard, 68-bay range in Takaoka, Miyazaki City. Free floodlights and club rental."
@@ -35,6 +38,6 @@
   "sources": [
     "https://golf-medley.com/practice_facilities/1387"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

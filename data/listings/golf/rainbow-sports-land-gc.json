@@ -22,7 +22,10 @@
     "ja": "クラブハウス 平日 7:30〜、土日祝 7:00〜",
     "en": "Clubhouse opens 7:30 on weekdays, 7:00 at weekends and on holidays."
   },
-  "price": null,
+  "price": {
+    "ja": "平日セルフ 4,650円（総額 5,490円）〜／土日祝セルフ 6,923円（総額 7,990円）〜。昼食補助付、ナビ付4人乗りカート。",
+    "en": "Weekday self-play from 4,650 yen (5,490 yen total) / weekend from 6,923 yen (7,990 yen total). Lunch subsidy and 4-person GPS cart."
+  },
   "description": {
     "ja": "都城市高城町の18Hコース。アコーディア・ゴルフ運営。クラブレンタルとレストランあり。",
     "en": "18-hole course in Takajo, Miyakonojo, run by Accordia Golf. Club rental, restaurant and online booking."
@@ -37,6 +40,6 @@
   "sources": [
     "https://reserve.accordiagolf.com/golfCourse/miyazaki/rainbow/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

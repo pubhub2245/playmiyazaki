@@ -22,7 +22,10 @@
     "ja": "24時間営業、年中無休",
     "en": "Open 24 hours, every day."
   },
-  "price": null,
+  "price": {
+    "ja": "入会金 6,000円。月額 シルバー会員 14,000円（税込、毎日55分）／ゴールド会員 20,000円（税込、毎日115分）。延長チケット 1,100円／55分。",
+    "en": "Enrollment 6,000 yen. Silver 14,000 yen/month (tax incl., 55 min/day) or Gold 20,000 yen/month (115 min/day). Extension ticket 1,100 yen/55 min."
+  },
   "description": {
     "ja": "宮崎市福島町のインドア練習場。シミュレーターとパター練習。会員制で月2回のグループレッスンあり。",
     "en": "Indoor range in Fukushima-cho, Miyazaki City. Simulator and putting area. Members only, group lessons twice a month."
@@ -34,6 +37,6 @@
   "sources": [
     "https://igc-kyusyu.jp/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

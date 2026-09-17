@@ -19,7 +19,10 @@
   "website": "https://reserve.accordiagolf.com/golfCourse/miyazaki/aoshima/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "セルフ 平日 6,014円（総額 6,990円）〜／土日祝 9,650円（総額 10,990円）〜。昼食補助付。",
+    "en": "Self-play from 6,014 yen weekday (6,990 yen total) / 9,650 yen weekend (10,990 yen total). Lunch subsidy included."
+  },
   "description": {
     "ja": "青島の18Hコース。アコーディア・ゴルフ運営。クラブレンタル、練習場とスクール、レストランあり。",
     "en": "18-hole course near Aoshima, run by Accordia Golf. Club rental, practice range and school, restaurant, online booking."
@@ -36,6 +39,6 @@
   "sources": [
     "https://reserve.accordiagolf.com/golfCourse/miyazaki/aoshima/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

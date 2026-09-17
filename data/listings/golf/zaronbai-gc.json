@@ -22,7 +22,10 @@
     "ja": "定休日なし",
     "en": "Open every day."
   },
-  "price": null,
+  "price": {
+    "ja": "10月 平日 6,205円〜／土日祝 10,114円〜（セルフ・キャディ選択制）。",
+    "en": "October: weekday from 6,205 yen / weekend from 10,114 yen (self-play or caddie option)."
+  },
   "description": {
     "ja": "新富町新田の18H・パー72。クラブレンタルとレストランあり。練習場は大会時のみ利用できる。",
     "en": "18-hole par-72 course in Nyuta, Shintomi. Club rental and restaurant. The practice range opens only for tournaments."
@@ -35,6 +38,6 @@
   "sources": [
     "https://golf-jalan.net/gc02502/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

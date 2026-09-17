@@ -19,7 +19,10 @@
   "website": "https://umkcc.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "6〜9月 セルフ 平日 8,700円／土日祝 12,000円、キャディ付 12,550円／15,850円。10〜5月 セルフ 平日 15,250円／土日祝 23,300円、キャディ付 19,450円／27,500円。貸クラブ 4,400円／セット、シューズ 1,870円。ゴルフ場利用税・消費税込。",
+    "en": "Jun–Sep self-play weekday 8,700 yen / weekend 12,000 yen, with caddie 12,550 / 15,850 yen. Oct–May self-play weekday 15,250 / weekend 23,300 yen, with caddie 19,450 / 27,500 yen. Club rental 4,400 yen per set, shoes 1,870 yen. Golf usage tax and consumption tax included."
+  },
   "description": {
     "ja": "宮崎市新名爪の18Hコース。アクサレディスの開催コース。練習場とレストランあり。ネット予約可。",
     "en": "18-hole course in Niinazume, Miyazaki City. Hosts the AXA Ladies tournament. Practice range, restaurant and online booking."
@@ -31,8 +34,9 @@
     "reservation-online"
   ],
   "sources": [
-    "https://umkcc.jp/"
+    "https://umkcc.jp/",
+    "https://umkcc.jp/price/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

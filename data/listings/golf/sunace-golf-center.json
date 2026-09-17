@@ -22,7 +22,10 @@
     "ja": "平日 7:00〜21:00、土日祝 7:00〜19:00。定休日 月曜・1/1・1/2",
     "en": "Weekdays 7:00–21:00, weekends and holidays 7:00–19:00. Closed Mondays, January 1 and 2."
   },
-  "price": null,
+  "price": {
+    "ja": "ボール代 1球 5.0〜6.6円（1F・2F共通）。",
+    "en": "Ball charge 5.0–6.6 yen per ball (1F and 2F)."
+  },
   "description": {
     "ja": "日向市富高の260ヤード・40打席の練習場。レンタルクラブあり。",
     "en": "260-yard, 40-bay range in Tondaka, Hyuga. Club rental available."
@@ -34,6 +37,6 @@
   "sources": [
     "https://golf-medley.com/practice_facilities/1392"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

@@ -22,7 +22,10 @@
     "ja": "平日 7:30〜21:30、土日祝 7:00〜21:30。定休日なし",
     "en": "Weekdays 7:30–21:30, weekends and holidays 7:00–21:30. Open every day."
   },
-  "price": null,
+  "price": {
+    "ja": "ボール代 1球 4.8〜5.6円（1F・2F共通）。",
+    "en": "Ball charge 4.8–5.6 yen per ball (1F and 2F)."
+  },
   "description": {
     "ja": "宮崎市本郷北方の210ヤード・144打席の練習場。レンタルクラブはなし。",
     "en": "210-yard, 144-bay range in Hongo-kitakata, Miyazaki City. No club rental."
@@ -32,6 +35,6 @@
   "sources": [
     "https://golf-medley.com/practice_facilities/1383"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

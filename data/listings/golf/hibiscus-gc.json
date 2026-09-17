@@ -19,7 +19,10 @@
   "website": "https://www.hibiscus-gc.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "セルフ4B 平日 11,435円／土日祝 15,945円（9月）、平日 12,800円／土日祝 17,800円（10〜1月）。キャディ付 平日 14,735円／土日祝 19,245円（9月）、平日 16,100円／土日祝 21,100円（10〜1月）。貸クラブ 3,300円／セット。税込。",
+    "en": "Self-play (4-ball) 11,435 yen weekday / 15,945 yen weekend (Sep), 12,800 / 17,800 yen (Oct-Jan). With caddie 14,735 / 19,245 yen (Sep), 16,100 / 21,100 yen (Oct-Jan). Club rental 3,300 yen per set. Tax included."
+  },
   "description": {
     "ja": "佐土原の18H・パー72・6,920ヤード。レストランあり。ネット予約可。",
     "en": "18-hole par-72 course, 6,920 yards, in Sadowara. Restaurant on site and online booking."
@@ -30,8 +33,9 @@
     "reservation-online"
   ],
   "sources": [
-    "https://www.hibiscus-gc.jp/"
+    "https://www.hibiscus-gc.jp/",
+    "https://www.hibiscus-gc.jp/fee.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }
