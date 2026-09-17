@@ -13,6 +13,8 @@ import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureCh
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilterableList } from "@/app/_components/FilterableList";
 import { listingToRow } from "@/lib/rows";
+import { JsonLd } from "@/app/_components/JsonLd";
+import { collectionJsonLd } from "@/lib/jsonld";
 
 type Props = { params: { lang: string; genre: string; area: string } };
 
@@ -98,9 +100,23 @@ export default function AreaPage({ params }: Props) {
   const catCounts = categoryCountsForGenre(filtered);
   const featCounts = featureCountsForGenre(filtered);
   const items = filtered.map((l) => listingToRow(l, taxonomy, lang));
+  const pageTitle =
+    lang === "ja" ? `${area.ja}の${genre.ja}` : `${genre.en} in ${area.en}`;
+  const pageDescription =
+    lang === "ja"
+      ? `${area.ja}の${genre.ja}を出典URL付きで一覧にしています。`
+      : `A source-linked directory of ${genre.en.toLowerCase()} in ${area.en}.`;
 
   return (
     <div className="space-y-6">
+      <JsonLd
+        data={collectionJsonLd({
+          name: pageTitle,
+          description: pageDescription,
+          path: urlArea(lang, params.genre, params.area),
+          items,
+        })}
+      />
       <Breadcrumbs
         lang={lang}
         crumbs={[

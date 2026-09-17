@@ -14,6 +14,8 @@ import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureCh
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilterableList } from "@/app/_components/FilterableList";
 import { listingToRow } from "@/lib/rows";
+import { JsonLd } from "@/app/_components/JsonLd";
+import { collectionJsonLd } from "@/lib/jsonld";
 
 type Props = { params: { lang: string; genre: string; category: string } };
 
@@ -108,9 +110,23 @@ export default function CategoryPage({ params }: Props) {
   void areasWithListings(params.genre);
 
   const items = filtered.map((l) => listingToRow(l, taxonomy, lang));
+  const pageTitle =
+    lang === "ja" ? `宮崎の${cat.ja}（${genre.ja}）` : `${cat.en} (${genre.en}) in Miyazaki`;
+  const pageDescription =
+    lang === "ja"
+      ? `宮崎県内の${cat.ja}を出典URL付きで一覧にしています。`
+      : `A source-linked directory of ${cat.en.toLowerCase()} across Miyazaki.`;
 
   return (
     <div className="space-y-6">
+      <JsonLd
+        data={collectionJsonLd({
+          name: pageTitle,
+          description: pageDescription,
+          path: urlCategory(lang, params.genre, params.category),
+          items,
+        })}
+      />
       <Breadcrumbs
         lang={lang}
         crumbs={[
