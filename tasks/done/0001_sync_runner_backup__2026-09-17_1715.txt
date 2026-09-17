@@ -1,0 +1,1 @@
+C:\projects\_agent\run-agent.ps1（共通ランナーの本体。設計側が修正済み）を scripts/run-agent.ps1 にコピーして上書きし、コミット「Sync run-agent.ps1 backup with _agent」して git push origin main すること。他のファイルは触らない。RESULT 行を出すこと。
