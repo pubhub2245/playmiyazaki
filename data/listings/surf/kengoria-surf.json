@@ -8,11 +8,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ケンゴリア",
-    "en": "KENGORIA"
+    "en": "KENGORIA",
+    "ko": "켄고리아"
   },
   "address": {
     "ja": "宮崎県宮崎市吉村町曽師中甲3104-6",
-    "en": "3104-6 Sojinaka-ko, Yoshimura-cho, Miyazaki-shi, Miyazaki 880-0841"
+    "en": "3104-6 Sojinaka-ko, Yoshimura-cho, Miyazaki-shi, Miyazaki 880-0841",
+    "ko": "미야자키현 미야자키시 吉村町曽師中甲3104-6"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "スクール 6,600円〜、ガイド 14,700円〜、フォイル 13,750円",
-    "en": "Lesson from 6,600 yen; guide from 14,700 yen; foil 13,750 yen"
+    "en": "Lesson from 6,600 yen; guide from 14,700 yen; foil 13,750 yen",
+    "ko": "스쿨 6,600엔〜, 가이드 14,700엔〜, 포일 13,750엔"
   },
   "description": {
     "ja": "サーフ、SUP、フォイルのレッスンとガイドを扱う。営業9:00〜18:00。",
-    "en": "Surf, SUP, and foil lessons and guiding. Open 9:00–18:00."
+    "en": "Surf, SUP, and foil lessons and guiding. Open 9:00–18:00.",
+    "ko": "서프, SUP, 포일 레슨과 가이드를 다룬다. 영업 9:00〜18:00."
   },
   "tags": null,
   "features": [

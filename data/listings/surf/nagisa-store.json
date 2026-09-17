@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ナギサストア",
-    "en": "Nagisa Store"
+    "en": "Nagisa Store",
+    "ko": "나기사 스토어"
   },
   "address": {
     "ja": "宮崎県宮崎市青島1-11-7",
-    "en": "1-11-7 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+    "en": "1-11-7 Aoshima, Miyazaki-shi, Miyazaki 889-2162",
+    "ko": "미야자키현 미야자키시 青島1-11-7"
   },
   "lat": null,
   "lng": null,
@@ -24,7 +26,8 @@
   "price": null,
   "description": {
     "ja": "青島ビーチから徒歩30秒のショップ。60本以上のボードを扱う。水曜定休。",
-    "en": "Shop 30 seconds' walk from Aoshima Beach. Stocks over 60 boards. Closed Wednesdays."
+    "en": "Shop 30 seconds' walk from Aoshima Beach. Stocks over 60 boards. Closed Wednesdays.",
+    "ko": "아오시마 해변에서 걸어서 30초 거리의 숍. 60개 이상의 보드를 다룬다. 수요일 휴무."
   },
   "tags": null,
   "features": [

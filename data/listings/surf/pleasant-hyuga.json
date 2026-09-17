@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "プレザント日向",
-    "en": "Pleasant Hyuga"
+    "en": "Pleasant Hyuga",
+    "ko": "플레전트 휴가"
   },
   "address": {
     "ja": "宮崎県日向市平岩64-1",
-    "en": "64-1 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+    "en": "64-1 Hiraiwa, Hyuga-shi, Miyazaki 883-0022",
+    "ko": "미야자키현 휴가시 平岩64-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "お倉ヶ浜を見下ろす宿。サーファーとファミリー向け。",
-    "en": "Lodging overlooking Okuragahama, aimed at surfers and families."
+    "en": "Lodging overlooking Okuragahama, aimed at surfers and families.",
+    "ko": "오쿠라가하마가 내려다보이는 숙소. 서퍼와 가족 여행객 대상."
   },
   "tags": null,
   "features": [

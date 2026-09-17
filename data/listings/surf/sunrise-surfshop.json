@@ -9,11 +9,13 @@
   "area": "hyuga",
   "name": {
     "ja": "サンライズサーフショップ",
-    "en": "SUNRISE SURFSHOP"
+    "en": "SUNRISE SURFSHOP",
+    "ko": "선라이즈 서프숍"
   },
   "address": {
     "ja": "宮崎県日向市（お倉ヶ浜近く）",
-    "en": "Near Okuragahama, Hyuga-shi, Miyazaki"
+    "en": "Near Okuragahama, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 (오쿠라가하마 근처)"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "スクール 6,600〜11,000円（税込）／約1.5〜2時間",
-    "en": "Lesson 6,600–11,000 yen (incl. tax) for about 1.5–2 hours"
+    "en": "Lesson 6,600–11,000 yen (incl. tax) for about 1.5–2 hours",
+    "ko": "스쿨 6,600〜11,000엔(부가세 포함)／약 1.5〜2시간"
   },
   "description": {
     "ja": "お倉ヶ浜のすぐそば。ゲストハウス OCEANSIDE お倉ヶ浜（2024年3月開業）に隣接する。",
-    "en": "Right next to Okuragahama. Adjacent to the OCEANSIDE Okuragahama guesthouse, which opened in March 2024."
+    "en": "Right next to Okuragahama. Adjacent to the OCEANSIDE Okuragahama guesthouse, which opened in March 2024.",
+    "ko": "오쿠라가하마 바로 옆. 게스트하우스 오션사이드 오쿠라가하마(2024년 3월 개업)와 인접해 있다."
   },
   "tags": null,
   "features": [

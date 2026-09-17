@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "青島",
-    "en": "Aoshima"
+    "en": "Aoshima",
+    "ko": "아오시마"
   },
   "address": {
     "ja": "宮崎県宮崎市青島1-16-1",
-    "en": "1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+    "en": "1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2162",
+    "ko": "미야자키현 미야자키시 青島1-16-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "温水シャワー 200円、コインロッカー 大300円・小200円、駐車場 無料",
-    "en": "Warm shower 200 yen; coin locker 200–300 yen; parking free"
+    "en": "Warm shower 200 yen; coin locker 200–300 yen; parking free",
+    "ko": "온수 샤워 200엔, 코인 로커 대 300엔·소 200엔, 주차장 무료"
   },
   "description": {
     "ja": "青島神社に隣接する海岸。南側は穏やか、北側は木崎浜方面へ広がる。青島ビーチセンターにロッカーと温水シャワーあり。",
-    "en": "Beach next to Aoshima Shrine. South side is calmer; the north side extends toward Kizakihama. Aoshima Beach Center has lockers and hot showers."
+    "en": "Beach next to Aoshima Shrine. South side is calmer; the north side extends toward Kizakihama. Aoshima Beach Center has lockers and hot showers.",
+    "ko": "아오시마 신사와 이웃한 해안. 남쪽은 잔잔하고 북쪽은 기자키하마 방향으로 이어진다. 아오시마 비치 센터에 로커와 온수 샤워가 있다."
   },
   "tags": null,
   "features": [

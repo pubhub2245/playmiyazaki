@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "n'tribe（フリーダム内）",
-    "en": "n'tribe (inside Freedom Surfshop)"
+    "en": "n'tribe (inside Freedom Surfshop)",
+    "ko": "n'tribe(프리덤 내)"
   },
   "address": {
     "ja": "宮崎県日南市平山2318-2",
-    "en": "2318-2 Hirayama, Nichinan-shi, Miyazaki"
+    "en": "2318-2 Hirayama, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 平山2318-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "フリーダムサーフショップ内のロッジ。8室、最大32名。素泊まり。",
-    "en": "Lodge inside Freedom Surf Shop. Eight rooms for up to 32 guests. Room-only."
+    "en": "Lodge inside Freedom Surf Shop. Eight rooms for up to 32 guests. Room-only.",
+    "ko": "프리덤 서프숍 안에 있는 로지. 8실, 최대 32명. 식사 없이 숙박만."
   },
   "tags": null,
   "features": [

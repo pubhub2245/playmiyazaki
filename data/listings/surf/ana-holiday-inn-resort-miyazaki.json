@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ANA ホリデイ・イン リゾート 宮崎",
-    "en": "ANA Holiday Inn Resort MIYAZAKI"
+    "en": "ANA Holiday Inn Resort MIYAZAKI",
+    "ko": "ANA 홀리데이 인 리조트 미야자키"
   },
   "address": {
     "ja": "宮崎県宮崎市青島1-16-1",
-    "en": "1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+    "en": "1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2162",
+    "ko": "미야자키현 미야자키시 青島1-16-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "青島ビーチから徒歩圏内のリゾートホテル。館内にムラサキスポーツ青島（サブスク型サーフ用品）あり。",
-    "en": "Resort hotel within walking distance of Aoshima Beach. In-house Murasaki Sports Aoshima offers subscription-based surf gear."
+    "en": "Resort hotel within walking distance of Aoshima Beach. In-house Murasaki Sports Aoshima offers subscription-based surf gear.",
+    "ko": "아오시마 해변에서 걸어갈 수 있는 리조트 호텔. 관내에 무라사키 스포츠 아오시마(구독형 서프 용품)가 있다."
   },
   "tags": null,
   "features": [

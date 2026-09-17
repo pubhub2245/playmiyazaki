@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "ゲストハウス Pumping Surf",
-    "en": "Guest House Pumping Surf"
+    "en": "Guest House Pumping Surf",
+    "ko": "게스트하우스 Pumping Surf"
   },
   "address": {
     "ja": "宮崎県日向市平岩10876-15",
-    "en": "10876-15 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+    "en": "10876-15 Hiraiwa, Hyuga-shi, Miyazaki 883-0022",
+    "ko": "미야자키현 휴가시 平岩10876-15"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "お倉ヶ浜まで徒歩3分。無料の自転車、BBQ、南日向駅からの無料送迎あり。",
-    "en": "Three-minute walk to Okuragahama. Free bikes, BBQ, and free shuttle from Minami-Hyuga Station."
+    "en": "Three-minute walk to Okuragahama. Free bikes, BBQ, and free shuttle from Minami-Hyuga Station.",
+    "ko": "오쿠라가하마까지 걸어서 3분. 무료 자전거, BBQ, 미나미휴가역에서 무료 픽업 있음."
   },
   "tags": null,
   "features": [
