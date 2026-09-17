@@ -1,0 +1,48 @@
+{
+  "slug": "gokuraku-onsen-takumi",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "極楽温泉 匠の宿",
+    "en": "Gokuraku Onsen Takumi-no-Yado",
+    "ko": "고쿠라쿠 온천 다쿠미노야도"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町大字蒲牟田7449",
+    "en": "7449 Kamamuta, Takaharu-cho, Nishimorokata-gun, Miyazaki",
+    "ko": "미야자키현 니시모로카타군 다카하루초 大字蒲牟田7449"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-42-3326",
+  "website": "https://www.gokuraku-sanga.com/hot-spring/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "7:00〜21:00（最終受付20:30）年中無休。水曜10:00〜15:00は点検のため入浴できない。",
+    "en": "7:00–21:00 (last entry 20:30), open year round. Closed for maintenance Wednesdays 10:00–15:00.",
+    "ko": "7:00~21:00 (최종 접수 20:30) 연중무휴. 수요일 10:00~15:00은 점검으로 입욕할 수 없음."
+  },
+  "price": {
+    "ja": "入浴 大人600円・子供250円。",
+    "en": "Bath 600 yen/adult, 250 yen/child.",
+    "ko": "입욕 대인 600엔・어린이 250엔."
+  },
+  "description": {
+    "ja": "高原町の日帰り温泉。宿泊もできる。水曜の日中は点検で入浴できない。",
+    "en": "Day-use hot spring in Takaharu that also takes overnight guests. No bathing Wednesday midday due to maintenance.",
+    "ko": "다카하루초의 당일 온천. 숙박도 가능. 수요일 낮에는 점검으로 입욕할 수 없음."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://www.gokuraku-sanga.com/hot-spring/",
+    "http://www.takaharu-tourism.jp/leisureandstay/407/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
