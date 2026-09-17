@@ -1,0 +1,40 @@
+{
+  "slug": "takaoka-golf-center",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "高岡ゴルフセンター",
+    "en": "Takaoka Golf Center"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市高岡町高浜2569",
+    "en": "2569 Takahama, Takaoka-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 7:30〜22:00、土日祝 7:00〜22:00。定休日なし",
+    "en": "Weekdays 7:30–22:00, weekends and holidays 7:00–22:00. Open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市高岡町の200ヤード・68打席の練習場。照明は無料。レンタルクラブあり。",
+    "en": "200-yard, 68-bay range in Takaoka, Miyazaki City. Free floodlights and club rental."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1387"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

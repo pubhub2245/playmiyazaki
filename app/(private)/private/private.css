@@ -1,0 +1,249 @@
+/* MIYAZAKI PRIVATE. Its own tokens — nothing from Play Miyazaki's
+   globals.css is loaded on these pages. See docs/private.md. */
+
+:root {
+  --mp-bg: #0e0f12;
+  --mp-text: #ede8df;
+  --mp-muted: #9a948a;
+  --mp-rule: #2a2c31;
+  --mp-accent: #c8a96a;
+  --mp-measure: 640px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--mp-bg);
+  color: var(--mp-text);
+  font-family: var(--font-mp-body), system-ui, sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 1.7;
+  letter-spacing: 0.01em;
+}
+
+.mp-page {
+  max-width: var(--mp-measure);
+  margin: 0 auto;
+  padding: 96px 24px 120px;
+}
+
+.mp-section {
+  margin-top: 120px;
+}
+
+.mp-section:first-child {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-mp-display), Georgia, serif;
+  font-weight: 500;
+  line-height: 1.15;
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+h2 {
+  font-size: 26px;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+p {
+  margin: 0 0 20px;
+  max-width: var(--mp-measure);
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+a {
+  color: var(--mp-accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+a:hover,
+a:focus-visible {
+  border-bottom-color: var(--mp-accent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--mp-accent);
+  outline-offset: 3px;
+}
+
+.mp-lede {
+  font-family: var(--font-mp-display), Georgia, serif;
+  font-size: 24px;
+  line-height: 1.4;
+  color: var(--mp-text);
+}
+
+.mp-muted {
+  color: var(--mp-muted);
+}
+
+.mp-kicker {
+  font-size: 13px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--mp-muted);
+  margin: 0 0 20px;
+}
+
+.mp-rule {
+  border: 0;
+  border-top: 1px solid var(--mp-rule);
+  margin: 0;
+}
+
+.mp-btn {
+  display: inline-block;
+  border: 1px solid var(--mp-accent);
+  color: var(--mp-accent);
+  padding: 14px 28px;
+  font-size: 14px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.mp-btn:hover,
+.mp-btn:focus-visible {
+  background: var(--mp-accent);
+  color: var(--mp-bg);
+  border-bottom-color: var(--mp-accent);
+}
+
+.mp-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.mp-list li {
+  padding: 14px 0;
+  border-top: 1px solid var(--mp-rule);
+}
+
+.mp-list li:last-child {
+  border-bottom: 1px solid var(--mp-rule);
+}
+
+.mp-time {
+  display: grid;
+  grid-template-columns: 5.5rem 1fr;
+  gap: 0 20px;
+}
+
+.mp-time dt {
+  color: var(--mp-muted);
+  font-variant-numeric: tabular-nums;
+  padding: 14px 0;
+  border-top: 1px solid var(--mp-rule);
+}
+
+.mp-time dd {
+  margin: 0;
+  padding: 14px 0;
+  border-top: 1px solid var(--mp-rule);
+}
+
+.mp-field {
+  display: block;
+  margin-bottom: 28px;
+}
+
+.mp-field > span {
+  display: block;
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--mp-muted);
+  margin-bottom: 8px;
+}
+
+.mp-field input,
+.mp-field select,
+.mp-field textarea {
+  width: 100%;
+  background: none;
+  border: 1px solid var(--mp-rule);
+  color: var(--mp-text);
+  font-family: inherit;
+  font-size: 17px;
+  line-height: 1.5;
+  padding: 12px 14px;
+}
+
+.mp-field input:focus,
+.mp-field select:focus,
+.mp-field textarea:focus {
+  border-color: var(--mp-accent);
+  outline: none;
+}
+
+.mp-field select option {
+  background: var(--mp-bg);
+  color: var(--mp-text);
+}
+
+.mp-hp {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.mp-footer {
+  margin-top: 120px;
+  padding-top: 28px;
+  border-top: 1px solid var(--mp-rule);
+  color: var(--mp-muted);
+  font-size: 14px;
+}
+
+@media (max-width: 640px) {
+  .mp-page {
+    padding: 64px 20px 96px;
+  }
+  .mp-section {
+    margin-top: 96px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .mp-lede {
+    font-size: 20px;
+  }
+  .mp-time {
+    grid-template-columns: 4.5rem 1fr;
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "takaharu-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "たかはるゴルフクラブ",
+    "en": "Takaharu Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町広原6017",
+    "en": "6017 Hirowara, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "定休日なし",
+    "en": "Open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "高原町の9H・パー36のコース。ソフトスパイクのみ。",
+    "en": "Nine-hole par-36 course in Takaharu. Soft spikes only."
+  },
+  "tags": null,
+  "features": [
+    "short-course"
+  ],
+  "sources": [
+    "https://booking.gora.golf.rakuten.co.jp/guide/disp/c_id/6198/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

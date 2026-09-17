@@ -1,0 +1,43 @@
+{
+  "slug": "kaorusaka-golf",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "薫る坂ゴルフ練習場",
+    "en": "Kaoruzaka Golf Range"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市古城町南田6473-2",
+    "en": "6473-2 Minamida, Furujo-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 8:00〜21:30、土日祝 8:00〜21:00。定休日 12/31〜1/2",
+    "en": "Weekdays 8:00–21:30, weekends and holidays 8:00–21:00. Closed December 31 to January 2."
+  },
+  "price": {
+    "ja": "貸クラブ 200円／本。",
+    "en": "Club rental 200 yen per club."
+  },
+  "description": {
+    "ja": "宮崎市古城町の200ヤード・76打席の練習場。照明は無料。",
+    "en": "200-yard, 76-bay range in Furujo, Miyazaki City. Free floodlights."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1384"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

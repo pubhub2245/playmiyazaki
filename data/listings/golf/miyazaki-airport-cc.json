@@ -1,0 +1,39 @@
+{
+  "slug": "miyazaki-airport-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎国際空港カントリークラブ",
+    "en": "Miyazaki Kokusai Airport Country Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市田野町乙5030-2",
+    "en": "5030-2 Otsu, Tano-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "http://www.mkk-cc.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "田野町の18Hコース。宿泊ロッジ併設で1泊朝食・昼食付の宿泊ゴルフパックあり。レストランと宴会場あり。",
+    "en": "18-hole course in Tano. On-site lodge with a stay-and-play package including breakfast and lunch. Restaurant and banquet room."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite",
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "http://www.mkk-cc.com/",
+    "http://mkk-cc.com/facility.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

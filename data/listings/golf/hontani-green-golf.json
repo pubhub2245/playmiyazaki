@@ -1,0 +1,34 @@
+{
+  "slug": "hontani-green-golf",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "本谷グリーンゴルフ",
+    "en": "Hontani Green Golf"
+  },
+  "address": {
+    "ja": "宮崎県日向市富高3898-2",
+    "en": "3898-2 Tondaka, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向市富高の200ヤード・35打席の練習場。駐車場30台。",
+    "en": "200-yard, 35-bay range in Tondaka, Hyuga. Parking for 30 cars."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://gora.golf.rakuten.co.jp/practice-range/guide/2903"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

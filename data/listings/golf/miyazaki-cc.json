@@ -1,0 +1,37 @@
+{
+  "slug": "miyazaki-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎カントリークラブ",
+    "en": "Miyazaki Country Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市田吉4855-90",
+    "en": "4855-90 Tayoshi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.miyazakicc.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市田吉の18Hコース。1960年開場。JLPGAツアーチャンピオンシップリコーカップの開催コース。",
+    "en": "18-hole course in Tayoshi, Miyazaki City. Opened 1960; hosts the JLPGA Tour Championship Ricoh Cup."
+  },
+  "tags": null,
+  "features": [
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://www.miyazakicc.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

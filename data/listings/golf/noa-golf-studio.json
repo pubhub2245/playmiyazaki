@@ -1,0 +1,34 @@
+{
+  "slug": "noa-golf-studio",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "NOA GOLF STUDIO",
+    "en": "Noa Golf Studio"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市",
+    "en": "Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://noa-golf.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市のインドア練習場。ツアー公式シミュレーターとAIスイング診断、専用アプリ。",
+    "en": "Indoor range in Miyazaki City with a tour-spec simulator, AI swing analysis and its own app."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://noa-golf.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

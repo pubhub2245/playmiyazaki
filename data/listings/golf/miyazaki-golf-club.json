@@ -1,0 +1,39 @@
+{
+  "slug": "miyazaki-golf-club",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "kunitomi",
+  "name": {
+    "ja": "宮崎ゴルフ倶楽部",
+    "en": "Miyazaki Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡国富町三名六ツ野原",
+    "en": "Sanmyo, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "http://www.miyazakigolfclub.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "定休日 1/1",
+    "en": "Closed January 1."
+  },
+  "price": null,
+  "description": {
+    "ja": "国富町の18H・パー72・6,648ヤード。1973年開場。練習場あり。クレジットカード可。",
+    "en": "18-hole par-72 course, 6,648 yards, in Kunitomi. Opened 1973. Practice range on site, credit cards accepted."
+  },
+  "tags": null,
+  "features": [
+    "practice-range"
+  ],
+  "sources": [
+    "http://www.miyazakigolfclub.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

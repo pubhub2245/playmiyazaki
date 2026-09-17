@@ -1,0 +1,39 @@
+{
+  "slug": "miyazaki-airport-golf-center",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎空港ゴルフセンター",
+    "en": "Miyazaki Airport Golf Center"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市赤江33",
+    "en": "33 Akae, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.sakura-ga.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "7:00〜21:00（日曜は7:00〜20:00）。定休日 毎月第4木曜（祝日は営業）、12/31、1/1",
+    "en": "7:00–21:00 (Sundays to 20:00). Closed the fourth Thursday each month (open if a holiday), December 31 and January 1."
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市赤江の練習場。入場料制。初心者・一般・ジュニアのゴルフスクールあり。",
+    "en": "Driving range in Akae, Miyazaki City. Entry-fee system. Golf school for beginners, general players and juniors."
+  },
+  "tags": null,
+  "features": [
+    "lesson"
+  ],
+  "sources": [
+    "https://www.sakura-ga.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

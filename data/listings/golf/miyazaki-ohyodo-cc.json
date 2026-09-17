@@ -1,0 +1,37 @@
+{
+  "slug": "miyazaki-ohyodo-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎大淀カントリークラブ",
+    "en": "Miyazaki Ohyodo Country Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市長嶺唯ヶ迫1021",
+    "en": "1021 Nagamine, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.m-ohyodo-cc.co.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市長嶺の18Hコース。レストランあり。ネット予約可。",
+    "en": "18-hole course in Nagamine, Miyazaki City. Restaurant on site and online booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://www.m-ohyodo-cc.co.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

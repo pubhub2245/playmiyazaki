@@ -1,0 +1,38 @@
+{
+  "slug": "seagaia-ocean-tower",
+  "genre": "golf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "フェニックス・シーガイア・オーシャン・タワー",
+    "en": "Phoenix Seagaia Ocean Tower"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市山崎町浜山",
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://seagaia.co.jp/golf/reservation/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "シーガイア内のホテル。フェニックスCCとトム・ワトソンGCの宿泊付きゴルフプランの対象。リゾート内に練習場とアカデミー。",
+    "en": "Hotel inside the Seagaia resort, included in stay-and-play plans for Phoenix CC and Tom Watson GC. Range and academy on the resort."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite",
+    "practice-range",
+    "lesson"
+  ],
+  "sources": [
+    "https://seagaia.co.jp/golf/reservation/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

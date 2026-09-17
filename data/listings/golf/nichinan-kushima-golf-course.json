@@ -1,0 +1,41 @@
+{
+  "slug": "nichinan-kushima-golf-course",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "日南串間ゴルフコース",
+    "en": "Nichinan Kushima Golf Course"
+  },
+  "address": {
+    "ja": "宮崎県串間市本城",
+    "en": "Honjo, Kushima-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.princehotels.co.jp/golf/kushima/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "通年営業",
+    "en": "Open year round."
+  },
+  "price": null,
+  "description": {
+    "ja": "串間市本城の18H・パー72。西武プリンスホテルズ運営。レストランあり。空き枠検索と予約ができる。",
+    "en": "18-hole par-72 course in Honjo, Kushima. Run by Seibu Prince Hotels. Restaurant, tee-time search and booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://www.princehotels.co.jp/golf/kushima/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

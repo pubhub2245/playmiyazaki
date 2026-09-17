@@ -1,0 +1,36 @@
+{
+  "slug": "kobayashi-cc-cottage",
+  "genre": "golf",
+  "category": [
+    "stay"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "宮崎小林カントリークラブ コテージ",
+    "en": "Miyazaki Kobayashi Country Club Cottages"
+  },
+  "address": {
+    "ja": "宮崎県小林市南西方1131",
+    "en": "1131 Minami-Nishikata, Kobayashi-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://kobayashicc.jp/stay.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "ゴルフ場の敷地内にあるコテージ18棟。1棟4名。1泊＋1ラウンド（昼食付）のパックと宿泊のみプラン。朝食付。",
+    "en": "Eighteen cottages inside the golf course, sleeping four each. One-night, one-round package with lunch, or room-only. Breakfast included."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite"
+  ],
+  "sources": [
+    "https://kobayashicc.jp/stay.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

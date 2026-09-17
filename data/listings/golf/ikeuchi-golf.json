@@ -1,0 +1,36 @@
+{
+  "slug": "ikeuchi-golf",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "いけうちゴルフ",
+    "en": "Ikeuchi Golf"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市池内町3535",
+    "en": "3535 Ikeuchi-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://ikeuchigolf.storeinfo.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市池内町の練習場。レッスンあり。",
+    "en": "Driving range in Ikeuchi, Miyazaki City. Lessons available."
+  },
+  "tags": null,
+  "features": [
+    "lesson"
+  ],
+  "sources": [
+    "https://ikeuchigolf.storeinfo.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

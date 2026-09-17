@@ -33,8 +33,13 @@
 | listing の全項目 | `data/listings/<genre>/<slug>.json` のみ | DB は無い。ページはビルド時に JSON から生成する |
 | 英語テキスト | 同じ JSON の `en` フィールド | 閲覧時に翻訳APIを呼ばない(課金と遅延を避ける) |
 | 営業時間・料金 | 出典URLに書いてある値のみ | 出典に無ければ `null` にして UI は「公式サイトで確認」と表示 |
+| `price` の書き方 | 出典に書いてある金額をそのまま短く要約した1〜2行 | 例：「サイト利用 3,300円〜／1区画、入場料 大人500円・小人300円。」「1泊 3,000円／台（電源込み）。」「大人 600円、小人 300円。」。金額は出典の表記に合わせる（税込・税別が書いてあればそれも書く）。「〜」は出典に幅があるときだけ。「約」「目安」は使わない。出典に料金が無い・前年度以前の料金しか無い・PDFで読めない場合は `null` のまま。`price` を書き換えた listing は `verified_at` を当日に更新する。料金ページが同じ公式サイトの別URLにあるときは、そのURLを `sources` に追加してよい |
 | ジャンル・種別の定義 | `data/taxonomy.json` | ここに無い genre / category を JSON に書かない |
 | listing の features | 各 JSON の `features` 配列 | `scripts/patch-features.ts` は UNION（追加のみ）で付ける。外すときは JSON を手で直す |
+
+# MIYAZAKI PRIVATE（/private）
+
+`/private` 配下は別ブランド「MIYAZAKI PRIVATE」の売るためのページ。`docs/private.md` が唯一の方針。playmiyazaki.com 側の「評価語なし・フォームなし・予約なし・写真なし」のルールは `/private` には適用しない。ただし「架空の店を作らない」「店名は提携が決まるまで種類で書く（a wagyu restaurant 等）」「事実（時間・人数・含まれるもの）は正確に」は `/private` にも適用する。listing データは読み取り専用で共用してよい。
 
 # North Star Metric
 

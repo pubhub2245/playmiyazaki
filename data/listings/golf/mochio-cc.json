@@ -1,0 +1,44 @@
+{
+  "slug": "mochio-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "都城母智丘カントリークラブ",
+    "en": "Miyakonojo Mochio Country Club"
+  },
+  "address": {
+    "ja": "宮崎県都城市関之尾町6328",
+    "en": "6328 Sekinoo-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "定休日なし",
+    "en": "Open every day."
+  },
+  "price": {
+    "ja": "レンタルクラブ 3,000円。",
+    "en": "Club rental 3,000 yen."
+  },
+  "description": {
+    "ja": "都城市関之尾町の18H。関之尾OUT・母智IN。セルフプレーと乗用カート。レンタルクラブと食堂あり。",
+    "en": "18 holes in Sekinoo, Miyakonojo, played as the Sekinoo and Mochio nines. Self-play with carts, club rental and a canteen."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "restaurant"
+  ],
+  "sources": [
+    "https://www.city.miyakonojo.miyazaki.jp/site/kanko/31912.html",
+    "https://golf-jalan.net/gc02486/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

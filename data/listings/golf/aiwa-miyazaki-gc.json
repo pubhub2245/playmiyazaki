@@ -1,0 +1,41 @@
+{
+  "slug": "aiwa-miyazaki-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "愛和宮崎ゴルフクラブ",
+    "en": "Aiwa Miyazaki Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町東上那珂105",
+    "en": "105 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "定休日なし",
+    "en": "Open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "佐土原の18H・7,093ヤード・パー72。全室バルコニー付のホテル併設。セルフとキャディを選べる。",
+    "en": "18-hole, 7,093-yard par-72 course in Sadowara. Hotel on site with a balcony in every room. Self-play or caddie."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite",
+    "restaurant"
+  ],
+  "sources": [
+    "https://golf-jalan.net/gc02494/info/",
+    "https://www.miyazaki-city.tourism.or.jp/spot/12405"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

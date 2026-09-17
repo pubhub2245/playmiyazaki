@@ -1,0 +1,40 @@
+{
+  "slug": "miyazaki-airport-cc-lodge",
+  "genre": "golf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎国際空港カントリークラブ ロッジ",
+    "en": "Miyazaki Kokusai Airport Country Club Lodge"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市田野町乙5030-2",
+    "en": "5030-2 Otsu, Tano-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "http://mkk-cc.com/facility.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "宿泊税 200円／人泊（2026年7月〜）。",
+    "en": "Accommodation tax 200 yen per person per night from July 2026."
+  },
+  "description": {
+    "ja": "ゴルフ場併設のロッジ。1泊朝食・昼食付の宿泊ゴルフパックあり。レストラン・浴室・宴会場あり。",
+    "en": "Lodge at the golf course. Stay-and-play package with breakfast and lunch, restaurant, bath and a banquet room."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite",
+    "restaurant"
+  ],
+  "sources": [
+    "http://mkk-cc.com/facility.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

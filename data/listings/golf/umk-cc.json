@@ -1,0 +1,38 @@
+{
+  "slug": "umk-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "UMKカントリークラブ",
+    "en": "UMK Country Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市新名爪坂ノ下2055",
+    "en": "2055 Sakanoshita, Niinazume, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://umkcc.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市新名爪の18Hコース。アクサレディスの開催コース。練習場とレストランあり。ネット予約可。",
+    "en": "18-hole course in Niinazume, Miyazaki City. Hosts the AXA Ladies tournament. Practice range, restaurant and online booking."
+  },
+  "tags": null,
+  "features": [
+    "practice-range",
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://umkcc.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

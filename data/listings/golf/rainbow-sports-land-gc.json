@@ -1,0 +1,42 @@
+{
+  "slug": "rainbow-sports-land-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "レインボースポーツランドゴルフクラブ",
+    "en": "Rainbow Sports Land Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県都城市高城町石山4474",
+    "en": "4474 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://reserve.accordiagolf.com/golfCourse/miyazaki/rainbow/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "クラブハウス 平日 7:30〜、土日祝 7:00〜",
+    "en": "Clubhouse opens 7:30 on weekdays, 7:00 at weekends and on holidays."
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市高城町の18Hコース。アコーディア・ゴルフ運営。クラブレンタルとレストランあり。",
+    "en": "18-hole course in Takajo, Miyakonojo, run by Accordia Golf. Club rental, restaurant and online booking."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "restaurant",
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://reserve.accordiagolf.com/golfCourse/miyazaki/rainbow/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

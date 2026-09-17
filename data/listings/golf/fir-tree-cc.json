@@ -1,0 +1,44 @@
+{
+  "slug": "fir-tree-cc",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "ファーツリーカントリークラブ",
+    "en": "Fir Tree Country Club"
+  },
+  "address": {
+    "ja": "宮崎県延岡市下伊形町8297-1",
+    "en": "8297-1 Shimoigata-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 8:00〜22:00、土日祝 7:00〜21:30",
+    "en": "Weekdays 8:00–22:00, weekends and holidays 7:00–21:30."
+  },
+  "price": {
+    "ja": "貸クラブ 200円／本。",
+    "en": "Club rental 200 yen per club."
+  },
+  "description": {
+    "ja": "延岡市下伊形町の300ヤード・72打席の練習場。9Hショートコース併設。ナイター照明は無料。左打席あり。",
+    "en": "300-yard, 72-bay range in Shimoigata, Nobeoka. Nine-hole short course, free floodlights, left-handed bays."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs",
+    "short-course"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1401"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

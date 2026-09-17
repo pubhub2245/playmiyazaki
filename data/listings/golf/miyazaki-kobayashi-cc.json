@@ -1,0 +1,38 @@
+{
+  "slug": "miyazaki-kobayashi-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "宮崎小林カントリークラブ",
+    "en": "Miyazaki Kobayashi Country Club"
+  },
+  "address": {
+    "ja": "宮崎県小林市南西方1131",
+    "en": "1131 Minami-Nishikata, Kobayashi-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://kobayashicc.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "小林市の18Hコース。敷地内にコテージ18棟。1泊＋1ラウンドのゴルフパックあり。24時間ネット予約可。",
+    "en": "18-hole course in Kobayashi with 18 cottages on site. One-night, one-round golf package. Online booking around the clock."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://kobayashicc.jp/",
+    "https://kobayashicc.jp/stay.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

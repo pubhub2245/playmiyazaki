@@ -1,0 +1,39 @@
+{
+  "slug": "indoor-golf-club-kyushu-fukushima",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "インドアゴルフクラブ九州 福島町店",
+    "en": "Indoor Golf Club Kyushu Fukushima-cho"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市福島町3-117-1",
+    "en": "3-117-1 Fukushima-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://igc-kyusyu.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "24時間営業、年中無休",
+    "en": "Open 24 hours, every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市福島町のインドア練習場。シミュレーターとパター練習。会員制で月2回のグループレッスンあり。",
+    "en": "Indoor range in Fukushima-cho, Miyazaki City. Simulator and putting area. Members only, group lessons twice a month."
+  },
+  "tags": null,
+  "features": [
+    "lesson"
+  ],
+  "sources": [
+    "https://igc-kyusyu.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "nomura-golf",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "野村ゴルフ練習場",
+    "en": "Nomura Golf Range"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町下那珂8312",
+    "en": "8312 Shimonaka, Sadowara-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.kobitonomura.co.jp/practiceground",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "月・水・木 8:00〜20:00、火 8:00〜21:00。定休日 1/1〜1/3",
+    "en": "Mon, Wed, Thu 8:00–20:00; Tue 8:00–21:00. Closed January 1–3."
+  },
+  "price": {
+    "ja": "貸クラブ 無料。",
+    "en": "Club rental free."
+  },
+  "description": {
+    "ja": "佐土原の22打席（1階16・2階6）の練習場。貸クラブ無料。初心者から競技者までのレッスンあり。",
+    "en": "22-bay range in Sadowara, 16 on the ground floor and 6 upstairs. Free club rental, lessons from beginner to competitive."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "lesson"
+  ],
+  "sources": [
+    "https://www.kobitonomura.co.jp/practiceground"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

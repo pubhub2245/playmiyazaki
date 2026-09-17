@@ -1,0 +1,34 @@
+{
+  "slug": "takanabe-golf-sports-center",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "takanabe",
+  "name": {
+    "ja": "高鍋ゴルフスポーツセンター",
+    "en": "Takanabe Golf Sports Center"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡高鍋町上江7697-88",
+    "en": "7697-88 Uwae, Takanabe-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高鍋町上江の250ヤード・68打席の練習場。駐車場70台。",
+    "en": "250-yard, 68-bay range in Uwae, Takanabe. Parking for 70 cars."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://gora.golf.rakuten.co.jp/practice-range/guide/2904"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

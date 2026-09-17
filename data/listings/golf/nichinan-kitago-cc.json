@@ -1,0 +1,42 @@
+{
+  "slug": "nichinan-kitago-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "日南北郷カントリークラブ",
+    "en": "Nichinan Kitago Country Club"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町郷之原甲2821-1",
+    "en": "2821-1 Ko, Gonohara, Kitago-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.nk-resort.co.jp/golf/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "昼食 11:00〜14:00。温泉 10:00〜22:00。毎週木曜は完全セルフデー",
+    "en": "Lunch 11:00–14:00. Onsen 10:00–22:00. Full self-play every Thursday."
+  },
+  "price": null,
+  "description": {
+    "ja": "北郷の18H・7,012ヤード・パー72。ホテル併設で宿泊ゴルフパックと日帰りプランあり。温泉とレストランあり。",
+    "en": "18-hole, 7,012-yard par-72 course in Kitago. Hotel on site with stay-and-play and day plans, hot spring and restaurant."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite",
+    "restaurant",
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://www.nk-resort.co.jp/golf/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

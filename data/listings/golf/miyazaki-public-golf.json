@@ -1,0 +1,41 @@
+{
+  "slug": "miyazaki-public-golf",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎パブリックゴルフ",
+    "en": "Miyazaki Public Golf"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市田吉松崎4979-58",
+    "en": "4979-58 Matsuzaki, Tayoshi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://miyazaki-pg.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "受付 7:00〜17:00。食堂 9:00〜14:30",
+    "en": "Reception 7:00–17:00. Canteen 9:00–14:30."
+  },
+  "price": null,
+  "description": {
+    "ja": "田吉の9Hパブリックコース。5日前までネット予約可。食堂あり。",
+    "en": "Nine-hole public course in Tayoshi. Online booking up to five days ahead. Canteen on site."
+  },
+  "tags": null,
+  "features": [
+    "short-course",
+    "reservation-online",
+    "restaurant"
+  ],
+  "sources": [
+    "https://miyazaki-pg.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

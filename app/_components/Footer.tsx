@@ -3,6 +3,9 @@ import { WaveMark } from "./WaveMark";
 import type { Lang } from "@/lib/i18n";
 import { SUBMIT_LABEL } from "./Header";
 
+// One quiet line out to the separate MIYAZAKI PRIVATE brand. English only.
+const PRIVATE_LINE = "MIYAZAKI PRIVATE — a private evening in Miyazaki →";
+
 const NOTICE = {
   ja: "掲載情報は出典URLに基づいています。営業時間・料金は変わることがあります。",
   en: "All information links to a source URL. Hours and prices may change.",
@@ -24,6 +27,16 @@ export function Footer({ lang }: { lang: Lang }) {
           {SUBMIT_LABEL[lang]}
         </Link>
       </div>
+      {lang === "en" && (
+        <div className="max-w-4xl mx-auto px-4 pb-6">
+          <a
+            href="/private"
+            className="pm-touch pm-mono text-[13px] text-on-dark-sub no-underline"
+          >
+            {PRIVATE_LINE}
+          </a>
+        </div>
+      )}
     </footer>
   );
 }
