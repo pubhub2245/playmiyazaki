@@ -10,6 +10,7 @@ export type RowData = {
   description: string | null;
   categoryLabel: string;
   areaLabel: string;
+  priceLabel: string | null;
   verifiedAt: string;
   featured?: boolean;
   features: FeatureLink[];
@@ -39,6 +40,11 @@ const CATEGORY_LABEL = {
 const AREA_LABEL = {
   ja: "エリア",
   en: "Area",
+};
+
+const PRICE_LABEL = {
+  ja: "料金",
+  en: "Price",
 };
 
 const FEATURED_LABEL = {
@@ -123,6 +129,13 @@ export function Row({
                 <span className="pm-fact-leader" aria-hidden />
                 <span className="pm-fact-value">{data.areaLabel}</span>
               </div>
+              {data.priceLabel && (
+                <div className="pm-fact">
+                  <span className="pm-fact-label">{PRICE_LABEL[lang]}</span>
+                  <span className="pm-fact-leader" aria-hidden />
+                  <span className="pm-fact-value">{data.priceLabel}</span>
+                </div>
+              )}
             </div>
           )}
           {small && (

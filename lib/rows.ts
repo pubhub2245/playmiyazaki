@@ -54,6 +54,7 @@ export function listingToRow(
     description: listing.description?.[lang] ?? null,
     categoryLabel: catNames,
     areaLabel,
+    priceLabel: listing.price?.[lang] ?? null,
     verifiedAt: listing.verified_at,
     features,
     searchIndex: searchTerms,

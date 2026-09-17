@@ -14,6 +14,10 @@ type Props = { params: { lang: string; genre: string; slug: string } };
 
 const OPEN_SITE = { ja: "公式サイトを見る", en: "Visit the official site" };
 const OPEN_MAP = { ja: "Google マップで開く", en: "Open in Google Maps" };
+const PRICE_NOTE = {
+  ja: "出典の表記に基づく。確認日",
+  en: "As written in the source. Verified",
+};
 
 export const dynamicParams = false;
 
@@ -161,6 +165,21 @@ export default function ListingDetail({ params }: Props) {
         <aside className="min-w-0">
           <div className="bg-panel/60 rounded-lg p-4">
             <dl className="grid grid-cols-1 gap-y-3 text-[14px]">
+              <FactItem
+                label={UI.price[lang]}
+                value={
+                  listing.price?.[lang] ? (
+                    <>
+                      <span className="whitespace-pre-line">{listing.price[lang]}</span>
+                      <div className="pm-mono text-[11px] text-text-secondary mt-1">
+                        {PRICE_NOTE[lang]} {listing.verified_at}
+                      </div>
+                    </>
+                  ) : (
+                    <span className="text-text-secondary">{CHECK}</span>
+                  )
+                }
+              />
               <FactItem label={UI.address[lang]} value={listing.address[lang]} />
               <FactItem
                 label={UI.phone[lang]}
@@ -182,16 +201,6 @@ export default function ListingDetail({ params }: Props) {
                 value={
                   listing.hours?.[lang] ? (
                     <span className="whitespace-pre-line">{listing.hours[lang]}</span>
-                  ) : (
-                    <span className="text-text-secondary">{CHECK}</span>
-                  )
-                }
-              />
-              <FactItem
-                label={UI.price[lang]}
-                value={
-                  listing.price?.[lang] ? (
-                    <span className="whitespace-pre-line">{listing.price[lang]}</span>
                   ) : (
                     <span className="text-text-secondary">{CHECK}</span>
                   )
