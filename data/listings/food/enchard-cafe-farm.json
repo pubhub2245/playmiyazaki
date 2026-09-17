@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "ENCHARD cafe & shop",
-    "en": "ENCHARD cafe & shop"
+    "en": "ENCHARD cafe & shop",
+    "ko": "ENCHARD cafe & shop"
   },
   "address": {
     "ja": "宮崎県延岡市北方町蔵田辰567-14",
-    "en": "567-14 Kurada-Tatsu, Kitakata-cho, Nobeoka-shi, Miyazaki"
+    "en": "567-14 Kurada-Tatsu, Kitakata-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 北方町蔵田辰567-14"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "延岡市北方町のカフェ併設の果樹園。いちご・ぶどう・柿の収穫体験。",
-    "en": "Cafe-orchard in Kitakata, Nobeoka. Strawberry, grape and persimmon picking in season."
+    "en": "Cafe-orchard in Kitakata, Nobeoka. Strawberry, grape and persimmon picking in season.",
+    "ko": "노베오카시 기타카타초의 카페 병설 과수원. 딸기·포도·감 수확 체험."
   },
   "tags": null,
   "features": [

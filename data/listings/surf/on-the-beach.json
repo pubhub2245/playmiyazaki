@@ -9,11 +9,13 @@
   "area": "hyuga",
   "name": {
     "ja": "オンザビーチ",
-    "en": "ON THE BEACH"
+    "en": "ON THE BEACH",
+    "ko": "온 더 비치 (ON THE BEACH)"
   },
   "address": {
     "ja": "宮崎県日向市平岩金ヶ浜2220-9",
-    "en": "2220-9 Hiraiwa Kanegahama, Hyuga-shi, Miyazaki 883-0022"
+    "en": "2220-9 Hiraiwa Kanegahama, Hyuga-shi, Miyazaki 883-0022",
+    "ko": "미야자키현 휴가시 平岩金ヶ浜2220-9"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "ボードレンタル 4,400円／日、ウェットスーツ 2,750〜3,300円／日、SUP 5,500円／日（税込）",
-    "en": "Board rental 4,400 yen/day; wetsuit 2,750–3,300 yen/day; SUP 5,500 yen/day (incl. tax)"
+    "en": "Board rental 4,400 yen/day; wetsuit 2,750–3,300 yen/day; SUP 5,500 yen/day (incl. tax)",
+    "ko": "보드 렌탈 4,400엔/일, 웻수트 2,750~3,300엔/일, SUP 5,500엔/일(부가세 포함)"
   },
   "description": {
     "ja": "1996年創業。JPSA プロの久保田聡が営むショップ。カスタムボード・ウェットスーツ、オンラインコーチングあり。",
-    "en": "Established in 1996 and run by JPSA pro Satoshi Kubota. Custom boards and wetsuits, plus online coaching."
+    "en": "Established in 1996 and run by JPSA pro Satoshi Kubota. Custom boards and wetsuits, plus online coaching.",
+    "ko": "1996년 창업. JPSA 프로 쿠보타 사토시가 운영하는 숍. 커스텀 보드·웻수트와 온라인 코칭도 있다."
   },
   "tags": null,
   "features": [

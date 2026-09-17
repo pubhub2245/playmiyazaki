@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ハイサーフ",
-    "en": "HIGH SURF"
+    "en": "HIGH SURF",
+    "ko": "하이 서프 (HIGH SURF)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字加江田4710-13",
-    "en": "4710-13 Kaeda, Miyazaki-shi, Miyazaki 889-2161"
+    "en": "4710-13 Kaeda, Miyazaki-shi, Miyazaki 889-2161",
+    "ko": "미야자키현 미야자키시 大字加江田4710-13"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "スクール 5,500円、SUP あり",
-    "en": "Lesson 5,500 yen; SUP available"
+    "en": "Lesson 5,500 yen; SUP available",
+    "ko": "스쿨 5,500엔, SUP 있음"
   },
   "description": {
     "ja": "加江田エリアのショップ。スクールと SUP を扱う。駐車場20台。",
-    "en": "Shop in the Kaeda area. Lessons and SUP available. 20 parking spaces."
+    "en": "Shop in the Kaeda area. Lessons and SUP available. 20 parking spaces.",
+    "ko": "가에다 지역의 숍. 스쿨과 SUP을 취급. 주차 20대."
   },
   "tags": null,
   "features": [

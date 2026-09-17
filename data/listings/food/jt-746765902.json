@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "まんりょう 地鶏や肴や鰻やら",
-    "en": "Manryo (Jidori, Sakana, Unagi)"
+    "en": "Manryo (Jidori, Sakana, Unagi)",
+    "ko": "만료 (지도리·해산물·장어)"
   },
   "address": {
     "ja": "宮崎県日南市南郷町東町14ｰ4",
-    "en": "14-4 Higashi-machi, Nango-cho, Nichinan, Miyazaki"
+    "en": "14-4 Higashi-machi, Nango-cho, Nichinan, Miyazaki",
+    "ko": "미야자키현 니치난시 南郷町東町14ｰ4"
   },
   "lat": 31.5341685,
   "lng": 131.3730187,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "日南市南郷町の居酒屋。組合の指定店。営業11:00～21:30。定休元日。",
-    "en": "Cooperative-designated izakaya in Nichinan. Open 11:00～21:30."
+    "en": "Cooperative-designated izakaya in Nichinan. Open 11:00～21:30.",
+    "ko": "니치난시 난고초의 이자카야. 조합 지정점. 영업 11:00~21:30. 정월 초하루 휴무."
   },
   "tags": null,
   "features": [],

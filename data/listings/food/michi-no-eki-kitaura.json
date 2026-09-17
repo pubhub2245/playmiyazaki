@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "道の駅 北浦 物産館",
-    "en": "Michi-no-Eki Kitaura"
+    "en": "Michi-no-Eki Kitaura",
+    "ko": "미치노에키 기타우라 물산관"
   },
   "address": {
     "ja": "宮崎県延岡市北浦町古江3337-1",
-    "en": "3337-1 Furue, Kitaura-cho, Nobeoka-shi, Miyazaki"
+    "en": "3337-1 Furue, Kitaura-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 北浦町古江3337-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "道の駅北浦の物産館。地元の野菜・加工品・漁協の直売コーナー、月の塩など。",
-    "en": "Michi-no-Eki Kitaura shop. Local produce, crafts, fisheries co-op section, tsuki-no-shio salt and more."
+    "en": "Michi-no-Eki Kitaura shop. Local produce, crafts, fisheries co-op section, tsuki-no-shio salt and more.",
+    "ko": "미치노에키 기타우라의 물산관. 지역 채소·가공품, 어협 직매 코너, 달의 소금 등."
   },
   "tags": null,
   "features": [

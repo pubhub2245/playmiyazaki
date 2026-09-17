@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "串間いちご畑（おにつか農園）",
-    "en": "Kushima Ichigo Hatake (Onitsuka Farm)"
+    "en": "Kushima Ichigo Hatake (Onitsuka Farm)",
+    "ko": "구시마 딸기밭 (오니쓰카 농원)"
   },
   "address": {
     "ja": "宮崎県串間市大字本城",
-    "en": "Honjo, Kushima-shi, Miyazaki"
+    "en": "Honjo, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 大字本城"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "串間市のいちご畑。完熟きんかん、日向夏、動物ふれあいもある。",
-    "en": "Kushima strawberry field. Also serves ripe kinkan, hyuganatsu, and animal petting."
+    "en": "Kushima strawberry field. Also serves ripe kinkan, hyuganatsu, and animal petting.",
+    "ko": "구시마시의 딸기밭. 완숙 킨칸, 휴가나쓰, 동물과의 교감도 즐길 수 있다."
   },
   "tags": null,
   "features": [

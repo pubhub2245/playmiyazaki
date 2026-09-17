@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "伊勢ヶ浜",
-    "en": "Isegahama"
+    "en": "Isegahama",
+    "ko": "이세가하마"
   },
   "address": {
     "ja": "宮崎県日向市日知屋599-3",
-    "en": "599-3 Hichiya, Hyuga-shi, Miyazaki 883-0062"
+    "en": "599-3 Hichiya, Hyuga-shi, Miyazaki 883-0062",
+    "ko": "미야자키현 휴가시 日知屋599-3"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "シャワー100円",
-    "en": "Shower 100 yen"
+    "en": "Shower 100 yen",
+    "ko": "샤워 100엔"
   },
   "description": {
     "ja": "日本の海水浴場100選に選ばれた海岸。無料駐車場82台。",
-    "en": "Selected among Japan's 100 Best Bathing Beaches. 82 free parking spaces."
+    "en": "Selected among Japan's 100 Best Bathing Beaches. 82 free parking spaces.",
+    "ko": "일본의 해수욕장 100선에 뽑힌 해변. 무료 주차 82대."
   },
   "tags": null,
   "features": [

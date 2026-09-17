@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "原始焼酒場 炭げん",
-    "en": "Genshiyaki Sakaba Sumigen"
+    "en": "Genshiyaki Sakaba Sumigen",
+    "ko": "겐시야키 사카바 스미겐"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通2-11第2吉野ビル1F",
-    "en": "1F Dai-2 Yoshino Bldg, 2-11 Chuo-dori, Miyazaki City, Miyazaki"
+    "en": "1F Dai-2 Yoshino Bldg, 2-11 Chuo-dori, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 中央通2-11第2吉野ビル1F"
   },
   "lat": 31.9147436,
   "lng": 131.4213793,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市中央通にある居酒屋。みやざき地頭鶏の指定店。営業17:00～23:00。定休月曜日、火曜日。",
-    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 17:00～23:00."
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 17:00～23:00.",
+    "ko": "미야자키시 주오도리의 이자카야. 미야자키 지도리 지정점. 영업 17:00~23:00. 월·화 정기 휴무."
   },
   "tags": null,
   "features": [],

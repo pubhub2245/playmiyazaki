@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "トリホルテルヤ本店",
-    "en": "トリホルテルヤ本店"
+    "en": "トリホルテルヤ本店",
+    "ko": "도리호루테루야 본점"
   },
   "address": {
     "ja": "宮崎県宮崎市錦町1－68",
-    "en": "1-68 Nishiki-machi, Miyazaki City, Miyazaki"
+    "en": "1-68 Nishiki-machi, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 錦町1－68"
   },
   "lat": 31.917729,
   "lng": 131.431708,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市錦町の鶏料理店。組合の指定店。テイクアウトあり。営業17:00～23:30。定休無。",
-    "en": "Cooperative-designated chicken restaurant in Miyazaki City. Takeout available. Open 17:00～23:30."
+    "en": "Cooperative-designated chicken restaurant in Miyazaki City. Takeout available. Open 17:00～23:30.",
+    "ko": "미야자키시 니시키초의 닭 요리 전문점. 조합 지정점. 테이크아웃 가능. 영업 17:00~23:30."
   },
   "tags": null,
   "features": [

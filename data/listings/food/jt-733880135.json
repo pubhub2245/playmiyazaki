@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "酒肴 湊",
-    "en": "Shuko Minato"
+    "en": "Shuko Minato",
+    "ko": "슈코 미나토"
   },
   "address": {
     "ja": "宮崎県延岡市船倉町2丁目4-17",
-    "en": "2-4-17 Funakura-cho, Nobeoka, Miyazaki"
+    "en": "2-4-17 Funakura-cho, Nobeoka, Miyazaki",
+    "ko": "미야자키현 노베오카시 船倉町2丁目4-17"
   },
   "lat": 32.5823287,
   "lng": 131.6706139,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。延岡市船倉町の居酒屋。営業18：00～23：00。定休日曜日。",
-    "en": "Izakaya in Nobeoka on the Miyazaki Jitokko cooperative roster. Open 18：00～23：00."
+    "en": "Izakaya in Nobeoka on the Miyazaki Jitokko cooperative roster. Open 18：00～23：00.",
+    "ko": "노베오카시 후나쿠라초의 이자카야. 미야자키 지도리 지정점. 영업 18:00~23:00. 일요일 정기 휴무."
   },
   "tags": null,
   "features": [],

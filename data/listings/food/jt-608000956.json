@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "居酒屋たくちゃん",
-    "en": "Izakaya Taku-chan"
+    "en": "Izakaya Taku-chan",
+    "ko": "이자카야 다쿠짱"
   },
   "address": {
     "ja": "宮崎県えびの市大字向江564-1",
-    "en": "564-1 Mukae, Ebino, Miyazaki"
+    "en": "564-1 Mukae, Ebino, Miyazaki",
+    "ko": "미야자키현 에비노시 大字向江564-1"
   },
   "lat": 32.048196,
   "lng": 130.7690223,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。えびの市向江の居酒屋。テイクアウトあり。営業18:00～23:00。定休日曜日、月曜日。",
-    "en": "Izakaya in Ebino on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～23:00."
+    "en": "Izakaya in Ebino on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～23:00.",
+    "ko": "에비노시 무카에의 이자카야. 미야자키 지도리 지정점. 테이크아웃 가능. 영업 18:00~23:00. 일·월 정기 휴무."
   },
   "tags": null,
   "features": [

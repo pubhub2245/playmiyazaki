@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "霧島ファクトリーガーデン",
-    "en": "Kirishima Factory Garden"
+    "en": "Kirishima Factory Garden",
+    "ko": "기리시마 팩토리 가든"
   },
   "address": {
     "ja": "宮崎県都城市志比田町5480",
-    "en": "5480 Shihida-cho, Miyakonojo-shi, Miyazaki"
+    "en": "5480 Shihida-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 志比田町5480"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "霧島酒造の工場見学施設。試飲、直売ショップ、レストランを併設。",
-    "en": "Kirishima Shuzo's public factory. Tour, tasting, direct sales shop and restaurant on site."
+    "en": "Kirishima Shuzo's public factory. Tour, tasting, direct sales shop and restaurant on site.",
+    "ko": "기리시마 주조의 공장 견학 시설. 시음, 직매장, 레스토랑 병설."
   },
   "tags": null,
   "features": [

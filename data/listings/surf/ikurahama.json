@@ -7,11 +7,13 @@
   "area": "kawaminami",
   "name": {
     "ja": "伊倉浜",
-    "en": "Ikurahama"
+    "en": "Ikurahama",
+    "ko": "이쿠라하마"
   },
   "address": {
     "ja": "宮崎県児湯郡川南町大字川南17661-1",
-    "en": "17661-1 Kawaminami, Kawaminami-cho, Miyazaki 889-1301"
+    "en": "17661-1 Kawaminami, Kawaminami-cho, Miyazaki 889-1301",
+    "ko": "미야자키현 가와미나미초 大字川南17661-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "冷水シャワー無料",
-    "en": "Cold showers free"
+    "en": "Cold showers free",
+    "ko": "냉수 샤워 무료"
   },
   "description": {
     "ja": "約9kmの海岸線。サーフセンターにシャワーとロッカーあり。",
-    "en": "About 9 km of coastline. Surf center has showers and lockers."
+    "en": "About 9 km of coastline. Surf center has showers and lockers.",
+    "ko": "약 9km의 해안선. 서프 센터에 샤워와 라커가 있다."
   },
   "tags": null,
   "features": [

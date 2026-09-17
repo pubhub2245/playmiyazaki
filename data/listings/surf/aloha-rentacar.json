@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "アロハレンタカー",
-    "en": "Aloha Rentacar"
+    "en": "Aloha Rentacar",
+    "ko": "알로하 렌터카"
   },
   "address": {
     "ja": "宮崎県宮崎市大島町高崎416-1",
-    "en": "416-1 Takasaki, Oshima-cho, Miyazaki-shi, Miyazaki 880-0824"
+    "en": "416-1 Takasaki, Oshima-cho, Miyazaki-shi, Miyazaki 880-0824",
+    "ko": "미야자키현 미야자키시 大島町高崎416-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "サーファー向けのレンタカー。ポリタンクやハンガーなどの付属品は無料。",
-    "en": "Rental cars for surfers. Poly-tank and hangers included free."
+    "en": "Rental cars for surfers. Poly-tank and hangers included free.",
+    "ko": "서퍼용 렌터카. 폴리탱크·행어 등 부속품은 무료."
   },
   "tags": null,
   "features": [

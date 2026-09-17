@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "金ヶ浜",
-    "en": "Kanegahama"
+    "en": "Kanegahama",
+    "ko": "가네가하마"
   },
   "address": {
     "ja": "宮崎県日向市平岩2338-1",
-    "en": "2338-1 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+    "en": "2338-1 Hiraiwa, Hyuga-shi, Miyazaki 883-0022",
+    "ko": "미야자키현 휴가시 平岩2338-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "温水シャワー200円",
-    "en": "Warm shower 200 yen"
+    "en": "Warm shower 200 yen",
+    "ko": "온수 샤워 200엔"
   },
   "description": {
     "ja": "国道10号のすぐ脇にある海岸。近くに STAIRS OF THE SEA。",
-    "en": "Beach right off Route 10. STAIRS OF THE SEA complex is nearby."
+    "en": "Beach right off Route 10. STAIRS OF THE SEA complex is nearby.",
+    "ko": "국도 10호 바로 옆의 해변. 근처에 STAIRS OF THE SEA 복합시설."
   },
   "tags": null,
   "features": [

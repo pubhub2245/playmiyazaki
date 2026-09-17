@@ -7,11 +7,13 @@
   "area": "takanabe",
   "name": {
     "ja": "鶏専家 一本気",
-    "en": "Torisen-ka Ipponki"
+    "en": "Torisen-ka Ipponki",
+    "ko": "도리센카 잇폰기"
   },
   "address": {
     "ja": "宮崎県児湯郡高鍋町大字高鍋町900－1",
-    "en": "900-1 Takanabe, Takanabe, Miyazaki"
+    "en": "900-1 Takanabe, Takanabe, Miyazaki",
+    "ko": "미야자키현 다카나베초 大字高鍋町900－1"
   },
   "lat": 32.12905,
   "lng": 131.50657,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "高鍋町の鶏料理店。組合の指定店。営業17：30 ～ 21：30。定休水、日曜日。",
-    "en": "Cooperative-designated chicken restaurant in Takanabe. Open 17：30 ～ 21：30."
+    "en": "Cooperative-designated chicken restaurant in Takanabe. Open 17：30 ～ 21：30.",
+    "ko": "다카나베초의 닭 요리 전문점. 조합 지정점. 영업 17:30~21:30. 수·일 정기 휴무."
   },
   "tags": null,
   "features": [],

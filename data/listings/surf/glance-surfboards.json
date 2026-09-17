@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "グランスサーフボード",
-    "en": "glance surfboards"
+    "en": "glance surfboards",
+    "ko": "글랜스 서프보드 (glance surfboards)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字熊野10314-6",
-    "en": "10314-6 Kumano, Miyazaki-shi, Miyazaki 889-2151"
+    "en": "10314-6 Kumano, Miyazaki-shi, Miyazaki 889-2151",
+    "ko": "미야자키현 미야자키시 大字熊野10314-6"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "ボード製造、カスタムエアブラシ、修理を扱うショップ。レンタルとスクールは無し。",
-    "en": "Shop that handles board manufacturing, custom airbrush, and repairs. No rentals or lessons."
+    "en": "Shop that handles board manufacturing, custom airbrush, and repairs. No rentals or lessons.",
+    "ko": "보드 제작, 커스텀 에어브러시, 수리를 취급하는 숍. 렌탈과 스쿨은 없음."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "百笑村 大塚店",
-    "en": "Hyakushomura Otsuka"
+    "en": "Hyakushomura Otsuka",
+    "ko": "햑쇼무라 오쓰카점"
   },
   "address": {
     "ja": "宮崎県宮崎市大塚町樋之口2003",
-    "en": "2003 Hinokuchi, Otsuka-cho, Miyazaki-shi, Miyazaki"
+    "en": "2003 Hinokuchi, Otsuka-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 大塚町樋之口2003"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市大塚町のJA直売所。",
-    "en": "JA direct-sales shop in Otsuka, Miyazaki City."
+    "en": "JA direct-sales shop in Otsuka, Miyazaki City.",
+    "ko": "미야자키시 오쓰카초의 JA 직매장."
   },
   "tags": null,
   "features": [

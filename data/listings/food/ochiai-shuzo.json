@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "落合酒造場",
-    "en": "Ochiai Shuzo"
+    "en": "Ochiai Shuzo",
+    "ko": "오치아이 주조장"
   },
   "address": {
     "ja": "宮崎県宮崎市鏡洲1626",
-    "en": "1626 Kagamizu, Miyazaki-shi, Miyazaki"
+    "en": "1626 Kagamizu, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 鏡洲1626"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市鏡洲の焼酎蔵。蔵見学は要予約。",
-    "en": "Shochu brewery in Kagamizu, Miyazaki. Tours by reservation only."
+    "en": "Shochu brewery in Kagamizu, Miyazaki. Tours by reservation only.",
+    "ko": "미야자키시 카가미즈의 쇼추 양조장. 양조장 견학은 예약제."
   },
   "tags": null,
   "features": [

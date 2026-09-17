@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "港あぶらつ朝市",
-    "en": "Minato Aburatsu Morning Market"
+    "en": "Minato Aburatsu Morning Market",
+    "ko": "미나토 아부라쓰 아침시장"
   },
   "address": {
     "ja": "宮崎県日南市油津 油津漁港",
-    "en": "Aburatsu fishing port, Aburatsu, Nichinan-shi, Miyazaki"
+    "en": "Aburatsu fishing port, Aburatsu, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 油津 油津漁港"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "油津漁港で毎月第4日曜に開かれる朝市。日南どれの魚とセルフ焼き場もある。",
-    "en": "Morning market at Aburatsu port on the 4th Sunday of each month. Nichinan-dore fish and a self-grill area."
+    "en": "Morning market at Aburatsu port on the 4th Sunday of each month. Nichinan-dore fish and a self-grill area.",
+    "ko": "아부라쓰 어항에서 매월 넷째 일요일에 열리는 아침시장. 니치난 자연산 생선과 셀프 굽는 공간이 있다."
   },
   "tags": null,
   "features": [

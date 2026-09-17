@@ -8,11 +8,13 @@
   "area": "nichinan",
   "name": {
     "ja": "フリーダム",
-    "en": "Freedom Surf Shop"
+    "en": "Freedom Surf Shop",
+    "ko": "프리덤 서프숍 (Freedom)"
   },
   "address": {
     "ja": "宮崎県日南市平山2318-2",
-    "en": "2318-2 Hirayama, Nichinan-shi, Miyazaki"
+    "en": "2318-2 Hirayama, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 平山2318-2"
   },
   "lat": null,
   "lng": null,
@@ -23,7 +25,8 @@
   "price": null,
   "description": {
     "ja": "宮浦海岸を中心にスクールを行うショップ。生徒3人に対しインストラクター1人。3日前までに予約。",
-    "en": "Shop that runs lessons based at Miyaura Beach. Three students per instructor. Book at least three days in advance."
+    "en": "Shop that runs lessons based at Miyaura Beach. Three students per instructor. Book at least three days in advance.",
+    "ko": "미야우라 해변을 중심으로 스쿨을 운영. 학생 3명당 강사 1명. 3일 전까지 예약."
   },
   "tags": null,
   "features": [

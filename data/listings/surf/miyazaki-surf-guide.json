@@ -8,11 +8,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎サーフガイド",
-    "en": "Miyazaki Surf Guide"
+    "en": "Miyazaki Surf Guide",
+    "ko": "미야자키 서프 가이드"
   },
   "address": {
     "ja": "宮崎県宮崎市青島1-16-1 ANAホリデイ・イン・リゾート宮崎アクティビティセンター内",
-    "en": "ANA Holiday Inn Resort Miyazaki Activity Center, 1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2161"
+    "en": "ANA Holiday Inn Resort Miyazaki Activity Center, 1-16-1 Aoshima, Miyazaki-shi, Miyazaki 889-2161",
+    "ko": "미야자키현 미야자키시 青島1-16-1 ANAホリデイ・イン・リゾート宮崎アクティビティセンター内"
   },
   "lat": null,
   "lng": null,
@@ -26,7 +28,8 @@
   "price": null,
   "description": {
     "ja": "初心者体験、レベルアップレッスン、プライベートサーフガイド、ボード・ウェットレンタルを扱う。温水シャワー、更衣室、タオル付き。英語対応あり。",
-    "en": "Beginner sessions, level-up lessons, private guiding, and board/wetsuit rental. Hot shower, changing room, and towels included. English support available."
+    "en": "Beginner sessions, level-up lessons, private guiding, and board/wetsuit rental. Hot shower, changing room, and towels included. English support available.",
+    "ko": "초보 체험, 레벨업 레슨, 프라이빗 서프 가이드, 보드·웻수트 렌탈. 온수 샤워·탈의실·수건 포함. 영어 대응 가능."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "みやざき晴海 漁港直送海ノ幸 契約農家山ノ幸",
-    "en": "Miyazaki Harumi (Seafood & Farm)"
+    "en": "Miyazaki Harumi (Seafood & Farm)",
+    "ko": "미야자키 하루미 (어항 직송 해산물·계약 농가 산의 진미)"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-9-1カメリアセキモトビル1階",
-    "en": "1F Camellia Sekimoto Bldg, 3-9-1 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
+    "en": "1F Camellia Sekimoto Bldg, 3-9-1 Tachibana-dori Nishi, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通西3-9-1カメリアセキモトビル1階"
   },
   "lat": 31.9151713,
   "lng": 131.4221803,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "昼予算 1,000円、夜予算 3,500円。定食 879円〜、コース 4,500〜7,480円。",
-    "en": "Lunch budget ¥1,000, dinner ¥3,500. Sets from ¥879, courses ¥4,500–7,480."
+    "en": "Lunch budget ¥1,000, dinner ¥3,500. Sets from ¥879, courses ¥4,500–7,480.",
+    "ko": "점심 예산 1,000엔, 저녁 예산 3,500엔. 정식 879엔~, 코스 4,500~7,480엔."
   },
   "description": {
     "ja": "宮崎市橘通西にある居酒屋。みやざき地頭鶏の指定店。営業11:30～23:30。定休元日。",
-    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 11:30～23:30."
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 11:30～23:30.",
+    "ko": "미야자키시 다치바나도리 니시의 이자카야. 미야자키 지도리 지정점. 영업 11:30~23:30. 정월 초하루 휴무."
   },
   "tags": null,
   "features": [],

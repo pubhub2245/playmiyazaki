@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "笹木野いちご園",
-    "en": "Sasagino Ichigo Farm"
+    "en": "Sasagino Ichigo Farm",
+    "ko": "사사기노 딸기원"
   },
   "address": {
     "ja": "宮崎県日向市東郷町山陰戊93",
-    "en": "93 Yamakage-tsuchinoe, Togo-cho, Hyuga-shi, Miyazaki"
+    "en": "93 Yamakage-tsuchinoe, Togo-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 東郷町山陰戊93"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "日向市東郷町のいちご狩り農園。車いすでも入れる。",
-    "en": "Strawberry farm in Togo, Hyuga. Wheelchair accessible."
+    "en": "Strawberry farm in Togo, Hyuga. Wheelchair accessible.",
+    "ko": "휴가시 도고초의 딸기 따기 농원. 휠체어로도 입장 가능."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "民宿恋ヶ浦",
-    "en": "Minshuku Koigaura"
+    "en": "Minshuku Koigaura",
+    "ko": "민박 코이가우라"
   },
   "address": {
     "ja": "宮崎県串間市大納2030",
-    "en": "2030 Ono, Kushima-shi, Miyazaki 888-0221"
+    "en": "2030 Ono, Kushima-shi, Miyazaki 888-0221",
+    "ko": "미야자키현 구시마시 大納2030"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "恋ヶ浦の真向かいにある民宿。素泊まり。基本的なサーフ用品の販売とレンタルもあり。",
-    "en": "Minshuku directly opposite Koigaura. Room-only, with basic surf gear sales and rentals."
+    "en": "Minshuku directly opposite Koigaura. Room-only, with basic surf gear sales and rentals.",
+    "ko": "코이가우라 바로 맞은편의 민박. 소박(잠자리만). 기본 서핑 용품 판매와 렌탈도 있다."
   },
   "tags": null,
   "features": [

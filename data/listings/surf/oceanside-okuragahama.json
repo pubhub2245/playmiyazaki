@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "オーシャンサイド お倉ヶ浜 ゲストハウス",
-    "en": "OCEANSIDE Okuragahama Beach Garden"
+    "en": "OCEANSIDE Okuragahama Beach Garden",
+    "ko": "오션사이드 오쿠라가하마 게스트하우스"
   },
   "address": {
     "ja": "宮崎県日向市平岩10873-26",
-    "en": "10873-26 Hiraiwa, Hyuga-shi, Miyazaki 883-0022"
+    "en": "10873-26 Hiraiwa, Hyuga-shi, Miyazaki 883-0022",
+    "ko": "미야자키현 휴가시 平岩10873-26"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "お倉ヶ浜から徒歩5分のコンテナハウス型ゲストハウス。隣にサンライズサーフショップがある。",
-    "en": "Container-house guesthouse a five-minute walk from Okuragahama. Sunrise Surf Shop is next door."
+    "en": "Container-house guesthouse a five-minute walk from Okuragahama. Sunrise Surf Shop is next door.",
+    "ko": "오쿠라가하마에서 도보 5분의 컨테이너 하우스형 게스트하우스. 옆에 선라이즈 서프숍이 있다."
   },
   "tags": null,
   "features": [

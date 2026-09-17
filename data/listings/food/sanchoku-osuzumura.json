@@ -7,11 +7,13 @@
   "area": "kawaminami",
   "name": {
     "ja": "産直 おすず村",
-    "en": "Sanchoku Osuzu-mura"
+    "en": "Sanchoku Osuzu-mura",
+    "ko": "산치오쿠 오스즈무라"
   },
   "address": {
     "ja": "宮崎県児湯郡川南町大字川南13590-2",
-    "en": "13590-2 Kawaminami, Kawaminami-cho, Koyu-gun, Miyazaki"
+    "en": "13590-2 Kawaminami, Kawaminami-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 가와미나미초 大字川南13590-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "川南町のJA直売所。",
-    "en": "JA direct-sales shop in Kawaminami."
+    "en": "JA direct-sales shop in Kawaminami.",
+    "ko": "가와미나미초의 JA 직매장."
   },
   "tags": null,
   "features": [

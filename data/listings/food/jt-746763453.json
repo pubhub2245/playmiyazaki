@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎風土 あっぱれ食堂",
-    "en": "Miyazaki Fudo Appare Shokudo"
+    "en": "Miyazaki Fudo Appare Shokudo",
+    "ko": "미야자키 후도 앗파레 식당"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-8-12 吉田ビル1階",
-    "en": "1F Yoshida Bldg, 3-8-12 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
+    "en": "1F Yoshida Bldg, 3-8-12 Tachibana-dori Nishi, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通西3-8-12 吉田ビル1階"
   },
   "lat": 31.9150721,
   "lng": 131.4220398,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "平日昼 日替わり定食 750円（限定10食）。夜予算 1,001〜3,000円。コース 5,000〜5,500円（飲み放題付）。",
-    "en": "Weekday lunch daily set ¥750 (limit 10). Dinner budget ¥1,001–3,000. Course ¥5,000–5,500 (with all-you-can-drink)."
+    "en": "Weekday lunch daily set ¥750 (limit 10). Dinner budget ¥1,001–3,000. Course ¥5,000–5,500 (with all-you-can-drink).",
+    "ko": "평일 점심 일변정식 750엔(10식 한정). 저녁 예산 1,001~3,000엔. 코스 5,000~5,500엔(무제한 음료 포함)."
   },
   "description": {
     "ja": "食堂。宮崎市橘通西にある。みやざき地頭鶏の指定店。営業11:30～23:30。定休元日。",
-    "en": "Diner in Miyazaki City. Open 11:30～23:30. Cooperative-designated Miyazaki Jitokko store."
+    "en": "Diner in Miyazaki City. Open 11:30～23:30. Cooperative-designated Miyazaki Jitokko store.",
+    "ko": "미야자키시 다치바나도리 니시의 식당. 미야자키 지도리 지정점. 영업 11:30~23:30. 정월 초하루 휴무."
   },
   "tags": null,
   "features": [],

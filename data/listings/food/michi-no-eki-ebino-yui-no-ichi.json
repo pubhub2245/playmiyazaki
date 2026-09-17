@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "道の駅 えびの 結いの市",
-    "en": "Michi-no-Eki Ebino Yui-no-Ichi"
+    "en": "Michi-no-Eki Ebino Yui-no-Ichi",
+    "ko": "미치노에키 에비노 유이노이치"
   },
   "address": {
     "ja": "宮崎県えびの市大字永山1006-1",
-    "en": "1006-1 Nagayama, Ebino-shi, Miyazaki"
+    "en": "1006-1 Nagayama, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 大字永山1006-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "えびの市の道の駅の直売所。地場野菜と果物、宮崎牛。JAが運営。",
-    "en": "Michi-no-Eki Ebino direct sales. Local produce, fruit, and Miyazaki Beef. Operated by JA."
+    "en": "Michi-no-Eki Ebino direct sales. Local produce, fruit, and Miyazaki Beef. Operated by JA.",
+    "ko": "에비노시의 미치노에키 직매장. 지역 채소·과일, 미야자키규. JA 운영."
   },
   "tags": null,
   "features": [

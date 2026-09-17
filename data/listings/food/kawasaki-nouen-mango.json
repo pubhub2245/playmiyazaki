@@ -7,11 +7,13 @@
   "area": "saito",
   "name": {
     "ja": "川﨑農園",
-    "en": "Kawasaki Farm"
+    "en": "Kawasaki Farm",
+    "ko": "카와사키 농원"
   },
   "address": {
     "ja": "宮崎県西都市大字鹿野田481",
-    "en": "481 Kanoda, Saito-shi, Miyazaki"
+    "en": "481 Kanoda, Saito-shi, Miyazaki",
+    "ko": "미야자키현 사이토시 大字鹿野田481"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "西都市の完熟マンゴー農園。宮崎マンゴー発祥の地とされる。",
-    "en": "Ripe-mango farm in Saito, considered the birthplace of Miyazaki mango."
+    "en": "Ripe-mango farm in Saito, considered the birthplace of Miyazaki mango.",
+    "ko": "사이토시의 완숙 망고 농원. 미야자키 망고 발상지로 알려져 있다."
   },
   "tags": null,
   "features": [],

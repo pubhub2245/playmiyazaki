@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ラムジャングル",
-    "en": "Rum Jungle Surfshop"
+    "en": "Rum Jungle Surfshop",
+    "ko": "럼 정글 서프숍"
   },
   "address": {
     "ja": "宮崎県宮崎市阿波岐原町前浜4276-399",
-    "en": "4276-399 Maehama, Awagigahara-cho, Miyazaki-shi, Miyazaki 880-0835"
+    "en": "4276-399 Maehama, Awagigahara-cho, Miyazaki-shi, Miyazaki 880-0835",
+    "ko": "미야자키현 미야자키시 阿波岐原町前浜4276-399"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "ガイド 7,000円〜、スクール 5,000円",
-    "en": "Guide from 7,000 yen; lesson 5,000 yen"
+    "en": "Guide from 7,000 yen; lesson 5,000 yen",
+    "ko": "가이드 7,000엔~, 스쿨 5,000엔"
   },
   "description": {
     "ja": "一ツ葉エリアの老舗ショップ。スクール、レンタル、ガイドツアーを扱う。",
-    "en": "Long-established shop in the Hitotsuba area. Handles lessons, rentals, and guided tours."
+    "en": "Long-established shop in the Hitotsuba area. Handles lessons, rentals, and guided tours.",
+    "ko": "히토쓰바 지역의 오래된 숍. 스쿨, 렌탈, 가이드 투어를 취급한다."
   },
   "tags": null,
   "features": [

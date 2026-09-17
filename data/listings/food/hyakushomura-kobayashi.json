@@ -7,11 +7,13 @@
   "area": "kobayashi",
   "name": {
     "ja": "百笑村 小林店",
-    "en": "Hyakushomura Kobayashi"
+    "en": "Hyakushomura Kobayashi",
+    "ko": "햑쇼무라 고바야시점"
   },
   "address": {
     "ja": "宮崎県小林市水流迫648",
-    "en": "648 Tsurusako, Kobayashi-shi, Miyazaki"
+    "en": "648 Tsurusako, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 水流迫648"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "小林市のJA直売所。",
-    "en": "JA direct-sales shop in Kobayashi."
+    "en": "JA direct-sales shop in Kobayashi.",
+    "ko": "고바야시시의 JA 직매장."
   },
   "tags": null,
   "features": [

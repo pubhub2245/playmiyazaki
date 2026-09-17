@@ -7,11 +7,13 @@
   "area": "takachiho",
   "name": {
     "ja": "アカツキ酒造",
-    "en": "Akatsuki Shuzo"
+    "en": "Akatsuki Shuzo",
+    "ko": "아카쓰키 주조"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町河内1835-5",
-    "en": "1835-5 Kawachi, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "1835-5 Kawachi, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 다카치호초 河内1835-5"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "高千穂町の米焼酎蔵。蔵見学は要予約。",
-    "en": "Rice-shochu brewery in Takachiho. Tours by reservation only."
+    "en": "Rice-shochu brewery in Takachiho. Tours by reservation only.",
+    "ko": "다카치호초의 쌀 쇼추 양조장. 양조장 견학은 예약제."
   },
   "tags": null,
   "features": [

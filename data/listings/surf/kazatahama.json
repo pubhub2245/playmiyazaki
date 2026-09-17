@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "風田浜",
-    "en": "Kazatahama"
+    "en": "Kazatahama",
+    "ko": "가자타하마"
   },
   "address": {
     "ja": "宮崎県日南市風田",
-    "en": "Kazata, Nichinan-shi, Miyazaki 887-0034"
+    "en": "Kazata, Nichinan-shi, Miyazaki 887-0034",
+    "ko": "미야자키현 니치난시 風田"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "大会が開かれる海岸。ウミガメの産卵地でもある。駐車場は約15台、トイレは近隣に無し。",
-    "en": "Beach that hosts competitions and is a sea turtle nesting site. About 15 parking spaces, no restrooms on site."
+    "en": "Beach that hosts competitions and is a sea turtle nesting site. About 15 parking spaces, no restrooms on site.",
+    "ko": "대회가 열리는 해변이자 바다거북 산란지. 주차는 약 15대, 인근에 화장실은 없음."
   },
   "tags": null,
   "features": [

@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "クエスト",
-    "en": "QUEST"
+    "en": "QUEST",
+    "ko": "퀘스트 (QUEST)"
   },
   "address": {
     "ja": "宮崎県宮崎市恒久南2-1-4",
-    "en": "2-1-4 Tsunehisa-Minami, Miyazaki-shi, Miyazaki 880-0915"
+    "en": "2-1-4 Tsunehisa-Minami, Miyazaki-shi, Miyazaki 880-0915",
+    "ko": "미야자키현 미야자키시 恒久南2-1-4"
   },
   "lat": null,
   "lng": null,
@@ -24,7 +26,8 @@
   "price": null,
   "description": {
     "ja": "南宮崎駅から約300mのショップ。Firewire、Tokoro を扱う。修理、レンタル、スクールあり。",
-    "en": "Shop about 300 m from Minami-Miyazaki Station. Carries Firewire and Tokoro. Repairs, rentals, and lessons."
+    "en": "Shop about 300 m from Minami-Miyazaki Station. Carries Firewire and Tokoro. Repairs, rentals, and lessons.",
+    "ko": "미나미미야자키역에서 약 300m의 숍. Firewire, Tokoro를 취급. 수리·렌탈·스쿨 있음."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "恋ヶ浦",
-    "en": "Koigaura"
+    "en": "Koigaura",
+    "ko": "코이가우라"
   },
   "address": {
     "ja": "宮崎県串間市大納",
-    "en": "Ono, Kushima-shi, Miyazaki 888-0221"
+    "en": "Ono, Kushima-shi, Miyazaki 888-0221",
+    "ko": "미야자키현 구시마시 大納"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "1年を通して波が立つポイント。左右のブレイクがある。無料駐車場は3台のみ。",
-    "en": "Waves throughout the year, with left and right breaks. Only three free parking spaces."
+    "en": "Waves throughout the year, with left and right breaks. Only three free parking spaces.",
+    "ko": "1년 내내 파도가 서는 포인트. 좌우 브레이크가 있다. 무료 주차는 3대뿐."
   },
   "tags": null,
   "features": [

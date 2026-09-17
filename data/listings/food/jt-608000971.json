@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "みやざき地頭鶏炭火焼 司",
-    "en": "Miyazaki Jitokko Sumibiyaki Tsukasa"
+    "en": "Miyazaki Jitokko Sumibiyaki Tsukasa",
+    "ko": "미야자키 지도리 숯불구이 쓰카사"
   },
   "address": {
     "ja": "宮崎県延岡市船倉１丁目４－１",
-    "en": "1-4-1 Funakura, Nobeoka, Miyazaki"
+    "en": "1-4-1 Funakura, Nobeoka, Miyazaki",
+    "ko": "미야자키현 노베오카시 船倉１丁目４－１"
   },
   "lat": 32.581892,
   "lng": 131.670017,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。延岡市船倉の炭火焼専門店。テイクアウトあり。営業18:00～21:30（ラストオーダー）。定休木曜日・日曜日（要予約相談可）。",
-    "en": "Charcoal-grill specialty in Nobeoka on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～21:30（ラストオーダー）."
+    "en": "Charcoal-grill specialty in Nobeoka on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～21:30（ラストオーダー）.",
+    "ko": "노베오카시 후나쿠라의 숯불구이 전문점. 미야자키 지도리 지정점. 테이크아웃 가능. 영업 18:00~21:30(라스트 오더). 목·일 정기 휴무."
   },
   "tags": null,
   "features": [

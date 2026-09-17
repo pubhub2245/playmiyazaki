@@ -7,11 +7,13 @@
   "area": "takachiho",
   "name": {
     "ja": "居酒屋 無我夢中",
-    "en": "Izakaya Mugamuchu"
+    "en": "Izakaya Mugamuchu",
+    "ko": "이자카야 무가무추"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町三田井4番地 松本ビル2階",
-    "en": "2F Matsumoto Bldg, 4 Mitai, Takachiho, Miyazaki"
+    "en": "2F Matsumoto Bldg, 4 Mitai, Takachiho, Miyazaki",
+    "ko": "미야자키현 다카치호초 三田井4番地 松本ビル2階"
   },
   "lat": 32.7101859,
   "lng": 131.3077653,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "高千穂町三田井の居酒屋。テイクアウトあり。営業17:00～21:30。定休日曜日。みやざき地頭鶏の指定店。",
-    "en": "Izakaya in Takachiho that serves Miyazaki Jitokko. Takeout available. Open 17:00～21:30."
+    "en": "Izakaya in Takachiho that serves Miyazaki Jitokko. Takeout available. Open 17:00～21:30.",
+    "ko": "다카치호초 미타이의 이자카야. 테이크아웃 가능. 영업 17:00~21:30. 일요일 정기 휴무. 미야자키 지도리 지정점."
   },
   "tags": null,
   "features": [

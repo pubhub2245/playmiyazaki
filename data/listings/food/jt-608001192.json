@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "風流里",
-    "en": "Furyu-sato"
+    "en": "Furyu-sato",
+    "ko": "후류사토"
   },
   "address": {
     "ja": "宮崎県えびの市大字大河平１９５３－７",
-    "en": "1953-7 Okobira, Ebino, Miyazaki"
+    "en": "1953-7 Okobira, Ebino, Miyazaki",
+    "ko": "미야자키현 에비노시 大字大河平１９５３－７"
   },
   "lat": 32.04932,
   "lng": 130.8983,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "えびの市大河平の居酒屋。営業18:00～23:00。みやざき地頭鶏の指定店。",
-    "en": "Izakaya in Ebino that serves Miyazaki Jitokko. Open 18:00～23:00."
+    "en": "Izakaya in Ebino that serves Miyazaki Jitokko. Open 18:00～23:00.",
+    "ko": "에비노시 오코비라의 이자카야. 영업 18:00~23:00. 미야자키 지도리 지정점."
   },
   "tags": null,
   "features": [],

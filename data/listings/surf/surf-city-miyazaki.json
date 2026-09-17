@@ -8,11 +8,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "サーフシティ宮崎",
-    "en": "SURF CITY MIYAZAKI"
+    "en": "SURF CITY MIYAZAKI",
+    "ko": "서프 시티 미야자키"
   },
   "address": {
     "ja": "宮崎県宮崎市青島2-1-11",
-    "en": "2-1-11 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+    "en": "2-1-11 Aoshima, Miyazaki-shi, Miyazaki 889-2162",
+    "ko": "미야자키현 미야자키시 青島2-1-11"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "月額会員 4,400〜9,900円（税込）、1日フリーパス 8,800円、1プログラム 3,300円〜、施設利用のみ 1,100円",
-    "en": "Monthly membership 4,400–9,900 yen (incl. tax); 1-day pass 8,800 yen; single program from 3,300 yen; facility only 1,100 yen"
+    "en": "Monthly membership 4,400–9,900 yen (incl. tax); 1-day pass 8,800 yen; single program from 3,300 yen; facility only 1,100 yen",
+    "ko": "월 회원 4,400~9,900엔(부가세 포함), 1일 프리패스 8,800엔, 1프로그램 3,300엔~, 시설 이용만 1,100엔"
   },
   "description": {
     "ja": "青島海浜公園に隣接。サーフ、SUP、ヨガ、キッズ放課後サーフを扱う。アソビューから予約可。",
-    "en": "Adjacent to Aoshima Beach Park. Surf, SUP, yoga, and after-school kids' surf. Bookable via Asoview."
+    "en": "Adjacent to Aoshima Beach Park. Surf, SUP, yoga, and after-school kids' surf. Bookable via Asoview.",
+    "ko": "아오시마 해변공원에 인접. 서프, SUP, 요가, 어린이 방과후 서프를 취급. Asoview에서 예약 가능."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "炭火焼 山空",
-    "en": "炭火焼 山空"
+    "en": "炭火焼 山空",
+    "ko": "숯불구이 산쿠"
   },
   "address": {
     "ja": "宮崎県日南市大字風田２６９３",
-    "en": "2693 Kazata, Nichinan, Miyazaki"
+    "en": "2693 Kazata, Nichinan, Miyazaki",
+    "ko": "미야자키현 니치난시 大字風田２６９３"
   },
   "lat": 31.627491,
   "lng": 131.424149,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "炭火焼専門店。日南市風田にある。みやざき地頭鶏の指定店。営業18:00～22:00（完全予約制）。定休日曜日。",
-    "en": "Charcoal-grill specialty in Nichinan. Open 18:00～22:00（完全予約制）. Cooperative-designated Miyazaki Jitokko store."
+    "en": "Charcoal-grill specialty in Nichinan. Open 18:00～22:00（完全予約制）. Cooperative-designated Miyazaki Jitokko store.",
+    "ko": "니치난시 가자타의 숯불구이 전문점. 미야자키 지도리 지정점. 영업 18:00~22:00(완전 예약제). 일요일 정기 휴무."
   },
   "tags": null,
   "features": [

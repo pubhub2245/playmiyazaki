@@ -9,11 +9,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "ディライトサーフィンサービス",
-    "en": "Delight Surfing Service"
+    "en": "Delight Surfing Service",
+    "ko": "딜라이트 서핑 서비스"
   },
   "address": {
     "ja": "宮崎県都城市広原町10-6",
-    "en": "10-6 Kobaru-cho, Miyakonojo-shi, Miyazaki 885-0036"
+    "en": "10-6 Kobaru-cho, Miyakonojo-shi, Miyazaki 885-0036",
+    "ko": "미야자키현 미야코노조시 広原町10-6"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "スクール 6,500〜8,000円／2時間（レンタル込）、ボードレンタル 3,000円／日、ウェットスーツ 2,000円／日",
-    "en": "Lesson 6,500–8,000 yen for 2 hours (rentals included); board rental 3,000 yen/day; wetsuit 2,000 yen/day"
+    "en": "Lesson 6,500–8,000 yen for 2 hours (rentals included); board rental 3,000 yen/day; wetsuit 2,000 yen/day",
+    "ko": "스쿨 6,500~8,000엔/2시간(렌탈 포함), 보드 렌탈 3,000엔/일, 웻수트 2,000엔/일"
   },
   "description": {
     "ja": "都城市内のショップ。ボード、ボディボード、ウェットスーツを扱い、カスタムボード製造（ヒロタサーフボードラボ）も行う。",
-    "en": "Shop in Miyakonojo. Handles boards, bodyboards, and wetsuits, and manufactures custom boards (Hirota Surfboards Lab)."
+    "en": "Shop in Miyakonojo. Handles boards, bodyboards, and wetsuits, and manufactures custom boards (Hirota Surfboards Lab).",
+    "ko": "미야코노조시의 숍. 보드, 보디보드, 웻수트를 취급하고 커스텀 보드도 제작한다(히로타 서프보드 랩)."
   },
   "tags": null,
   "features": [

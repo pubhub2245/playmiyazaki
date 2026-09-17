@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "梅ヶ浜",
-    "en": "Umegahama"
+    "en": "Umegahama",
+    "ko": "우메가하마"
   },
   "address": {
     "ja": "宮崎県日南市平野 梅ケ浜",
-    "en": "Umegahama, Hirano, Nichinan-shi, Miyazaki 887-0017"
+    "en": "Umegahama, Hirano, Nichinan-shi, Miyazaki 887-0017",
+    "ko": "미야자키현 니치난시 平野 梅ケ浜"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "ライオン岩を目印にした上級者向けブレイク。近くには広渡川の河口ポイントもある。",
-    "en": "Advanced-level break with the Lion Rock landmark. The Hirowatari river mouth is also nearby."
+    "en": "Advanced-level break with the Lion Rock landmark. The Hirowatari river mouth is also nearby.",
+    "ko": "라이온 바위를 랜드마크로 하는 상급자용 브레이크. 근처에 히로와타리강 하구 포인트도 있다."
   },
   "tags": null,
   "features": [],

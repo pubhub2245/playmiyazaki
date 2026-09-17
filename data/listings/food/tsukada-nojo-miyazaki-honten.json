@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "塚田農場 宮崎本店",
-    "en": "Tsukada Farm Miyazaki Honten"
+    "en": "Tsukada Farm Miyazaki Honten",
+    "ko": "쓰카다 농장 미야자키 본점"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-2-24 ライオンタワー宮崎ビル",
-    "en": "Lion Tower Miyazaki Bldg, 3-2-24 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki"
+    "en": "Lion Tower Miyazaki Bldg, 3-2-24 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通西3-2-24 ライオンタワー宮崎ビル"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏をはじめとする宮崎食材の居酒屋。塚田農場グループの宮崎本店。",
-    "en": "Izakaya featuring Miyazaki Jitokko and other Miyazaki produce. Tsukada Farm's Miyazaki flagship."
+    "en": "Izakaya featuring Miyazaki Jitokko and other Miyazaki produce. Tsukada Farm's Miyazaki flagship.",
+    "ko": "미야자키 지도리를 비롯한 미야자키 식재를 다루는 이자카야. 쓰카다 농장 그룹의 미야자키 본점."
   },
   "tags": null,
   "features": [],

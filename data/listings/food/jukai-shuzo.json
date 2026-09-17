@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "寿海酒造",
-    "en": "Jukai Shuzo"
+    "en": "Jukai Shuzo",
+    "ko": "주카이 주조"
   },
   "address": {
     "ja": "宮崎県串間市北方1295",
-    "en": "1295 Kitakata, Kushima-shi, Miyazaki"
+    "en": "1295 Kitakata, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 北方1295"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "串間市の焼酎蔵。蔵見学と店頭販売は要予約。",
-    "en": "Kushima shochu brewery. Tour and direct sales by reservation."
+    "en": "Kushima shochu brewery. Tour and direct sales by reservation.",
+    "ko": "구시마시의 쇼추 양조장. 견학과 매장 판매는 예약제."
   },
   "tags": null,
   "features": [

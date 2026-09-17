@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "みやざき晴夜 炭火地鶏 藁焼かつお せいろ蒸し",
-    "en": "Miyazaki Hareya (Sumibi Jidori, Warayaki Katsuo, Seiro-mushi)"
+    "en": "Miyazaki Hareya (Sumibi Jidori, Warayaki Katsuo, Seiro-mushi)",
+    "ko": "미야자키 하레야 (숯불 지도리, 가쓰오 짚불구이, 세이로무시)"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3丁目1番4号ラ・ルーチェビル1階",
-    "en": "1F La Luce Bldg, 3-1-4 Tachibana-dori Nishi, Miyazaki City, Miyazaki"
+    "en": "1F La Luce Bldg, 3-1-4 Tachibana-dori Nishi, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通西3丁目1番4号ラ・ルーチェビル1階"
   },
   "lat": 31.9135319,
   "lng": 131.4216914,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "夜予算 3,001〜4,000円（3,300円／人）。コース 4,000〜5,170円。",
-    "en": "Dinner budget ¥3,001–4,000 (¥3,300/person). Courses ¥4,000–5,170."
+    "en": "Dinner budget ¥3,001–4,000 (¥3,300/person). Courses ¥4,000–5,170.",
+    "ko": "저녁 예산 3,001~4,000엔(3,300엔/인). 코스 4,000~5,170엔."
   },
   "description": {
     "ja": "みやざき地頭鶏の指定店。宮崎市橘通西の居酒屋。営業17:00～23:30。定休元日。",
-    "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Open 17:00～23:30."
+    "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Open 17:00～23:30.",
+    "ko": "미야자키시 다치바나도리 니시의 이자카야. 미야자키 지도리 지정점. 영업 17:00~23:30. 정월 초하루 휴무."
   },
   "tags": null,
   "features": [],

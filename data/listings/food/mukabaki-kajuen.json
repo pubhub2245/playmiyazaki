@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "むかばき果樹園",
-    "en": "Mukabaki Orchard"
+    "en": "Mukabaki Orchard",
+    "ko": "무카바키 과수원"
   },
   "address": {
     "ja": "宮崎県延岡市行縢町",
-    "en": "Mukabaki-cho, Nobeoka-shi, Miyazaki"
+    "en": "Mukabaki-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 行縢町"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "延岡市行縢町の有機果樹園。ぶどう狩りとキウイ狩り。",
-    "en": "Organic orchard in Mukabaki, Nobeoka. Grape and kiwi picking in season."
+    "en": "Organic orchard in Mukabaki, Nobeoka. Grape and kiwi picking in season.",
+    "ko": "노베오카시 무카바키초의 유기 과수원. 포도 따기와 키위 따기."
   },
   "tags": null,
   "features": [

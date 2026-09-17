@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "かねまる地頭鶏農場",
-    "en": "Kanemaru Jitokko Farm"
+    "en": "Kanemaru Jitokko Farm",
+    "ko": "카네마루 지도리 농장"
   },
   "address": {
     "ja": "宮崎県都城市高崎町縄瀬3203-2",
-    "en": "3203-2 Nawase, Takazaki-cho, Miyakonojo-shi, Miyazaki"
+    "en": "3203-2 Nawase, Takazaki-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高崎町縄瀬3203-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "都城市高崎町のみやざき地頭鶏の農場。丸鶏や加工品を通販・直販。",
-    "en": "Miyazaki Jitokko farm in Takazaki, Miyakonojo. Sells whole birds and prepared products direct."
+    "en": "Miyazaki Jitokko farm in Takazaki, Miyakonojo. Sells whole birds and prepared products direct.",
+    "ko": "미야코노조시 다카자키초의 미야자키 지도리 농장. 통닭과 가공품을 통판·직판."
   },
   "tags": null,
   "features": [

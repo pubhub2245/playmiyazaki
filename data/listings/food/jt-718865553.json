@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "はに和",
-    "en": "Haniwa"
+    "en": "Haniwa",
+    "ko": "하니와"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通り6-5ウエストビル107",
-    "en": "West Bldg 107, 6-5 Chuo-dori, Miyazaki City, Miyazaki"
+    "en": "West Bldg 107, 6-5 Chuo-dori, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 中央通り6-5ウエストビル107"
   },
   "lat": 31.91545,
   "lng": 131.4206,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。宮崎市中央通の居酒屋。テイクアウトあり。営業18:00～22：00。",
-    "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～22：00."
+    "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Takeout available. Open 18:00～22：00.",
+    "ko": "미야자키시 주오도리의 이자카야. 미야자키 지도리 지정점. 테이크아웃 가능. 영업 18:00~22:00."
   },
   "tags": null,
   "features": [

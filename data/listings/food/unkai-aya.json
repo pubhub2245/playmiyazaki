@@ -7,11 +7,13 @@
   "area": "aya",
   "name": {
     "ja": "雲海酒造 綾自然蔵見学館",
-    "en": "Unkai Shuzo Aya Natural Cellar"
+    "en": "Unkai Shuzo Aya Natural Cellar",
+    "ko": "운카이 주조 아야 자연 양조장 견학관"
   },
   "address": {
     "ja": "宮崎県東諸県郡綾町南俣1795-1",
-    "en": "1795-1 Minamimata, Aya-cho, Higashi-Morokata-gun, Miyazaki"
+    "en": "1795-1 Minamimata, Aya-cho, Higashi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 아야초 南俣1795-1"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "雲海酒造の綾工場。蔵見学は約90分、試飲つき。店頭販売あり。",
-    "en": "Unkai's Aya facility. Tour is about 90 min with tasting. Direct sales on site."
+    "en": "Unkai's Aya facility. Tour is about 90 min with tasting. Direct sales on site.",
+    "ko": "운카이 주조의 아야 공장. 양조장 견학은 약 90분, 시음 포함. 매장 판매 있음."
   },
   "tags": null,
   "features": [

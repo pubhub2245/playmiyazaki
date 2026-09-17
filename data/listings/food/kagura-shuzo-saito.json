@@ -7,11 +7,13 @@
   "area": "saito",
   "name": {
     "ja": "神楽酒造 西の都アグリホール",
-    "en": "Kagura Shuzo (Saito Plant)"
+    "en": "Kagura Shuzo (Saito Plant)",
+    "ko": "카구라 주조 사이토 공장 (니시노미야코 아그리홀)"
   },
   "address": {
     "ja": "宮崎県西都市鹿野田11365-1",
-    "en": "11365-1 Kanoda, Saito-shi, Miyazaki"
+    "en": "11365-1 Kanoda, Saito-shi, Miyazaki",
+    "ko": "미야자키현 사이토시 鹿野田11365-1"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "神楽酒造の西都工場。蔵見学は平日のみ、要予約。",
-    "en": "Kagura Shuzo's Saito plant. Weekday-only tours by reservation."
+    "en": "Kagura Shuzo's Saito plant. Weekday-only tours by reservation.",
+    "ko": "카구라 주조의 사이토 공장. 견학은 평일에 한하며 예약제."
   },
   "tags": null,
   "features": [

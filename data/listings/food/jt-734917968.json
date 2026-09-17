@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "一休",
-    "en": "Ikkyu"
+    "en": "Ikkyu",
+    "ko": "잇큐"
   },
   "address": {
     "ja": "宮崎県日向市本町13-5",
-    "en": "13-5 Honmachi, Hyuga, Miyazaki"
+    "en": "13-5 Honmachi, Hyuga, Miyazaki",
+    "ko": "미야자키현 휴가시 本町13-5"
   },
   "lat": 32.4237119,
   "lng": 131.6252678,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。日向市本町の居酒屋。営業17:00～23:00。定休毎週火曜日、第三水曜日。",
-    "en": "Izakaya in Hyuga on the Miyazaki Jitokko cooperative roster. Open 17:00～23:00."
+    "en": "Izakaya in Hyuga on the Miyazaki Jitokko cooperative roster. Open 17:00～23:00.",
+    "ko": "휴가시 혼마치의 이자카야. 미야자키 지도리 지정점. 영업 17:00~23:00. 매주 화요일과 셋째 수요일 정기 휴무."
   },
   "tags": null,
   "features": [],

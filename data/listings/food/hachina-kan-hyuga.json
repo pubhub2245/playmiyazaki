@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "八菜館 ひちや店",
-    "en": "Hachinakan Hichiya"
+    "en": "Hachinakan Hichiya",
+    "ko": "하치나칸 히치야점"
   },
   "address": {
     "ja": "宮崎県日向市江良町2-62-2",
-    "en": "2-62-2 Era-cho, Hyuga-shi, Miyazaki"
+    "en": "2-62-2 Era-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 江良町2-62-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日向市のJA直売所。",
-    "en": "JA direct-sales shop in Hyuga."
+    "en": "JA direct-sales shop in Hyuga.",
+    "ko": "휴가시의 JA 직매장."
   },
   "tags": null,
   "features": [

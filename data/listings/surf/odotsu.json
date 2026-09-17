@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "大堂津",
-    "en": "Odotsu"
+    "en": "Odotsu",
+    "ko": "오도쓰"
   },
   "address": {
     "ja": "宮崎県日南市大堂津",
-    "en": "Odotsu, Nichinan-shi, Miyazaki"
+    "en": "Odotsu, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 大堂津"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "島に囲まれた湾のため、比較的波が穏やか。初心者向けのポイント。",
-    "en": "A bay ringed by islands, so the waves are relatively calm. A beginner-friendly break."
+    "en": "A bay ringed by islands, so the waves are relatively calm. A beginner-friendly break.",
+    "ko": "섬으로 둘러싸인 만이라 파도가 비교적 잔잔하다. 초보자에게 적합한 포인트."
   },
   "tags": null,
   "features": [

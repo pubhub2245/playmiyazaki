@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "KIYANSE FARM",
-    "en": "Kiyanse Farm"
+    "en": "Kiyanse Farm",
+    "ko": "KIYANSE FARM"
   },
   "address": {
     "ja": "宮崎県都城市高城町大井手1953-8",
-    "en": "1953-8 Oide, Takajo-cho, Miyakonojo-shi, Miyazaki"
+    "en": "1953-8 Oide, Takajo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高城町大井手1953-8"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "都城市高城町のブルーベリー狩り農園。30品種を無農薬で栽培。",
-    "en": "Blueberry-picking farm in Takajo, Miyakonojo. 30 varieties grown pesticide-free."
+    "en": "Blueberry-picking farm in Takajo, Miyakonojo. 30 varieties grown pesticide-free.",
+    "ko": "미야코노조시 다카조초의 블루베리 따기 농원. 30품종을 무농약으로 재배한다."
   },
   "tags": null,
   "features": [

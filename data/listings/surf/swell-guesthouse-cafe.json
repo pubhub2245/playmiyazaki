@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "SWELL Guesthouse & Cafe",
-    "en": "SWELL Guesthouse & Cafe"
+    "en": "SWELL Guesthouse & Cafe",
+    "ko": "SWELL 게스트하우스 & 카페"
   },
   "address": {
     "ja": "宮崎県日向市財光寺1848-2",
-    "en": "1848-2 Zaikoji, Hyuga-shi, Miyazaki 883-0021"
+    "en": "1848-2 Zaikoji, Hyuga-shi, Miyazaki 883-0021",
+    "ko": "미야자키현 휴가시 財光寺1848-2"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "通常期 4,000円〜／1名、ハイシーズン 5,500円〜／1名（税込）",
-    "en": "From 4,000 yen per person off-season; from 5,500 yen per person high season (incl. tax)"
+    "en": "From 4,000 yen per person off-season; from 5,500 yen per person high season (incl. tax)",
+    "ko": "비수기 4,000엔~/1인, 성수기 5,500엔~/1인(부가세 포함)"
   },
   "description": {
     "ja": "ゲストハウス併設のカフェ。屋外シャワーあり。",
-    "en": "Guesthouse with an attached cafe. Outdoor shower available."
+    "en": "Guesthouse with an attached cafe. Outdoor shower available.",
+    "ko": "카페가 병설된 게스트하우스. 야외 샤워 있음."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "mimata",
   "name": {
     "ja": "こっちゃんブルーベリー園",
-    "en": "Kocchan Blueberry Farm"
+    "en": "Kocchan Blueberry Farm",
+    "ko": "콧짱 블루베리원"
   },
   "address": {
     "ja": "宮崎県三股町長田5045-2",
-    "en": "5045-2 Nagata, Mimata-cho, Miyazaki"
+    "en": "5045-2 Nagata, Mimata-cho, Miyazaki",
+    "ko": "미야자키현 미마타초 長田5045-2"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "三股町のブルーベリー狩り農園。200株以上を有機で栽培。",
-    "en": "Blueberry-picking farm in Mimata. Over 200 organically grown bushes."
+    "en": "Blueberry-picking farm in Mimata. Over 200 organically grown bushes.",
+    "ko": "미마타초의 블루베리 따기 농원. 200그루 이상을 유기 재배."
   },
   "tags": null,
   "features": [

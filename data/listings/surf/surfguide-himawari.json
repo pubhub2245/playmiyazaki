@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "サーフガイドHIMAWARI",
-    "en": "Surf Guide HIMAWARI"
+    "en": "Surf Guide HIMAWARI",
+    "ko": "서프 가이드 HIMAWARI"
   },
   "address": {
     "ja": "宮崎県宮崎市青島西1-10-1",
-    "en": "1-10-1 Aoshima-Nishi, Miyazaki-shi, Miyazaki 889-2163"
+    "en": "1-10-1 Aoshima-Nishi, Miyazaki-shi, Miyazaki 889-2163",
+    "ko": "미야자키현 미야자키시 青島西1-10-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "1日1組限定のスクール。ボードロッカー、レンタルあり。要予約。",
-    "en": "Lessons for one group per day. Board lockers and rentals. Reservation required."
+    "en": "Lessons for one group per day. Board lockers and rentals. Reservation required.",
+    "ko": "하루 1팀 한정 스쿨. 보드 라커와 렌탈 있음. 예약 필수."
   },
   "tags": null,
   "features": [

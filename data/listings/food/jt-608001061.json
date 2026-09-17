@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "黒木屋 佐土原",
-    "en": "Kurokiya Sadowara"
+    "en": "Kurokiya Sadowara",
+    "ko": "구로키야 사도와라점"
   },
   "address": {
     "ja": "宮崎県宮崎市佐土原町下田島9832-5",
-    "en": "9832-5 Shimo-Tajima, Sadowara-cho, Miyazaki City, Miyazaki"
+    "en": "9832-5 Shimo-Tajima, Sadowara-cho, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 佐土原町下田島9832-5"
   },
   "lat": 32.023695,
   "lng": 131.475213,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市佐土原町にある居酒屋。みやざき地頭鶏の指定店。営業平日17:00～24:00 金・土・祝前日 17:00～翌2:00。",
-    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 平日17:00～24:00 金・土・祝前日 17:00～翌2:00."
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 平日17:00～24:00 金・土・祝前日 17:00～翌2:00.",
+    "ko": "미야자키시 사도와라초의 이자카야. 미야자키 지도리 지정점. 평일 17:00~24:00, 금·토·공휴일 전날 17:00~다음날 2:00."
   },
   "tags": null,
   "features": [],

@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "はればれ 宮崎地鶏と日向海鮮",
-    "en": "Harebare (Miyazaki Jidori & Hyuga Seafood)"
+    "en": "Harebare (Miyazaki Jidori & Hyuga Seafood)",
+    "ko": "하레바레 (미야자키 지도리와 휴가 해산물)"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通6番3号 ウエストビル1階",
-    "en": "1F West Bldg, 6-3 Chuo-dori, Miyazaki City, Miyazaki"
+    "en": "1F West Bldg, 6-3 Chuo-dori, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 中央通6番3号 ウエストビル1階"
   },
   "lat": 31.9152704,
   "lng": 131.420997,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "夜予算 3,001〜4,000円。コース 3,500〜8,000円。",
-    "en": "Dinner budget ¥3,001–4,000. Courses ¥3,500–8,000."
+    "en": "Dinner budget ¥3,001–4,000. Courses ¥3,500–8,000.",
+    "ko": "저녁 예산 3,001~4,000엔. 코스 3,500~8,000엔."
   },
   "description": {
     "ja": "宮崎市中央通の居酒屋。組合の指定店。営業17:00～23:30。定休元日。",
-    "en": "Cooperative-designated izakaya in Miyazaki City. Open 17:00～23:30."
+    "en": "Cooperative-designated izakaya in Miyazaki City. Open 17:00～23:30.",
+    "ko": "미야자키시 주오도리의 이자카야. 조합 지정점. 영업 17:00~23:30. 정월 초하루 휴무."
   },
   "tags": null,
   "features": [],

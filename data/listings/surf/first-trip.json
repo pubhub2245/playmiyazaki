@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ファーストトリップ サーフ&ヴィンテージ",
-    "en": "First Trip Surf & Vintage"
+    "en": "First Trip Surf & Vintage",
+    "ko": "퍼스트 트립 서프 & 빈티지"
   },
   "address": {
     "ja": "宮崎県宮崎市学園木花台桜1-15-6",
-    "en": "1-15-6 Gakuen Kibanadai Sakura, Miyazaki-shi, Miyazaki 889-2154"
+    "en": "1-15-6 Gakuen Kibanadai Sakura, Miyazaki-shi, Miyazaki 889-2154",
+    "ko": "미야자키현 미야자키시 学園木花台桜1-15-6"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "2泊3日レンタルパック 4,800円〜",
-    "en": "2-night/3-day rental pack from 4,800 yen"
+    "en": "2-night/3-day rental pack from 4,800 yen",
+    "ko": "2박 3일 렌탈 팩 4,800엔~"
   },
   "description": {
     "ja": "木崎浜から車で約5分のショップ。1対1レッスンとレンタルパックを扱う。",
-    "en": "Shop about a 5-minute drive from Kizakihama. Offers 1-on-1 lessons and rental packs."
+    "en": "Shop about a 5-minute drive from Kizakihama. Offers 1-on-1 lessons and rental packs.",
+    "ko": "기자키하마에서 차로 5분 정도의 숍. 1대1 레슨과 렌탈 팩을 취급한다."
   },
   "tags": null,
   "features": [
