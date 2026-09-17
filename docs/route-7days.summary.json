@@ -1,0 +1,72 @@
+[
+  {
+    "n": 1,
+    "slugs": [
+      "food/jt-746758167",
+      "food/jt-746763453",
+      "food/jt-608001190",
+      "food/jt-608001191",
+      "food/ochiai-shuzo"
+    ]
+  },
+  {
+    "n": 2,
+    "slugs": [
+      "golf/hello-golf",
+      "golf/indoor-golf-club-kyushu-aoba",
+      "golf/miyazaki-public-golf",
+      "golf/miyazaki-sunshine-cc",
+      "surf/connect-journey"
+    ]
+  },
+  {
+    "n": 3,
+    "slugs": [
+      "food/ohtemon-shuzo",
+      "food/minami-ichigo-noen",
+      "golf/nichinan-kitago-cc",
+      "camp/sakaematsu-beach-camp",
+      "camp/sakatani-camp"
+    ]
+  },
+  {
+    "n": 4,
+    "slugs": [
+      "food/jt-712802582",
+      "food/takachiho-bokujo-dairy-experience",
+      "food/jt-608001026",
+      "food/kirishima-factory-garden",
+      "food/michi-no-eki-yamanokuchi"
+    ]
+  },
+  {
+    "n": 5,
+    "slugs": [
+      "food/jt-608001028",
+      "food/kagura-shuzo-saito",
+      "food/unkai-aya",
+      "food/aya-tezukuri-honmono-center",
+      "food/kawasaki-nouen-mango"
+    ]
+  },
+  {
+    "n": 6,
+    "slugs": [
+      "camp/hinokage-onsen-eki",
+      "camp/hourigawa-bijin-no-yu",
+      "camp/autocamp-takachiho",
+      "camp/gokase-no-sato",
+      "food/himeizumi-shuzo"
+    ]
+  },
+  {
+    "n": 7,
+    "slugs": [
+      "camp/aoshima-picnic-club",
+      "surf/first-trip",
+      "surf/gakky-surf-shop",
+      "surf/kengoria-surf",
+      "surf/killer-surf-miyazaki"
+    ]
+  }
+]

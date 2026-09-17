@@ -47,6 +47,12 @@ export default function PrivateHome() {
             LOCAL ON CALL — a local friend in your pocket. ¥15,000 per group. →
           </Link>
         </h2>
+        <h2 style={{ marginTop: "28px" }}>
+          <Link href="/private/route">
+            7-DAY SOUTHERN KYUSHU ROUTE — Miyazaki without the crowds. Free
+            preview. →
+          </Link>
+        </h2>
       </section>
 
       <section className="mp-section">
