@@ -1,0 +1,1 @@
+tasks/README.md の末尾に「動作確認 2026-09-17 15:57」の1行を追記し、コミット「Queue test」して push すること。RESULT 行を出すこと。
