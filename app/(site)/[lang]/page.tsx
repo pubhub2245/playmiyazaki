@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
 import { HOME_TITLE, SITE_TAGLINE, type Lang } from "@/lib/i18n";
-import { absolute, urlFeature, urlGenre, urlHome } from "@/lib/url";
-import { allFeaturePagesRanked, genresWithListings } from "@/lib/coverage";
+import { absolute, urlAreaIndex, urlFeature, urlGenre, urlHome } from "@/lib/url";
+import { allFeaturePagesRanked, areaTotalCount, areasWithIndexPage, genresWithListings } from "@/lib/coverage";
 import { GenreIcon } from "@/app/_components/GenreIcon";
 import { FilterableList } from "@/app/_components/FilterableList";
 import { RevealList } from "@/app/_components/RevealList";
@@ -19,6 +19,7 @@ const HERO = {
     leadSuffix: " か所。",
     recentHeading: "最近確認したスポット",
     intentHeading: "条件から探す",
+    areaHeading: "エリアから探す",
   },
   en: {
     heading: "Every place to play in Miyazaki.",
@@ -26,6 +27,7 @@ const HERO = {
     leadSuffix: " places, every one with a source.",
     recentHeading: "Recently verified",
     intentHeading: "Browse by feature",
+    areaHeading: "Browse by area",
   },
 };
 
@@ -67,6 +69,10 @@ export default function HomePage({ params }: Props) {
     .map((l) => listingToRow(l, taxonomy, lang));
 
   const topFeaturePages = allFeaturePagesRanked().slice(0, 12);
+  const areaPages = areasWithIndexPage()
+    .map((slug) => ({ slug, count: areaTotalCount(slug) }))
+    .sort((a, b) => b.count - a.count);
+  const areaLabelMap = new Map(taxonomy.areas.map((a) => [a.slug, a]));
   const genreLabelMap = new Map(taxonomy.genres.map((g) => [g.slug, g]));
 
   const t = HERO[lang];
@@ -138,6 +144,26 @@ export default function HomePage({ params }: Props) {
                     {lang === "ja" ? "：" : ": "}
                     {featureEntry[lang]}
                   </span>
+                  <span className="pm-chip-count">{count}</span>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      )}
+
+      {areaPages.length > 0 && (
+        <section className="space-y-3">
+          <h2 className="pm-mono text-[12px] uppercase tracking-wider text-text-secondary">
+            {t.areaHeading}
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {areaPages.map(({ slug, count }) => {
+              const a = areaLabelMap.get(slug);
+              if (!a) return null;
+              return (
+                <Link key={slug} href={urlAreaIndex(lang, slug)} className="pm-chip">
+                  <span>{a[lang]}</span>
                   <span className="pm-chip-count">{count}</span>
                 </Link>
               );
