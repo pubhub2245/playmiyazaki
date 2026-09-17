@@ -31,3 +31,7 @@ export function absolute(p: string): string {
 export function googleMapsUrl(query: string): string {
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
+
+export function urlAreaIndex(lang: Lang, area: string): string {
+  return `/${lang}/a/${area}`;
+}

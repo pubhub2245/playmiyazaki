@@ -110,3 +110,49 @@ export function nearbyInArea(current: Listing, limit: number): Listing[] {
     .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"))
     .slice(0, limit);
 }
+
+/**
+ * An area index page (all genres in one municipality) must have at least this
+ * many listings. Below this the page would repeat what the genre pages already
+ * say, and a thin page drags the whole site down in search results.
+ */
+export const AREA_INDEX_MIN_COUNT = 5;
+
+let areaTotalsCache: Map<string, number> | null = null;
+
+function areaTotals(): Map<string, number> {
+  if (areaTotalsCache) return areaTotalsCache;
+  const totals = new Map<string, number>();
+  for (const l of loadAllListings()) {
+    totals.set(l.area, (totals.get(l.area) ?? 0) + 1);
+  }
+  areaTotalsCache = totals;
+  return totals;
+}
+
+export function areaTotalCount(area: string): number {
+  return areaTotals().get(area) ?? 0;
+}
+
+export function hasAreaIndex(area: string): boolean {
+  return areaTotalCount(area) >= AREA_INDEX_MIN_COUNT;
+}
+
+/** Area slugs big enough for a cross-genre index page, in taxonomy order. */
+export function areasWithIndexPage(): string[] {
+  const taxonomy = loadTaxonomy();
+  return taxonomy.areas.map((a) => a.slug).filter((s) => hasAreaIndex(s));
+}
+
+/** Genres present in one area, in taxonomy order, with counts. */
+export function genresInArea(area: string): Array<{ genre: string; count: number }> {
+  const taxonomy = loadTaxonomy();
+  const counts = new Map<string, number>();
+  for (const l of loadAllListings()) {
+    if (l.area !== area) continue;
+    counts.set(l.genre, (counts.get(l.genre) ?? 0) + 1);
+  }
+  return taxonomy.genres
+    .map((g) => ({ genre: g.slug, count: counts.get(g.slug) ?? 0 }))
+    .filter((x) => x.count > 0);
+}

@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
 import { LANGS, type Lang } from "@/lib/i18n";
-import { absolute, urlArea, urlGenre, urlHome } from "@/lib/url";
+import { absolute, urlArea, urlAreaIndex, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
   genresWithListings,
   hasArea,
+  hasAreaIndex,
 } from "@/lib/coverage";
 import { CategoryChips, categoryCountsForGenre } from "@/app/_components/FilterBar";
 import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureChips";
@@ -87,6 +89,15 @@ export default function AreaPage({ params }: Props) {
         <p className="pm-mono text-[12px] text-text-secondary mt-1">
           {filtered.length} {lang === "ja" ? "スポット" : "places"}
         </p>
+        {hasAreaIndex(params.area) && (
+          <p className="text-[14px] mt-2">
+            <Link href={urlAreaIndex(lang, params.area)}>
+              {lang === "ja"
+                ? `${area.ja}の他のジャンルも見る`
+                : `See everything in ${area.en}`}
+            </Link>
+          </p>
+        )}
       </div>
 
       <div className="space-y-3">
