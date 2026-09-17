@@ -1,0 +1,39 @@
+{
+  "slug": "aya-golf-studio",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "AYA GOLF STUDIO",
+    "en": "Aya Golf Studio"
+  },
+  "address": {
+    "ja": "宮崎県延岡市",
+    "en": "Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://aya-gs.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "24時間営業",
+    "en": "Open 24 hours."
+  },
+  "price": null,
+  "description": {
+    "ja": "延岡市のインドアゴルフスタジオ。個室シミュレーター。スタジオ・練習場・コースのレッスンあり。会員制。",
+    "en": "Indoor golf studio in Nobeoka with private simulator rooms. Studio, range and on-course lessons. Members only."
+  },
+  "tags": null,
+  "features": [
+    "lesson"
+  ],
+  "sources": [
+    "https://aya-gs.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

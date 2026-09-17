@@ -1,0 +1,36 @@
+{
+  "slug": "seagaia-forest-condominium",
+  "genre": "golf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "シーガイア・フォレスト・コンドミニアム",
+    "en": "Seagaia Forest Condominium"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市山崎町浜山",
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://seagaia.co.jp/golf/reservation/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "シーガイア内のコンドミニアム。フェニックスCCとトム・ワトソンGCの宿泊付きゴルフプランの対象施設。",
+    "en": "Condominium inside the Seagaia resort, listed for stay-and-play plans at Phoenix CC and Tom Watson GC."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite"
+  ],
+  "sources": [
+    "https://seagaia.co.jp/golf/reservation/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

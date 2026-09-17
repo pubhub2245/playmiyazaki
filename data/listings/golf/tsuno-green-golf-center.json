@@ -1,0 +1,37 @@
+{
+  "slug": "tsuno-green-golf-center",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "tsuno",
+  "name": {
+    "ja": "都農グリーンゴルフセンター",
+    "en": "Tsuno Green Golf Center"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡都農町川北丸溝18886-2",
+    "en": "18886-2 Marumizo, Kawakita, Tsuno-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "通常 8:00〜20:00、火・金 8:00〜21:00。年中無休",
+    "en": "Usually 8:00–20:00; Tuesdays and Fridays 8:00–21:00. Open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "都農町の250ヤード・22打席の練習場。パターとバンカーの練習場あり。",
+    "en": "250-yard, 22-bay range in Tsuno. Putting and bunker practice areas."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://golf-jalan.net/gp02560/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

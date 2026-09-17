@@ -1,0 +1,41 @@
+{
+  "slug": "aoshima-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "青島ゴルフ倶楽部",
+    "en": "Aoshima Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市折生迫大谷4180",
+    "en": "4180 Otani, Orio-zako, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://reserve.accordiagolf.com/golfCourse/miyazaki/aoshima/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島の18Hコース。アコーディア・ゴルフ運営。クラブレンタル、練習場とスクール、レストランあり。",
+    "en": "18-hole course near Aoshima, run by Accordia Golf. Club rental, practice range and school, restaurant, online booking."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "practice-range",
+    "lesson",
+    "restaurant",
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://reserve.accordiagolf.com/golfCourse/miyazaki/aoshima/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -73,7 +73,17 @@
       { "slug": "parking",     "ja": "駐車場あり",       "en": "Parking",           "heading_ja": "駐車場のある宮崎の食のスポット",         "heading_en": "Miyazaki food spots with parking" },
       { "slug": "english",     "ja": "英語対応",         "en": "English OK",        "heading_ja": "英語対応の宮崎の食のスポット",           "heading_en": "Miyazaki food spots with English support" }
     ],
-    "golf": []
+    "golf": [
+      { "slug": "night", "ja": "ナイター営業あり", "en": "Night play", "heading_ja": "ナイター営業のある宮崎のゴルフ", "heading_en": "Golf in Miyazaki with night play" },
+      { "slug": "rental-clubs", "ja": "クラブレンタルあり", "en": "Club rental", "heading_ja": "クラブレンタルができる宮崎のゴルフ", "heading_en": "Golf in Miyazaki with club rental" },
+      { "slug": "lesson", "ja": "レッスンあり", "en": "Lessons", "heading_ja": "レッスンのある宮崎のゴルフ", "heading_en": "Golf lessons in Miyazaki" },
+      { "slug": "short-course", "ja": "ショートコース・9H", "en": "Short course / 9 holes", "heading_ja": "宮崎のショートコース・9Hのゴルフ", "heading_en": "Short courses and nine-hole golf in Miyazaki" },
+      { "slug": "stay-onsite", "ja": "宿泊施設併設", "en": "Lodging on site", "heading_ja": "宿泊できる宮崎のゴルフ場", "heading_en": "Golf in Miyazaki with lodging on site" },
+      { "slug": "practice-range", "ja": "併設練習場あり", "en": "Practice range on site", "heading_ja": "練習場のある宮崎のゴルフ場", "heading_en": "Golf courses in Miyazaki with a practice range" },
+      { "slug": "restaurant", "ja": "レストランあり", "en": "Restaurant", "heading_ja": "レストランのある宮崎のゴルフ場", "heading_en": "Golf courses in Miyazaki with a restaurant" },
+      { "slug": "reservation-online", "ja": "ネット予約", "en": "Online booking", "heading_ja": "ネット予約できる宮崎のゴルフ", "heading_en": "Golf in Miyazaki with online booking" },
+      { "slug": "english", "ja": "英語対応", "en": "English OK", "heading_ja": "英語対応の宮崎のゴルフ", "heading_en": "English-friendly golf in Miyazaki" }
+    ]
   },
   "areas": [
     { "slug": "miyazaki-shi", "ja": "宮崎市", "en": "Miyazaki City" },

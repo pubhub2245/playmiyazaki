@@ -1,0 +1,43 @@
+{
+  "slug": "inthegolf-aeon-miyazaki",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "インザゴルフ イオンモール宮崎店",
+    "en": "In The Golf Aeon Mall Miyazaki"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市新別府町江口862-1 イオンモール宮崎2F",
+    "en": "Aeon Mall Miyazaki 2F, 862-1 Eguchi, Shinbeppu-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://inthegolf.com/list/aeon-miyazaki/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜21:00。木曜はノーコーチデー",
+    "en": "10:00–21:00. No coach on Thursdays."
+  },
+  "price": {
+    "ja": "貸クラブ 無料。",
+    "en": "Club rental free."
+  },
+  "description": {
+    "ja": "イオンモール宮崎2階のインドア練習場。シミュレーター6打席。レッスン付きの月会費制。貸クラブ無料。",
+    "en": "Indoor range on the second floor of Aeon Mall Miyazaki. Six simulator bays, monthly membership with lessons, free club rental."
+  },
+  "tags": null,
+  "features": [
+    "lesson",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://inthegolf.com/list/aeon-miyazaki/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

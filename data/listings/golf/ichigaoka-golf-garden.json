@@ -1,0 +1,40 @@
+{
+  "slug": "ichigaoka-golf-garden",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "一ヶ岡ゴルフガーデン",
+    "en": "Ichigaoka Golf Garden"
+  },
+  "address": {
+    "ja": "宮崎県延岡市下伊形7217-1",
+    "en": "7217-1 Shimoigata, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "6:00〜23:00、年中無休",
+    "en": "6:00–23:00, open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "延岡市下伊形の200ヤード・60打席の練習場。ナイター設備あり。月・木・土にレッスン。",
+    "en": "200-yard, 60-bay range in Shimoigata, Nobeoka. Floodlit for night play, lessons on Mondays, Thursdays and Saturdays."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "lesson"
+  ],
+  "sources": [
+    "https://golf-jalan.net/gp02500/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

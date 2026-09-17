@@ -1,0 +1,40 @@
+{
+  "slug": "golf-partner-miyakonojo-range",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "ゴルフパートナー 都城練習場店",
+    "en": "Golf Partner Miyakonojo Range"
+  },
+  "address": {
+    "ja": "宮崎県都城市若葉町54-7",
+    "en": "54-7 Wakaba-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://store.golfpartner.jp/39103",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "練習場 平日 6:30〜22:00、土日祝 6:30〜21:00。月曜は早朝枠（6:30〜8:30）休み",
+    "en": "Range weekdays 6:30–22:00, weekends and holidays 6:30–21:00. No early slot (6:30–8:30) on Mondays."
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市若葉町の練習場。照明あり。ショップ・試打室・弾道測定・工房を併設。レッスン対応。",
+    "en": "Range in Wakaba, Miyakonojo, with floodlights, a shop, fitting bay, launch monitor and club workshop. Lessons available."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "lesson"
+  ],
+  "sources": [
+    "https://store.golfpartner.jp/39103"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

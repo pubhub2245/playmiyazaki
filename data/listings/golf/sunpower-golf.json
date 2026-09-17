@@ -1,0 +1,37 @@
+{
+  "slug": "sunpower-golf",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "サンパワーゴルフ",
+    "en": "Sunpower Golf"
+  },
+  "address": {
+    "ja": "宮崎県都城市下長飯2050",
+    "en": "2050 Shimonagae, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 8:00〜22:00、日曜 8:00〜21:00。年中無休",
+    "en": "Weekdays 8:00–22:00, Sundays 8:00–21:00. Open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市下長飯の200ヤード・60打席の練習場。",
+    "en": "200-yard, 60-bay range in Shimonagae, Miyakonojo."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://golf-jalan.net/gp02470/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

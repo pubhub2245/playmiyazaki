@@ -1,0 +1,43 @@
+{
+  "slug": "grass-garden-shioji",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "グラスガーデン塩路",
+    "en": "Grass Garden Shioji"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市塩路586",
+    "en": "586 Shioji, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "6:00〜21:30",
+    "en": "6:00–21:30."
+  },
+  "price": {
+    "ja": "貸クラブ 300円／本。",
+    "en": "Club rental 300 yen per club."
+  },
+  "description": {
+    "ja": "宮崎市塩路の220ヤード・64打席の練習場。照明は無料。平日は深夜営業。",
+    "en": "220-yard, 64-bay range in Shioji, Miyazaki City. Free floodlights and late-night hours on weekdays."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1380"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

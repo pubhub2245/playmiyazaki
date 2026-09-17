@@ -1,0 +1,40 @@
+{
+  "slug": "lien-golf-club",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "リアンゴルフクラブ",
+    "en": "Lien Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県都城市宮丸町3017-10",
+    "en": "3017-10 Miyamaru-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.njcgood.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜23:00",
+    "en": "8:00–23:00."
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市の11打席の練習場。GDR・VISIONなどのシミュレーター。プロレッスンあり。会員制。",
+    "en": "Eleven-bay range in Miyakonojo with GDR and VISION simulators. Pro lessons, members only."
+  },
+  "tags": null,
+  "features": [
+    "lesson",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://www.njcgood.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

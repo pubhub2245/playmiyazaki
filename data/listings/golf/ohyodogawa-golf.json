@@ -1,0 +1,39 @@
+{
+  "slug": "ohyodogawa-golf",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "大淀川ゴルフ場",
+    "en": "Oyodogawa Golf Course"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市跡江385-2",
+    "en": "385-2 Atoe, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "定休日 毎週金曜・12/31・1/1",
+    "en": "Closed Fridays, December 31 and January 1."
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市跡江の9Hコース。ティー位置を変えて2周する。全ホール100ヤードのショートコースもある。",
+    "en": "Nine-hole course in Atoe, Miyazaki City, played twice from different tees. Also a short course with 100-yard holes."
+  },
+  "tags": null,
+  "features": [
+    "short-course"
+  ],
+  "sources": [
+    "https://golf-jalan.net/gc02484/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

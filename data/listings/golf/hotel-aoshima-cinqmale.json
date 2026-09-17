@@ -1,0 +1,34 @@
+{
+  "slug": "hotel-aoshima-cinqmale",
+  "genre": "golf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ホテル青島サンクマール",
+    "en": "Hotel Aoshima Cinqmale"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市折生迫7408",
+    "en": "7408 Orio-zako, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.cinqmale.co.jp/page2",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島の宿。宮崎カントリークラブの18Hプレー（グリーンフィー・キャディフィー込）と宿泊のゴルフパックあり。4名1組、電話予約のみ。",
+    "en": "Hotel near Aoshima with a golf package: 18 holes at Miyazaki Country Club including green and caddie fees, plus a night. Four per group, phone booking."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.cinqmale.co.jp/page2"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

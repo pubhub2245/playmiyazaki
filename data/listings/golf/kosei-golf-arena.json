@@ -1,0 +1,37 @@
+{
+  "slug": "kosei-golf-arena",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "光成ゴルフアリーナ",
+    "en": "Kosei Golf Arena"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市本郷北方2644",
+    "en": "2644 Hongo-kitakata, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 7:30〜21:30、土日祝 7:00〜21:30。定休日なし",
+    "en": "Weekdays 7:30–21:30, weekends and holidays 7:00–21:30. Open every day."
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市本郷北方の210ヤード・144打席の練習場。レンタルクラブはなし。",
+    "en": "210-yard, 144-bay range in Hongo-kitakata, Miyazaki City. No club rental."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1383"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

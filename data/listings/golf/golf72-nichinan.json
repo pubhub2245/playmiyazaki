@@ -1,0 +1,34 @@
+{
+  "slug": "golf72-nichinan",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "Golf72",
+    "en": "Golf72"
+  },
+  "address": {
+    "ja": "宮崎県日南市南郷町南町3-1 平成ビル2F",
+    "en": "Heisei Bldg 2F, 3-1 Minami-machi, Nango-cho, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://golf72.localinfo.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市南郷町のインドア練習場。完全個室でバーチャルゴルフ100コース。",
+    "en": "Indoor range in Nango, Nichinan. Fully private rooms with 100 virtual courses."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://golf72.localinfo.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

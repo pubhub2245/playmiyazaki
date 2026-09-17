@@ -1,0 +1,40 @@
+{
+  "slug": "asahigaoka-golf-resort",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "mimata",
+  "name": {
+    "ja": "旭ヶ丘ゴルフリゾート",
+    "en": "Asahigaoka Golf Resort"
+  },
+  "address": {
+    "ja": "宮崎県北諸県郡三股町蓼池5200",
+    "en": "5200 Tadeike, Mimata-cho, Kita-Morokata-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.asahigaoka-golf-resort.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "三股町の250ヤード練習場。LED照明でナイター可。ショートコース併設。クラブレンタルとスクールあり。",
+    "en": "250-yard range in Mimata with LED lighting for night play. Short course on site, club rental and lessons."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs",
+    "lesson",
+    "short-course",
+    "restaurant"
+  ],
+  "sources": [
+    "https://www.asahigaoka-golf-resort.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

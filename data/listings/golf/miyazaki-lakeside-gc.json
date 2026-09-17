@@ -1,0 +1,37 @@
+{
+  "slug": "miyazaki-lakeside-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎レイクサイドゴルフ倶楽部",
+    "en": "Miyazaki Lakeside Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市清武町今泉丙1331-1",
+    "en": "1331-1 Imaizumi-hei, Kiyotake-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.lakeside-gc.com/facility/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "清武町の18Hコース。練習場、レストランとコンペルーム、プロショップ・ロッカー・浴室あり。",
+    "en": "18-hole course in Kiyotake. Practice range, restaurant and function room, pro shop, lockers and baths."
+  },
+  "tags": null,
+  "features": [
+    "practice-range",
+    "restaurant"
+  ],
+  "sources": [
+    "https://www.lakeside-gc.com/facility/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

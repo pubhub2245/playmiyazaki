@@ -1,0 +1,45 @@
+{
+  "slug": "miyazaki-sunshine-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎サンシャインカントリークラブ",
+    "en": "Miyazaki Sunshine Country Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町東上那珂11538-1",
+    "en": "11538-1 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://sunshine-cc.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "受付 8:00〜17:00（営業日のみ）",
+    "en": "Reception 8:00–17:00 on open days."
+  },
+  "price": {
+    "ja": "貸クラブ 1セット 3,300円。",
+    "en": "Club rental 3,300 yen per set."
+  },
+  "description": {
+    "ja": "佐土原の18Hコース。薄暮ゴルフと9Hプレーあり。貸クラブ、レストラン、テイクアウトあり。",
+    "en": "18-hole course in Sadowara. Twilight rounds and nine-hole play, club rental, restaurant with takeout."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "restaurant",
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://sunshine-cc.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

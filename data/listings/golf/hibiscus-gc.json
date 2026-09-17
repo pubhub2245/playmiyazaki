@@ -1,0 +1,37 @@
+{
+  "slug": "hibiscus-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "ハイビスカスゴルフクラブ",
+    "en": "Hibiscus Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町下田島21085-1",
+    "en": "21085-1 Shimotajima, Sadowara-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://www.hibiscus-gc.jp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "佐土原の18H・パー72・6,920ヤード。レストランあり。ネット予約可。",
+    "en": "18-hole par-72 course, 6,920 yards, in Sadowara. Restaurant on site and online booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://www.hibiscus-gc.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "miyazaki-kokusai-gc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "宮崎国際ゴルフ倶楽部",
+    "en": "Miyazaki Kokusai Golf Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町下田島6634-1",
+    "en": "6634-1 Shimotajima, Sadowara-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://booking.pacificgolf.co.jp/guide/137.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "佐土原の27Hコース（橘・霧島・尾鈴）。PGM運営。レストランあり。ネット予約可。",
+    "en": "27-hole course in Sadowara with the Tachibana, Kirishima and Ozuzu nines. Run by PGM. Restaurant and online booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online",
+    "english"
+  ],
+  "sources": [
+    "https://booking.pacificgolf.co.jp/guide/137.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

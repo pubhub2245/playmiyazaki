@@ -1,0 +1,42 @@
+{
+  "slug": "phoenix-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "フェニックスカントリークラブ",
+    "en": "Phoenix Country Club"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市山崎町浜山",
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://seagaia.co.jp/pcc",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "シーガイア内の27Hコース。宿泊付きプランあり。レストランとコンペルーム、350ヤード練習場のアカデミー併設。",
+    "en": "27-hole course inside the Seagaia resort. Stay-and-play plans, restaurant and function rooms, and an academy with a 350-yard range."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online",
+    "english",
+    "stay-onsite",
+    "practice-range",
+    "lesson"
+  ],
+  "sources": [
+    "https://seagaia.co.jp/pcc",
+    "https://seagaia.co.jp/golf/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

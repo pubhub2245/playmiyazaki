@@ -1,0 +1,40 @@
+{
+  "slug": "aiwa-miyazaki-resort-hotel",
+  "genre": "golf",
+  "category": [
+    "stay"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "愛和宮崎リゾートホテル",
+    "en": "Aiwa Miyazaki Resort Hotel"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市佐土原町東上那珂105",
+    "en": "105 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "チェックイン 15:00、チェックアウト 11:00。朝食 6:30〜9:00",
+    "en": "Check-in 15:00, check-out 11:00. Breakfast 6:30–9:00."
+  },
+  "price": null,
+  "description": {
+    "ja": "ゴルフ場併設のホテル。ツイン、全室バルコニー付。",
+    "en": "Hotel attached to the golf course. Twin rooms, each with a balcony."
+  },
+  "tags": null,
+  "features": [
+    "stay-onsite"
+  ],
+  "sources": [
+    "https://golf-jalan.net/gc02494/info/",
+    "https://www.kanko-miyazaki.jp/golf_surfing/1161"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

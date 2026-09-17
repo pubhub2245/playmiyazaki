@@ -1,0 +1,37 @@
+{
+  "slug": "cherry-golf-nobeoka",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "チェリーゴルフ延岡コース",
+    "en": "Cherry Golf Nobeoka Course"
+  },
+  "address": {
+    "ja": "宮崎県延岡市浦城町1161",
+    "en": "1161 Urashiro-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://cherry-group.jp/course_nobeoka/index.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市浦城町のゴルフ場。チェリーゴルフグループ運営。レストランあり。ネット予約可。",
+    "en": "Golf course in Urashiro, Nobeoka, run by the Cherry Golf group. Restaurant and online booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://cherry-group.jp/course_nobeoka/index.html"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

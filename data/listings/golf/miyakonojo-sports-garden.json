@@ -1,0 +1,44 @@
+{
+  "slug": "miyakonojo-sports-garden",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "都城スポーツガーデン",
+    "en": "Miyakonojo Sports Garden"
+  },
+  "address": {
+    "ja": "宮崎県都城市若葉町54-9-2",
+    "en": "54-9-2 Wakaba-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 8:00〜22:00、土日祝 7:00〜21:00。年中無休",
+    "en": "Weekdays 8:00–22:00, weekends and holidays 7:00–21:00. Open every day."
+  },
+  "price": {
+    "ja": "貸クラブ 200円／本。",
+    "en": "Club rental 200 yen per club."
+  },
+  "description": {
+    "ja": "都城市若葉町の150ヤード・51打席の練習場。ナイターは平日22時・土日21時まで。レッスンあり。",
+    "en": "150-yard, 51-bay range in Wakaba, Miyakonojo. Night play to 22:00 on weekdays and 21:00 at weekends. Lessons available."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs",
+    "lesson"
+  ],
+  "sources": [
+    "https://golf-jalan.net/gp02559/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "regent-miyazaki-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "リージェント宮崎カントリークラブ",
+    "en": "Regent Miyazaki Country Club"
+  },
+  "address": {
+    "ja": "宮崎県都城市山田町中霧島4423-4",
+    "en": "4423-4 Nakakirishima, Yamada-cho, Miyakonojo-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://regentmiyazaki.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市山田町のゴルフ場。レストランあり。ネット予約可。",
+    "en": "Golf course in Yamada, Miyakonojo. Restaurant on site and online booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://regentmiyazaki.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

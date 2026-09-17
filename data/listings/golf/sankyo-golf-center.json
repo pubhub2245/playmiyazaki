@@ -1,0 +1,43 @@
+{
+  "slug": "sankyo-golf-center",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "サンキョウゴルフセンター",
+    "en": "Sankyo Golf Center"
+  },
+  "address": {
+    "ja": "宮崎県日南市隈谷乙1603",
+    "en": "1603 Otsu, Kumatani, Nichinan-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜21:00。定休日なし",
+    "en": "8:00–21:00. Open every day."
+  },
+  "price": {
+    "ja": "貸クラブ 100円／本。",
+    "en": "Club rental 100 yen per club."
+  },
+  "description": {
+    "ja": "日南市隈谷の200ヤード・23打席の練習場。照明は無料。パター・バンカー・アプローチの練習場あり。",
+    "en": "200-yard, 23-bay range in Kumatani, Nichinan. Free floodlights, with putting, bunker and approach areas."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1397"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

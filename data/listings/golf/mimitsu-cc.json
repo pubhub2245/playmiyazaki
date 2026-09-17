@@ -1,0 +1,40 @@
+{
+  "slug": "mimitsu-cc",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "美々津カントリークラブ",
+    "en": "Mimitsu Country Club"
+  },
+  "address": {
+    "ja": "宮崎県日向市東郷町山陰甲417-94",
+    "en": "417-94 Ko, Yamage, Togo-cho, Hyuga-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://mimitsu-cc.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜17:00",
+    "en": "8:00–17:00."
+  },
+  "price": null,
+  "description": {
+    "ja": "日向市東郷町のゴルフ場。レストランあり。外部の予約システムで予約できる。",
+    "en": "Golf course in Togo, Hyuga. Restaurant on site, booking through an external system."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://mimitsu-cc.jp/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

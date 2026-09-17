@@ -1,0 +1,40 @@
+{
+  "slug": "hitotsuse-kenmin-golf",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "shintomi",
+  "name": {
+    "ja": "一ツ瀬川県民ゴルフ場",
+    "en": "Hitotsusegawa Kenmin Golf Course"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡新富町新田2591",
+    "en": "2591 Nyuta, Shintomi-cho, Koyu-gun, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "定休日 1/1",
+    "en": "Closed January 1."
+  },
+  "price": null,
+  "description": {
+    "ja": "新富町の県民ゴルフ場。18H・パー70・5,710ヤード。クラブとシューズのレンタル、練習場とアプローチ練習場あり。",
+    "en": "Prefectural 18-hole par-70 course, 5,710 yards, in Shintomi. Club and shoe rental, practice range and approach area."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "practice-range"
+  ],
+  "sources": [
+    "https://booking.gora.golf.rakuten.co.jp/guide/disp/c_id/450011/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

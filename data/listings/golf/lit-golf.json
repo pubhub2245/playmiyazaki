@@ -1,0 +1,40 @@
+{
+  "slug": "lit-golf",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "LIT GOLF",
+    "en": "LIT GOLF"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市江平東1-7-2",
+    "en": "1-7-2 Ehira-higashi, Miyazaki-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://lit-golf.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "インドア 火〜土 8:00〜23:00、日祝 8:00〜20:00。定休日 月曜（祝日は火曜）、不定休あり",
+    "en": "Indoor bays Tue–Sat 8:00–23:00, Sun and holidays 8:00–20:00. Closed Mondays (Tuesday if Monday is a holiday)."
+  },
+  "price": null,
+  "description": {
+    "ja": "宮崎市江平東のインドア練習場。TRACKMANの4打席で左打席あり。レンタルクラブ、ショップと工房を併設。",
+    "en": "Indoor range in Ehira-higashi, Miyazaki City. Four TRACKMAN bays including a left-handed bay, club rental, shop and workshop."
+  },
+  "tags": null,
+  "features": [
+    "lesson",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://lit-golf.com/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}

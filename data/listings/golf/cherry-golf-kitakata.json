@@ -1,0 +1,37 @@
+{
+  "slug": "cherry-golf-kitakata",
+  "genre": "golf",
+  "category": [
+    "course"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "チェリーゴルフ北方コース",
+    "en": "Cherry Golf Kitakata Course"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北方町笠下寅1566",
+    "en": "1566 Tora, Kasashita, Kitakata-cho, Nobeoka-shi, Miyazaki"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://cherry-group.jp/sp/course_kitakata/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北方町の18Hコース。チェリーゴルフグループ運営。レストランあり。ネット予約可。",
+    "en": "18-hole course in Kitakata, Nobeoka, run by the Cherry Golf group. Restaurant and online booking."
+  },
+  "tags": null,
+  "features": [
+    "restaurant",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://cherry-group.jp/sp/course_kitakata/"
+  ],
+  "verified_at": "2026-09-15",
+  "status": "open"
+}
