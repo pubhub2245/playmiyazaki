@@ -18,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // MIYAZAKI PRIVATE (English only, no hreflang). The thanks page is noindex
   // and stays out of the sitemap. See docs/private.md.
-  for (const p of ["/private", "/private/after-dark", "/private/request"]) {
+  for (const p of ["/private", "/private/after-dark", "/private/nishitachi-night", "/private/request"]) {
     urls.push({ url: `${SITE_URL}${p}`, lastModified: now });
   }
 

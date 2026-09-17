@@ -20,11 +20,19 @@ const STAYING = [
 
 const GUESTS = ["2", "3", "4", "5", "6"];
 
+const EVENINGS = [
+  "After Dark private evening",
+  "Nishitachi Night with a Local",
+  "Local on Call",
+  "7-Day Route",
+];
+
 /** Template for the mailto fallback: the same fields as the form. */
-const MAIL_SUBJECT = "Request: MIYAZAKI AFTER DARK";
+const MAIL_SUBJECT = "Request: MIYAZAKI PRIVATE";
 const MAIL_BODY = [
   "Name:",
   "Email:",
+  "Which evening? (After Dark private evening / Nishitachi Night with a Local / Local on Call / 7-Day Route):",
   "Preferred dates (2-3 options):",
   "Number of guests (2-6):",
   "Where you will be staying (central Miyazaki City / elsewhere in Miyazaki / not decided):",
@@ -81,6 +89,17 @@ function RequestForm({ endpoint }: { endpoint: string }) {
       <label className="mp-field">
         <span>Email</span>
         <input type="email" name="email" required autoComplete="email" />
+      </label>
+
+      <label className="mp-field">
+        <span>Which evening?</span>
+        <select name="evening" defaultValue={EVENINGS[0]}>
+          {EVENINGS.map((e) => (
+            <option key={e} value={e}>
+              {e}
+            </option>
+          ))}
+        </select>
       </label>
 
       <label className="mp-field">

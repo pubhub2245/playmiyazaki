@@ -37,6 +37,11 @@ export default function PrivateHome() {
             guests. →
           </Link>
         </h2>
+        <h2 style={{ marginTop: "28px" }}>
+          <Link href="/private/nishitachi-night">
+            NISHITACHI NIGHT WITH A LOCAL — three hours. ¥25,000 per guest. →
+          </Link>
+        </h2>
       </section>
 
       <section className="mp-section">
