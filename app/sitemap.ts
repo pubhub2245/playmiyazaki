@@ -22,8 +22,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     urls.push({ url: `${SITE_URL}${p}`, lastModified: now });
   }
 
+  // Informational pages (about / privacy / disclosure / contact / submit).
+  const INFO_PATHS = ["/about", "/privacy", "/disclosure", "/contact", "/submit"];
+
   for (const lang of LANGS) {
     urls.push({ url: absolute(urlHome(lang)), lastModified: now });
+    for (const p of INFO_PATHS) {
+      urls.push({ url: absolute(`/${lang}${p}`), lastModified: now });
+    }
     for (const g of genresWithListings()) {
       urls.push({ url: absolute(urlGenre(lang, g)), lastModified: now });
       for (const c of categoriesWithListings(g)) {
