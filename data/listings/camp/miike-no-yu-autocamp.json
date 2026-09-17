@@ -8,11 +8,13 @@
   "area": "takaharu",
   "name": {
     "ja": "御池の湯オートキャンプ場",
-    "en": "Miike-no-Yu Auto Camp"
+    "en": "Miike-no-Yu Auto Camp",
+    "ko": "미이케의 탕 오토캠프장"
   },
   "address": {
     "ja": "宮崎県西諸県郡高原町大字蒲牟田7412-2",
-    "en": "7412-2 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+    "en": "7412-2 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 니시모로카타군 다카하루초 大字蒲牟田7412-2"
   },
   "lat": null,
   "lng": null,
@@ -23,7 +25,8 @@
   "price": null,
   "description": {
     "ja": "御池の湖畔、天然温泉が併設されたオートキャンプ場。",
-    "en": "Auto camp on the shore of Lake Miike, with an on-site natural hot spring."
+    "en": "Auto camp on the shore of Lake Miike, with an on-site natural hot spring.",
+    "ko": "미이케 호숫가, 천연 온천이 병설된 오토캠프장."
   },
   "tags": null,
   "features": [

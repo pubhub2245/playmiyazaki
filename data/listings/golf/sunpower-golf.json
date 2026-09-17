@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "サンパワーゴルフ",
-    "en": "Sunpower Golf"
+    "en": "Sunpower Golf",
+    "ko": "선파워 골프"
   },
   "address": {
     "ja": "宮崎県都城市下長飯2050",
-    "en": "2050 Shimonagae, Miyakonojo-shi, Miyazaki"
+    "en": "2050 Shimonagae, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 下長飯2050"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "都城市下長飯の200ヤード・60打席の練習場。",
-    "en": "200-yard, 60-bay range in Shimonagae, Miyakonojo."
+    "en": "200-yard, 60-bay range in Shimonagae, Miyakonojo.",
+    "ko": "미야코노조 시모나가에의 200야드·60타석 연습장."
   },
   "tags": null,
   "features": [],

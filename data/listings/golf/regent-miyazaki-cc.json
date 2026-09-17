@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "リージェント宮崎カントリークラブ",
-    "en": "Regent Miyazaki Country Club"
+    "en": "Regent Miyazaki Country Club",
+    "ko": "리젠트 미야자키 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県都城市山田町中霧島4423-4",
-    "en": "4423-4 Nakakirishima, Yamada-cho, Miyakonojo-shi, Miyazaki"
+    "en": "4423-4 Nakakirishima, Yamada-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 山田町中霧島4423-4"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "都城市山田町のゴルフ場。レストランあり。ネット予約可。",
-    "en": "Golf course in Yamada, Miyakonojo. Restaurant on site and online booking."
+    "en": "Golf course in Yamada, Miyakonojo. Restaurant on site and online booking.",
+    "ko": "미야코노조 야마다초의 골프장. 레스토랑 있음. 온라인 예약 가능."
   },
   "tags": null,
   "features": [

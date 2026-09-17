@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "AOSHIMA PICNIC CLUB",
-    "en": "Aoshima Picnic Club"
+    "en": "Aoshima Picnic Club",
+    "ko": "AOSHIMA PICNIC CLUB"
   },
   "address": {
     "ja": "宮崎県宮崎市加江田7275-1 こどものくに内",
-    "en": "Inside Kodomo-no-Kuni, 7275-1 Kaeda, Miyazaki-shi, Miyazaki"
+    "en": "Inside Kodomo-no-Kuni, 7275-1 Kaeda, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 加江田7275-1 こどものくに内"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "RVパーク 3,300円〜／台・1泊（税込）。",
-    "en": "RV park from 3,300 yen/vehicle/night (tax incl.)."
+    "en": "RV park from 3,300 yen/vehicle/night (tax incl.).",
+    "ko": "RV 파크 3,300엔~ / 대・1박 (부가세 포함) . "
   },
   "description": {
     "ja": "こどものくに内のキャンプ場・RVパーク併設。青島唯一のRVパーク認定で、車中泊も利用可。",
-    "en": "Camp and RV park inside Kodomo-no-Kuni. Only JRVA-certified RV park in Aoshima, with car-stay stalls too."
+    "en": "Camp and RV park inside Kodomo-no-Kuni. Only JRVA-certified RV park in Aoshima, with car-stay stalls too.",
+    "ko": "고도모노쿠니 내 캠프장·RV 파크 병설. 아오시마 유일의 JRVA 인증 RV 파크로 차박도 가능."
   },
   "tags": null,
   "features": [

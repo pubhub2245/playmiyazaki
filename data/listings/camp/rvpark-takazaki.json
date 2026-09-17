@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "RVパークたかざき",
-    "en": "RV Park Takazaki"
+    "en": "RV Park Takazaki",
+    "ko": "RV 파크 다카자키"
   },
   "address": {
     "ja": "宮崎県都城市高崎町大牟田1399 高崎パークゴルフ場",
-    "en": "Takazaki Park Golf Course, 1399 Omuta, Takazaki-cho, Miyakonojo-shi, Miyazaki"
+    "en": "Takazaki Park Golf Course, 1399 Omuta, Takazaki-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高崎町大牟田1399 高崎パークゴルフ場"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "1泊 1,020円／1台（電源・水道込み）。3泊以上 710円／1泊（税込）。ゴミ処理 3袋200円。",
-    "en": "1,020 yen/vehicle/night (power/water included). 710 yen/night for 3+ nights (tax incl.). Trash disposal 3 bags 200 yen."
+    "en": "1,020 yen/vehicle/night (power/water included). 710 yen/night for 3+ nights (tax incl.). Trash disposal 3 bags 200 yen.",
+    "ko": "1박 1,020엔 / 1대 (전원・수도포함) . 3박 이상 710엔 / 1박 (부가세 포함) . 쓰레기 처리 3봉투200엔. "
   },
   "description": {
     "ja": "高崎パークゴルフ場に併設されたJRVA認定RVパーク。近くにラスパたかざき温泉。",
-    "en": "JRVA-certified RV park at Takazaki Park Golf Course. Laspa Takazaki onsen is nearby."
+    "en": "JRVA-certified RV park at Takazaki Park Golf Course. Laspa Takazaki onsen is nearby.",
+    "ko": "다카자키 파크 골프장 병설의 JRVA 인증 RV 파크. 근처에 라스파 다카자키 온천."
   },
   "tags": null,
   "features": [

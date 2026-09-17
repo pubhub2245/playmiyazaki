@@ -7,11 +7,13 @@
   "area": "kadogawa",
   "name": {
     "ja": "かどがわ温泉 心の杜",
-    "en": "Kadogawa Onsen Kokoro-no-Mori"
+    "en": "Kadogawa Onsen Kokoro-no-Mori",
+    "ko": "가도가와 온천 마음의 숲"
   },
   "address": {
     "ja": "宮崎県東臼杵郡門川町大字庵川1942",
-    "en": "1942 Iogawa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "1942 Iogawa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 가도가와초 大字庵川1942"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "大人 600円",
-    "en": "Adult 600 yen"
+    "en": "Adult 600 yen",
+    "ko": "대인 600엔"
   },
   "description": {
     "ja": "門川町の日帰り温泉。海のそばで海鮮の食事もできる。",
-    "en": "Day-use hot spring in Kadogawa near the coast, with a seafood restaurant on site."
+    "en": "Day-use hot spring in Kadogawa near the coast, with a seafood restaurant on site.",
+    "ko": "가도가와초의 당일 온천. 해안 인근으로 해산물 식사 가능."
   },
   "tags": null,
   "features": [

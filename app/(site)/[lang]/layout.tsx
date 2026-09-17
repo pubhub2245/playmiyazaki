@@ -1,10 +1,11 @@
-import { LANGS, type Lang } from "@/lib/i18n";
+import { LANGS, parseLang } from "@/lib/i18n";
 import { Header } from "@/app/_components/Header";
 import { Footer } from "@/app/_components/Footer";
 
 const SKIP_LABEL = {
   ja: "本文へスキップ",
   en: "Skip to content",
+  ko: "본문으로 건너뛰기",
 };
 
 export function generateStaticParams() {
@@ -18,7 +19,7 @@ export default function LangLayout({
   children: React.ReactNode;
   params: { lang: string };
 }) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
 
   return (
     <div className="min-h-screen flex flex-col">

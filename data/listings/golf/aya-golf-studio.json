@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "AYA GOLF STUDIO",
-    "en": "Aya Golf Studio"
+    "en": "Aya Golf Studio",
+    "ko": "AYA 골프 스튜디오"
   },
   "address": {
     "ja": "宮崎県延岡市",
-    "en": "Nobeoka-shi, Miyazaki"
+    "en": "Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "延岡市のインドアゴルフスタジオ。個室シミュレーター。スタジオ・練習場・コースのレッスンあり。会員制。",
-    "en": "Indoor golf studio in Nobeoka with private simulator rooms. Studio, range and on-course lessons. Members only."
+    "en": "Indoor golf studio in Nobeoka with private simulator rooms. Studio, range and on-course lessons. Members only.",
+    "ko": "노베오카의 인도어 골프 스튜디오. 개인 시뮬레이터룸. 스튜디오·연습장·코스 레슨. 회원제."
   },
   "tags": null,
   "features": [

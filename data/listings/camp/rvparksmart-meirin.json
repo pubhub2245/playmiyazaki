@@ -7,11 +7,13 @@
   "area": "takanabe",
   "name": {
     "ja": "RVパークsmart 高鍋町めいりん公園",
-    "en": "RV Park smart Takanabe Meirin Park"
+    "en": "RV Park smart Takanabe Meirin Park",
+    "ko": "RV 파크 smart 다카나베초 메이린 공원"
   },
   "address": {
     "ja": "宮崎県児湯郡高鍋町上江6884-1",
-    "en": "6884-1 Kamie, Takanabe-cho, Koyu-gun, Miyazaki"
+    "en": "6884-1 Kamie, Takanabe-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 다카나베초 上江6884-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "1泊 2,040円／1台（トレーラー含む）。",
-    "en": "2,040 yen/vehicle/night (trailer included)."
+    "en": "2,040 yen/vehicle/night (trailer included).",
+    "ko": "1박 2,040엔 / 1대 (트레일러 포함) . "
   },
   "description": {
     "ja": "高鍋温泉めいりんの湯のそば、めいりん公園の駐車場に整備されたRVパークsmart。",
-    "en": "RV Park smart in the Meirin Park lot next to Takanabe Meirin-no-Yu onsen."
+    "en": "RV Park smart in the Meirin Park lot next to Takanabe Meirin-no-Yu onsen.",
+    "ko": "다카나베 온천 메이린의 탕 옆, 메이린 공원 주차장에 정비된 RV 파크 smart."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "kobayashi",
   "name": {
     "ja": "宮崎小林カントリークラブ コテージ",
-    "en": "Miyazaki Kobayashi Country Club Cottages"
+    "en": "Miyazaki Kobayashi Country Club Cottages",
+    "ko": "미야자키 고바야시 컨트리 클럽 코티지"
   },
   "address": {
     "ja": "宮崎県小林市南西方1131",
-    "en": "1131 Minami-Nishikata, Kobayashi-shi, Miyazaki"
+    "en": "1131 Minami-Nishikata, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 南西方1131"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "ゴルフ宿泊パック 1泊朝食付 13,000円〜（平日）／16,000円〜（土日祝）、1泊2食付 15,200円〜／18,200円〜。宿泊のみ 1泊朝食付 6,000円〜、2食付 8,200円〜。",
-    "en": "Golf stay pack with breakfast from 13,000 yen weekday / 16,000 yen weekend; with 2 meals from 15,200 / 18,200 yen. Room only with breakfast from 6,000 yen, with 2 meals from 8,200 yen."
+    "en": "Golf stay pack with breakfast from 13,000 yen weekday / 16,000 yen weekend; with 2 meals from 15,200 / 18,200 yen. Room only with breakfast from 6,000 yen, with 2 meals from 8,200 yen.",
+    "ko": "골프 숙박 패키지 1박 조식 포함 13,000엔~ (평일) / 16,000엔~ (주말·공휴일) , 1박 2식 포함 15,200엔~ / 18,200엔~. 숙박만 1박 조식 포함 6,000엔~, 2식 포함 8,200엔~. "
   },
   "description": {
     "ja": "ゴルフ場の敷地内にあるコテージ18棟。1棟4名。1泊＋1ラウンド（昼食付）のパックと宿泊のみプラン。朝食付。",
-    "en": "Eighteen cottages inside the golf course, sleeping four each. One-night, one-round package with lunch, or room-only. Breakfast included."
+    "en": "Eighteen cottages inside the golf course, sleeping four each. One-night, one-round package with lunch, or room-only. Breakfast included.",
+    "ko": "골프장 부지 내의 코티지 18동. 1동 4인. 1박+1라운드(점심 포함) 패키지와 숙박만 플랜. 조식 포함."
   },
   "tags": null,
   "features": [

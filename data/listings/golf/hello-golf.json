@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "HELLO GOLF",
-    "en": "Hello Golf"
+    "en": "Hello Golf",
+    "ko": "HELLO GOLF"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西3-10-32 宮崎ナナイロ東館1F",
-    "en": "Miyazaki Nanairo East 1F, 3-10-32 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki"
+    "en": "Miyazaki Nanairo East 1F, 3-10-32 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通西3-10-32 宮崎ナナイロ東館1F"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "貸クラブ 無料。",
-    "en": "Club rental free."
+    "en": "Club rental free.",
+    "ko": "클럽 대여 무료. "
   },
   "description": {
     "ja": "宮崎市中心部のインドア練習場。全打席に弾道測定。バンカー・アプローチ・パターの練習エリアあり。",
-    "en": "Indoor range in central Miyazaki. Launch monitors in every bay, with bunker, approach and putting areas."
+    "en": "Indoor range in central Miyazaki. Launch monitors in every bay, with bunker, approach and putting areas.",
+    "ko": "미야자키 중심부의 인도어 연습장. 전 타석 탄도 측정. 벙커·어프로치·퍼팅 연습 공간 있음."
   },
   "tags": null,
   "features": [

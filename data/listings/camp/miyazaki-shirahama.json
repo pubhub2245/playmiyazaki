@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎白浜オートキャンプ場",
-    "en": "Miyazaki Shirahama Auto Camp"
+    "en": "Miyazaki Shirahama Auto Camp",
+    "ko": "미야자키 시라하마 오토캠프장"
   },
   "address": {
     "ja": "宮崎県宮崎市大字折生迫上白浜6600-1",
-    "en": "6600-1 Kami-Shirahama, Orio-zako, Miyazaki-shi, Miyazaki"
+    "en": "6600-1 Kami-Shirahama, Orio-zako, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 大字折生迫上白浜6600-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市南部・白浜海岸に面した市営のオートキャンプ場。青島から車で近い。",
-    "en": "City-run auto campsite facing Shirahama Beach in south Miyazaki. Short drive from Aoshima."
+    "en": "City-run auto campsite facing Shirahama Beach in south Miyazaki. Short drive from Aoshima.",
+    "ko": "미야자키시 남부·시라하마 해안을 마주한 시영 오토캠프장. 아오시마에서 차로 가깝다."
   },
   "tags": null,
   "features": [

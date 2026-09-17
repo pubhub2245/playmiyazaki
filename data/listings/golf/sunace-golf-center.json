@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "サンエースゴルフセンター",
-    "en": "Sun Ace Golf Center"
+    "en": "Sun Ace Golf Center",
+    "ko": "선에이스 골프 센터"
   },
   "address": {
     "ja": "宮崎県日向市富高6236-2",
-    "en": "6236-2 Tondaka, Hyuga-shi, Miyazaki"
+    "en": "6236-2 Tondaka, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 富高6236-2"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "ボール代 1球 5.0〜6.6円（1F・2F共通）。",
-    "en": "Ball charge 5.0–6.6 yen per ball (1F and 2F)."
+    "en": "Ball charge 5.0–6.6 yen per ball (1F and 2F).",
+    "ko": "볼 요금 1볼 5.0~6.6엔 (1F·2F 공통) . "
   },
   "description": {
     "ja": "日向市富高の260ヤード・40打席の練習場。レンタルクラブあり。",
-    "en": "260-yard, 40-bay range in Tondaka, Hyuga. Club rental available."
+    "en": "260-yard, 40-bay range in Tondaka, Hyuga. Club rental available.",
+    "ko": "휴가시 톤다카의 260야드·40타석 연습장. 클럽 렌탈 가능."
   },
   "tags": null,
   "features": [

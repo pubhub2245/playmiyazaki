@@ -7,11 +7,13 @@
   "area": "misato",
   "name": {
     "ja": "水清谷ふるさと村オートキャンプ場",
-    "en": "Mizushidani Furusato-mura Auto Camp"
+    "en": "Mizushidani Furusato-mura Auto Camp",
+    "ko": "미즈시다니 후루사토무라 오토캠프장"
   },
   "address": {
     "ja": "宮崎県東臼杵郡美郷町南郷水清谷47",
-    "en": "47 Mizushidani, Nango, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "47 Mizushidani, Nango, Misato-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 미사토초 南郷水清谷47"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "1区画・1泊 2,090円（2泊まで）、3泊目以降 1泊 1,500円。コインシャワー 200円／1回。",
-    "en": "2,090 yen/pitch/night (up to 2 nights), 1,500 yen/night from 3rd night. Coin shower 200 yen/entry."
+    "en": "2,090 yen/pitch/night (up to 2 nights), 1,500 yen/night from 3rd night. Coin shower 200 yen/entry.",
+    "ko": "1구획・1박 2,090엔 (2박까지) , 3박째 이후 1박 1,500엔. 코인 샤워 200엔 / 1회. "
   },
   "description": {
     "ja": "美郷町南郷の川ぞいのオートキャンプ場。",
-    "en": "Riverside auto camp in Nango, Misato."
+    "en": "Riverside auto camp in Nango, Misato.",
+    "ko": "미사토초 난고의 강변 오토캠프장."
   },
   "tags": null,
   "features": [

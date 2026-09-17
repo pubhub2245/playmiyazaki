@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "青島ゴルフ倶楽部",
-    "en": "Aoshima Golf Club"
+    "en": "Aoshima Golf Club",
+    "ko": "아오시마 골프 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市折生迫大谷4180",
-    "en": "4180 Otani, Orio-zako, Miyazaki-shi, Miyazaki"
+    "en": "4180 Otani, Orio-zako, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 折生迫大谷4180"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "セルフ 平日 6,014円（総額 6,990円）〜／土日祝 9,650円（総額 10,990円）〜。昼食補助付。",
-    "en": "Self-play from 6,014 yen weekday (6,990 yen total) / 9,650 yen weekend (10,990 yen total). Lunch subsidy included."
+    "en": "Self-play from 6,014 yen weekday (6,990 yen total) / 9,650 yen weekend (10,990 yen total). Lunch subsidy included.",
+    "ko": "셀프 평일 6,014엔 (총액 6,990엔) ~ / 주말·공휴일 9,650엔 (총액 10,990엔) ~. 점심 보조 포함. "
   },
   "description": {
     "ja": "青島の18Hコース。アコーディア・ゴルフ運営。クラブレンタル、練習場とスクール、レストランあり。",
-    "en": "18-hole course near Aoshima, run by Accordia Golf. Club rental, practice range and school, restaurant, online booking."
+    "en": "18-hole course near Aoshima, run by Accordia Golf. Club rental, practice range and school, restaurant, online booking.",
+    "ko": "아오시마 인근의 18홀 코스. 어코디아 골프 운영. 클럽 렌탈, 연습장·스쿨, 레스토랑, 온라인 예약 가능."
   },
   "tags": null,
   "features": [

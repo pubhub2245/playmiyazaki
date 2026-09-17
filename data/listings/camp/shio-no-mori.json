@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "潮の杜キャンプ場",
-    "en": "Shio-no-Mori Camp"
+    "en": "Shio-no-Mori Camp",
+    "ko": "시오노모리 캠프장"
   },
   "address": {
     "ja": "宮崎県日南市富士4028-4",
-    "en": "4028-4 Fuji, Nichinan-shi, Miyazaki"
+    "en": "4028-4 Fuji, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 富士4028-4"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "旧小学校を活用した日南のキャンプ場。",
-    "en": "Nichinan campsite in a repurposed former elementary school."
+    "en": "Nichinan campsite in a repurposed former elementary school.",
+    "ko": "옛 초등학교를 활용한 니치난의 캠프장."
   },
   "tags": null,
   "features": [],

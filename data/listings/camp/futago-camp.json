@@ -7,11 +7,13 @@
   "area": "nishimera",
   "name": {
     "ja": "双子キャンプ村オートキャンプ場",
-    "en": "Futago Camp Village Auto Camp"
+    "en": "Futago Camp Village Auto Camp",
+    "ko": "후타고 캠프무라 오토캠프장"
   },
   "address": {
     "ja": "宮崎県児湯郡西米良村村所字広瀬264-1",
-    "en": "264-1 Hirose, Murasho, Nishimera-son, Koyu-gun, Miyazaki"
+    "en": "264-1 Hirose, Murasho, Nishimera-son, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 니시메라손 村所字広瀬264-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "西米良村のオートキャンプ場。西米良温泉ゆた〜とに近い。",
-    "en": "Auto camp in Nishimera Village, close to Yutato hot spring."
+    "en": "Auto camp in Nishimera Village, close to Yutato hot spring.",
+    "ko": "니시메라손의 오토캠프장. 니시메라 온천 유타~토 근처."
   },
   "tags": null,
   "features": [

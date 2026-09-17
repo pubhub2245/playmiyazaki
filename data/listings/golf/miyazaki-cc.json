@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎カントリークラブ",
-    "en": "Miyazaki Country Club"
+    "en": "Miyazaki Country Club",
+    "ko": "미야자키 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市田吉4855-90",
-    "en": "4855-90 Tayoshi, Miyazaki-shi, Miyazaki"
+    "en": "4855-90 Tayoshi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 田吉4855-90"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "1組4名・お一人様 4〜5月 平日 17,810円／土日祝 24,410円、6〜9月 16,040円／22,640円、10〜3月 19,460円／29,360円。貸クラブ 男性11本 4,950円／女性8本 3,850円、シューズ 550円。",
-    "en": "Per person in a 4-player group: Apr–May weekday 17,810 yen / weekend 24,410 yen; Jun–Sep 16,040 / 22,640 yen; Oct–Mar 19,460 / 29,360 yen. Club rental 4,950 yen (men's 11) / 3,850 yen (women's 8), shoes 550 yen."
+    "en": "Per person in a 4-player group: Apr–May weekday 17,810 yen / weekend 24,410 yen; Jun–Sep 16,040 / 22,640 yen; Oct–Mar 19,460 / 29,360 yen. Club rental 4,950 yen (men's 11) / 3,850 yen (women's 8), shoes 550 yen.",
+    "ko": "1팀 4명·1인 4~5월 평일 17,810엔 / 주말·공휴일 24,410엔, 6~9월 16,040엔 / 22,640엔, 10~3월 19,460엔 / 29,360엔. 클럽 대여 남성11개 4,950엔 / 여성8개 3,850엔, 슈즈 550엔. "
   },
   "description": {
     "ja": "宮崎市田吉の18Hコース。1960年開場。JLPGAツアーチャンピオンシップリコーカップの開催コース。",
-    "en": "18-hole course in Tayoshi, Miyazaki City. Opened 1960; hosts the JLPGA Tour Championship Ricoh Cup."
+    "en": "18-hole course in Tayoshi, Miyazaki City. Opened 1960; hosts the JLPGA Tour Championship Ricoh Cup.",
+    "ko": "미야자키시 다요시의 18홀 코스. 1960년 개장. JLPGA 투어 챔피언십 리코컵 개최 코스."
   },
   "tags": null,
   "features": [

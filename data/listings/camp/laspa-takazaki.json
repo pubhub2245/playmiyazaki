@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "都城たかざき温泉 ラスパたかざき",
-    "en": "Laspa Takazaki"
+    "en": "Laspa Takazaki",
+    "ko": "미야코노조 다카자키 온천 라스파 다카자키"
   },
   "address": {
     "ja": "宮崎県都城市高崎町大牟田1332-8",
-    "en": "1332-8 Omuta, Takazaki-cho, Miyakonojo-shi, Miyazaki"
+    "en": "1332-8 Omuta, Takazaki-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高崎町大牟田1332-8"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "都城市高崎町の日帰り温泉。RVパークたかざきに近い。",
-    "en": "Day-use hot spring in Takazaki, Miyakonojo. Close to RV Park Takazaki."
+    "en": "Day-use hot spring in Takazaki, Miyakonojo. Close to RV Park Takazaki.",
+    "ko": "미야코노조 다카자키초의 당일 온천. RV 파크 다카자키에 가깝다."
   },
   "tags": null,
   "features": [

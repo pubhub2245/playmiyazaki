@@ -7,11 +7,13 @@
   "area": "saito",
   "name": {
     "ja": "K-golf",
-    "en": "K-golf"
+    "en": "K-golf",
+    "ko": "K-golf"
   },
   "address": {
     "ja": "宮崎県西都市妻町3-43",
-    "en": "3-43 Tsuma-cho, Saito-shi, Miyazaki"
+    "en": "3-43 Tsuma-cho, Saito-shi, Miyazaki",
+    "ko": "미야자키현 사이토시 妻町3-43"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "西都市妻町の24時間インドア練習場。シミュレーター完備。貸クラブ無料。入会金なしの時間貸し。",
-    "en": "24-hour indoor range in Tsuma, Saito. Simulators, free club rental, pay by the hour with no joining fee."
+    "en": "24-hour indoor range in Tsuma, Saito. Simulators, free club rental, pay by the hour with no joining fee.",
+    "ko": "사이토시 쓰마의 24시간 인도어 연습장. 시뮬레이터, 클럽 대여 무료, 입회비 없는 시간제."
   },
   "tags": null,
   "features": [

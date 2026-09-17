@@ -7,11 +7,13 @@
   "area": "misato",
   "name": {
     "ja": "南郷温泉 山霧（どんタロの湯）",
-    "en": "Nango Onsen Yamagiri (Dontaro-no-Yu)"
+    "en": "Nango Onsen Yamagiri (Dontaro-no-Yu)",
+    "ko": "난고 온천 야마기리 (돈타로의 탕)"
   },
   "address": {
     "ja": "宮崎県東臼杵郡美郷町南郷神門151-1",
-    "en": "151-1 Mikado, Nango, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "151-1 Mikado, Nango, Misato-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 미사토초 南郷神門151-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "大人 520円",
-    "en": "Adult 520 yen"
+    "en": "Adult 520 yen",
+    "ko": "대인 520엔"
   },
   "description": {
     "ja": "美郷町南郷の日帰り温泉。山あいの静かな立地。",
-    "en": "Day-use hot spring in Nango, Misato, tucked into the hills."
+    "en": "Day-use hot spring in Nango, Misato, tucked into the hills.",
+    "ko": "미사토초 난고의 당일 온천. 산속의 조용한 입지."
   },
   "tags": null,
   "features": [

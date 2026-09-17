@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "光成ゴルフアリーナ",
-    "en": "Kosei Golf Arena"
+    "en": "Kosei Golf Arena",
+    "ko": "고세이 골프 아레나"
   },
   "address": {
     "ja": "宮崎県宮崎市本郷北方2644",
-    "en": "2644 Hongo-kitakata, Miyazaki-shi, Miyazaki"
+    "en": "2644 Hongo-kitakata, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 本郷北方2644"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "ボール代 1球 4.8〜5.6円（1F・2F共通）。",
-    "en": "Ball charge 4.8–5.6 yen per ball (1F and 2F)."
+    "en": "Ball charge 4.8–5.6 yen per ball (1F and 2F).",
+    "ko": "볼 요금 1볼 4.8~5.6엔 (1F·2F 공통) . "
   },
   "description": {
     "ja": "宮崎市本郷北方の210ヤード・144打席の練習場。レンタルクラブはなし。",
-    "en": "210-yard, 144-bay range in Hongo-kitakata, Miyazaki City. No club rental."
+    "en": "210-yard, 144-bay range in Hongo-kitakata, Miyazaki City. No club rental.",
+    "ko": "미야자키시 혼고키타카타의 210야드·144타석 연습장. 클럽 대여 없음."
   },
   "tags": null,
   "features": [],

@@ -7,11 +7,13 @@
   "area": "kobayashi",
   "name": {
     "ja": "ひなもりオートキャンプ場",
-    "en": "Hinamori Auto Camp"
+    "en": "Hinamori Auto Camp",
+    "ko": "히나모리 오토캠프장"
   },
   "address": {
     "ja": "宮崎県小林市細野字山中之前5739-14",
-    "en": "5739-14 Hosono Yamanaka-no-mae, Kobayashi-shi, Miyazaki"
+    "en": "5739-14 Hosono Yamanaka-no-mae, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 細野字山中之前5739-14"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "個別サイト 5,100円／1泊。キャンピングカーサイト 6,600円／1泊。グループサイト 8,500〜11,400円／1泊。広場サイト 大人1,500円・小中学生750円／1泊。キャビン 7,500〜16,200円／棟・1泊。一時利用は半額。",
-    "en": "Individual site 5,100 yen/night. RV site 6,600 yen/night. Group site 8,500–11,400 yen/night. Field site 1,500 yen/adult, 750 yen/child. Cabin 7,500–16,200 yen/unit/night. Day use half price."
+    "en": "Individual site 5,100 yen/night. RV site 6,600 yen/night. Group site 8,500–11,400 yen/night. Field site 1,500 yen/adult, 750 yen/child. Cabin 7,500–16,200 yen/unit/night. Day use half price.",
+    "ko": "개별 사이트 5,100엔 / 1박. 캠핑카 사이트 6,600엔 / 1박. 그룹 사이트 8,500~11,400엔 / 1박. 광장 사이트 대인1,500엔・小중학생750엔 / 1박. 캐빈 7,500~16,200엔 / 동・1박. 一時利用は半額. "
   },
   "description": {
     "ja": "霧島山の麓、標高約630mにある県立のオートキャンプ場。夏でも涼しい。",
-    "en": "Prefectural auto campsite at ~630 m at the foot of the Kirishima range. Stays cool in summer."
+    "en": "Prefectural auto campsite at ~630 m at the foot of the Kirishima range. Stays cool in summer.",
+    "ko": "기리시마 산 기슭, 해발 약 630m의 현립 오토캠프장. 여름에도 시원함."
   },
   "tags": null,
   "features": [

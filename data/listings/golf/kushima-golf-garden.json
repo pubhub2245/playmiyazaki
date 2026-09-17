@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "串間ゴルフガーデン",
-    "en": "Kushima Golf Garden"
+    "en": "Kushima Golf Garden",
+    "ko": "구시마 골프 가든"
   },
   "address": {
     "ja": "宮崎県串間市串間980",
-    "en": "980 Kushima, Kushima-shi, Miyazaki"
+    "en": "980 Kushima, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 串間980"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "串間市串間の200ヤード・20打席の練習場。",
-    "en": "200-yard, 20-bay range in Kushima."
+    "en": "200-yard, 20-bay range in Kushima.",
+    "ko": "구시마시의 200야드·20타석 연습장."
   },
   "tags": null,
   "features": [],

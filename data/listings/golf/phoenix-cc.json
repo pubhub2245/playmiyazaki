@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "フェニックスカントリークラブ",
-    "en": "Phoenix Country Club"
+    "en": "Phoenix Country Club",
+    "ko": "피닉스 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市山崎町浜山",
-    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 山崎町浜山"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "シーガイア内の27Hコース。宿泊付きプランあり。レストランとコンペルーム、350ヤード練習場のアカデミー併設。",
-    "en": "27-hole course inside the Seagaia resort. Stay-and-play plans, restaurant and function rooms, and an academy with a 350-yard range."
+    "en": "27-hole course inside the Seagaia resort. Stay-and-play plans, restaurant and function rooms, and an academy with a 350-yard range.",
+    "ko": "시가이아 리조트 내 27홀 코스. 숙박 플랜, 레스토랑과 컴프룸, 350야드 연습장의 아카데미 병설."
   },
   "tags": null,
   "features": [

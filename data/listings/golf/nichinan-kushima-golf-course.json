@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "日南串間ゴルフコース",
-    "en": "Nichinan Kushima Golf Course"
+    "en": "Nichinan Kushima Golf Course",
+    "ko": "니치난 구시마 골프 코스"
   },
   "address": {
     "ja": "宮崎県串間市本城",
-    "en": "Honjo, Kushima-shi, Miyazaki"
+    "en": "Honjo, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 本城"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "串間市本城の18H・パー72。西武プリンスホテルズ運営。レストランあり。空き枠検索と予約ができる。",
-    "en": "18-hole par-72 course in Honjo, Kushima. Run by Seibu Prince Hotels. Restaurant, tee-time search and booking."
+    "en": "18-hole par-72 course in Honjo, Kushima. Run by Seibu Prince Hotels. Restaurant, tee-time search and booking.",
+    "ko": "구시마시 혼조의 18홀·파72. 세이부 프린스 호텔즈 운영. 레스토랑, 티타임 검색과 예약 가능."
   },
   "tags": null,
   "features": [

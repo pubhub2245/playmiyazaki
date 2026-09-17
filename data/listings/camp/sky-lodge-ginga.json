@@ -7,11 +7,13 @@
   "area": "misato",
   "name": {
     "ja": "スカイロッジ銀河村",
-    "en": "Sky Lodge Ginga Village"
+    "en": "Sky Lodge Ginga Village",
+    "ko": "스카이 로지 긴가무라"
   },
   "address": {
     "ja": "宮崎県東臼杵郡美郷町北郷宇納間7527-17",
-    "en": "7527-17 Unama, Kitago, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "7527-17 Unama, Kitago, Misato-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 미사토초 北郷宇納間7527-17"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "美郷町北郷、標高約900mの山あいのロッジとキャンプ場。",
-    "en": "Mountain lodges and campsite at around 900 m in Kitago, Misato."
+    "en": "Mountain lodges and campsite at around 900 m in Kitago, Misato.",
+    "ko": "미사토초 기타고, 해발 약 900m의 산속 로지와 캠프장."
   },
   "tags": null,
   "features": [

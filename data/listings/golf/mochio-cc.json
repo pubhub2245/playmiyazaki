@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "都城母智丘カントリークラブ",
-    "en": "Miyakonojo Mochio Country Club"
+    "en": "Miyakonojo Mochio Country Club",
+    "ko": "미야코노조 모치오 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県都城市関之尾町6328",
-    "en": "6328 Sekinoo-cho, Miyakonojo-shi, Miyazaki"
+    "en": "6328 Sekinoo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 関之尾町6328"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "レンタルクラブ 3,000円。",
-    "en": "Club rental 3,000 yen."
+    "en": "Club rental 3,000 yen.",
+    "ko": "렌탈 클럽 3,000엔. "
   },
   "description": {
     "ja": "都城市関之尾町の18H。関之尾OUT・母智IN。セルフプレーと乗用カート。レンタルクラブと食堂あり。",
-    "en": "18 holes in Sekinoo, Miyakonojo, played as the Sekinoo and Mochio nines. Self-play with carts, club rental and a canteen."
+    "en": "18 holes in Sekinoo, Miyakonojo, played as the Sekinoo and Mochio nines. Self-play with carts, club rental and a canteen.",
+    "ko": "미야코노조 세키노오초의 18홀 (세키노오 아웃·모치 인). 셀프 플레이와 승용 카트. 클럽 대여와 식당 있음."
   },
   "tags": null,
   "features": [

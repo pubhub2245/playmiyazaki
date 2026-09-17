@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import { listingSchema, type Listing } from "../lib/types";
+import { listingSchema, type ListingInput as Listing } from "../lib/types";
 
 const TODAY = "2026-09-15";
 const ROOT = process.cwd();

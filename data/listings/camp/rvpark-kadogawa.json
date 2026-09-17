@@ -7,11 +7,13 @@
   "area": "kadogawa",
   "name": {
     "ja": "RVパークかどがわ",
-    "en": "RV Park Kadogawa"
+    "en": "RV Park Kadogawa",
+    "ko": "RV 파크 가도가와"
   },
   "address": {
     "ja": "宮崎県東臼杵郡門川町加草2333",
-    "en": "2333 Kagusa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "2333 Kagusa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 가도가와초 加草2333"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "1泊 1,500円／1台（電源利用料込み）。",
-    "en": "1,500 yen/vehicle/night (power included)."
+    "en": "1,500 yen/vehicle/night (power included).",
+    "ko": "1박 1,500엔 / 1대 (전원 이용료 포함) . "
   },
   "description": {
     "ja": "農海産物直売所に隣接する門川町のJRVA認定RVパーク。",
-    "en": "JRVA-certified RV park in Kadogawa, next to a produce and seafood direct sales shop."
+    "en": "JRVA-certified RV park in Kadogawa, next to a produce and seafood direct sales shop.",
+    "ko": "농해산물 직매장 옆의 가도가와초 JRVA 인증 RV 파크."
   },
   "tags": null,
   "features": [

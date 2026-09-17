@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "祝子川キャンプ場",
-    "en": "Horigawa Campground"
+    "en": "Horigawa Campground",
+    "ko": "호리가와 캠프장"
   },
   "address": {
     "ja": "宮崎県延岡市北川町川内名10825-5",
-    "en": "10825-5 Kawachimyo, Kitagawa-cho, Nobeoka-shi, Miyazaki"
+    "en": "10825-5 Kawachimyo, Kitagawa-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 北川町川内名10825-5"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "祝子川ぞい、大崩山の登山口にちかいキャンプ場。",
-    "en": "Riverside campsite on the Horigawa, close to the Ogatayama trailhead."
+    "en": "Riverside campsite on the Horigawa, close to the Ogatayama trailhead.",
+    "ko": "호리가와강변, 오구에야마 등산로 입구 근처의 캠프장."
   },
   "tags": null,
   "features": [

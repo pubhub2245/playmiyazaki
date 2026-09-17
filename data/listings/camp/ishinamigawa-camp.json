@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "石並川キャンプ場",
-    "en": "Ishinamigawa Campground"
+    "en": "Ishinamigawa Campground",
+    "ko": "이시나미가와 캠프장"
   },
   "address": {
     "ja": "宮崎県日向市美々津町",
-    "en": "Mimitsu-cho, Hyuga-shi, Miyazaki"
+    "en": "Mimitsu-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 美々津町"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "キャンプサイト 1,100円／宿泊・550円／日中。貸しテント（8人用）1,100円／宿泊・550円／日中。コインシャワー 100円。",
-    "en": "Camp site 1,100 yen/overnight, 550 yen/day. Rental tent (8-person) 1,100 yen/overnight, 550 yen/day. Coin shower 100 yen."
+    "en": "Camp site 1,100 yen/overnight, 550 yen/day. Rental tent (8-person) 1,100 yen/overnight, 550 yen/day. Coin shower 100 yen.",
+    "ko": "キャンプサイト 1,100엔 / 숙박・550엔 / 낮. 텐트 대여 (8인용) 1,100엔 / 숙박・550엔 / 낮. 코인 샤워 100엔. "
   },
   "description": {
     "ja": "石並川ぞいの市営キャンプ場。夏だけ営業。川あそびができる。",
-    "en": "Riverside city-run camp along the Ishinamigawa. Open only in summer. River play on site."
+    "en": "Riverside city-run camp along the Ishinamigawa. Open only in summer. River play on site.",
+    "ko": "이시나미강변의 시영 캠프장. 여름철만 운영. 물놀이 가능."
   },
   "tags": null,
   "features": [

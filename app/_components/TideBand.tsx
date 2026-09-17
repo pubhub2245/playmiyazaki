@@ -1,9 +1,10 @@
 import { CountUp } from "./CountUp";
 import type { Lang } from "@/lib/i18n";
 
-const COUNT_LABEL = {
+const COUNT_LABEL: Record<Lang, string> = {
   ja: "スポット",
   en: "places",
+  ko: "스팟",
 };
 
 export function TideBand({

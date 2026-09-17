@@ -8,11 +8,13 @@
   "area": "misato",
   "name": {
     "ja": "美郷レイクランド（石峠レイクランド）",
-    "en": "Misato Lakeland"
+    "en": "Misato Lakeland",
+    "ko": "미사토 레이크랜드 (이시토게 레이크랜드)"
   },
   "address": {
     "ja": "宮崎県東臼杵郡美郷町西郷田代5812-1",
-    "en": "5812-1 Tashiro, Saigo, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "5812-1 Tashiro, Saigo, Misato-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 미사토초 西郷田代5812-1"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "コテージ 13,500円〜／棟・1泊（GW・夏休み・年末年始 15,500円〜、最大6名）。フリーテントサイト 1,500円／張（温泉入場券付）。車中泊 1,500円／泊（電源代別）。大浴場 大人520円・中学生320円・4歳〜小学生210円。",
-    "en": "Cottage from 13,500 yen/unit/night (15,500 yen during GW/summer/year-end, up to 6 people). Free tent site 1,500 yen/pitch (bath pass included). Car stay 1,500 yen/night (power extra). Bath 520 yen/adult, 320 yen/middle school, 210 yen/child."
+    "en": "Cottage from 13,500 yen/unit/night (15,500 yen during GW/summer/year-end, up to 6 people). Free tent site 1,500 yen/pitch (bath pass included). Car stay 1,500 yen/night (power extra). Bath 520 yen/adult, 320 yen/middle school, 210 yen/child.",
+    "ko": "코티지 13,500엔~ / 동・1박 (GW·여름방학·연말연시 15,500엔~, 최대6명) . 프리 텐트 사이트 1,500엔 / 장 (온천 입장권 포함) . 車中박 1,500엔 / 박 (전원비 별도) . 대욕장 대인520엔・중학생320엔・4세~초등학생210엔. "
   },
   "description": {
     "ja": "耳川ダム湖ぞいの複合施設。宿泊、キャンプ、温泉「耳川の湯」がある。",
-    "en": "Lakeside complex on the Mimikawa reservoir. Lodging, camping, and the Mimikawa-no-Yu onsen."
+    "en": "Lakeside complex on the Mimikawa reservoir. Lodging, camping, and the Mimikawa-no-Yu onsen.",
+    "ko": "미미강 댐 호숫가의 복합 시설. 숙박, 캠핑, 온천 「미미강의 탕」."
   },
   "tags": null,
   "features": [

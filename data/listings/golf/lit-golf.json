@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "LIT GOLF",
-    "en": "LIT GOLF"
+    "en": "LIT GOLF",
+    "ko": "LIT GOLF"
   },
   "address": {
     "ja": "宮崎県宮崎市江平東1-7-2",
-    "en": "1-7-2 Ehira-higashi, Miyazaki-shi, Miyazaki"
+    "en": "1-7-2 Ehira-higashi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 江平東1-7-2"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "レギュラー会員 13,200円／月（入会金 5,500円）、平日限定シニア会員 8,800円／月（入会金 2,750円）。ビジター 2,400円／50分。",
-    "en": "Regular member 13,200 yen/month (enrollment 5,500 yen); weekday-only senior 8,800 yen/month (enrollment 2,750 yen). Visitor 2,400 yen per 50 min."
+    "en": "Regular member 13,200 yen/month (enrollment 5,500 yen); weekday-only senior 8,800 yen/month (enrollment 2,750 yen). Visitor 2,400 yen per 50 min.",
+    "ko": "레귤러 회원 13,200엔 / 월 (입회비 5,500엔) , 평일 한정시니어 회원 8,800엔 / 월 (입회비 2,750엔) . 비지터 2,400엔 / 50분. "
   },
   "description": {
     "ja": "宮崎市江平東のインドア練習場。TRACKMANの4打席で左打席あり。レンタルクラブ、ショップと工房を併設。",
-    "en": "Indoor range in Ehira-higashi, Miyazaki City. Four TRACKMAN bays including a left-handed bay, club rental, shop and workshop."
+    "en": "Indoor range in Ehira-higashi, Miyazaki City. Four TRACKMAN bays including a left-handed bay, club rental, shop and workshop.",
+    "ko": "미야자키시 에히라히가시의 인도어 연습장. TRACKMAN 4타석 (왼손 타석 포함), 클럽 대여, 숍과 공방 병설."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "shintomi",
   "name": {
     "ja": "新富スポーツランド",
-    "en": "Shintomi Sports Land"
+    "en": "Shintomi Sports Land",
+    "ko": "신토미 스포츠 랜드"
   },
   "address": {
     "ja": "宮崎県児湯郡新富町三納代2185-3",
-    "en": "2185-3 Minoshiro, Shintomi-cho, Koyu-gun, Miyazaki"
+    "en": "2185-3 Minoshiro, Shintomi-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 신토미초 三納代2185-3"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "新富町のゴルフ練習場。パークゴルフ・テニス・バッティング・卓球も併設。",
-    "en": "Driving range in Shintomi. Park golf, tennis, batting cages and table tennis on the same site."
+    "en": "Driving range in Shintomi. Park golf, tennis, batting cages and table tennis on the same site.",
+    "ko": "신토미초의 골프 연습장. 파크 골프·테니스·배팅·탁구도 병설."
   },
   "tags": null,
   "features": [],

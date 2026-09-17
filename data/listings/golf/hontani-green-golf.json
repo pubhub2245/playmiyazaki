@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "本谷グリーンゴルフ",
-    "en": "Hontani Green Golf"
+    "en": "Hontani Green Golf",
+    "ko": "혼타니 그린 골프"
   },
   "address": {
     "ja": "宮崎県日向市富高3898-2",
-    "en": "3898-2 Tondaka, Hyuga-shi, Miyazaki"
+    "en": "3898-2 Tondaka, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 富高3898-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日向市富高の200ヤード・35打席の練習場。駐車場30台。",
-    "en": "200-yard, 35-bay range in Tondaka, Hyuga. Parking for 30 cars."
+    "en": "200-yard, 35-bay range in Tondaka, Hyuga. Parking for 30 cars.",
+    "ko": "휴가시 톤다카의 200야드·35타석 연습장. 주차 30대."
   },
   "tags": null,
   "features": [],

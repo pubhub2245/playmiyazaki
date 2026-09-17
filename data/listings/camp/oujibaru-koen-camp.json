@@ -7,11 +7,13 @@
   "area": "takaharu",
   "name": {
     "ja": "皇子原公園キャンプ場",
-    "en": "Ouji-baru Park Camp"
+    "en": "Ouji-baru Park Camp",
+    "ko": "오지바루 공원 캠프장"
   },
   "address": {
     "ja": "宮崎県西諸県郡高原町大字蒲牟田3-251",
-    "en": "3-251 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+    "en": "3-251 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 니시모로카타군 다카하루초 大字蒲牟田3-251"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "コテージ 1泊2日 A棟（〜5名）6,600円〜、B棟・C棟（〜8〜10名）13,200円〜、D棟（〜20名）44,000円。テントサイト 1,100円／張、タープ 550円。バーベキュー棟 1,500円（日帰り）。",
-    "en": "Cottage per 2-day/1-night: A (up to 5) from 6,600 yen, B/C (up to 8–10) from 13,200 yen, D (up to 20) 44,000 yen. Tent site 1,100 yen/pitch, tarp 550 yen. BBQ hut 1,500 yen (day use)."
+    "en": "Cottage per 2-day/1-night: A (up to 5) from 6,600 yen, B/C (up to 8–10) from 13,200 yen, D (up to 20) 44,000 yen. Tent site 1,100 yen/pitch, tarp 550 yen. BBQ hut 1,500 yen (day use).",
+    "ko": "코티지 1박 2일 A동 (~5명) 6,600엔~, B동・C동 (~8~10명) 13,200엔~, D동 (~20명) 44,000엔. 텐트 사이트 1,100엔 / 장, 타프 550엔. 바비큐 동 1,500엔 (당일) . "
   },
   "description": {
     "ja": "高千穂峰の登山口近く、高原町の皇子原公園にあるキャンプ場。",
-    "en": "Campsite in Ouji-baru Park in Takaharu, near the trailhead for Takachiho-no-Mine."
+    "en": "Campsite in Ouji-baru Park in Takaharu, near the trailhead for Takachiho-no-Mine.",
+    "ko": "다카치호노미네 등산로 근처, 다카하루초 오지바루 공원의 캠프장."
   },
   "tags": null,
   "features": [],

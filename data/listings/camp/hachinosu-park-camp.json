@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "蜂之巣公園キャンプ場",
-    "en": "Hachinosu Park Camp"
+    "en": "Hachinosu Park Camp",
+    "ko": "하치노스 공원 캠프장"
   },
   "address": {
     "ja": "宮崎県日南市北郷町郷之原甲2850-1",
-    "en": "2850-1 Gonohara-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+    "en": "2850-1 Gonohara-ko, Kitago-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 北郷町郷之原甲2850-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日南市北郷、酒谷川ぞいの町営キャンプ場。夏は川遊びができる。",
-    "en": "Riverside town-run camp along the Sakatani in Kitago, Nichinan. River play in summer."
+    "en": "Riverside town-run camp along the Sakatani in Kitago, Nichinan. River play in summer.",
+    "ko": "니치난시 기타고의 사카타니강변 정영 캠프장. 여름에는 물놀이 가능."
   },
   "tags": null,
   "features": [

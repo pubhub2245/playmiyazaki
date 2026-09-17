@@ -35,15 +35,17 @@ export function listingToRow(
   const searchTerms = [
     listing.name.ja,
     listing.name.en,
+    listing.name.ko,
     areaEntry?.ja ?? listing.area,
     areaEntry?.en ?? listing.area,
+    areaEntry?.ko ?? listing.area,
     ...listing.category.flatMap((c) => {
       const e = categoryLabels.find((x) => x.slug === c);
-      return e ? [e.ja, e.en] : [c];
+      return e ? [e.ja, e.en, e.ko] : [c];
     }),
     ...listing.features.flatMap((f) => {
       const e = featureLabels.find((x) => x.slug === f);
-      return e ? [e.ja, e.en] : [f];
+      return e ? [e.ja, e.en, e.ko] : [f];
     }),
   ].join(" ");
 

@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "椿山キャンプ場",
-    "en": "Tsubakiyama Campground"
+    "en": "Tsubakiyama Campground",
+    "ko": "쓰바키야마 캠프장"
   },
   "address": {
     "ja": "宮崎県宮崎市大字鏡洲4343-1",
-    "en": "4343-1 Kagamizu, Miyazaki-shi, Miyazaki"
+    "en": "4343-1 Kagamizu, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 大字鏡洲4343-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市の山あいにある市営キャンプ場。椿山森林公園内。",
-    "en": "City-run campsite in the hills west of Miyazaki, inside Tsubakiyama Forest Park."
+    "en": "City-run campsite in the hills west of Miyazaki, inside Tsubakiyama Forest Park.",
+    "ko": "미야자키시 산속의 시영 캠프장. 쓰바키야마 삼림공원 내."
   },
   "tags": null,
   "features": [

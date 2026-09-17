@@ -7,11 +7,13 @@
   "area": "shiiba",
   "name": {
     "ja": "矢立高原キャンプ場",
-    "en": "Yatate Kogen Campground"
+    "en": "Yatate Kogen Campground",
+    "ko": "야타테 고원 캠프장"
   },
   "address": {
     "ja": "宮崎県東臼杵郡椎葉村大河内字矢立",
-    "en": "Yatate, Ookawachi, Shiiba-son, Higashi-Usuki-gun, Miyazaki"
+    "en": "Yatate, Ookawachi, Shiiba-son, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 시이바손 大河内字矢立"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入場料 一般220円・中学生以下110円。オートサイト 2,750円（1台目）・550円（2台目以降）。持込テント 880〜1,650円。コテージ 2,750円／1人1泊。シャワー 250円／回。",
-    "en": "Entry 220 yen/adult, 110 yen/child. Auto site 2,750 yen (1st vehicle) / 550 yen (2nd+). Tent 880–1,650 yen. Cottage 2,750 yen/person/night. Shower 250 yen."
+    "en": "Entry 220 yen/adult, 110 yen/child. Auto site 2,750 yen (1st vehicle) / 550 yen (2nd+). Tent 880–1,650 yen. Cottage 2,750 yen/person/night. Shower 250 yen.",
+    "ko": "입장료 一般220엔・중학생 이하110엔. 오토 사이트 2,750엔 (1대目) ・550엔 (2대目以降) . 지참 텐트 880~1,650엔. 코티지 2,750엔 / 1인1박. 샤워 250엔 / 회. "
   },
   "description": {
     "ja": "椎葉村の高原にあるキャンプ場。",
-    "en": "Highland campsite in Shiiba Village."
+    "en": "Highland campsite in Shiiba Village.",
+    "ko": "시이바손 고원의 캠프장."
   },
   "tags": null,
   "features": [

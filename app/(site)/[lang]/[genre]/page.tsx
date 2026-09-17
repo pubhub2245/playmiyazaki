@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, type Lang } from "@/lib/i18n";
+import { LANGS, parseLang, type Lang } from "@/lib/i18n";
 import { absolute, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
@@ -35,32 +35,37 @@ export function generateStaticParams() {
   return params;
 }
 
+function genreTitle(lang: Lang, genre: { ja: string; en: string; ko: string }): string {
+  if (lang === "ja") return `宮崎の${genre.ja}一覧`;
+  if (lang === "ko") return `미야자키의 ${genre.ko} 목록`;
+  return `${genre.en} in Miyazaki`;
+}
+
+function genreDescription(lang: Lang, genre: { ja: string; en: string; ko: string }): string {
+  if (lang === "ja") return `宮崎県内の${genre.ja}を、出典URL付きで一覧にしています。`;
+  if (lang === "ko") return `미야자키현의 ${genre.ko}을(를) 출처 URL과 함께 정리한 목록입니다.`;
+  return `A source-linked directory of ${genre.en.toLowerCase()} spots across Miyazaki.`;
+}
+
 export function generateMetadata({ params }: Props): Metadata {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   if (!genre) return {};
-  const title =
-    lang === "ja" ? `宮崎の${genre.ja}一覧` : `${genre.en} in Miyazaki`;
-  const description =
-    lang === "ja"
-      ? `宮崎県内の${genre.ja}を、出典URL付きで一覧にしています。`
-      : `A source-linked directory of ${genre.en.toLowerCase()} spots across Miyazaki.`;
+  const languages: Record<string, string> = {};
+  for (const l of LANGS) languages[l] = absolute(urlGenre(l, params.genre));
   return {
-    title,
-    description,
+    title: genreTitle(lang, genre),
+    description: genreDescription(lang, genre),
     alternates: {
       canonical: absolute(urlGenre(lang, params.genre)),
-      languages: {
-        ja: absolute(urlGenre("ja", params.genre)),
-        en: absolute(urlGenre("en", params.genre)),
-      },
+      languages,
     },
   };
 }
 
 export default function GenrePage({ params }: Props) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   if (!genre || !hasGenre(params.genre)) notFound();
@@ -70,7 +75,6 @@ export default function GenrePage({ params }: Props) {
   const areaCounts = areaCountsForGenre(listings);
   const featCounts = featureCountsForGenre(listings);
   const activeCats = new Set(categoriesWithListings(params.genre));
-  // Ensure both coverage helpers are wired to this page (chip filter reads both).
   void areasWithListings(params.genre);
 
   const groups: Group[] = (taxonomy.categories[params.genre] ?? [])
@@ -95,7 +99,7 @@ export default function GenrePage({ params }: Props) {
     <>
       <div className="-mx-4 -mt-6 mb-6">
         <TideBand
-          title={lang === "ja" ? genre.ja : genre.en}
+          title={genre[lang]}
           count={listings.length}
           lang={lang}
         />
@@ -105,7 +109,7 @@ export default function GenrePage({ params }: Props) {
           lang={lang}
           crumbs={[
             { label: "Play Miyazaki", href: urlHome(lang) },
-            { label: lang === "ja" ? genre.ja : genre.en },
+            { label: genre[lang] },
           ]}
         />
 

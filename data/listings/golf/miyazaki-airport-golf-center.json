@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎空港ゴルフセンター",
-    "en": "Miyazaki Airport Golf Center"
+    "en": "Miyazaki Airport Golf Center",
+    "ko": "미야자키 공항 골프 센터"
   },
   "address": {
     "ja": "宮崎県宮崎市赤江33",
-    "en": "33 Akae, Miyazaki-shi, Miyazaki"
+    "en": "33 Akae, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 赤江33"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "入場料 400円（コインなしの場合、コイン購入時は無料）。ボール代 平日 7:00〜17:00 200球 800円／300球 1,300円、17:00〜21:00 200球 1,200円／300球 1,700円。土日祝 200球 1,300円／300球 1,600円。貸クラブ 1本 200円。",
-    "en": "Entry 400 yen (free if you buy coins). Balls: weekday 7:00–17:00 200 for 800 yen / 300 for 1,300 yen, 17:00–21:00 200 for 1,200 / 300 for 1,700 yen. Weekend/holiday 200 for 1,300 / 300 for 1,600 yen. Club rental 200 yen each."
+    "en": "Entry 400 yen (free if you buy coins). Balls: weekday 7:00–17:00 200 for 800 yen / 300 for 1,300 yen, 17:00–21:00 200 for 1,200 / 300 for 1,700 yen. Weekend/holiday 200 for 1,300 / 300 for 1,600 yen. Club rental 200 yen each.",
+    "ko": "입장료 400엔 (コイン없음の場合, コイン購入시は무료) . 볼 요금 평일 7:00~17:00 200볼 800엔 / 300볼 1,300엔, 17:00~21:00 200볼 1,200엔 / 300볼 1,700엔. 주말·공휴일 200볼 1,300엔 / 300볼 1,600엔. 클럽 대여 1개 200엔. "
   },
   "description": {
     "ja": "宮崎市赤江の練習場。入場料制。初心者・一般・ジュニアのゴルフスクールあり。",
-    "en": "Driving range in Akae, Miyazaki City. Entry-fee system. Golf school for beginners, general players and juniors."
+    "en": "Driving range in Akae, Miyazaki City. Entry-fee system. Golf school for beginners, general players and juniors.",
+    "ko": "미야자키시 아카에의 연습장. 입장료 방식. 초보자·일반·주니어 골프 스쿨 있음."
   },
   "tags": null,
   "features": [

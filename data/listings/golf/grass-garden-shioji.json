@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "グラスガーデン塩路",
-    "en": "Grass Garden Shioji"
+    "en": "Grass Garden Shioji",
+    "ko": "그라스 가든 시오지"
   },
   "address": {
     "ja": "宮崎県宮崎市塩路586",
-    "en": "586 Shioji, Miyazaki-shi, Miyazaki"
+    "en": "586 Shioji, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 塩路586"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "貸クラブ 300円／本。",
-    "en": "Club rental 300 yen per club."
+    "en": "Club rental 300 yen per club.",
+    "ko": "클럽 대여 300엔 / 개. "
   },
   "description": {
     "ja": "宮崎市塩路の220ヤード・64打席の練習場。照明は無料。平日は深夜営業。",
-    "en": "220-yard, 64-bay range in Shioji, Miyazaki City. Free floodlights and late-night hours on weekdays."
+    "en": "220-yard, 64-bay range in Shioji, Miyazaki City. Free floodlights and late-night hours on weekdays.",
+    "ko": "미야자키시 시오지의 220야드·64타석 연습장. 조명 무료. 평일은 심야 영업."
   },
   "tags": null,
   "features": [

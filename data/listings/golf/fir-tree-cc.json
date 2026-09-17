@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "ファーツリーカントリークラブ",
-    "en": "Fir Tree Country Club"
+    "en": "Fir Tree Country Club",
+    "ko": "퍼 트리 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県延岡市下伊形町8297-1",
-    "en": "8297-1 Shimoigata-cho, Nobeoka-shi, Miyazaki"
+    "en": "8297-1 Shimoigata-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 下伊形町8297-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "貸クラブ 200円／本。",
-    "en": "Club rental 200 yen per club."
+    "en": "Club rental 200 yen per club.",
+    "ko": "클럽 대여 200엔 / 개. "
   },
   "description": {
     "ja": "延岡市下伊形町の300ヤード・72打席の練習場。9Hショートコース併設。ナイター照明は無料。左打席あり。",
-    "en": "300-yard, 72-bay range in Shimoigata, Nobeoka. Nine-hole short course, free floodlights, left-handed bays."
+    "en": "300-yard, 72-bay range in Shimoigata, Nobeoka. Nine-hole short course, free floodlights, left-handed bays.",
+    "ko": "노베오카 시모이가타초의 300야드·72타석 연습장. 9홀 쇼트 코스 병설, 야간 조명 무료, 왼손 타석 있음."
   },
   "tags": null,
   "features": [

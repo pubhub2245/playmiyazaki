@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "インドアゴルフクラブ九州 福島町店",
-    "en": "Indoor Golf Club Kyushu Fukushima-cho"
+    "en": "Indoor Golf Club Kyushu Fukushima-cho",
+    "ko": "인도어 골프 클럽 규슈 후쿠시마초점"
   },
   "address": {
     "ja": "宮崎県宮崎市福島町3-117-1",
-    "en": "3-117-1 Fukushima-cho, Miyazaki-shi, Miyazaki"
+    "en": "3-117-1 Fukushima-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 福島町3-117-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "入会金 6,000円。月額 シルバー会員 14,000円（税込、毎日55分）／ゴールド会員 20,000円（税込、毎日115分）。延長チケット 1,100円／55分。",
-    "en": "Enrollment 6,000 yen. Silver 14,000 yen/month (tax incl., 55 min/day) or Gold 20,000 yen/month (115 min/day). Extension ticket 1,100 yen/55 min."
+    "en": "Enrollment 6,000 yen. Silver 14,000 yen/month (tax incl., 55 min/day) or Gold 20,000 yen/month (115 min/day). Extension ticket 1,100 yen/55 min.",
+    "ko": "입회비 6,000엔. 월 실버 회원 14,000엔 (부가세 포함, 毎일55분) / 골드 회원 20,000엔 (부가세 포함, 毎일115분) . 연장 티켓 1,100엔 / 55분. "
   },
   "description": {
     "ja": "宮崎市福島町のインドア練習場。シミュレーターとパター練習。会員制で月2回のグループレッスンあり。",
-    "en": "Indoor range in Fukushima-cho, Miyazaki City. Simulator and putting area. Members only, group lessons twice a month."
+    "en": "Indoor range in Fukushima-cho, Miyazaki City. Simulator and putting area. Members only, group lessons twice a month.",
+    "ko": "미야자키시 후쿠시마초의 인도어 연습장. 시뮬레이터와 퍼팅 공간. 회원제, 월 2회 그룹 레슨."
   },
   "tags": null,
   "features": [

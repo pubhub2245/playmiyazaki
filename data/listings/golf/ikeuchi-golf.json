@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "いけうちゴルフ",
-    "en": "Ikeuchi Golf"
+    "en": "Ikeuchi Golf",
+    "ko": "이케우치 골프"
   },
   "address": {
     "ja": "宮崎県宮崎市池内町3535",
-    "en": "3535 Ikeuchi-cho, Miyazaki-shi, Miyazaki"
+    "en": "3535 Ikeuchi-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 池内町3535"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市池内町の練習場。レッスンあり。",
-    "en": "Driving range in Ikeuchi, Miyazaki City. Lessons available."
+    "en": "Driving range in Ikeuchi, Miyazaki City. Lessons available.",
+    "ko": "미야자키시 이케우치초의 연습장. 레슨 있음."
   },
   "tags": null,
   "features": [

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
-import { LANGS, NEARBY_HEADING, UI, type Lang } from "@/lib/i18n";
+import { LANGS, NEARBY_HEADING, UI, parseLang, type Lang } from "@/lib/i18n";
 import { absolute, googleMapsUrl, urlArea, urlCategory, urlFeature, urlGenre, urlHome, urlListing } from "@/lib/url";
 import { FEATURE_MIN_COUNT, featureCount, nearbyInArea } from "@/lib/coverage";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
@@ -12,12 +12,15 @@ import { listingToRow } from "@/lib/rows";
 
 type Props = { params: { lang: string; genre: string; slug: string } };
 
-const OPEN_SITE = { ja: "公式サイトを見る", en: "Visit the official site" };
-const OPEN_MAP = { ja: "Google マップで開く", en: "Open in Google Maps" };
+const OPEN_SITE = { ja: "公式サイトを見る", en: "Visit the official site", ko: "공식 사이트 방문" };
+const OPEN_MAP = { ja: "Google マップで開く", en: "Open in Google Maps", ko: "구글 지도에서 열기" };
 const PRICE_NOTE = {
   ja: "出典の表記に基づく。確認日",
   en: "As written in the source. Verified",
+  ko: "출처 표기 기준. 확인일",
 };
+const FEATURES_LABEL = { ja: "特徴", en: "Features", ko: "특징" };
+const VERIFIED_LABEL = { ja: "確認済み", en: "Verified", ko: "확인 완료" };
 
 export const dynamicParams = false;
 
@@ -33,27 +36,26 @@ export function generateStaticParams() {
 }
 
 export function generateMetadata({ params }: Props): Metadata {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const listing = loadAllListings().find(
     (l) => l.genre === params.genre && l.slug === params.slug,
   );
   if (!listing) return {};
   const desc = listing.description?.[lang] || listing.address[lang];
+  const languages: Record<string, string> = {};
+  for (const l of LANGS) languages[l] = absolute(urlListing(l, params.genre, params.slug));
   return {
     title: listing.name[lang],
     description: desc,
     alternates: {
       canonical: absolute(urlListing(lang, params.genre, params.slug)),
-      languages: {
-        ja: absolute(urlListing("ja", params.genre, params.slug)),
-        en: absolute(urlListing("en", params.genre, params.slug)),
-      },
+      languages,
     },
   };
 }
 
 export default function ListingDetail({ params }: Props) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const listing = loadAllListings().find(
@@ -65,8 +67,6 @@ export default function ListingDetail({ params }: Props) {
   const featureLabels = taxonomy.features[params.genre] ?? [];
   const area = taxonomy.areas.find((a) => a.slug === listing.area);
   const areaName = area?.[lang] ?? listing.area;
-  const FEATURES_LABEL = { ja: "特徴", en: "Features" };
-  const VERIFIED_LABEL = { ja: "確認済み", en: "Verified" };
 
   const gmap =
     listing.google_maps_url ??
@@ -90,7 +90,7 @@ export default function ListingDetail({ params }: Props) {
         lang={lang}
         crumbs={[
           { label: "Play Miyazaki", href: urlHome(lang) },
-          { label: lang === "ja" ? genre.ja : genre.en, href: urlGenre(lang, params.genre) },
+          { label: genre[lang], href: urlGenre(lang, params.genre) },
           { label: areaName, href: urlArea(lang, params.genre, listing.area) },
           { label: listing.name[lang] },
         ]}
@@ -290,6 +290,12 @@ function FactItem({ label, value }: { label: string; value: React.ReactNode }) {
 
 type JsonLd = Record<string, unknown>;
 
+const REGION_LABEL: Record<Lang, string> = {
+  ja: "宮崎県",
+  en: "Miyazaki",
+  ko: "미야자키현",
+};
+
 function buildJsonLd(
   listing: ReturnType<typeof loadAllListings>[number],
   lang: Lang,
@@ -308,7 +314,7 @@ function buildJsonLd(
     address: {
       "@type": "PostalAddress",
       addressCountry: "JP",
-      addressRegion: lang === "ja" ? "宮崎県" : "Miyazaki",
+      addressRegion: REGION_LABEL[lang],
       streetAddress: listing.address[lang],
     },
   };

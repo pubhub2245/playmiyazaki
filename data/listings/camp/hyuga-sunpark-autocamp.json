@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "日向サンパークオートキャンプ場",
-    "en": "Hyuga Sun Park Auto Camp"
+    "en": "Hyuga Sun Park Auto Camp",
+    "ko": "휴가 선파크 오토캠프장"
   },
   "address": {
     "ja": "宮崎県日向市幸脇303-5",
-    "en": "303-5 Sachiwaki, Hyuga-shi, Miyazaki"
+    "en": "303-5 Sachiwaki, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 幸脇303-5"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日向市南部・幸脇のオートキャンプ場。海に近い。",
-    "en": "Auto camp in Sachiwaki, southern Hyuga. Close to the coast."
+    "en": "Auto camp in Sachiwaki, southern Hyuga. Close to the coast.",
+    "ko": "휴가시 남부·사치와키의 오토캠프장. 바다에 가깝다."
   },
   "tags": null,
   "features": [

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
-import { HOME_TITLE, SITE_TAGLINE, type Lang } from "@/lib/i18n";
+import { HOME_TITLE, LANGS, SITE_TAGLINE, parseLang, type Lang } from "@/lib/i18n";
 import { absolute, urlFeature, urlGenre, urlHome } from "@/lib/url";
 import { allFeaturePagesRanked, genresWithListings } from "@/lib/coverage";
 import { GenreIcon } from "@/app/_components/GenreIcon";
@@ -27,31 +27,42 @@ const HERO = {
     recentHeading: "Recently verified",
     intentHeading: "Browse by feature",
   },
+  ko: {
+    heading: "미야자키에서 놀 수 있는 모든 곳.",
+    leadPrefix: "서핑 · 캠핑 · 음식 · 골프. 출처가 붙은 ",
+    leadSuffix: "곳.",
+    recentHeading: "최근 확인한 스팟",
+    intentHeading: "조건으로 찾기",
+  },
 };
 
 const COUNT_LABEL = {
   ja: "スポット",
   en: "places",
+  ko: "스팟",
 };
 
+function altLanguages(build: (l: Lang) => string): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const l of LANGS) out[l] = absolute(build(l));
+  return out;
+}
+
 export function generateMetadata({ params }: Props): Metadata {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const url = absolute(urlHome(lang));
   return {
     title: { absolute: HOME_TITLE[lang] },
     description: SITE_TAGLINE[lang],
     alternates: {
       canonical: url,
-      languages: {
-        ja: absolute(urlHome("ja")),
-        en: absolute(urlHome("en")),
-      },
+      languages: altLanguages(urlHome),
     },
   };
 }
 
 export default function HomePage({ params }: Props) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const listings = loadAllListings();
   const counts = new Map<string, number>();

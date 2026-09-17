@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "愛和宮崎リゾートホテル",
-    "en": "Aiwa Miyazaki Resort Hotel"
+    "en": "Aiwa Miyazaki Resort Hotel",
+    "ko": "아이와 미야자키 리조트 호텔"
   },
   "address": {
     "ja": "宮崎県宮崎市佐土原町東上那珂105",
-    "en": "105 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki"
+    "en": "105 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 佐土原町東上那珂105"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "ゴルフ場併設のホテル。ツイン、全室バルコニー付。",
-    "en": "Hotel attached to the golf course. Twin rooms, each with a balcony."
+    "en": "Hotel attached to the golf course. Twin rooms, each with a balcony.",
+    "ko": "골프장 병설 호텔. 트윈룸 전 객실 발코니."
   },
   "tags": null,
   "features": [

@@ -8,11 +8,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "観音池公園",
-    "en": "Kannonike Park"
+    "en": "Kannonike Park",
+    "ko": "간논이케 공원"
   },
   "address": {
     "ja": "宮崎県都城市高城町石山4195",
-    "en": "4195 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki"
+    "en": "4195 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高城町石山4195"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "入場無料。オートキャンプ A/B/C区画 1泊 3,140円、D区画（キャンピングカー）4,190円、フリーテント 1,050円。バンガロー 6人用 10,480円〜。プール 高校生以上310円・小中学生210円。",
-    "en": "Free entry. Auto camp A/B/C 3,140 yen/night, D (RV) 4,190 yen, free tent 1,050 yen. Bungalow from 10,480 yen/6-person. Pool 310 yen/high school+, 210 yen/child."
+    "en": "Free entry. Auto camp A/B/C 3,140 yen/night, D (RV) 4,190 yen, free tent 1,050 yen. Bungalow from 10,480 yen/6-person. Pool 310 yen/high school+, 210 yen/child.",
+    "ko": "입장 무료. 오토캠핑 A/B/C구획 1박 3,140엔, D구획 (캠핑카) 4,190엔, フリー텐트 1,050엔. 방갈로 6인용 10,480엔~. 수영장 고등학생 이상310엔・小중학생210엔. "
   },
   "description": {
     "ja": "都城市高城町の複合施設。キャンプ場、プール、温泉「観音さくらの里」を持つ。",
-    "en": "Complex in Takajo, Miyakonojo. Campground, pool, and the Kannon-sakura-no-Sato hot spring."
+    "en": "Complex in Takajo, Miyakonojo. Campground, pool, and the Kannon-sakura-no-Sato hot spring.",
+    "ko": "미야코노조시 다카조초의 복합 시설. 캠프장, 수영장, 온천 「간논사쿠라노사토」 보유."
   },
   "tags": null,
   "features": [

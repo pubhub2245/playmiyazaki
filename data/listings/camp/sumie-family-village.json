@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "須美江家族旅行村",
-    "en": "Sumie Family Travel Village"
+    "en": "Sumie Family Travel Village",
+    "ko": "스미에 가족 여행촌"
   },
   "address": {
     "ja": "宮崎県延岡市須美江町1450-2",
-    "en": "1450-2 Sumie-cho, Nobeoka-shi, Miyazaki"
+    "en": "1450-2 Sumie-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 須美江町1450-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "須美江海水浴場に隣接した延岡市の家族向けキャンプ場。プールや水族館もある。",
-    "en": "Family-oriented Nobeoka campsite next to Sumie Beach. Pool and small aquarium on site."
+    "en": "Family-oriented Nobeoka campsite next to Sumie Beach. Pool and small aquarium on site.",
+    "ko": "스미에 해수욕장 옆의 노베오카시 가족용 캠프장. 수영장과 수족관도 있음."
   },
   "tags": null,
   "features": [

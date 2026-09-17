@@ -7,11 +7,13 @@
   "area": "misato",
   "name": {
     "ja": "おせりの滝キャンプ場",
-    "en": "Oseri-no-Taki Camp"
+    "en": "Oseri-no-Taki Camp",
+    "ko": "오세리 폭포 캠프장"
   },
   "address": {
     "ja": "宮崎県東臼杵郡美郷町西郷小原1040-1",
-    "en": "1040-1 Kohara, Saigo, Misato-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "1040-1 Kohara, Saigo, Misato-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 미사토초 西郷小原1040-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "美郷町西郷、おせりの滝のそばのキャンプ場。",
-    "en": "Camp near Oseri Falls in Saigo, Misato."
+    "en": "Camp near Oseri Falls in Saigo, Misato.",
+    "ko": "미사토초 사이고, 오세리 폭포 옆의 캠프장."
   },
   "tags": null,
   "features": [

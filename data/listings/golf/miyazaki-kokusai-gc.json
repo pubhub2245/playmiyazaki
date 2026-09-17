@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎国際ゴルフ倶楽部",
-    "en": "Miyazaki Kokusai Golf Club"
+    "en": "Miyazaki Kokusai Golf Club",
+    "ko": "미야자키 고쿠사이 골프 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市佐土原町下田島6634-1",
-    "en": "6634-1 Shimotajima, Sadowara-cho, Miyazaki-shi, Miyazaki"
+    "en": "6634-1 Shimotajima, Sadowara-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 佐土原町下田島6634-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "佐土原の27Hコース（橘・霧島・尾鈴）。PGM運営。レストランあり。ネット予約可。",
-    "en": "27-hole course in Sadowara with the Tachibana, Kirishima and Ozuzu nines. Run by PGM. Restaurant and online booking."
+    "en": "27-hole course in Sadowara with the Tachibana, Kirishima and Ozuzu nines. Run by PGM. Restaurant and online booking.",
+    "ko": "사도와라의 27홀 코스 (다치바나·기리시마·오즈즈). PGM 운영. 레스토랑, 온라인 예약 가능."
   },
   "tags": null,
   "features": [

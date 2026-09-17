@@ -7,11 +7,13 @@
   "area": "takanabe",
   "name": {
     "ja": "高鍋ゴルフスポーツセンター",
-    "en": "Takanabe Golf Sports Center"
+    "en": "Takanabe Golf Sports Center",
+    "ko": "다카나베 골프 스포츠 센터"
   },
   "address": {
     "ja": "宮崎県児湯郡高鍋町上江7697-88",
-    "en": "7697-88 Uwae, Takanabe-cho, Koyu-gun, Miyazaki"
+    "en": "7697-88 Uwae, Takanabe-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 다카나베초 上江7697-88"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "高鍋町上江の250ヤード・68打席の練習場。駐車場70台。",
-    "en": "250-yard, 68-bay range in Uwae, Takanabe. Parking for 70 cars."
+    "en": "250-yard, 68-bay range in Uwae, Takanabe. Parking for 70 cars.",
+    "ko": "다카나베초 우와에의 250야드·68타석 연습장. 주차 70대."
   },
   "tags": null,
   "features": [],

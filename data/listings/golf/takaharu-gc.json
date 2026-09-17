@@ -7,11 +7,13 @@
   "area": "takaharu",
   "name": {
     "ja": "たかはるゴルフクラブ",
-    "en": "Takaharu Golf Club"
+    "en": "Takaharu Golf Club",
+    "ko": "다카하루 골프 클럽"
   },
   "address": {
     "ja": "宮崎県西諸県郡高原町広原6017",
-    "en": "6017 Hirowara, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+    "en": "6017 Hirowara, Takaharu-cho, Nishi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 니시모로카타군 다카하루초 広原6017"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "高原町の9H・パー36のコース。ソフトスパイクのみ。",
-    "en": "Nine-hole par-36 course in Takaharu. Soft spikes only."
+    "en": "Nine-hole par-36 course in Takaharu. Soft spikes only.",
+    "ko": "다카하루초의 9홀·파36 코스. 소프트 스파이크 전용."
   },
   "tags": null,
   "features": [

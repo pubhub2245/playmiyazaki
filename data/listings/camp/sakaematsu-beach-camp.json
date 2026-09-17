@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "栄松ビーチ・キャンプ場",
-    "en": "Sakaematsu Beach Camp"
+    "en": "Sakaematsu Beach Camp",
+    "ko": "사카에마쓰 비치 캠프장"
   },
   "address": {
     "ja": "宮崎県日南市南郷町中村乙4178-1",
-    "en": "4178-1 Nakamura-otsu, Nango-cho, Nichinan-shi, Miyazaki"
+    "en": "4178-1 Nakamura-otsu, Nango-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 南郷町中村乙4178-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "常設テント（電源付）4,380円／1基・1日。オートキャンプ（電源付）3,800円／エリア・1日。持込テント 芝生 1,040円〜／区画・1日。BBQ（10名以内）1,040円／区画。温水シャワー 100円／2分。",
-    "en": "Set-up tent (with power) 4,380 yen/tent/day. Auto camp (with power) 3,800 yen/site/day. BYO tent from 1,040 yen/pitch/day. BBQ (up to 10) 1,040 yen/pitch. Hot shower 100 yen/2 min."
+    "en": "Set-up tent (with power) 4,380 yen/tent/day. Auto camp (with power) 3,800 yen/site/day. BYO tent from 1,040 yen/pitch/day. BBQ (up to 10) 1,040 yen/pitch. Hot shower 100 yen/2 min.",
+    "ko": "상설 텐트 (전원포함) 4,380엔 / 1기・1일. 오토캠핑 (전원포함) 3,800엔 / 구역・1일. 지참 텐트 芝生 1,040엔~ / 구획・1일. BBQ (10명이내) 1,040엔 / 구획. 온수 샤워 100엔 / 2분. "
   },
   "description": {
     "ja": "南郷の栄松ビーチに面したオートキャンプ場。海水浴とキャンプが同じ場所で楽しめる。",
-    "en": "Auto camp facing Sakaematsu Beach in Nango. Swimming and camping in one spot."
+    "en": "Auto camp facing Sakaematsu Beach in Nango. Swimming and camping in one spot.",
+    "ko": "난고 사카에마쓰 비치에 접한 오토캠프장. 해수욕과 캠핑을 같은 장소에서."
   },
   "tags": null,
   "features": [

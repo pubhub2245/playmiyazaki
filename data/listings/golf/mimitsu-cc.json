@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "美々津カントリークラブ",
-    "en": "Mimitsu Country Club"
+    "en": "Mimitsu Country Club",
+    "ko": "미미쓰 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県日向市東郷町山陰甲417-94",
-    "en": "417-94 Ko, Yamage, Togo-cho, Hyuga-shi, Miyazaki"
+    "en": "417-94 Ko, Yamage, Togo-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 東郷町山陰甲417-94"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "日向市東郷町のゴルフ場。レストランあり。外部の予約システムで予約できる。",
-    "en": "Golf course in Togo, Hyuga. Restaurant on site, booking through an external system."
+    "en": "Golf course in Togo, Hyuga. Restaurant on site, booking through an external system.",
+    "ko": "휴가시 도고초의 골프장. 레스토랑 있음. 외부 예약 시스템으로 예약 가능."
   },
   "tags": null,
   "features": [

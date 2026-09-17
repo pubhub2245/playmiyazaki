@@ -7,11 +7,13 @@
   "area": "tsuno",
   "name": {
     "ja": "尾鈴キャンプ場",
-    "en": "Osuzu Campground"
+    "en": "Osuzu Campground",
+    "ko": "오스즈 캠프장"
   },
   "address": {
     "ja": "宮崎県児湯郡都農町（尾鈴県立自然公園内）",
-    "en": "Osuzu Prefectural Natural Park, Tsuno-cho, Koyu-gun, Miyazaki"
+    "en": "Osuzu Prefectural Natural Park, Tsuno-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 쓰노초 （尾鈴県立自然公園内）"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "オートフリーサイト 持込テント 840円／張・泊、キャンピングカー 840円／台・泊。休憩室 大人1,050円・小学生520円／泊。シャワー 100円／3分（税込）。",
-    "en": "Free auto site: tent 840 yen/night, RV 840 yen/night. Rest house 1,050 yen/adult, 520 yen/child per night. Shower 100 yen/3 min (tax incl.)."
+    "en": "Free auto site: tent 840 yen/night, RV 840 yen/night. Rest house 1,050 yen/adult, 520 yen/child per night. Shower 100 yen/3 min (tax incl.).",
+    "ko": "오토 프리사이트 지참 텐트 840엔 / 장・박, 캠핑카 840엔 / 대・박. 휴게실 대인1,050엔・초등학생520엔 / 박. 샤워 100엔 / 3분 (부가세 포함) . "
   },
   "description": {
     "ja": "尾鈴県立自然公園の中にある町営キャンプ場。利用料の支払いはJR都農駅の観光協会で。",
-    "en": "Town-run camp inside Osuzu Prefectural Natural Park. Pay fees at the tourism office at JR Tsuno Station."
+    "en": "Town-run camp inside Osuzu Prefectural Natural Park. Pay fees at the tourism office at JR Tsuno Station.",
+    "ko": "오스즈 현립 자연공원 내의 정영 캠프장. 이용료 지불은 JR 쓰노역 관광협회에서."
   },
   "tags": null,
   "features": [

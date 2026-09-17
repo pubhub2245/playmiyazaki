@@ -7,11 +7,13 @@
   "area": "hinokage",
   "name": {
     "ja": "日之影キャンプ村",
-    "en": "Hinokage Camp Village"
+    "en": "Hinokage Camp Village",
+    "ko": "히노카게 캠프무라"
   },
   "address": {
     "ja": "宮崎県西臼杵郡日之影町七折6164",
-    "en": "6164 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "6164 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 히노카게초 七折6164"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日之影町の五ヶ瀬川沿いのキャンプ場。テントサイトとバンガロー。",
-    "en": "Riverside camp along the Gokase in Hinokage, with tent sites and bungalows."
+    "en": "Riverside camp along the Gokase in Hinokage, with tent sites and bungalows.",
+    "ko": "히노카게초의 고카세강변 캠프장. 텐트 사이트와 방갈로."
   },
   "tags": null,
   "features": [

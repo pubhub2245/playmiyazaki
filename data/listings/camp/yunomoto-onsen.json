@@ -7,11 +7,13 @@
   "area": "takaharu",
   "name": {
     "ja": "湯之元温泉",
-    "en": "Yunomoto Onsen"
+    "en": "Yunomoto Onsen",
+    "ko": "유노모토 온천"
   },
   "address": {
     "ja": "宮崎県西諸県郡高原町大字蒲牟田7535",
-    "en": "7535 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki"
+    "en": "7535 Gamuda, Takaharu-cho, Nishi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 니시모로카타군 다카하루초 大字蒲牟田7535"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "日帰り入浴 大人 650円、小人（3〜12歳）300円。",
-    "en": "Day-use bath 650 yen/adult, 300 yen/child (age 3–12)."
+    "en": "Day-use bath 650 yen/adult, 300 yen/child (age 3–12).",
+    "ko": "당일 입욕 대인 650엔, 소인 (3~12세) 300엔. "
   },
   "description": {
     "ja": "高原町の炭酸泉。日帰り入浴もできる。",
-    "en": "Carbonated hot spring in Takaharu, with day-use bathing available."
+    "en": "Carbonated hot spring in Takaharu, with day-use bathing available.",
+    "ko": "다카하루초의 탄산천. 당일 입욕도 가능."
   },
   "tags": null,
   "features": [

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, type Lang } from "@/lib/i18n";
+import { LANGS, parseLang, type Lang } from "@/lib/i18n";
 import { absolute, urlCategory, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
@@ -31,35 +31,62 @@ export function generateStaticParams() {
   return params;
 }
 
+const SPOT_LABEL: Record<Lang, string> = {
+  ja: "スポット",
+  en: "places",
+  ko: "스팟",
+};
+
+function catTitle(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  cat: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `宮崎の${cat.ja}（${genre.ja}）一覧`;
+  if (lang === "ko") return `미야자키의 ${cat.ko}(${genre.ko}) 목록`;
+  return `${cat.en} (${genre.en}) in Miyazaki`;
+}
+
+function catDescription(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  cat: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `宮崎県内の${cat.ja}を出典URL付きで一覧にしています。`;
+  if (lang === "ko") return `미야자키현의 ${cat.ko}을(를) 출처 URL과 함께 정리한 목록입니다.`;
+  return `A source-linked directory of ${cat.en.toLowerCase()} across Miyazaki.`;
+}
+
+function catHeading(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  cat: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `宮崎の${cat.ja}（${genre.ja}）`;
+  if (lang === "ko") return `미야자키의 ${cat.ko}(${genre.ko})`;
+  return `${cat.en} (${genre.en}) in Miyazaki`;
+}
+
 export function generateMetadata({ params }: Props): Metadata {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const cat = taxonomy.categories[params.genre]?.find((c) => c.slug === params.category);
   if (!genre || !cat) return {};
-  const title =
-    lang === "ja"
-      ? `宮崎の${cat.ja}（${genre.ja}）一覧`
-      : `${cat.en} (${genre.en}) in Miyazaki`;
-  const description =
-    lang === "ja"
-      ? `宮崎県内の${cat.ja}を出典URL付きで一覧にしています。`
-      : `A source-linked directory of ${cat.en.toLowerCase()} across Miyazaki.`;
+  const languages: Record<string, string> = {};
+  for (const l of LANGS) languages[l] = absolute(urlCategory(l, params.genre, params.category));
   return {
-    title,
-    description,
+    title: catTitle(lang, genre, cat),
+    description: catDescription(lang, genre, cat),
     alternates: {
       canonical: absolute(urlCategory(lang, params.genre, params.category)),
-      languages: {
-        ja: absolute(urlCategory("ja", params.genre, params.category)),
-        en: absolute(urlCategory("en", params.genre, params.category)),
-      },
+      languages,
     },
   };
 }
 
 export default function CategoryPage({ params }: Props) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const cat = taxonomy.categories[params.genre]?.find((c) => c.slug === params.category);
@@ -88,16 +115,16 @@ export default function CategoryPage({ params }: Props) {
         lang={lang}
         crumbs={[
           { label: "Play Miyazaki", href: urlHome(lang) },
-          { label: lang === "ja" ? genre.ja : genre.en, href: urlGenre(lang, params.genre) },
-          { label: lang === "ja" ? cat.ja : cat.en },
+          { label: genre[lang], href: urlGenre(lang, params.genre) },
+          { label: cat[lang] },
         ]}
       />
       <div>
         <h1 className="font-display font-bold text-[28px] leading-tight text-text-primary">
-          {lang === "ja" ? `宮崎の${cat.ja}（${genre.ja}）` : `${cat.en} (${genre.en}) in Miyazaki`}
+          {catHeading(lang, genre, cat)}
         </h1>
         <p className="pm-mono text-[12px] text-text-secondary mt-1">
-          {filtered.length} {lang === "ja" ? "スポット" : "places"}
+          {filtered.length} {SPOT_LABEL[lang]}
         </p>
       </div>
 

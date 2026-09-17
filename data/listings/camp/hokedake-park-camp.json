@@ -7,11 +7,13 @@
   "area": "kunitomi",
   "name": {
     "ja": "法華嶽公園キャンプ場",
-    "en": "Hokedake Park Campground"
+    "en": "Hokedake Park Campground",
+    "ko": "호케다케 공원 캠프장"
   },
   "address": {
     "ja": "宮崎県東諸県郡国富町大字深年4106-18",
-    "en": "4106-18 Fukatoshi, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki"
+    "en": "4106-18 Fukatoshi, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 히가시모로카타군 구니토미초 大字深年4106-18"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入場料 200円／人・泊（3歳未満無料）。オートサイト 2,000円／区画・泊、レギュラーサイト 1,000円／区画・泊。",
-    "en": "Entry 200 yen/person/night (under 3 free). Auto site 2,000 yen/pitch/night, regular site 1,000 yen/pitch/night."
+    "en": "Entry 200 yen/person/night (under 3 free). Auto site 2,000 yen/pitch/night, regular site 1,000 yen/pitch/night.",
+    "ko": "입장료 200엔 / 인・박 (3세 미만무료) . 오토 사이트 2,000엔 / 구획・박, 레귤러 사이트 1,000엔 / 구획・박. "
   },
   "description": {
     "ja": "国富町の法華嶽公園にある町営キャンプ場。桜と紅葉の名所。",
-    "en": "Town-run campsite in Hokedake Park, Kunitomi. Known for cherry blossoms and autumn colours."
+    "en": "Town-run campsite in Hokedake Park, Kunitomi. Known for cherry blossoms and autumn colours.",
+    "ko": "구니토미초 호케다케 공원 안의 정영 캠프장. 벚꽃과 단풍 명소."
   },
   "tags": null,
   "features": [],

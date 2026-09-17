@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "都井岬南灯台キャンプ場",
-    "en": "Toi Misaki South Lighthouse Campground"
+    "en": "Toi Misaki South Lighthouse Campground",
+    "ko": "도이미사키 남등대 캠프장"
   },
   "address": {
     "ja": "宮崎県串間市大字大納57-イ",
-    "en": "57-i Ono, Kushima-shi, Miyazaki"
+    "en": "57-i Ono, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 大字大納57-イ"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "都井岬の南、灯台の近くにあるキャンプ場。周辺には野生馬の岬馬。",
-    "en": "Campsite near the lighthouse on Cape Toi, home to the wild Misaki horses."
+    "en": "Campsite near the lighthouse on Cape Toi, home to the wild Misaki horses.",
+    "ko": "도이미사키 남쪽, 등대 근처의 캠프장. 주변에 야생마 미사키우마."
   },
   "tags": null,
   "features": [],

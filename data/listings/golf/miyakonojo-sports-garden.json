@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "都城スポーツガーデン",
-    "en": "Miyakonojo Sports Garden"
+    "en": "Miyakonojo Sports Garden",
+    "ko": "미야코노조 스포츠 가든"
   },
   "address": {
     "ja": "宮崎県都城市若葉町54-9-2",
-    "en": "54-9-2 Wakaba-cho, Miyakonojo-shi, Miyazaki"
+    "en": "54-9-2 Wakaba-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 若葉町54-9-2"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "貸クラブ 200円／本。",
-    "en": "Club rental 200 yen per club."
+    "en": "Club rental 200 yen per club.",
+    "ko": "클럽 대여 200엔 / 개. "
   },
   "description": {
     "ja": "都城市若葉町の150ヤード・51打席の練習場。ナイターは平日22時・土日21時まで。レッスンあり。",
-    "en": "150-yard, 51-bay range in Wakaba, Miyakonojo. Night play to 22:00 on weekdays and 21:00 at weekends. Lessons available."
+    "en": "150-yard, 51-bay range in Wakaba, Miyakonojo. Night play to 22:00 on weekdays and 21:00 at weekends. Lessons available.",
+    "ko": "미야코노조 와카바초의 150야드·51타석 연습장. 야간은 평일 22시·주말 21시까지. 레슨 있음."
   },
   "tags": null,
   "features": [

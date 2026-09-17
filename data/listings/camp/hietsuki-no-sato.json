@@ -7,11 +7,13 @@
   "area": "shiiba",
   "name": {
     "ja": "BASE CAMP shiiba",
-    "en": "Base Camp Shiiba"
+    "en": "Base Camp Shiiba",
+    "ko": "BASE CAMP shiiba"
   },
   "address": {
     "ja": "宮崎県東臼杵郡椎葉村大字下福良1-2",
-    "en": "1-2 Shimo-fukura, Shiiba-son, Higashi-Usuki-gun, Miyazaki"
+    "en": "1-2 Shimo-fukura, Shiiba-son, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 시이바손 大字下福良1-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "椎葉村のダム湖ぞい、コテージ併設のキャンプ場。",
-    "en": "Shiiba Village camp with cottages beside the reservoir."
+    "en": "Shiiba Village camp with cottages beside the reservoir.",
+    "ko": "시이바손의 댐 호숫가에 있는 코티지 병설 캠프장."
   },
   "tags": null,
   "features": [

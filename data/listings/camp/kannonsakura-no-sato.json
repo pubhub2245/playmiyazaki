@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "観音さくらの里",
-    "en": "Kannon-sakura-no-Sato"
+    "en": "Kannon-sakura-no-Sato",
+    "ko": "간논사쿠라노사토"
   },
   "address": {
     "ja": "宮崎県都城市高城町石山4195",
-    "en": "4195 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki"
+    "en": "4195 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高城町石山4195"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "420円",
-    "en": "420 yen"
+    "en": "420 yen",
+    "ko": "420엔"
   },
   "description": {
     "ja": "観音池公園にある日帰り温泉。露天風呂を含む13種類の湯船。",
-    "en": "Day-use hot spring inside Kannonike Park, with 13 baths including an outdoor bath."
+    "en": "Day-use hot spring inside Kannonike Park, with 13 baths including an outdoor bath.",
+    "ko": "간논이케 공원 내 당일 온천. 노천탕 포함 13종의 욕조."
   },
   "tags": null,
   "features": [

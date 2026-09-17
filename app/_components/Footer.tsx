@@ -9,6 +9,7 @@ const PRIVATE_LINE = "MIYAZAKI PRIVATE — a private evening in Miyazaki →";
 const NOTICE = {
   ja: "掲載情報は出典URLに基づいています。営業時間・料金は変わることがあります。",
   en: "All information links to a source URL. Hours and prices may change.",
+  ko: "게재 정보는 출처 URL을 근거로 합니다. 영업시간과 요금은 변경될 수 있습니다.",
 };
 
 export function Footer({ lang }: { lang: Lang }) {

@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "鹿川キャンプ場",
-    "en": "Shikakawa Campground"
+    "en": "Shikakawa Campground",
+    "ko": "시카카와 캠프장"
   },
   "address": {
     "ja": "宮崎県延岡市北方町上鹿川申986-45",
-    "en": "986-45 Kami-Shikakawa, Kitakata-cho, Nobeoka-shi, Miyazaki"
+    "en": "986-45 Kami-Shikakawa, Kitakata-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 北方町上鹿川申986-45"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "延岡市北方町、九州脊梁の山あいにある山岳系キャンプ場。",
-    "en": "Mountain camp in Kitakata, Nobeoka, in the heart of the Kyushu Spine range."
+    "en": "Mountain camp in Kitakata, Nobeoka, in the heart of the Kyushu Spine range.",
+    "ko": "노베오카시 기타카타초, 규슈 척량 산속의 산악형 캠프장."
   },
   "tags": null,
   "features": [

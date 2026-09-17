@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "シーガイア・フォレスト・コンドミニアム",
-    "en": "Seagaia Forest Condominium"
+    "en": "Seagaia Forest Condominium",
+    "ko": "시가이아 포레스트 콘도미니엄"
   },
   "address": {
     "ja": "宮崎県宮崎市山崎町浜山",
-    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 山崎町浜山"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "シーガイア内のコンドミニアム。フェニックスCCとトム・ワトソンGCの宿泊付きゴルフプランの対象施設。",
-    "en": "Condominium inside the Seagaia resort, listed for stay-and-play plans at Phoenix CC and Tom Watson GC."
+    "en": "Condominium inside the Seagaia resort, listed for stay-and-play plans at Phoenix CC and Tom Watson GC.",
+    "ko": "시가이아 리조트 내 콘도미니엄. 피닉스 CC·톰 왓슨 GC 숙박 골프 플랜의 대상 시설."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "takachiho",
   "name": {
     "ja": "四季見原すこやかの森キャンプ場",
-    "en": "Shikimibaru Sukoyaka-no-Mori Camp"
+    "en": "Shikimibaru Sukoyaka-no-Mori Camp",
+    "ko": "시키미바루 스코야카의 숲 캠프장"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町大字上野3751-722",
-    "en": "3751-722 Ueno, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "3751-722 Ueno, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 大字上野3751-722"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入村料 大人 600円、小人（小学生以下）300円。バンガロー 10,000円／泊。オートサイト（シャワー棟単独）5,500円・（共有）4,000円／泊。フリーテントサイト 2,500円／泊。バレルサウナ 2名まで 8,000円／回。",
-    "en": "Entry 600 yen/adult, 300 yen/child. Bungalow 10,000 yen/night. Auto site 5,500 yen (private shower) / 4,000 yen (shared)/night. Free tent site 2,500 yen/night. Barrel sauna 8,000 yen for up to 2."
+    "en": "Entry 600 yen/adult, 300 yen/child. Bungalow 10,000 yen/night. Auto site 5,500 yen (private shower) / 4,000 yen (shared)/night. Free tent site 2,500 yen/night. Barrel sauna 8,000 yen for up to 2.",
+    "ko": "입장료 대인 600엔, 소인 (초등학생 이하) 300엔. 방갈로 10,000엔 / 박. 오토 사이트 (샤워동単独) 5,500엔・ (共有) 4,000엔 / 박. 프리 텐트 사이트 2,500엔 / 박. 배럴 사우나 2명까지 8,000엔 / 회. "
   },
   "description": {
     "ja": "標高1,200mにある町営キャンプ場。九州でもっとも高い場所のキャンプ場のひとつ。",
-    "en": "Town-run camp at 1,200 m, one of the highest-elevation campsites in Kyushu."
+    "en": "Town-run camp at 1,200 m, one of the highest-elevation campsites in Kyushu.",
+    "ko": "해발 1,200m의 정영 캠프장. 규슈에서 가장 높은 캠프장 중 하나."
   },
   "tags": null,
   "features": [

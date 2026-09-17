@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "レインボースポーツランドゴルフクラブ",
-    "en": "Rainbow Sports Land Golf Club"
+    "en": "Rainbow Sports Land Golf Club",
+    "ko": "레인보 스포츠 랜드 골프 클럽"
   },
   "address": {
     "ja": "宮崎県都城市高城町石山4474",
-    "en": "4474 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki"
+    "en": "4474 Ishiyama, Takajo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高城町石山4474"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "平日セルフ 4,650円（総額 5,490円）〜／土日祝セルフ 6,923円（総額 7,990円）〜。昼食補助付、ナビ付4人乗りカート。",
-    "en": "Weekday self-play from 4,650 yen (5,490 yen total) / weekend from 6,923 yen (7,990 yen total). Lunch subsidy and 4-person GPS cart."
+    "en": "Weekday self-play from 4,650 yen (5,490 yen total) / weekend from 6,923 yen (7,990 yen total). Lunch subsidy and 4-person GPS cart.",
+    "ko": "평일셀프 4,650엔 (총액 5,490엔) ~ / 주말·공휴일셀프 6,923엔 (총액 7,990엔) ~. 점심 보조 포함, 내비 포함 4인승 카트. "
   },
   "description": {
     "ja": "都城市高城町の18Hコース。アコーディア・ゴルフ運営。クラブレンタルとレストランあり。",
-    "en": "18-hole course in Takajo, Miyakonojo, run by Accordia Golf. Club rental, restaurant and online booking."
+    "en": "18-hole course in Takajo, Miyakonojo, run by Accordia Golf. Club rental, restaurant and online booking.",
+    "ko": "미야코노조 다카조초의 18홀 코스. 어코디아 골프 운영. 클럽 렌탈과 레스토랑, 온라인 예약 가능."
   },
   "tags": null,
   "features": [

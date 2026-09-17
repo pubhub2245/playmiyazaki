@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "フェニックス・シーガイア・オーシャン・タワー",
-    "en": "Phoenix Seagaia Ocean Tower"
+    "en": "Phoenix Seagaia Ocean Tower",
+    "ko": "피닉스 시가이아 오션 타워"
   },
   "address": {
     "ja": "宮崎県宮崎市山崎町浜山",
-    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 山崎町浜山"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "シーガイア内のホテル。フェニックスCCとトム・ワトソンGCの宿泊付きゴルフプランの対象。リゾート内に練習場とアカデミー。",
-    "en": "Hotel inside the Seagaia resort, included in stay-and-play plans for Phoenix CC and Tom Watson GC. Range and academy on the resort."
+    "en": "Hotel inside the Seagaia resort, included in stay-and-play plans for Phoenix CC and Tom Watson GC. Range and academy on the resort.",
+    "ko": "시가이아 리조트 내 호텔. 피닉스 CC·톰 왓슨 GC 숙박 골프 플랜 대상. 리조트 내 연습장과 아카데미."
   },
   "tags": null,
   "features": [

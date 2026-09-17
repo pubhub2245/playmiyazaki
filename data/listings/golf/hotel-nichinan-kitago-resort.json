@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "ホテル日南北郷リゾート",
-    "en": "Hotel Nichinan Kitago Resort"
+    "en": "Hotel Nichinan Kitago Resort",
+    "ko": "호텔 니치난 기타고 리조트"
   },
   "address": {
     "ja": "宮崎県日南市北郷町郷之原甲2821-1",
-    "en": "2821-1 Ko, Gonohara, Kitago-cho, Nichinan-shi, Miyazaki"
+    "en": "2821-1 Ko, Gonohara, Kitago-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 北郷町郷之原甲2821-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "バイキング1泊2食付 11,400円（税込）〜、岩盤浴プラン 11,700円（税込）〜。",
-    "en": "Buffet stay with 2 meals from 11,400 yen (tax incl.), stone-sauna plan from 11,700 yen (tax incl.)."
+    "en": "Buffet stay with 2 meals from 11,400 yen (tax incl.), stone-sauna plan from 11,700 yen (tax incl.).",
+    "ko": "뷔페1박 2식 포함 11,400엔 (부가세 포함) ~, 암반욕プラン 11,700엔 (부가세 포함) ~. "
   },
   "description": {
     "ja": "日南北郷カントリークラブ併設のホテル。宿泊ゴルフパックと日帰りプラン。展望露天風呂と岩盤浴、バイキングのレストラン。",
-    "en": "Hotel attached to Nichinan Kitago Country Club. Stay-and-play packages and day plans, open-air baths, stone sauna and a buffet restaurant."
+    "en": "Hotel attached to Nichinan Kitago Country Club. Stay-and-play packages and day plans, open-air baths, stone sauna and a buffet restaurant.",
+    "ko": "니치난 기타고 컨트리 클럽 병설 호텔. 숙박 골프 패키지와 당일 플랜. 전망 노천탕과 암반욕, 뷔페 레스토랑."
   },
   "tags": null,
   "features": [

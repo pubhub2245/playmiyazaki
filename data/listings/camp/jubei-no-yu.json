@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "十兵衛の湯（京町温泉）",
-    "en": "Jubei-no-Yu (Kyomachi Onsen)"
+    "en": "Jubei-no-Yu (Kyomachi Onsen)",
+    "ko": "주베에의 탕 (교마치 온천)"
   },
   "address": {
     "ja": "宮崎県えびの市大字向江212-1",
-    "en": "212-1 Mukae, Ebino-shi, Miyazaki"
+    "en": "212-1 Mukae, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 大字向江212-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入浴 大人 550円、中学生 400円、4歳〜小学生 350円、3歳以下 無料。回数券 11枚 5,500円／30枚 13,500円。",
-    "en": "Bath 550 yen/adult, 400 yen/middle school, 350 yen/child (4–elementary), free under 3. 11-visit pass 5,500 yen, 30-visit pass 13,500 yen."
+    "en": "Bath 550 yen/adult, 400 yen/middle school, 350 yen/child (4–elementary), free under 3. 11-visit pass 5,500 yen, 30-visit pass 13,500 yen.",
+    "ko": "입욕 대인 550엔, 중학생 400엔, 4세~초등학생 350엔, 3세 이하 무료. 회수권 11枚 5,500엔 / 30枚 13,500엔. "
   },
   "description": {
     "ja": "京町温泉郷の日帰り入浴施設。家族貸切風呂もある。",
-    "en": "Day-use bathhouse in the Kyomachi Onsen area, with private family baths."
+    "en": "Day-use bathhouse in the Kyomachi Onsen area, with private family baths.",
+    "ko": "교마치 온천의 당일 입욕 시설. 가족 대절탕도 있음."
   },
   "tags": null,
   "features": [

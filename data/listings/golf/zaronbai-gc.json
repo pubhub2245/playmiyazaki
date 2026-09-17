@@ -7,11 +7,13 @@
   "area": "shintomi",
   "name": {
     "ja": "宮崎座論梅ゴルフクラブ",
-    "en": "Miyazaki Zaronbai Golf Club"
+    "en": "Miyazaki Zaronbai Golf Club",
+    "ko": "미야자키 자론바이 골프 클럽"
   },
   "address": {
     "ja": "宮崎県児湯郡新富町新田17605",
-    "en": "17605 Nyuta, Shintomi-cho, Koyu-gun, Miyazaki"
+    "en": "17605 Nyuta, Shintomi-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 신토미초 新田17605"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "10月 平日 6,205円〜／土日祝 10,114円〜（セルフ・キャディ選択制）。",
-    "en": "October: weekday from 6,205 yen / weekend from 10,114 yen (self-play or caddie option)."
+    "en": "October: weekday from 6,205 yen / weekend from 10,114 yen (self-play or caddie option).",
+    "ko": "10월 평일 6,205엔~ / 주말·공휴일 10,114엔~ (셀프·캐디選択制) . "
   },
   "description": {
     "ja": "新富町新田の18H・パー72。クラブレンタルとレストランあり。練習場は大会時のみ利用できる。",
-    "en": "18-hole par-72 course in Nyuta, Shintomi. Club rental and restaurant. The practice range opens only for tournaments."
+    "en": "18-hole par-72 course in Nyuta, Shintomi. Club rental and restaurant. The practice range opens only for tournaments.",
+    "ko": "신토미초 뉴타의 18홀·파72. 클럽 렌탈과 레스토랑 있음. 연습장은 대회 시에만 개방."
   },
   "tags": null,
   "features": [

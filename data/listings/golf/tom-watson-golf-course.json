@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "トム・ワトソンゴルフコース",
-    "en": "Tom Watson Golf Course"
+    "en": "Tom Watson Golf Course",
+    "ko": "톰 왓슨 골프 코스"
   },
   "address": {
     "ja": "宮崎県宮崎市山崎町浜山",
-    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki"
+    "en": "Hamayama, Yamazaki-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 山崎町浜山"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "シーガイア内の18Hコース。ナイター営業あり。リゾート内に宿泊施設とレストラン。英語表示とネット予約あり。",
-    "en": "18-hole course inside the Seagaia resort. Night play available, lodging and a restaurant on the resort, English site and online booking."
+    "en": "18-hole course inside the Seagaia resort. Night play available, lodging and a restaurant on the resort, English site and online booking.",
+    "ko": "시가이아 리조트 내 18홀 코스. 야간 영업. 리조트 내 숙박과 레스토랑. 영어 표시와 온라인 예약 있음."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "kijo",
   "name": {
     "ja": "木城温泉館 湯らら",
-    "en": "Kijo Onsen-kan Yurara"
+    "en": "Kijo Onsen-kan Yurara",
+    "ko": "기조 온천관 유라라"
   },
   "address": {
     "ja": "宮崎県児湯郡木城町大字高城1403-1",
-    "en": "1403-1 Takajo, Kijo-cho, Koyu-gun, Miyazaki"
+    "en": "1403-1 Takajo, Kijo-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 기조초 大字高城1403-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "大人 600円",
-    "en": "Adult 600 yen"
+    "en": "Adult 600 yen",
+    "ko": "대인 600엔"
   },
   "description": {
     "ja": "木城町の日帰り温泉。露天風呂と食事処あり。",
-    "en": "Day-use hot spring in Kijo, with an outdoor bath and a restaurant."
+    "en": "Day-use hot spring in Kijo, with an outdoor bath and a restaurant.",
+    "ko": "기조초의 당일 온천. 노천탕과 식사 공간 있음."
   },
   "tags": null,
   "features": [

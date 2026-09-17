@@ -8,11 +8,13 @@
   "area": "aya",
   "name": {
     "ja": "リバーサイド綾オートキャンプ場（綾川荘）",
-    "en": "Riverside Aya Auto Camp (Ayakawaso)"
+    "en": "Riverside Aya Auto Camp (Ayakawaso)",
+    "ko": "리버사이드 아야 오토캠프장 (아야카와소)"
   },
   "address": {
     "ja": "宮崎県東諸県郡綾町北俣3765",
-    "en": "3765 Kitamata, Aya-cho, Higashi-Morokata-gun, Miyazaki"
+    "en": "3765 Kitamata, Aya-cho, Higashi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 히가시모로카타군 아야초 北俣3765"
   },
   "lat": null,
   "lng": null,
@@ -26,7 +28,8 @@
   "price": null,
   "description": {
     "ja": "綾北川沿いのオートキャンプ場。同じ敷地内の綾川荘で日帰り入浴もできる。",
-    "en": "Auto camp along the Ayakita River. Ayakawaso on the same site offers day-use onsen."
+    "en": "Auto camp along the Ayakita River. Ayakawaso on the same site offers day-use onsen.",
+    "ko": "아야키타강변의 오토캠프장. 같은 부지의 아야카와소에서 당일 입욕 가능."
   },
   "tags": null,
   "features": [

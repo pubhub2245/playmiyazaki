@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "ウエルビレッジ・キャンパーズ伊比井",
-    "en": "Wel-Village Campers Ibii"
+    "en": "Wel-Village Campers Ibii",
+    "ko": "웰빌리지·캠퍼스 이비이"
   },
   "address": {
     "ja": "宮崎県日南市伊比井1689",
-    "en": "1689 Ibii, Nichinan-shi, Miyazaki"
+    "en": "1689 Ibii, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 伊比井1689"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "伊比井駅ちかくの日南のキャンプ場。海まで歩ける。",
-    "en": "Coastal camp in Nichinan near JR Ibii Station, within walking distance of the sea."
+    "en": "Coastal camp in Nichinan near JR Ibii Station, within walking distance of the sea.",
+    "ko": "이비이역 근처 니치난의 캠프장. 바다까지 걸어갈 수 있음."
   },
   "tags": null,
   "features": [

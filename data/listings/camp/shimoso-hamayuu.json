@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "下阿蘇ビーチ「浜木綿村」ソレイユ・ルヴァン",
-    "en": "Shimo-Aso Beach Hamayuu-mura / Soleil Levant"
+    "en": "Shimo-Aso Beach Hamayuu-mura / Soleil Levant",
+    "ko": "시모아소 비치 「하마유무라」 솔레이유 르방"
   },
   "address": {
     "ja": "宮崎県延岡市北浦町古江3337-1",
-    "en": "3337-1 Furue, Kitaura-cho, Nobeoka-shi, Miyazaki"
+    "en": "3337-1 Furue, Kitaura-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 北浦町古江3337-1"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "ケビン A・B棟（4人用）通常 15,400円／初日・13,400円／2日目以降。C棟（7人用）通常 28,600円／初日・26,600円／2日目以降。オフシーズン（11〜3月）割引あり。常設テント（4〜5人用）4,800円／基（清掃協力費込）。",
-    "en": "Cabin A/B (4-person) 15,400 yen first night, 13,400 yen from 2nd. C (7-person) 28,600 yen first night, 26,600 yen from 2nd. Off-season Nov–Mar discounted. Set-up tent (4–5 person) 4,800 yen/unit (cleaning fee incl.)."
+    "en": "Cabin A/B (4-person) 15,400 yen first night, 13,400 yen from 2nd. C (7-person) 28,600 yen first night, 26,600 yen from 2nd. Off-season Nov–Mar discounted. Set-up tent (4–5 person) 4,800 yen/unit (cleaning fee incl.).",
+    "ko": "케빈 A・B동 (4인용) 通常 15,400엔 / 첫날・13,400엔 / 2일째 이후. C동 (7인용) 通常 28,600엔 / 첫날・26,600엔 / 2일째 이후. 오프시즌 (11~3월) 할인 있음. 상설 텐트 (4~5인용) 4,800엔 / 기 (청소 협력비 포함) . "
   },
   "description": {
     "ja": "道の駅北浦の中にあるビーチキャンプ場。下阿蘇ビーチは日本の海水浴場100選。",
-    "en": "Beach camp within Michi-no-Eki Kitaura. Shimo-Aso Beach is on Japan's Top 100 Beaches list."
+    "en": "Beach camp within Michi-no-Eki Kitaura. Shimo-Aso Beach is on Japan's Top 100 Beaches list.",
+    "ko": "미치노에키 기타우라 내 비치 캠프장. 시모아소 비치는 일본 해수욕장 100선."
   },
   "tags": null,
   "features": [

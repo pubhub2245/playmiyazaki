@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "サンチェリーきたごう",
-    "en": "Sun Cherry Kitago"
+    "en": "Sun Cherry Kitago",
+    "ko": "선체리 기타고"
   },
   "address": {
     "ja": "宮崎県日南市北郷町大藤甲1519-1",
-    "en": "1519-1 Ofuji-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+    "en": "1519-1 Ofuji-ko, Kitago-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 北郷町大藤甲1519-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "入浴 大人 600円、小学生以下 300円。家族風呂 2,500円／1時間（電話予約制）。回数券 11枚 6,000円／23枚 12,000円。",
-    "en": "Bath 600 yen/adult, 300 yen/child (up to elementary). Family bath 2,500 yen/hour (phone reservation). Pass 11 visits 6,000 yen, 23 visits 12,000 yen."
+    "en": "Bath 600 yen/adult, 300 yen/child (up to elementary). Family bath 2,500 yen/hour (phone reservation). Pass 11 visits 6,000 yen, 23 visits 12,000 yen.",
+    "ko": "입욕 대인 600엔, 초등학생 이하 300엔. 가족탕 2,500엔 / 1시간 (전화 예약제) . 회수권 11枚 6,000엔 / 23枚 12,000엔. "
   },
   "description": {
     "ja": "日南市北郷の市営温泉施設。2024年12月に再開。",
-    "en": "Municipal hot spring in Kitago, Nichinan. Reopened in December 2024."
+    "en": "Municipal hot spring in Kitago, Nichinan. Reopened in December 2024.",
+    "ko": "니치난시 기타고의 시영 온천 시설. 2024년 12월 재개."
   },
   "tags": null,
   "features": [

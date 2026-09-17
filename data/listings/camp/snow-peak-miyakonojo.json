@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "スノーピーク都城キャンプフィールド（関之尾公園）",
-    "en": "Snow Peak Miyakonojo Camp Field"
+    "en": "Snow Peak Miyakonojo Camp Field",
+    "ko": "스노우피크 미야코노조 캠프 필드 (세키노오 공원)"
   },
   "address": {
     "ja": "宮崎県都城市関之尾町6615-2",
-    "en": "6615-2 Sekinoo-cho, Miyakonojo-shi, Miyazaki"
+    "en": "6615-2 Sekinoo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 関之尾町6615-2"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "フリーサイト 4,000〜6,250円／泊。区画電源オートサイト 4,800〜7,500円／泊。モバイルハウス「住箱」14,080〜22,000円／泊。コテージ 28,160〜42,000円／泊（税込）。",
-    "en": "Free site 4,000–6,250 yen/night. Auto site with power 4,800–7,500 yen/night. Mobile house Jyubako 14,080–22,000 yen/night. Cottage 28,160–42,000 yen/night (tax incl.)."
+    "en": "Free site 4,000–6,250 yen/night. Auto site with power 4,800–7,500 yen/night. Mobile house Jyubako 14,080–22,000 yen/night. Cottage 28,160–42,000 yen/night (tax incl.).",
+    "ko": "프리사이트 4,000~6,250엔 / 박. 구획 전원 오토 사이트 4,800~7,500엔 / 박. 모바일 하우스「주박」14,080~22,000엔 / 박. 코티지 28,160~42,000엔 / 박 (부가세 포함) . "
   },
   "description": {
     "ja": "関之尾滝のそば、都城市とスノーピークの官民連携のキャンプフィールド。",
-    "en": "Camp field beside Sekinoo Falls, run jointly by Miyakonojo City and Snow Peak."
+    "en": "Camp field beside Sekinoo Falls, run jointly by Miyakonojo City and Snow Peak.",
+    "ko": "세키노오 폭포 옆, 미야코노조시와 스노우피크의 관민 연계 캠프 필드."
   },
   "tags": null,
   "features": [

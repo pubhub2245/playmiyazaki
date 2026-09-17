@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎パブリックゴルフ",
-    "en": "Miyazaki Public Golf"
+    "en": "Miyazaki Public Golf",
+    "ko": "미야자키 퍼블릭 골프"
   },
   "address": {
     "ja": "宮崎県宮崎市田吉松崎4979-58",
-    "en": "4979-58 Matsuzaki, Tayoshi, Miyazaki-shi, Miyazaki"
+    "en": "4979-58 Matsuzaki, Tayoshi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 田吉松崎4979-58"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "18H 平日 3,700〜4,000円／土日祝 4,600〜4,900円、9H 平日 2,400円／土日祝 2,800円。貸クラブ 1セット 2,000円、シューズ 500円、パター無料。",
-    "en": "18H weekday 3,700–4,000 yen / weekend 4,600–4,900 yen; 9H weekday 2,400 yen / weekend 2,800 yen. Club rental 2,000 yen per set, shoes 500 yen, putter free."
+    "en": "18H weekday 3,700–4,000 yen / weekend 4,600–4,900 yen; 9H weekday 2,400 yen / weekend 2,800 yen. Club rental 2,000 yen per set, shoes 500 yen, putter free.",
+    "ko": "18홀 평일 3,700~4,000엔 / 주말·공휴일 4,600~4,900엔, 9홀 평일 2,400엔 / 주말·공휴일 2,800엔. 클럽 대여 1세트 2,000엔, 슈즈 500엔, 퍼터무료. "
   },
   "description": {
     "ja": "田吉の9Hパブリックコース。5日前までネット予約可。食堂あり。",
-    "en": "Nine-hole public course in Tayoshi. Online booking up to five days ahead. Canteen on site."
+    "en": "Nine-hole public course in Tayoshi. Online booking up to five days ahead. Canteen on site.",
+    "ko": "다요시의 9홀 퍼블릭 코스. 5일 전까지 온라인 예약 가능. 식당 있음."
   },
   "tags": null,
   "features": [

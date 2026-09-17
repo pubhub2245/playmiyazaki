@@ -8,11 +8,13 @@
   "area": "hyuga",
   "name": {
     "ja": "DOG RUN & CAMP FIELD SUZU",
-    "en": "Dog Run & Camp Field Suzu"
+    "en": "Dog Run & Camp Field Suzu",
+    "ko": "DOG RUN & CAMP FIELD SUZU"
   },
   "address": {
     "ja": "宮崎県日向市日知屋682-192",
-    "en": "682-192 Hichiya, Hyuga-shi, Miyazaki"
+    "en": "682-192 Hichiya, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 日知屋682-192"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "RVパーク 3,500円／1台・1泊。電源 1,000円／15A。ダンプステーション 500円。給水・ダンプのみ立ち寄り 1,000円。シャワー 大人500円・小学生以下300円。",
-    "en": "RV park 3,500 yen/vehicle/night. Power 1,000 yen/15A. Dump station 500 yen. Water/dump drop-in only 1,000 yen. Shower 500 yen/adult, 300 yen/child."
+    "en": "RV park 3,500 yen/vehicle/night. Power 1,000 yen/15A. Dump station 500 yen. Water/dump drop-in only 1,000 yen. Shower 500 yen/adult, 300 yen/child.",
+    "ko": "RV 파크 3,500엔 / 1대・1박. 전원 1,000엔 / 15A. 덤프 스테이션 500엔. 급수・덤프のみ잠깐 1,000엔. 샤워 대인500엔・초등학생 이하300엔. "
   },
   "description": {
     "ja": "貸切キャンプ場とドッグランに、JRVA認定RVパークを併設。",
-    "en": "Private camp with dog run and a JRVA-certified RV park on the same site."
+    "en": "Private camp with dog run and a JRVA-certified RV park on the same site.",
+    "ko": "전세 캠프장과 도그런에 JRVA 인증 RV 파크를 병설."
   },
   "tags": null,
   "features": [

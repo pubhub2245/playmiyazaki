@@ -7,11 +7,13 @@
   "area": "shintomi",
   "name": {
     "ja": "一ツ瀬川県民ゴルフ場",
-    "en": "Hitotsusegawa Kenmin Golf Course"
+    "en": "Hitotsusegawa Kenmin Golf Course",
+    "ko": "히토쓰세가와 현민 골프장"
   },
   "address": {
     "ja": "宮崎県児湯郡新富町新田2591",
-    "en": "2591 Nyuta, Shintomi-cho, Koyu-gun, Miyazaki"
+    "en": "2591 Nyuta, Shintomi-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 신토미초 新田2591"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "新富町の県民ゴルフ場。18H・パー70・5,710ヤード。クラブとシューズのレンタル、練習場とアプローチ練習場あり。",
-    "en": "Prefectural 18-hole par-70 course, 5,710 yards, in Shintomi. Club and shoe rental, practice range and approach area."
+    "en": "Prefectural 18-hole par-70 course, 5,710 yards, in Shintomi. Club and shoe rental, practice range and approach area.",
+    "ko": "신토미초의 현립 18홀 파70·5,710야드 코스. 클럽·슈즈 대여, 연습장과 어프로치 연습장 있음."
   },
   "tags": null,
   "features": [

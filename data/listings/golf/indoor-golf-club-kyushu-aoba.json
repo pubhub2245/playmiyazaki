@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "インドアゴルフクラブ九州 青葉店",
-    "en": "Indoor Golf Club Kyushu Aoba"
+    "en": "Indoor Golf Club Kyushu Aoba",
+    "ko": "인도어 골프 클럽 규슈 아오바점"
   },
   "address": {
     "ja": "宮崎県宮崎市青葉町92-2",
-    "en": "92-2 Aoba-cho, Miyazaki-shi, Miyazaki"
+    "en": "92-2 Aoba-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 青葉町92-2"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "入会金 6,000円。月額 シルバー会員 14,000円（税込、毎日55分）／ゴールド会員 20,000円（税込、毎日115分）。延長チケット 1,100円／55分。",
-    "en": "Enrollment 6,000 yen. Silver 14,000 yen/month (tax incl., 55 min/day) or Gold 20,000 yen/month (115 min/day). Extension ticket 1,100 yen/55 min."
+    "en": "Enrollment 6,000 yen. Silver 14,000 yen/month (tax incl., 55 min/day) or Gold 20,000 yen/month (115 min/day). Extension ticket 1,100 yen/55 min.",
+    "ko": "입회비 6,000엔. 월 실버 회원 14,000엔 (부가세 포함, 毎일55분) / 골드 회원 20,000엔 (부가세 포함, 毎일115분) . 연장 티켓 1,100엔 / 55분. "
   },
   "description": {
     "ja": "宮崎市青葉町のインドア練習場。シミュレーターとパター練習。会員制。無料体験あり。",
-    "en": "Indoor range in Aoba-cho, Miyazaki City. Simulator and putting area. Members only, free trial available."
+    "en": "Indoor range in Aoba-cho, Miyazaki City. Simulator and putting area. Members only, free trial available.",
+    "ko": "미야자키시 아오바초의 인도어 연습장. 시뮬레이터와 퍼팅 공간. 회원제, 무료 체험 가능."
   },
   "tags": null,
   "features": [

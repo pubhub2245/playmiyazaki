@@ -7,6 +7,7 @@ import { FEATURE_MIN_COUNT } from "@/lib/coverage";
 const LABEL = {
   ja: "特徴で絞る",
   en: "Filter by feature",
+  ko: "특징으로 필터",
 };
 
 export function FeatureChips({

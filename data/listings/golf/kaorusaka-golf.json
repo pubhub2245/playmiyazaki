@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "薫る坂ゴルフ練習場",
-    "en": "Kaoruzaka Golf Range"
+    "en": "Kaoruzaka Golf Range",
+    "ko": "가오루자카 골프 연습장"
   },
   "address": {
     "ja": "宮崎県宮崎市古城町南田6473-2",
-    "en": "6473-2 Minamida, Furujo-cho, Miyazaki-shi, Miyazaki"
+    "en": "6473-2 Minamida, Furujo-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 古城町南田6473-2"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "貸クラブ 200円／本。",
-    "en": "Club rental 200 yen per club."
+    "en": "Club rental 200 yen per club.",
+    "ko": "클럽 대여 200엔 / 개. "
   },
   "description": {
     "ja": "宮崎市古城町の200ヤード・76打席の練習場。照明は無料。",
-    "en": "200-yard, 76-bay range in Furujo, Miyazaki City. Free floodlights."
+    "en": "200-yard, 76-bay range in Furujo, Miyazaki City. Free floodlights.",
+    "ko": "미야자키시 후루조초의 200야드·76타석 연습장. 조명 무료."
   },
   "tags": null,
   "features": [

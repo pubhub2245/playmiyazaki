@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "白鳥温泉 下湯",
-    "en": "Shiratori Onsen Shimoyu"
+    "en": "Shiratori Onsen Shimoyu",
+    "ko": "시라토리 온천 시모유"
   },
   "address": {
     "ja": "宮崎県えびの市末永1470",
-    "en": "1470 Suenaga, Ebino-shi, Miyazaki"
+    "en": "1470 Suenaga, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 末永1470"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "えびの高原ふもとの日帰り温泉。庭園の露天風呂と貸切風呂がある。",
-    "en": "Day-use hot spring at the foot of the Ebino Highlands, with a garden outdoor bath and private baths."
+    "en": "Day-use hot spring at the foot of the Ebino Highlands, with a garden outdoor bath and private baths.",
+    "ko": "에비노 고원 기슭의 당일 온천. 정원 노천탕과 대절탕이 있음."
   },
   "tags": null,
   "features": [

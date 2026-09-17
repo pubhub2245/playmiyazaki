@@ -7,11 +7,13 @@
   "area": "mimata",
   "name": {
     "ja": "旭ヶ丘ゴルフリゾート",
-    "en": "Asahigaoka Golf Resort"
+    "en": "Asahigaoka Golf Resort",
+    "ko": "아사히가오카 골프 리조트"
   },
   "address": {
     "ja": "宮崎県北諸県郡三股町蓼池5200",
-    "en": "5200 Tadeike, Mimata-cho, Kita-Morokata-gun, Miyazaki"
+    "en": "5200 Tadeike, Mimata-cho, Kita-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 기타모로카타군 미마타초 蓼池5200"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "打席料 一般 1,300円（平日）／1,400円（土日祝）、ショートコース 一般 2,000円（平日）／2,100円（土日祝、カート付）、貸クラブ一式 500円。",
-    "en": "Driving range 1,300 yen weekday / 1,400 yen weekend, short course 2,000 / 2,100 yen with cart, club rental 500 yen per set."
+    "en": "Driving range 1,300 yen weekday / 1,400 yen weekend, short course 2,000 / 2,100 yen with cart, club rental 500 yen per set.",
+    "ko": "타석 요금 일반 1,300엔 (평일) / 1,400엔 (주말·공휴일) , 쇼트 코스 일반 2,000엔 (평일) / 2,100엔 (주말·공휴일, 카트 포함) , 클럽 대여 세트 500엔. "
   },
   "description": {
     "ja": "三股町の250ヤード練習場。LED照明でナイター可。ショートコース併設。クラブレンタルとスクールあり。",
-    "en": "250-yard range in Mimata with LED lighting for night play. Short course on site, club rental and lessons."
+    "en": "250-yard range in Mimata with LED lighting for night play. Short course on site, club rental and lessons.",
+    "ko": "미마타의 250야드 연습장. LED 조명으로 야간 가능. 쇼트 코스 병설, 클럽 렌탈 및 레슨 있음."
   },
   "tags": null,
   "features": [

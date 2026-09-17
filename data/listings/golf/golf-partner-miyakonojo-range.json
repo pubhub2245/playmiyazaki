@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "ゴルフパートナー 都城練習場店",
-    "en": "Golf Partner Miyakonojo Range"
+    "en": "Golf Partner Miyakonojo Range",
+    "ko": "골프 파트너 미야코노조 연습장점"
   },
   "address": {
     "ja": "宮崎県都城市若葉町54-7",
-    "en": "54-7 Wakaba-cho, Miyakonojo-shi, Miyazaki"
+    "en": "54-7 Wakaba-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 若葉町54-7"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "都城市若葉町の練習場。照明あり。ショップ・試打室・弾道測定・工房を併設。レッスン対応。",
-    "en": "Range in Wakaba, Miyakonojo, with floodlights, a shop, fitting bay, launch monitor and club workshop. Lessons available."
+    "en": "Range in Wakaba, Miyakonojo, with floodlights, a shop, fitting bay, launch monitor and club workshop. Lessons available.",
+    "ko": "미야코노조 와카바초의 연습장. 조명 있음. 숍·시타실·탄도 측정·공방 병설. 레슨 가능."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "矢岳高原ベルトンオートキャンプ場",
-    "en": "Yatake Kogen Belton Auto Camp"
+    "en": "Yatake Kogen Belton Auto Camp",
+    "ko": "야타케 고원 벨턴 오토캠프장"
   },
   "address": {
     "ja": "宮崎県えびの市大字西川北1377-2",
-    "en": "1377-2 Nishikawakita, Ebino-shi, Miyazaki"
+    "en": "1377-2 Nishikawakita, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 大字西川北1377-2"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "電源ありサイト 宿泊 4,710円（電源不使用 3,670円）。電源なしサイト 宿泊 3,670円。キャンピングカーサイト 5,760円（電源あり）。ドッグランサイト 9,420円（電源あり・2区画分）。",
-    "en": "Power site 4,710 yen (3,670 yen without power). No-power site 3,670 yen. RV site 5,760 yen (with power). Dog-run site 9,420 yen (with power, 2 pitches)."
+    "en": "Power site 4,710 yen (3,670 yen without power). No-power site 3,670 yen. RV site 5,760 yen (with power). Dog-run site 9,420 yen (with power, 2 pitches).",
+    "ko": "전원 있음サイト 숙박 4,710엔 (전원 미사용 3,670엔) . 전원 없음サイト 숙박 3,670엔. 캠핑카 사이트 5,760엔 (전원 있음) . 도그런サイト 9,420엔 (전원 있음・2구획分) . "
   },
   "description": {
     "ja": "えびの市の矢岳高原にあるオートキャンプ場。展望台からえびの盆地を見渡せる。",
-    "en": "Auto camp on the Yatake Highlands in Ebino. The lookout takes in the Ebino basin."
+    "en": "Auto camp on the Yatake Highlands in Ebino. The lookout takes in the Ebino basin.",
+    "ko": "에비노시 야타케 고원의 오토캠프장. 전망대에서 에비노 분지를 조망."
   },
   "tags": null,
   "features": [

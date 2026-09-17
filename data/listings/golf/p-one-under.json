@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "P-One Under INDOOR GOLF BASE",
-    "en": "P-One Under Indoor Golf Base"
+    "en": "P-One Under Indoor Golf Base",
+    "ko": "P-One Under 인도어 골프 베이스"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通東3-1-11 B1F",
-    "en": "B1F, 3-1-11 Tachibana-dori Higashi, Miyazaki-shi, Miyazaki"
+    "en": "B1F, 3-1-11 Tachibana-dori Higashi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通東3-1-11 B1F"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市橘通東のインドア練習場。弾道測定と1000fpsカメラ。プロレッスンあり。道具のレンタルはなし。",
-    "en": "Indoor range on Tachibana-dori Higashi, Miyazaki City. Launch monitor and 1000fps camera, pro lessons. No equipment rental."
+    "en": "Indoor range on Tachibana-dori Higashi, Miyazaki City. Launch monitor and 1000fps camera, pro lessons. No equipment rental.",
+    "ko": "미야자키시 다치바나도리히가시의 인도어 연습장. 탄도 측정과 1000fps 카메라. 프로 레슨. 장비 대여 없음."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "東海ゴルフアリーナ",
-    "en": "Tokai Golf Arena"
+    "en": "Tokai Golf Arena",
+    "ko": "도카이 골프 아레나"
   },
   "address": {
     "ja": "宮崎県延岡市牧町4740",
-    "en": "4740 Maki-machi, Nobeoka-shi, Miyazaki"
+    "en": "4740 Maki-machi, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 牧町4740"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "延岡市牧町の160ヤード・53打席の練習場。打ち放題あり。ショートコース、バンカー・アプローチ・パター練習場、工房を併設。",
-    "en": "160-yard, 53-bay range in Maki, Nobeoka. All-you-can-hit option, short course, bunker, approach and putting areas, and a workshop."
+    "en": "160-yard, 53-bay range in Maki, Nobeoka. All-you-can-hit option, short course, bunker, approach and putting areas, and a workshop.",
+    "ko": "노베오카 마키마치의 160야드·53타석 연습장. 무제한 타격 옵션, 쇼트 코스, 벙커·어프로치·퍼팅 연습장, 공방 병설."
   },
   "tags": null,
   "features": [

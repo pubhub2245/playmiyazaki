@@ -30,26 +30,31 @@ export function monogramText(name: string): string {
 const VERIFIED_LABEL = {
   ja: "確認済み",
   en: "Verified",
+  ko: "확인 완료",
 };
 
 const CATEGORY_LABEL = {
   ja: "種類",
   en: "Type",
+  ko: "종류",
 };
 
 const AREA_LABEL = {
   ja: "エリア",
   en: "Area",
+  ko: "지역",
 };
 
 const PRICE_LABEL = {
   ja: "料金",
   en: "Price",
+  ko: "요금",
 };
 
 const FEATURED_LABEL = {
   ja: "掲載枠",
   en: "Featured",
+  ko: "추천 게재",
 };
 
 const MORE_LABEL = (n: number) => `+${n}`;

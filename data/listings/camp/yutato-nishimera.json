@@ -7,11 +7,13 @@
   "area": "nishimera",
   "name": {
     "ja": "西米良温泉 カリコボーズの湯 ゆた〜と",
-    "en": "Nishimera Onsen Yutato"
+    "en": "Nishimera Onsen Yutato",
+    "ko": "니시메라 온천 카리코보즈의 탕 유타~토"
   },
   "address": {
     "ja": "宮崎県児湯郡西米良村大字村所260-6",
-    "en": "260-6 Murasho, Nishimera-son, Koyu-gun, Miyazaki"
+    "en": "260-6 Murasho, Nishimera-son, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 니시메라손 大字村所260-6"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入浴 大人500円、小・中学生250円、未就学児 無料。貸切風呂 1,500円／1時間（別途入浴料）。",
-    "en": "Bath 500 yen/adult, 250 yen/elementary–middle school, free for preschoolers. Private bath 1,500 yen/hour (bath fee extra)."
+    "en": "Bath 500 yen/adult, 250 yen/elementary–middle school, free for preschoolers. Private bath 1,500 yen/hour (bath fee extra).",
+    "ko": "입욕 대인500엔, 小・중학생250엔, 미취학 아동 무료. 대절탕 1,500엔 / 1시간 (입욕료 별도) . "
   },
   "description": {
     "ja": "西米良村の中心にある日帰り温泉。カリコボーズという地元の妖怪が名前の由来。",
-    "en": "Day-use hot spring in central Nishimera, named after the local Karikobōzu folklore spirits."
+    "en": "Day-use hot spring in central Nishimera, named after the local Karikobōzu folklore spirits.",
+    "ko": "니시메라손 중심부의 당일 온천. 지역 요괴 카리코보즈에서 이름 유래."
   },
   "tags": null,
   "features": [

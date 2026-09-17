@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "このはなの湯（宮崎市自然休養村センター）",
-    "en": "Konohana-no-Yu"
+    "en": "Konohana-no-Yu",
+    "ko": "고노하나의 탕 (미야자키시 자연 휴양촌 센터)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字加江田6896",
-    "en": "6896 Kaeda, Miyazaki-shi, Miyazaki"
+    "en": "6896 Kaeda, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 大字加江田6896"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "入浴 一般500円、中学生以下400円。宿泊（1泊2食付・入浴料込）一般6,240円〜（素泊まり3,240円〜）。",
-    "en": "Bath 500 yen/adult, 400 yen/child. Lodging (1 night + 2 meals, bath incl.) from 6,240 yen/adult (room only from 3,240 yen)."
+    "en": "Bath 500 yen/adult, 400 yen/child. Lodging (1 night + 2 meals, bath incl.) from 6,240 yen/adult (room only from 3,240 yen).",
+    "ko": "입욕 一般500엔, 중학생 이하400엔. 숙박 (1박 2식 포함・입욕료포함) 一般6,240엔~ (숙박만3,240엔~) . "
   },
   "description": {
     "ja": "宮崎市加江田にある市営の日帰り入浴施設。青島から車で近い。",
-    "en": "City-run day-use bathhouse in Kaeda, Miyazaki. Short drive from Aoshima."
+    "en": "City-run day-use bathhouse in Kaeda, Miyazaki. Short drive from Aoshima.",
+    "ko": "미야자키시 가에다의 시영 당일 입욕 시설. 아오시마에서 차로 가까움."
   },
   "tags": null,
   "features": [

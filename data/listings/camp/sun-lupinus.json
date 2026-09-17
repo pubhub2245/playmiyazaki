@@ -7,11 +7,13 @@
   "area": "shintomi",
   "name": {
     "ja": "新富町温泉健康センター サン・ルピナス",
-    "en": "Sun Lupinus"
+    "en": "Sun Lupinus",
+    "ko": "선 루피너스"
   },
   "address": {
     "ja": "宮崎県児湯郡新富町三納代1859-1",
-    "en": "1859-1 Minoushiro, Shintomi-cho, Koyu-gun, Miyazaki"
+    "en": "1859-1 Minoushiro, Shintomi-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 신토미초 三納代1859-1"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "大人 500円",
-    "en": "Adult 500 yen"
+    "en": "Adult 500 yen",
+    "ko": "대인 500엔"
   },
   "description": {
     "ja": "新富町のラジウム温泉。町営の日帰り施設。",
-    "en": "Municipal day-use radium hot spring in Shintomi."
+    "en": "Municipal day-use radium hot spring in Shintomi.",
+    "ko": "신토미초의 라듐 온천. 정영 당일 시설."
   },
   "tags": null,
   "features": [

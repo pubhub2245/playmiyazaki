@@ -7,11 +7,13 @@
   "area": "morotsuka",
   "name": {
     "ja": "池の窪グリーンパーク",
-    "en": "Ikenokubo Green Park"
+    "en": "Ikenokubo Green Park",
+    "ko": "이케노쿠보 그린 파크"
   },
   "address": {
     "ja": "宮崎県東臼杵郡諸塚村家代3574-2",
-    "en": "3574-2 Iejiro, Morotsuka-son, Higashi-Usuki-gun, Miyazaki"
+    "en": "3574-2 Iejiro, Morotsuka-son, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 모로쓰카손 家代3574-2"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入場料 200円／人・泊（高校生以下無料）。テントサイト 1,000〜2,500円／区画。ログハウス 5人棟12,000円／棟、10人棟20,000円／棟（税込）。コインシャワー 100円／7分。",
-    "en": "Entry 200 yen/person/night (free for high school and under). Tent site 1,000–2,500 yen/pitch. Log house 12,000 yen (5-person) / 20,000 yen (10-person) per unit (tax incl.). Coin shower 100 yen/7 min."
+    "en": "Entry 200 yen/person/night (free for high school and under). Tent site 1,000–2,500 yen/pitch. Log house 12,000 yen (5-person) / 20,000 yen (10-person) per unit (tax incl.). Coin shower 100 yen/7 min.",
+    "ko": "입장료 200엔 / 인・박 (고등학생 이하무료) . 텐트 사이트 1,000~2,500엔 / 구획. 로그 하우스 5인 동12,000엔 / 동, 10인 동20,000엔 / 동 (부가세 포함) . 코인 샤워 100엔 / 7분. "
   },
   "description": {
     "ja": "標高約800mにある諸塚村のキャンプ場。バンガローとテントサイト。",
-    "en": "Morotsuka Village campsite at around 800 m elevation, with bungalows and tent sites."
+    "en": "Morotsuka Village campsite at around 800 m elevation, with bungalows and tent sites.",
+    "ko": "해발 약 800m의 모로쓰카손 캠프장. 방갈로와 텐트 사이트."
   },
   "tags": null,
   "features": [

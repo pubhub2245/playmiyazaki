@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "京町観光ホテル",
-    "en": "Kyomachi Kanko Hotel"
+    "en": "Kyomachi Kanko Hotel",
+    "ko": "교마치 관광 호텔"
   },
   "address": {
     "ja": "宮崎県えびの市向江669",
-    "en": "669 Mukae, Ebino-shi, Miyazaki"
+    "en": "669 Mukae, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 向江669"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "立ち寄り湯 大人（中学生以上）500円、幼児（3歳〜小学生）200円、2歳以下 無料。",
-    "en": "Day-use bath 500 yen/adult (middle school+), 200 yen/child (3–elementary), free under 3."
+    "en": "Day-use bath 500 yen/adult (middle school+), 200 yen/child (3–elementary), free under 3.",
+    "ko": "잠깐 온천 대인 (중학생 이상) 500엔, 유아 (3세~초등학생) 200엔, 2세 이하 무료. "
   },
   "description": {
     "ja": "京町温泉のホテル。立ち寄り湯もできる。",
-    "en": "Hotel in the Kyomachi Onsen area that also welcomes day-use bathers."
+    "en": "Hotel in the Kyomachi Onsen area that also welcomes day-use bathers.",
+    "ko": "교마치 온천의 호텔. 잠깐 온천도 가능."
   },
   "tags": null,
   "features": [

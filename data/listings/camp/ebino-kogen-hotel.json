@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "えびの高原ホテル（国民宿舎えびの高原荘）",
-    "en": "Ebino Kogen Hotel"
+    "en": "Ebino Kogen Hotel",
+    "ko": "에비노 고원 호텔 (국민 숙사 에비노 고원소)"
   },
   "address": {
     "ja": "宮崎県えびの市大字末永1489",
-    "en": "1489 Suenaga, Ebino-shi, Miyazaki"
+    "en": "1489 Suenaga, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 大字末永1489"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "日帰り入浴 大人 800円、小人 500円。",
-    "en": "Day-use bath 800 yen/adult, 500 yen/child."
+    "en": "Day-use bath 800 yen/adult, 500 yen/child.",
+    "ko": "당일 입욕 대인 800엔, 소인 500엔. "
   },
   "description": {
     "ja": "えびの高原の県営国民宿舎。日帰り入浴もできる。",
-    "en": "Prefectural lodge on the Ebino Highlands. Day-use bathing available."
+    "en": "Prefectural lodge on the Ebino Highlands. Day-use bathing available.",
+    "ko": "에비노 고원의 현립 국민 숙사. 당일 입욕도 가능."
   },
   "tags": null,
   "features": [

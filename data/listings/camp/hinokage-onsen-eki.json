@@ -7,11 +7,13 @@
   "area": "hinokage",
   "name": {
     "ja": "日之影温泉駅",
-    "en": "Hinokage Onsen Eki"
+    "en": "Hinokage Onsen Eki",
+    "ko": "히노카게 온천역"
   },
   "address": {
     "ja": "宮崎県西臼杵郡日之影町大字七折3235-5",
-    "en": "3235-5 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "3235-5 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 히노카게초 大字七折3235-5"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "大人 500円",
-    "en": "Adult 500 yen"
+    "en": "Adult 500 yen",
+    "ko": "대인 500엔"
   },
   "description": {
     "ja": "旧高千穂鉄道の日之影駅を再利用した日帰り温泉施設。",
-    "en": "Day-use hot spring housed in the former Hinokage station of the Takachiho Railway."
+    "en": "Day-use hot spring housed in the former Hinokage station of the Takachiho Railway.",
+    "ko": "옛 다카치호 철도의 히노카게역을 재이용한 당일 온천 시설."
   },
   "tags": null,
   "features": [

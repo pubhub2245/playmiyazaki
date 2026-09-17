@@ -7,11 +7,13 @@
   "area": "gokase",
   "name": {
     "ja": "カタラウスタンド",
-    "en": "Kataraustand"
+    "en": "Kataraustand",
+    "ko": "카타라우스탠드"
   },
   "address": {
     "ja": "宮崎県西臼杵郡五ヶ瀬町三ヶ所8282-7",
-    "en": "8282-7 Sangasho, Gokase-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "8282-7 Sangasho, Gokase-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 고카세초 三ヶ所8282-7"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "五ヶ瀬町の川ぞいのフリーサイト。ペット可。",
-    "en": "Riverside free-site camp in Gokase. Pets welcome."
+    "en": "Riverside free-site camp in Gokase. Pets welcome.",
+    "ko": "고카세초의 강변 프리사이트. 반려동물 가능."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "morotsuka",
   "name": {
     "ja": "諸塚山 渓流の里",
-    "en": "Morotsuka-yama Keiryu-no-Sato"
+    "en": "Morotsuka-yama Keiryu-no-Sato",
+    "ko": "모로쓰카산 계류의 마을"
   },
   "address": {
     "ja": "宮崎県東臼杵郡諸塚村七ツ山8650-2",
-    "en": "8650-2 Nanatsuyama, Morotsuka-son, Higashi-Usuki-gun, Miyazaki"
+    "en": "8650-2 Nanatsuyama, Morotsuka-son, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 모로쓰카손 七ツ山8650-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "諸塚山ぞいの渓流にあるキャンプ場。",
-    "en": "Riverside campground along a stream near Mount Morotsuka."
+    "en": "Riverside campground along a stream near Mount Morotsuka.",
+    "ko": "모로쓰카산변의 계류에 있는 캠프장."
   },
   "tags": null,
   "features": [

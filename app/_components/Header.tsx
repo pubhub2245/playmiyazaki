@@ -9,6 +9,7 @@ import { urlGenre } from "@/lib/url";
 const SUBMIT_LABEL = {
   ja: "掲載を申請する",
   en: "Submit a listing",
+  ko: "게재 신청하기",
 };
 
 export function Header({ lang }: { lang: Lang }) {

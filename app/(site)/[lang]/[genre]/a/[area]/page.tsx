@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, type Lang } from "@/lib/i18n";
+import { LANGS, parseLang, type Lang } from "@/lib/i18n";
 import { absolute, urlArea, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
@@ -30,33 +30,62 @@ export function generateStaticParams() {
   return params;
 }
 
+const SPOT_LABEL: Record<Lang, string> = {
+  ja: "スポット",
+  en: "places",
+  ko: "스팟",
+};
+
+function areaTitle(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  area: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `${area.ja}の${genre.ja}一覧`;
+  if (lang === "ko") return `${area.ko}의 ${genre.ko} 목록`;
+  return `${genre.en} in ${area.en}`;
+}
+
+function areaDescription(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  area: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `${area.ja}の${genre.ja}を出典URL付きで一覧にしています。`;
+  if (lang === "ko") return `${area.ko}의 ${genre.ko}을(를) 출처 URL과 함께 정리한 목록입니다.`;
+  return `A source-linked directory of ${genre.en.toLowerCase()} in ${area.en}.`;
+}
+
+function areaHeading(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  area: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `${area.ja}の${genre.ja}`;
+  if (lang === "ko") return `${area.ko}의 ${genre.ko}`;
+  return `${genre.en} in ${area.en}`;
+}
+
 export function generateMetadata({ params }: Props): Metadata {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const area = taxonomy.areas.find((a) => a.slug === params.area);
   if (!genre || !area) return {};
-  const title =
-    lang === "ja" ? `${area.ja}の${genre.ja}一覧` : `${genre.en} in ${area.en}`;
-  const description =
-    lang === "ja"
-      ? `${area.ja}の${genre.ja}を出典URL付きで一覧にしています。`
-      : `A source-linked directory of ${genre.en.toLowerCase()} in ${area.en}.`;
+  const languages: Record<string, string> = {};
+  for (const l of LANGS) languages[l] = absolute(urlArea(l, params.genre, params.area));
   return {
-    title,
-    description,
+    title: areaTitle(lang, genre, area),
+    description: areaDescription(lang, genre, area),
     alternates: {
       canonical: absolute(urlArea(lang, params.genre, params.area)),
-      languages: {
-        ja: absolute(urlArea("ja", params.genre, params.area)),
-        en: absolute(urlArea("en", params.genre, params.area)),
-      },
+      languages,
     },
   };
 }
 
 export default function AreaPage({ params }: Props) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const area = taxonomy.areas.find((a) => a.slug === params.area);
@@ -76,16 +105,16 @@ export default function AreaPage({ params }: Props) {
         lang={lang}
         crumbs={[
           { label: "Play Miyazaki", href: urlHome(lang) },
-          { label: lang === "ja" ? genre.ja : genre.en, href: urlGenre(lang, params.genre) },
-          { label: lang === "ja" ? area.ja : area.en },
+          { label: genre[lang], href: urlGenre(lang, params.genre) },
+          { label: area[lang] },
         ]}
       />
       <div>
         <h1 className="font-display font-bold text-[28px] leading-tight text-text-primary">
-          {lang === "ja" ? `${area.ja}の${genre.ja}` : `${genre.en} in ${area.en}`}
+          {areaHeading(lang, genre, area)}
         </h1>
         <p className="pm-mono text-[12px] text-text-secondary mt-1">
-          {filtered.length} {lang === "ja" ? "スポット" : "places"}
+          {filtered.length} {SPOT_LABEL[lang]}
         </p>
       </div>
 

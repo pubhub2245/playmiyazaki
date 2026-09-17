@@ -12,16 +12,19 @@ export type FilterableItem = RowData & {
 const PLACEHOLDER = {
   ja: "名前・エリアで探す",
   en: "Search by name or area",
+  ko: "이름·지역으로 검색",
 };
 
 const EMPTY = {
   ja: "見つかりませんでした。別の言葉で探してください。",
   en: "No matches. Try a different word.",
+  ko: "결과가 없습니다. 다른 검색어를 시도해 보세요.",
 };
 
 const SEARCH_LABEL = {
   ja: "スポットを絞り込む",
   en: "Filter listings",
+  ko: "스팟 필터링",
 };
 
 export function FilterableList({

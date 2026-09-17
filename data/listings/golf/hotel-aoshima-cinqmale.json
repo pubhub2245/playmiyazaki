@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ホテル青島サンクマール",
-    "en": "Hotel Aoshima Cinqmale"
+    "en": "Hotel Aoshima Cinqmale",
+    "ko": "호텔 아오시마 상크말"
   },
   "address": {
     "ja": "宮崎県宮崎市折生迫7408",
-    "en": "7408 Orio-zako, Miyazaki-shi, Miyazaki"
+    "en": "7408 Orio-zako, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 折生迫7408"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "青島の宿。宮崎カントリークラブの18Hプレー（グリーンフィー・キャディフィー込）と宿泊のゴルフパックあり。4名1組、電話予約のみ。",
-    "en": "Hotel near Aoshima with a golf package: 18 holes at Miyazaki Country Club including green and caddie fees, plus a night. Four per group, phone booking."
+    "en": "Hotel near Aoshima with a golf package: 18 holes at Miyazaki Country Club including green and caddie fees, plus a night. Four per group, phone booking.",
+    "ko": "아오시마의 숙소. 미야자키 컨트리 클럽 18홀 플레이(그린피·캐디피 포함)와 숙박이 결합된 골프 패키지. 4명 1팀, 전화 예약만 가능."
   },
   "tags": null,
   "features": [],

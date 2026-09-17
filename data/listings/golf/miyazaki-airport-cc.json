@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎国際空港カントリークラブ",
-    "en": "Miyazaki Kokusai Airport Country Club"
+    "en": "Miyazaki Kokusai Airport Country Club",
+    "ko": "미야자키 국제 공항 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市田野町乙5030-2",
-    "en": "5030-2 Otsu, Tano-cho, Miyazaki-shi, Miyazaki"
+    "en": "5030-2 Otsu, Tano-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 田野町乙5030-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "田野町の18Hコース。宿泊ロッジ併設で1泊朝食・昼食付の宿泊ゴルフパックあり。レストランと宴会場あり。",
-    "en": "18-hole course in Tano. On-site lodge with a stay-and-play package including breakfast and lunch. Restaurant and banquet room."
+    "en": "18-hole course in Tano. On-site lodge with a stay-and-play package including breakfast and lunch. Restaurant and banquet room.",
+    "ko": "다노초의 18홀 코스. 숙박 로지 병설, 1박 조식·중식 포함 골프 패키지. 레스토랑과 연회장 있음."
   },
   "tags": null,
   "features": [

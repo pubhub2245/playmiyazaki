@@ -8,11 +8,13 @@
   "area": "kushima",
   "name": {
     "ja": "高松キャンプ公園",
-    "en": "Takamatsu Camp Park"
+    "en": "Takamatsu Camp Park",
+    "ko": "다카마쓰 캠프 공원"
   },
   "address": {
     "ja": "宮崎県串間市大字高松1233-6",
-    "en": "1233-6 Takamatsu, Kushima-shi, Miyazaki"
+    "en": "1233-6 Takamatsu, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 大字高松1233-6"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "オートキャンプサイト 3,850円／1泊。キャンピングカーサイト 4,950円／1泊。フリーテントサイト 1,650円／泊・550円／デイ。BBQサイト 330円。",
-    "en": "Auto camp site 3,850 yen/night. RV site 4,950 yen/night. Free tent site 1,650 yen/night or 550 yen/day. BBQ site 330 yen."
+    "en": "Auto camp site 3,850 yen/night. RV site 4,950 yen/night. Free tent site 1,650 yen/night or 550 yen/day. BBQ site 330 yen.",
+    "ko": "오토캠핑 사이트 3,850엔 / 1박. 캠핑카 사이트 4,950엔 / 1박. 프리 텐트 사이트 1,650엔 / 박・550엔 / デイ. BBQ 사이트 330엔. "
   },
   "description": {
     "ja": "高松海水浴場のとなり。フリー、オート、キャンピングカー、バーベキューの各サイトがある。",
-    "en": "Next to Takamatsu Beach. Free, auto, campervan, and BBQ sites available."
+    "en": "Next to Takamatsu Beach. Free, auto, campervan, and BBQ sites available.",
+    "ko": "다카마쓰 해수욕장 옆. 프리·오토·캠핑카·바비큐 사이트 보유."
   },
   "tags": null,
   "features": [

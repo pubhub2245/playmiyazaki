@@ -8,11 +8,13 @@
   "area": "takachiho",
   "name": {
     "ja": "オートキャンプ場in高千穂",
-    "en": "Autocamp in Takachiho"
+    "en": "Autocamp in Takachiho",
+    "ko": "다카치호 오토캠프장"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町三田井3121-2",
-    "en": "3121-2 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "3121-2 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 三田井3121-2"
   },
   "lat": null,
   "lng": null,
@@ -22,11 +24,13 @@
   "hours": null,
   "price": {
     "ja": "RVパーク 2,750円／台・1泊（税込）。入場料 大人550円・小学生330円。電源 550円／24時間。",
-    "en": "RV park 2,750 yen/vehicle/night (tax incl.). Entry 550 yen/adult, 330 yen/child. Power 550 yen/24h."
+    "en": "RV park 2,750 yen/vehicle/night (tax incl.). Entry 550 yen/adult, 330 yen/child. Power 550 yen/24h.",
+    "ko": "RV 파크 2,750엔 / 대・1박 (부가세 포함) . 입장료 대인550엔・초등학생330엔. 전원 550엔 / 24시간. "
   },
   "description": {
     "ja": "高千穂の中心部から車で約5分。同じ敷地にJRVA認定「RVパーク高千穂」を併設。",
-    "en": "About 5 minutes by car from central Takachiho. Includes the JRVA-certified RV Park Takachiho."
+    "en": "About 5 minutes by car from central Takachiho. Includes the JRVA-certified RV Park Takachiho.",
+    "ko": "다카치호 중심부에서 차로 5분. 같은 부지에 JRVA 인증 「RV 파크 다카치호」 병설."
   },
   "tags": null,
   "features": [

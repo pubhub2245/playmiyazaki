@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "牧水公園",
-    "en": "Bokusui Park"
+    "en": "Bokusui Park",
+    "ko": "보쿠스이 공원"
   },
   "address": {
     "ja": "宮崎県日向市東郷町坪谷1267",
-    "en": "1267 Tsuboya, Togo-cho, Hyuga-shi, Miyazaki"
+    "en": "1267 Tsuboya, Togo-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 東郷町坪谷1267"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "歌人・若山牧水の生家近くにある日向市東郷町の公園キャンプ場。",
-    "en": "Park campsite in Togo, Hyuga, near the birthplace of the poet Wakayama Bokusui."
+    "en": "Park campsite in Togo, Hyuga, near the birthplace of the poet Wakayama Bokusui.",
+    "ko": "가인·와카야마 보쿠스이의 생가 근처, 휴가시 도고초의 공원 캠프장."
   },
   "tags": null,
   "features": [],

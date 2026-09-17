@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "かかしの里 ゆぽっぽ",
-    "en": "Kakashi-no-Sato Yupoppo"
+    "en": "Kakashi-no-Sato Yupoppo",
+    "ko": "카카시노사토 유폿포"
   },
   "address": {
     "ja": "宮崎県都城市山田町中霧島3340-2",
-    "en": "3340-2 Naka-Kirishima, Yamada-cho, Miyakonojo-shi, Miyazaki"
+    "en": "3340-2 Naka-Kirishima, Yamada-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 山田町中霧島3340-2"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "大人（高校生以上）1回420円・1日630円。小人（3歳〜中学生）1回210円・1日310円。幼児 無料。",
-    "en": "Adult (high school+) 420 yen/entry, 630 yen/day. Child (3–middle school) 210 yen/entry, 310 yen/day. Infant free."
+    "en": "Adult (high school+) 420 yen/entry, 630 yen/day. Child (3–middle school) 210 yen/entry, 310 yen/day. Infant free.",
+    "ko": "대인 (고등학생 이상) 1회420엔・1일630엔. 소인 (3세~중학생) 1회210엔・1일310엔. 유아 무료. "
   },
   "description": {
     "ja": "都城市山田町の日帰り温泉。かかしの里の複合施設内。",
-    "en": "Day-use hot spring in Yamada, Miyakonojo, part of the Kakashi-no-Sato complex."
+    "en": "Day-use hot spring in Yamada, Miyakonojo, part of the Kakashi-no-Sato complex.",
+    "ko": "미야코노조시 야마다초의 당일 온천. 카카시노사토 복합 시설 내."
   },
   "tags": null,
   "features": [

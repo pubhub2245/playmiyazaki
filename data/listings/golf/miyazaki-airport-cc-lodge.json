@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎国際空港カントリークラブ ロッジ",
-    "en": "Miyazaki Kokusai Airport Country Club Lodge"
+    "en": "Miyazaki Kokusai Airport Country Club Lodge",
+    "ko": "미야자키 국제 공항 컨트리 클럽 로지"
   },
   "address": {
     "ja": "宮崎県宮崎市田野町乙5030-2",
-    "en": "5030-2 Otsu, Tano-cho, Miyazaki-shi, Miyazaki"
+    "en": "5030-2 Otsu, Tano-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 田野町乙5030-2"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "宿泊税 200円／人泊（2026年7月〜）。",
-    "en": "Accommodation tax 200 yen per person per night from July 2026."
+    "en": "Accommodation tax 200 yen per person per night from July 2026.",
+    "ko": "숙박세 200엔 / 인·박 (2026年7월~) . "
   },
   "description": {
     "ja": "ゴルフ場併設のロッジ。1泊朝食・昼食付の宿泊ゴルフパックあり。レストラン・浴室・宴会場あり。",
-    "en": "Lodge at the golf course. Stay-and-play package with breakfast and lunch, restaurant, bath and a banquet room."
+    "en": "Lodge at the golf course. Stay-and-play package with breakfast and lunch, restaurant, bath and a banquet room.",
+    "ko": "골프장 병설 로지. 1박 조식·중식 포함 골프 패키지. 레스토랑·욕실·연회장 있음."
   },
   "tags": null,
   "features": [

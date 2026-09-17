@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
-import { LANGS, type Lang } from "@/lib/i18n";
+import { LANGS, parseLang, pickHeading, type Lang } from "@/lib/i18n";
 import { absolute, urlFeature, urlGenre, urlHome } from "@/lib/url";
 import {
   areasWithListings,
@@ -32,32 +32,42 @@ export function generateStaticParams() {
   return params;
 }
 
+const SPOT_LABEL: Record<Lang, string> = {
+  ja: "スポット",
+  en: "places",
+  ko: "스팟",
+};
+
+function featureDescription(
+  lang: Lang,
+  genre: { ja: string; en: string; ko: string },
+  feature: { ja: string; en: string; ko: string },
+): string {
+  if (lang === "ja") return `出典で「${feature.ja}」と確認できた${genre.ja}スポットの一覧です。`;
+  if (lang === "ko") return `출처에서 「${feature.ko}」이(가) 확인된 ${genre.ko} 스팟 목록입니다.`;
+  return `Miyazaki ${genre.en.toLowerCase()} spots where "${feature.en.toLowerCase()}" is confirmed on the source.`;
+}
+
 export function generateMetadata({ params }: Props): Metadata {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const feature = (taxonomy.features[params.genre] ?? []).find((f) => f.slug === params.feature);
   if (!genre || !feature) return {};
-  const title = lang === "ja" ? feature.heading_ja : feature.heading_en;
-  const description =
-    lang === "ja"
-      ? `出典で「${feature.ja}」と確認できた${genre.ja}スポットの一覧です。`
-      : `Miyazaki ${genre.en.toLowerCase()} spots where "${feature.en.toLowerCase()}" is confirmed on the source.`;
+  const languages: Record<string, string> = {};
+  for (const l of LANGS) languages[l] = absolute(urlFeature(l, params.genre, params.feature));
   return {
-    title,
-    description,
+    title: pickHeading(feature, lang),
+    description: featureDescription(lang, genre, feature),
     alternates: {
       canonical: absolute(urlFeature(lang, params.genre, params.feature)),
-      languages: {
-        ja: absolute(urlFeature("ja", params.genre, params.feature)),
-        en: absolute(urlFeature("en", params.genre, params.feature)),
-      },
+      languages,
     },
   };
 }
 
 export default function FeaturePage({ params }: Props) {
-  const lang = (params.lang === "en" ? "en" : "ja") as Lang;
+  const lang = parseLang(params.lang);
   const taxonomy = loadTaxonomy();
   const genre = taxonomy.genres.find((g) => g.slug === params.genre);
   const feature = (taxonomy.features[params.genre] ?? []).find((f) => f.slug === params.feature);
@@ -76,17 +86,12 @@ export default function FeaturePage({ params }: Props) {
   const areaCounts = areaCountsForGenre(filtered);
   const catCounts = categoryCountsForGenre(filtered);
   const featCounts = featureCountsForGenre(listingsByGenre(params.genre));
-  // Reference these so unused-import warnings don't fire when we intentionally
-  // don't render specific chip rows here.
   void areasWithListings(params.genre);
   void categoriesWithListings(params.genre);
 
   const items = filtered.map((l) => listingToRow(l, taxonomy, lang));
-  const heading = lang === "ja" ? feature.heading_ja : feature.heading_en;
-  const definition =
-    lang === "ja"
-      ? `出典で「${feature.ja}」と確認できた${genre.ja}スポットの一覧です。`
-      : `Miyazaki ${genre.en.toLowerCase()} spots where "${feature.en.toLowerCase()}" is confirmed on the source.`;
+  const heading = pickHeading(feature, lang);
+  const definition = featureDescription(lang, genre, feature);
 
   return (
     <div className="space-y-6">
@@ -94,8 +99,8 @@ export default function FeaturePage({ params }: Props) {
         lang={lang}
         crumbs={[
           { label: "Play Miyazaki", href: urlHome(lang) },
-          { label: lang === "ja" ? genre.ja : genre.en, href: urlGenre(lang, params.genre) },
-          { label: lang === "ja" ? feature.ja : feature.en },
+          { label: genre[lang], href: urlGenre(lang, params.genre) },
+          { label: feature[lang] },
         ]}
       />
       <div>
@@ -103,7 +108,7 @@ export default function FeaturePage({ params }: Props) {
           {heading}
         </h1>
         <p className="pm-mono text-[12px] text-text-secondary mt-1">
-          {filtered.length} {lang === "ja" ? "スポット" : "places"}
+          {filtered.length} {SPOT_LABEL[lang]}
         </p>
         <p className="pm-prose mt-3">
           <span>{definition}</span>

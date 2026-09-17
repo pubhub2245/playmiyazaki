@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "サンキョウゴルフセンター",
-    "en": "Sankyo Golf Center"
+    "en": "Sankyo Golf Center",
+    "ko": "산쿄 골프 센터"
   },
   "address": {
     "ja": "宮崎県日南市隈谷乙1603",
-    "en": "1603 Otsu, Kumatani, Nichinan-shi, Miyazaki"
+    "en": "1603 Otsu, Kumatani, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 隈谷乙1603"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "貸クラブ 100円／本。",
-    "en": "Club rental 100 yen per club."
+    "en": "Club rental 100 yen per club.",
+    "ko": "클럽 대여 100엔 / 개. "
   },
   "description": {
     "ja": "日南市隈谷の200ヤード・23打席の練習場。照明は無料。パター・バンカー・アプローチの練習場あり。",
-    "en": "200-yard, 23-bay range in Kumatani, Nichinan. Free floodlights, with putting, bunker and approach areas."
+    "en": "200-yard, 23-bay range in Kumatani, Nichinan. Free floodlights, with putting, bunker and approach areas.",
+    "ko": "니치난시 구마타니의 200야드·23타석 연습장. 조명 무료. 퍼팅·벙커·어프로치 연습장 있음."
   },
   "tags": null,
   "features": [

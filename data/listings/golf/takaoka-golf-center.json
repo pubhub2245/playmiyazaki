@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "高岡ゴルフセンター",
-    "en": "Takaoka Golf Center"
+    "en": "Takaoka Golf Center",
+    "ko": "다카오카 골프 센터"
   },
   "address": {
     "ja": "宮崎県宮崎市高岡町高浜2569",
-    "en": "2569 Takahama, Takaoka-cho, Miyazaki-shi, Miyazaki"
+    "en": "2569 Takahama, Takaoka-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 高岡町高浜2569"
   },
   "lat": null,
   "lng": null,
@@ -24,11 +26,13 @@
   },
   "price": {
     "ja": "打席料 200円。パター練習場 500円、バンカー練習場 500円、照明代 無料。",
-    "en": "Bay fee 200 yen. Putting green 500 yen, bunker practice 500 yen, lighting free."
+    "en": "Bay fee 200 yen. Putting green 500 yen, bunker practice 500 yen, lighting free.",
+    "ko": "타석 요금 200엔. 퍼터練習場 500엔, 벙커練習場 500엔, 照明代 무료. "
   },
   "description": {
     "ja": "宮崎市高岡町の200ヤード・68打席の練習場。照明は無料。レンタルクラブあり。",
-    "en": "200-yard, 68-bay range in Takaoka, Miyazaki City. Free floodlights and club rental."
+    "en": "200-yard, 68-bay range in Takaoka, Miyazaki City. Free floodlights and club rental.",
+    "ko": "미야자키시 다카오카초의 200야드·68타석 연습장. 조명 무료, 클럽 렌탈 있음."
   },
   "tags": null,
   "features": [

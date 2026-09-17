@@ -2,7 +2,7 @@
 // 上書きされるので再実行しないこと。listing の正は JSON ファイルのほう。
 import fs from "node:fs";
 import path from "node:path";
-import { listingSchema, type Listing } from "../lib/types";
+import { listingSchema, type ListingInput as Listing } from "../lib/types";
 
 // Verification date of the candidate list these seeds are built from.
 const TODAY = "2026-09-15";

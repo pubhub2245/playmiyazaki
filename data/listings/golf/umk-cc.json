@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "UMKカントリークラブ",
-    "en": "UMK Country Club"
+    "en": "UMK Country Club",
+    "ko": "UMK 컨트리 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市新名爪坂ノ下2055",
-    "en": "2055 Sakanoshita, Niinazume, Miyazaki-shi, Miyazaki"
+    "en": "2055 Sakanoshita, Niinazume, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 新名爪坂ノ下2055"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "6〜9月 セルフ 平日 8,700円／土日祝 12,000円、キャディ付 12,550円／15,850円。10〜5月 セルフ 平日 15,250円／土日祝 23,300円、キャディ付 19,450円／27,500円。貸クラブ 4,400円／セット、シューズ 1,870円。ゴルフ場利用税・消費税込。",
-    "en": "Jun–Sep self-play weekday 8,700 yen / weekend 12,000 yen, with caddie 12,550 / 15,850 yen. Oct–May self-play weekday 15,250 / weekend 23,300 yen, with caddie 19,450 / 27,500 yen. Club rental 4,400 yen per set, shoes 1,870 yen. Golf usage tax and consumption tax included."
+    "en": "Jun–Sep self-play weekday 8,700 yen / weekend 12,000 yen, with caddie 12,550 / 15,850 yen. Oct–May self-play weekday 15,250 / weekend 23,300 yen, with caddie 19,450 / 27,500 yen. Club rental 4,400 yen per set, shoes 1,870 yen. Golf usage tax and consumption tax included.",
+    "ko": "6~9월 셀프 평일 8,700엔 / 주말·공휴일 12,000엔, 캐디 포함 12,550엔 / 15,850엔. 10~5월 셀프 평일 15,250엔 / 주말·공휴일 23,300엔, 캐디 포함 19,450엔 / 27,500엔. 클럽 대여 4,400엔 / 세트, 슈즈 1,870엔. 골프장 이용세·부가세포함. "
   },
   "description": {
     "ja": "宮崎市新名爪の18Hコース。アクサレディスの開催コース。練習場とレストランあり。ネット予約可。",
-    "en": "18-hole course in Niinazume, Miyazaki City. Hosts the AXA Ladies tournament. Practice range, restaurant and online booking."
+    "en": "18-hole course in Niinazume, Miyazaki City. Hosts the AXA Ladies tournament. Practice range, restaurant and online booking.",
+    "ko": "미야자키시 니이나즈메의 18홀 코스. AXA 레이디스 개최 코스. 연습장, 레스토랑, 온라인 예약 가능."
   },
   "tags": null,
   "features": [

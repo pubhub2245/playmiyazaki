@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "愛和宮崎ゴルフクラブ",
-    "en": "Aiwa Miyazaki Golf Club"
+    "en": "Aiwa Miyazaki Golf Club",
+    "ko": "아이와 미야자키 골프 클럽"
   },
   "address": {
     "ja": "宮崎県宮崎市佐土原町東上那珂105",
-    "en": "105 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki"
+    "en": "105 Higashi-Kaminaka, Sadowara-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 佐土原町東上那珂105"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +27,8 @@
   "price": null,
   "description": {
     "ja": "佐土原の18H・7,093ヤード・パー72。全室バルコニー付のホテル併設。セルフとキャディを選べる。",
-    "en": "18-hole, 7,093-yard par-72 course in Sadowara. Hotel on site with a balcony in every room. Self-play or caddie."
+    "en": "18-hole, 7,093-yard par-72 course in Sadowara. Hotel on site with a balcony in every room. Self-play or caddie.",
+    "ko": "사도와라의 18홀·7,093야드·파72 코스. 발코니 딸린 객실의 호텔 병설. 셀프 또는 캐디 선택 가능."
   },
   "tags": null,
   "features": [
