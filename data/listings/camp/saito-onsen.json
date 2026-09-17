@@ -1,0 +1,48 @@
+{
+  "slug": "saito-onsen",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "saito",
+  "name": {
+    "ja": "さいと温泉",
+    "en": "Saito Onsen",
+    "ko": "사이토 온천"
+  },
+  "address": {
+    "ja": "宮崎県西都市調殿1355-1",
+    "en": "1355-1 Tsukudono, Saito-shi, Miyazaki",
+    "ko": "미야자키현 사이토시 調殿1355-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-43-1000",
+  "website": "https://saito-yurunavi.jp/play/saitoonsen/index.html",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜22:00。定休 第2・第4火曜。",
+    "en": "10:00–22:00. Closed 2nd and 4th Tuesday.",
+    "ko": "10:00~22:00. 정기휴일 둘째·넷째 화요일."
+  },
+  "price": {
+    "ja": "入浴 大人500円・子供300円、未就学児 無料。支払いは現金のみ。",
+    "en": "Bath 500 yen/adult, 300 yen/child, free for preschoolers. Cash only.",
+    "ko": "입욕 대인 500엔・어린이 300엔, 미취학 아동 무료. 결제는 현금만."
+  },
+  "description": {
+    "ja": "西都市の日帰り温泉。未就学児は無料。支払いは現金のみ。",
+    "en": "Day-use hot spring in Saito. Free for preschoolers, cash only.",
+    "ko": "사이토시의 당일 온천. 미취학 아동은 무료, 결제는 현금만."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://saito-yurunavi.jp/play/saitoonsen/index.html",
+    "https://www.jalan.net/kankou/spt_45208cd2110077504/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
