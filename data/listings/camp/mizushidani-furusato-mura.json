@@ -19,7 +19,10 @@
   "website": "https://www.visit-misato.jp/infopage/camp-mizushidani/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1区画・1泊 2,090円（2泊まで）、3泊目以降 1泊 1,500円。コインシャワー 200円／1回。",
+    "en": "2,090 yen/pitch/night (up to 2 nights), 1,500 yen/night from 3rd night. Coin shower 200 yen/entry."
+  },
   "description": {
     "ja": "美郷町南郷の川ぞいのオートキャンプ場。",
     "en": "Riverside auto camp in Nango, Misato."
@@ -30,8 +33,9 @@
     "auto"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1308"
+    "https://www.kanko-miyazaki.jp/spot/1308",
+    "https://www.visit-misato.jp/infopage/camp-mizushidani/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

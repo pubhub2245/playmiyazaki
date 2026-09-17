@@ -19,7 +19,10 @@
   "website": null,
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1泊 1,500円／1台（電源利用料込み）。",
+    "en": "1,500 yen/vehicle/night (power included)."
+  },
   "description": {
     "ja": "農海産物直売所に隣接する門川町のJRVA認定RVパーク。",
     "en": "JRVA-certified RV park in Kadogawa, next to a produce and seafood direct sales shop."
@@ -33,6 +36,6 @@
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/585.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

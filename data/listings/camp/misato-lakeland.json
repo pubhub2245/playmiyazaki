@@ -20,7 +20,10 @@
   "website": "https://i-lakeland.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "コテージ 13,500円〜／棟・1泊（GW・夏休み・年末年始 15,500円〜、最大6名）。フリーテントサイト 1,500円／張（温泉入場券付）。車中泊 1,500円／泊（電源代別）。大浴場 大人520円・中学生320円・4歳〜小学生210円。",
+    "en": "Cottage from 13,500 yen/unit/night (15,500 yen during GW/summer/year-end, up to 6 people). Free tent site 1,500 yen/pitch (bath pass included). Car stay 1,500 yen/night (power extra). Bath 520 yen/adult, 320 yen/middle school, 210 yen/child."
+  },
   "description": {
     "ja": "耳川ダム湖ぞいの複合施設。宿泊、キャンプ、温泉「耳川の湯」がある。",
     "en": "Lakeside complex on the Mimikawa reservoir. Lodging, camping, and the Mimikawa-no-Yu onsen."
@@ -34,6 +37,6 @@
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1134"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

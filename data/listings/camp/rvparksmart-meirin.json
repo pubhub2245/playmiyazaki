@@ -19,7 +19,10 @@
   "website": "https://rvparksmart.jp/rv-smart/meirinspa.html",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1泊 2,040円／1台（トレーラー含む）。",
+    "en": "2,040 yen/vehicle/night (trailer included)."
+  },
   "description": {
     "ja": "高鍋温泉めいりんの湯のそば、めいりん公園の駐車場に整備されたRVパークsmart。",
     "en": "RV Park smart in the Meirin Park lot next to Takanabe Meirin-no-Yu onsen."
@@ -33,6 +36,6 @@
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/599.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

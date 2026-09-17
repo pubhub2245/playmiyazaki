@@ -19,7 +19,10 @@
   "website": "https://www.tsunokanko.com/contents/camp.html",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "オートフリーサイト 持込テント 840円／張・泊、キャンピングカー 840円／台・泊。休憩室 大人1,050円・小学生520円／泊。シャワー 100円／3分（税込）。",
+    "en": "Free auto site: tent 840 yen/night, RV 840 yen/night. Rest house 1,050 yen/adult, 520 yen/child per night. Shower 100 yen/3 min (tax incl.)."
+  },
   "description": {
     "ja": "尾鈴県立自然公園の中にある町営キャンプ場。利用料の支払いはJR都農駅の観光協会で。",
     "en": "Town-run camp inside Osuzu Prefectural Natural Park. Pay fees at the tourism office at JR Tsuno Station."
@@ -32,6 +35,6 @@
   "sources": [
     "https://www.tsunokanko.com/contents/camp.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

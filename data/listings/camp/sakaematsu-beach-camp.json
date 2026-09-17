@@ -19,7 +19,10 @@
   "website": "https://sakaematsu-beach.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "常設テント（電源付）4,380円／1基・1日。オートキャンプ（電源付）3,800円／エリア・1日。持込テント 芝生 1,040円〜／区画・1日。BBQ（10名以内）1,040円／区画。温水シャワー 100円／2分。",
+    "en": "Set-up tent (with power) 4,380 yen/tent/day. Auto camp (with power) 3,800 yen/site/day. BYO tent from 1,040 yen/pitch/day. BBQ (up to 10) 1,040 yen/pitch. Hot shower 100 yen/2 min."
+  },
   "description": {
     "ja": "南郷の栄松ビーチに面したオートキャンプ場。海水浴とキャンプが同じ場所で楽しめる。",
     "en": "Auto camp facing Sakaematsu Beach in Nango. Swimming and camping in one spot."
@@ -30,8 +33,9 @@
     "auto"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1320"
+    "https://www.kanko-miyazaki.jp/spot/1320",
+    "https://sakaematsu-beach.com/facility"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

@@ -19,7 +19,10 @@
   "website": "https://yunomoto.org/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "日帰り入浴 大人 650円、小人（3〜12歳）300円。",
+    "en": "Day-use bath 650 yen/adult, 300 yen/child (age 3–12)."
+  },
   "description": {
     "ja": "高原町の炭酸泉。日帰り入浴もできる。",
     "en": "Carbonated hot spring in Takaharu, with day-use bathing available."
@@ -31,6 +34,6 @@
   "sources": [
     "https://yunomoto.org/spa.php"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

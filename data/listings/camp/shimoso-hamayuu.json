@@ -19,7 +19,10 @@
   "website": "https://michinoeki-kitaura.com/cms/soleil-levant/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "ケビン A・B棟（4人用）通常 15,400円／初日・13,400円／2日目以降。C棟（7人用）通常 28,600円／初日・26,600円／2日目以降。オフシーズン（11〜3月）割引あり。常設テント（4〜5人用）4,800円／基（清掃協力費込）。",
+    "en": "Cabin A/B (4-person) 15,400 yen first night, 13,400 yen from 2nd. C (7-person) 28,600 yen first night, 26,600 yen from 2nd. Off-season Nov–Mar discounted. Set-up tent (4–5 person) 4,800 yen/unit (cleaning fee incl.)."
+  },
   "description": {
     "ja": "道の駅北浦の中にあるビーチキャンプ場。下阿蘇ビーチは日本の海水浴場100選。",
     "en": "Beach camp within Michi-no-Eki Kitaura. Shimo-Aso Beach is on Japan's Top 100 Beaches list."
@@ -29,8 +32,10 @@
     "sea"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1305"
+    "https://www.kanko-miyazaki.jp/spot/1305",
+    "https://michinoeki-kitaura.com/cms/soleil-levant/cabin",
+    "https://michinoeki-kitaura.com/cms/soleil-levant/tent"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

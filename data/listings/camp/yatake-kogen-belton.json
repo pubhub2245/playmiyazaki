@@ -19,7 +19,10 @@
   "website": "https://wakuwakucamp.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "電源ありサイト 宿泊 4,710円（電源不使用 3,670円）。電源なしサイト 宿泊 3,670円。キャンピングカーサイト 5,760円（電源あり）。ドッグランサイト 9,420円（電源あり・2区画分）。",
+    "en": "Power site 4,710 yen (3,670 yen without power). No-power site 3,670 yen. RV site 5,760 yen (with power). Dog-run site 9,420 yen (with power, 2 pitches)."
+  },
   "description": {
     "ja": "えびの市の矢岳高原にあるオートキャンプ場。展望台からえびの盆地を見渡せる。",
     "en": "Auto camp on the Yatake Highlands in Ebino. The lookout takes in the Ebino basin."
@@ -30,8 +33,9 @@
     "auto"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1314"
+    "https://www.kanko-miyazaki.jp/spot/1314",
+    "https://wakuwakucamp.com/info.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

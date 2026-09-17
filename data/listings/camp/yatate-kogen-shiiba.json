@@ -19,7 +19,10 @@
   "website": "https://www.shiibakanko.jp/tourism/play/play3",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入場料 一般220円・中学生以下110円。オートサイト 2,750円（1台目）・550円（2台目以降）。持込テント 880〜1,650円。コテージ 2,750円／1人1泊。シャワー 250円／回。",
+    "en": "Entry 220 yen/adult, 110 yen/child. Auto site 2,750 yen (1st vehicle) / 550 yen (2nd+). Tent 880–1,650 yen. Cottage 2,750 yen/person/night. Shower 250 yen."
+  },
   "description": {
     "ja": "椎葉村の高原にあるキャンプ場。",
     "en": "Highland campsite in Shiiba Village."
@@ -31,6 +34,6 @@
   "sources": [
     "https://www.shiibakanko.jp/tourism/play/play3"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

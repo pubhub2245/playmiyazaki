@@ -22,7 +22,10 @@
     "ja": "日帰り温泉 11:00〜17:00（最終受付 16:00）",
     "en": "Day-use onsen 11:00–17:00 (last entry 16:00)"
   },
-  "price": null,
+  "price": {
+    "ja": "日帰り入浴 大人 800円、小人 500円。",
+    "en": "Day-use bath 800 yen/adult, 500 yen/child."
+  },
   "description": {
     "ja": "えびの高原の県営国民宿舎。日帰り入浴もできる。",
     "en": "Prefectural lodge on the Ebino Highlands. Day-use bathing available."
@@ -34,8 +37,9 @@
     "cottage"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1325"
+    "https://www.kanko-miyazaki.jp/spot/1325",
+    "https://ebinokogen-hotel.com/onsen/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

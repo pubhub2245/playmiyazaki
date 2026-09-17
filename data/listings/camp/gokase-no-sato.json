@@ -19,7 +19,10 @@
   "website": "https://www.gokasens.org/camp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入場料 大人500円・小人400円・ペット300円。テントサイト 2,000円／区画、オートサイト 5,000円、ソロサイト 1,000円。バンガロー 3,500円〜／大人1名。",
+    "en": "Entry 500 yen/adult, 400 yen/child, 300 yen/pet. Tent site 2,000 yen/pitch, auto 5,000 yen, solo 1,000 yen. Bungalow from 3,500 yen/adult."
+  },
   "description": {
     "ja": "五ヶ瀬町にあるゲストハウス併設のキャンプ場。",
     "en": "Camp village with an attached guesthouse in Gokase."
@@ -27,8 +30,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.gokasens.org/camp/"
+    "https://www.gokasens.org/camp/",
+    "https://www.gokasens.org/camp/loghouse.php"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

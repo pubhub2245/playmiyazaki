@@ -20,7 +20,10 @@
   "website": "https://dogandcampsuzu.studio.site",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "RVパーク 3,500円／1台・1泊。電源 1,000円／15A。ダンプステーション 500円。給水・ダンプのみ立ち寄り 1,000円。シャワー 大人500円・小学生以下300円。",
+    "en": "RV park 3,500 yen/vehicle/night. Power 1,000 yen/15A. Dump station 500 yen. Water/dump drop-in only 1,000 yen. Shower 500 yen/adult, 300 yen/child."
+  },
   "description": {
     "ja": "貸切キャンプ場とドッグランに、JRVA認定RVパークを併設。",
     "en": "Private camp with dog run and a JRVA-certified RV park on the same site."
@@ -34,6 +37,6 @@
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/1363.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

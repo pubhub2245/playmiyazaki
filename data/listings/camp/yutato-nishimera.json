@@ -19,7 +19,10 @@
   "website": "http://www.yutato.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入浴 大人500円、小・中学生250円、未就学児 無料。貸切風呂 1,500円／1時間（別途入浴料）。",
+    "en": "Bath 500 yen/adult, 250 yen/elementary–middle school, free for preschoolers. Private bath 1,500 yen/hour (bath fee extra)."
+  },
   "description": {
     "ja": "西米良村の中心にある日帰り温泉。カリコボーズという地元の妖怪が名前の由来。",
     "en": "Day-use hot spring in central Nishimera, named after the local Karikobōzu folklore spirits."
@@ -31,6 +34,6 @@
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/1143"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

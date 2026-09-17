@@ -19,7 +19,10 @@
   "website": "http://www.jyubei.co.jp/index.html",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入浴 大人 550円、中学生 400円、4歳〜小学生 350円、3歳以下 無料。回数券 11枚 5,500円／30枚 13,500円。",
+    "en": "Bath 550 yen/adult, 400 yen/middle school, 350 yen/child (4–elementary), free under 3. 11-visit pass 5,500 yen, 30-visit pass 13,500 yen."
+  },
   "description": {
     "ja": "京町温泉郷の日帰り入浴施設。家族貸切風呂もある。",
     "en": "Day-use bathhouse in the Kyomachi Onsen area, with private family baths."
@@ -31,6 +34,6 @@
   "sources": [
     "https://www.kanko-miyazaki.jp/spot/2502"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

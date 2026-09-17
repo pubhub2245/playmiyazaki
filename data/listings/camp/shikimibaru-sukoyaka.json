@@ -19,7 +19,10 @@
   "website": "https://www.town-takachiho.jp/top/soshiki/kikakukanko/2/3/3/303.html",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入村料 大人 600円、小人（小学生以下）300円。バンガロー 10,000円／泊。オートサイト（シャワー棟単独）5,500円・（共有）4,000円／泊。フリーテントサイト 2,500円／泊。バレルサウナ 2名まで 8,000円／回。",
+    "en": "Entry 600 yen/adult, 300 yen/child. Bungalow 10,000 yen/night. Auto site 5,500 yen (private shower) / 4,000 yen (shared)/night. Free tent site 2,500 yen/night. Barrel sauna 8,000 yen for up to 2."
+  },
   "description": {
     "ja": "標高1,200mにある町営キャンプ場。九州でもっとも高い場所のキャンプ場のひとつ。",
     "en": "Town-run camp at 1,200 m, one of the highest-elevation campsites in Kyushu."
@@ -29,8 +32,9 @@
     "mountain"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1301"
+    "https://www.kanko-miyazaki.jp/spot/1301",
+    "https://www.town-takachiho.jp/top/soshiki/kikakukanko/2/3/3/303.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

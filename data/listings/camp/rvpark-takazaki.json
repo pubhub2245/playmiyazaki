@@ -19,7 +19,10 @@
   "website": "https://miyakonojo-bonchi.com",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1泊 1,020円／1台（電源・水道込み）。3泊以上 710円／1泊（税込）。ゴミ処理 3袋200円。",
+    "en": "1,020 yen/vehicle/night (power/water included). 710 yen/night for 3+ nights (tax incl.). Trash disposal 3 bags 200 yen."
+  },
   "description": {
     "ja": "高崎パークゴルフ場に併設されたJRVA認定RVパーク。近くにラスパたかざき温泉。",
     "en": "JRVA-certified RV park at Takazaki Park Golf Course. Laspa Takazaki onsen is nearby."
@@ -33,6 +36,6 @@
   "sources": [
     "https://www.kurumatabi.com/park/rvpark/629.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

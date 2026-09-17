@@ -20,7 +20,10 @@
   "website": "https://miyakonojo-bonchi.com/kannonike-park/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入場無料。オートキャンプ A/B/C区画 1泊 3,140円、D区画（キャンピングカー）4,190円、フリーテント 1,050円。バンガロー 6人用 10,480円〜。プール 高校生以上310円・小中学生210円。",
+    "en": "Free entry. Auto camp A/B/C 3,140 yen/night, D (RV) 4,190 yen, free tent 1,050 yen. Bungalow from 10,480 yen/6-person. Pool 310 yen/high school+, 210 yen/child."
+  },
   "description": {
     "ja": "都城市高城町の複合施設。キャンプ場、プール、温泉「観音さくらの里」を持つ。",
     "en": "Complex in Takajo, Miyakonojo. Campground, pool, and the Kannon-sakura-no-Sato hot spring."
@@ -30,8 +33,9 @@
     "onsen"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1091"
+    "https://www.kanko-miyazaki.jp/spot/1091",
+    "https://miyakonojo-bonchi.com/kannonike-park/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

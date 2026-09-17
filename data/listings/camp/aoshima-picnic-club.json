@@ -21,7 +21,10 @@
   "website": "https://aoshimapicnicclub.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "RVパーク 3,300円〜／台・1泊（税込）。",
+    "en": "RV park from 3,300 yen/vehicle/night (tax incl.)."
+  },
   "description": {
     "ja": "こどものくに内のキャンプ場・RVパーク併設。青島唯一のRVパーク認定で、車中泊も利用可。",
     "en": "Camp and RV park inside Kodomo-no-Kuni. Only JRVA-certified RV park in Aoshima, with car-stay stalls too."
@@ -37,6 +40,6 @@
     "https://www.kurumatabi.com/park/rvpark/1255.html",
     "https://aoshimapicnicclub.com/stay/rv-park"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

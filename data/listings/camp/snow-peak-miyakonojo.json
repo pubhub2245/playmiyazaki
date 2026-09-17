@@ -19,7 +19,10 @@
   "website": "https://sbs.snowpeak.co.jp/miyakonojo/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "フリーサイト 4,000〜6,250円／泊。区画電源オートサイト 4,800〜7,500円／泊。モバイルハウス「住箱」14,080〜22,000円／泊。コテージ 28,160〜42,000円／泊（税込）。",
+    "en": "Free site 4,000–6,250 yen/night. Auto site with power 4,800–7,500 yen/night. Mobile house Jyubako 14,080–22,000 yen/night. Cottage 28,160–42,000 yen/night (tax incl.)."
+  },
   "description": {
     "ja": "関之尾滝のそば、都城市とスノーピークの官民連携のキャンプフィールド。",
     "en": "Camp field beside Sekinoo Falls, run jointly by Miyakonojo City and Snow Peak."
@@ -29,8 +32,9 @@
     "river"
   ],
   "sources": [
-    "https://www.city.miyakonojo.miyazaki.jp/soshiki/3/61718.html"
+    "https://www.city.miyakonojo.miyazaki.jp/soshiki/3/61718.html",
+    "https://www.snowpeak.co.jp/locations/miyakonojo/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

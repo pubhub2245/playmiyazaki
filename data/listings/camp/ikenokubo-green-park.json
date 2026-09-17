@@ -19,7 +19,10 @@
   "website": "https://www.morotsuka-tourism.jp/spot/ikenokubo/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入場料 200円／人・泊（高校生以下無料）。テントサイト 1,000〜2,500円／区画。ログハウス 5人棟12,000円／棟、10人棟20,000円／棟（税込）。コインシャワー 100円／7分。",
+    "en": "Entry 200 yen/person/night (free for high school and under). Tent site 1,000–2,500 yen/pitch. Log house 12,000 yen (5-person) / 20,000 yen (10-person) per unit (tax incl.). Coin shower 100 yen/7 min."
+  },
   "description": {
     "ja": "標高約800mにある諸塚村のキャンプ場。バンガローとテントサイト。",
     "en": "Morotsuka Village campsite at around 800 m elevation, with bungalows and tent sites."
@@ -30,8 +33,9 @@
     "cottage"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1049"
+    "https://www.kanko-miyazaki.jp/spot/1049",
+    "https://www.morotsuka-tourism.jp/spot/ikenokubo/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

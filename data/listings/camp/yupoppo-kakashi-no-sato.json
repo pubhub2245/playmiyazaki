@@ -22,7 +22,10 @@
     "ja": "月〜土 9:00〜22:00（最終受付 21:00）",
     "en": "Mon–Sat 9:00–22:00 (last entry 21:00)"
   },
-  "price": null,
+  "price": {
+    "ja": "大人（高校生以上）1回420円・1日630円。小人（3歳〜中学生）1回210円・1日310円。幼児 無料。",
+    "en": "Adult (high school+) 420 yen/entry, 630 yen/day. Child (3–middle school) 210 yen/entry, 310 yen/day. Infant free."
+  },
   "description": {
     "ja": "都城市山田町の日帰り温泉。かかしの里の複合施設内。",
     "en": "Day-use hot spring in Yamada, Miyakonojo, part of the Kakashi-no-Sato complex."
@@ -34,6 +37,6 @@
   "sources": [
     "https://miyakonojo-bonchi.com/yupoppo/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

@@ -22,7 +22,10 @@
     "ja": "夏期のみ営業（7月〜9月）",
     "en": "Open in summer only (July–September)"
   },
-  "price": null,
+  "price": {
+    "ja": "キャンプサイト 1,100円／宿泊・550円／日中。貸しテント（8人用）1,100円／宿泊・550円／日中。コインシャワー 100円。",
+    "en": "Camp site 1,100 yen/overnight, 550 yen/day. Rental tent (8-person) 1,100 yen/overnight, 550 yen/day. Coin shower 100 yen."
+  },
   "description": {
     "ja": "石並川ぞいの市営キャンプ場。夏だけ営業。川あそびができる。",
     "en": "Riverside city-run camp along the Ishinamigawa. Open only in summer. River play on site."
@@ -34,6 +37,6 @@
   "sources": [
     "https://ishinami.rdy.jp/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

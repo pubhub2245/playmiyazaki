@@ -22,7 +22,10 @@
     "ja": "10:00〜21:00（最終受付 20:30）",
     "en": "10:00–21:00 (last entry 20:30)"
   },
-  "price": null,
+  "price": {
+    "ja": "入浴 一般500円、中学生以下400円。宿泊（1泊2食付・入浴料込）一般6,240円〜（素泊まり3,240円〜）。",
+    "en": "Bath 500 yen/adult, 400 yen/child. Lodging (1 night + 2 meals, bath incl.) from 6,240 yen/adult (room only from 3,240 yen)."
+  },
   "description": {
     "ja": "宮崎市加江田にある市営の日帰り入浴施設。青島から車で近い。",
     "en": "City-run day-use bathhouse in Kaeda, Miyazaki. Short drive from Aoshima."
@@ -34,6 +37,6 @@
   "sources": [
     "https://www.city.miyazaki.miyazaki.jp/culture/facilities/89165.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

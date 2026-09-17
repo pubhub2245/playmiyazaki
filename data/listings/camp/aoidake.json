@@ -25,7 +25,10 @@
     "ja": "温泉 7:00〜22:00（最終受付21:00）年中無休",
     "en": "Onsen 7:00–22:00 (last entry 21:00), open year round"
   },
-  "price": null,
+  "price": {
+    "ja": "入場料 大人 700〜1,000円・子供 350〜500円（税込）。テントサイト 1,000〜1,400円／台＋人数料金。RVパーク 2,000〜2,800円／台（電源・水場あり）。ケビン 10,000〜14,000円／室、ログハウス 19,000〜36,000円／棟。",
+    "en": "Entry 700–1,000 yen/adult, 350–500 yen/child (tax incl.). Tent site 1,000–1,400 yen/pitch + per-person fees. RV park 2,000–2,800 yen/vehicle (power/water). Cabin 10,000–14,000 yen/room, log house 19,000–36,000 yen/unit."
+  },
   "description": {
     "ja": "青井岳の温泉と、同じ敷地のキャンプ場・RVパーク・車中泊エリア。RVサイトは電源・水場あり。",
     "en": "Aoidake hot spring with an on-site campsite, JRVA RV park, and car-stay bays. RV sites have power and water."
@@ -40,9 +43,10 @@
   ],
   "sources": [
     "https://aoidake.com/camp/",
+    "https://aoidake.com/price/",
     "https://www.kurumatabi.com/park/rvpark/1454.html",
     "https://www.kanko-miyazaki.jp/spot/2384"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

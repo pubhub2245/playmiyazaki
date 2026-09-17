@@ -19,7 +19,10 @@
   "website": "https://www.hinamori.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "個別サイト 5,100円／1泊。キャンピングカーサイト 6,600円／1泊。グループサイト 8,500〜11,400円／1泊。広場サイト 大人1,500円・小中学生750円／1泊。キャビン 7,500〜16,200円／棟・1泊。一時利用は半額。",
+    "en": "Individual site 5,100 yen/night. RV site 6,600 yen/night. Group site 8,500–11,400 yen/night. Field site 1,500 yen/adult, 750 yen/child. Cabin 7,500–16,200 yen/unit/night. Day use half price."
+  },
   "description": {
     "ja": "霧島山の麓、標高約630mにある県立のオートキャンプ場。夏でも涼しい。",
     "en": "Prefectural auto campsite at ~630 m at the foot of the Kirishima range. Stays cool in summer."
@@ -30,8 +33,9 @@
     "auto"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1313"
+    "https://www.kanko-miyazaki.jp/spot/1313",
+    "https://www.hinamori.jp/guide/fee/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

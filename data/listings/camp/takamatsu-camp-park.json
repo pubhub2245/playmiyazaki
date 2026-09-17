@@ -20,7 +20,10 @@
   "website": null,
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "オートキャンプサイト 3,850円／1泊。キャンピングカーサイト 4,950円／1泊。フリーテントサイト 1,650円／泊・550円／デイ。BBQサイト 330円。",
+    "en": "Auto camp site 3,850 yen/night. RV site 4,950 yen/night. Free tent site 1,650 yen/night or 550 yen/day. BBQ site 330 yen."
+  },
   "description": {
     "ja": "高松海水浴場のとなり。フリー、オート、キャンピングカー、バーベキューの各サイトがある。",
     "en": "Next to Takamatsu Beach. Free, auto, campervan, and BBQ sites available."
@@ -32,8 +35,9 @@
     "carstay"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1323"
+    "https://www.kanko-miyazaki.jp/spot/1323",
+    "https://www.city.kushima.lg.jp/main/info/cat10/place/cat2926/post-478.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

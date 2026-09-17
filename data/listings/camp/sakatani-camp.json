@@ -19,7 +19,10 @@
   "website": "https://michinoeki-sakatani.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "テント持ち込み 1張 1,040円。バンガロー（大人6名）6,600円／棟。入浴（別棟）300円。プール 100円。薪 1輪 600円。",
+    "en": "BYO tent 1,040 yen/pitch. Bungalow (up to 6 adults) 6,600 yen/unit. Bath (separate building) 300 yen. Pool 100 yen. Firewood 600 yen/bundle."
+  },
   "description": {
     "ja": "道の駅酒谷に隣接するキャンプ場。買い出しは道の駅で。",
     "en": "Campground next to Michi-no-Eki Sakatani. Provisions available at the roadside station."
@@ -27,8 +30,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1322"
+    "https://www.kanko-miyazaki.jp/spot/1322",
+    "https://michinoeki-sakatani.com/%e9%85%92%e8%b0%b7%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e5%a0%b4/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

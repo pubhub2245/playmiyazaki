@@ -19,7 +19,10 @@
   "website": "http://www.town.kunitomi.miyazaki.jp/main/tourism/tourism_nature/hokedake/page001388.html",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入場料 200円／人・泊（3歳未満無料）。オートサイト 2,000円／区画・泊、レギュラーサイト 1,000円／区画・泊。",
+    "en": "Entry 200 yen/person/night (under 3 free). Auto site 2,000 yen/pitch/night, regular site 1,000 yen/pitch/night."
+  },
   "description": {
     "ja": "国富町の法華嶽公園にある町営キャンプ場。桜と紅葉の名所。",
     "en": "Town-run campsite in Hokedake Park, Kunitomi. Known for cherry blossoms and autumn colours."
@@ -27,8 +30,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1299"
+    "https://www.kanko-miyazaki.jp/spot/1299",
+    "https://www.town.kunitomi.miyazaki.jp/main/tourism/tourism_nature/hokedake/page001388.html"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

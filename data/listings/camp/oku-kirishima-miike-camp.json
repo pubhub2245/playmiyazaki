@@ -19,7 +19,10 @@
   "website": "https://lake-miike.com/camp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "コテージ 1泊 1名16,500円〜10名24,200円。バンガロー 6,600円／棟（トイレなし）、7,700円〜／名（トイレあり）。持込テント 2,200円／1張（管理費 220円／人）。日帰りテント 1,100円／1張。シャワー 200円。",
+    "en": "Cottage 16,500 yen (1p) to 24,200 yen (10p)/night. Bungalow 6,600 yen/unit (no toilet), from 7,700 yen/person (with toilet). Tent 2,200 yen/pitch + 220 yen/person. Day tent 1,100 yen/pitch. Shower 200 yen."
+  },
   "description": {
     "ja": "御池の湖畔にあるキャンプ場。テントサイトとバンガロー。",
     "en": "Lakeside campground at Lake Miike, with tent sites and bungalows."
@@ -30,8 +33,9 @@
     "cottage"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1318"
+    "https://www.kanko-miyazaki.jp/spot/1318",
+    "https://lake-miike.com/camp/shisetsu/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }
