@@ -1,0 +1,53 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作（外部サービスのアカウント登録・有料契約を含む）
+(3) listing JSON・taxonomy・docs/design.md の変更。実在の店名・人名を載せること。事業者への連絡。
+
+【前提】
+CLAUDE.md、docs/要件.md、docs/private.md を最初に読むこと。
+★この作業は、運営者（じゅん）が 2026-09-17 に承認した「設計側による CLAUDE.md の更新」である。無人実行ヘッダーの「CLAUDE.md の方針変更の禁止」は Claude Code が自発的に方針を変えることを指し、本タスクの指示どおりの差し替えは対象外。指示の文面をそのまま入れること（自分の判断で内容を変えない）。
+
+【やること】STEP 16：CLAUDE.md の整合と「Zero-Crowd Japan」の旗
+1. CLAUDE.md の「# MIYAZAKI PRIVATE（/private）」の節を、下の《新しい MIYAZAKI PRIVATE 節》で丸ごと置き換える。その直後に《自動実行 節》を新設する。
+2. CLAUDE.md の「# 現在のフェーズ」の節を《新しい現在のフェーズ》で丸ごと置き換える。
+3. 「# 今は作らないもの」の「予約機能・問い合わせフォーム（永久にやらない…）」の行末に「※ playmiyazaki.com 側の話。/private は docs/private.md に従う」を追記。
+4. docs/private.md に「旗印：Zero-Crowd Japan」「商品は上下2段＋付随2つ」「運営者は英語を話さない前提」を CLAUDE.md と同じ表で追記（重複してよい。矛盾させない）。
+5. 英語トップ /en のヘッダー直下（既存デザインの部品の範囲内、design.md の色・フォントのみ）に1行の帯を足す：「Zero-crowd Japan. Surf, camp, food and golf in Miyazaki — with prices, verified.」 /ja には出さない。
+6. /private トップの一行「There is another Miyazaki.」の下に、本文の前に1行追加：「Zero-crowd Japan. Miyazaki is what Kyoto used to feel like.」
+7. npm run build → コミット「Align CLAUDE.md with 2026-09-17 decisions; add Zero-Crowd Japan line」→ git push origin main
+
+【禁止】上記以外の CLAUDE.md の変更、listing・taxonomy・design.md の変更、写真の追加
+RESULT 行：CLAUDE.md の置き換え節数／追記した行／push YES|NO／コミットハッシュ
+
+＝＝＝ 新しい MIYAZAKI PRIVATE 節 と 自動実行 節（この2節をそのまま）＝＝＝
+# MIYAZAKI PRIVATE（/private）
+
+`/private` 配下は別ブランド「MIYAZAKI PRIVATE」の売るためのページ。`docs/private.md` が唯一の方針。playmiyazaki.com 側の「評価語なし・フォームなし・予約なし・写真なし」のルールは `/private` には適用しない。ただし「架空の店を作らない」「店名は書かない（a wagyu restaurant 等、種類で書く）」「事実（時間・人数・含まれるもの・価格）は正確に」は `/private` にも適用する。listing データは読み取り専用で共用してよい。
+
+2026-09-17 の運営者決定（これと矛盾する提案は却下する）：
+- 店との提携交渉はしない。ホストが通常の客として予約する運用。ページに「提携」「partner」と書かない
+- シーシャは商品に含めない
+- 送迎・専用車・宿泊は商品に含めない（旅行業法の登録を避けるため）。タクシーは「紹介のみ・客が直接手配」と書く
+- 運営者は英語を話さない。当日の英語は外注ホスト、客との英文のやり取りは設計側の Claude が下書きする。この前提を崩す設計（運営者が英語で対応する前提の機能）は作らない
+- 旗印は「Zero-Crowd Japan」（混まない日本）。宮崎を"京都の反対"として売る。英語トップ（/en）と /private のコピーはこの旗に沿わせる
+
+商品は上下2段：
+| 段 | 商品 | 価格 | 売り方 |
+|---|---|---|---|
+| 上 | MIYAZAKI AFTER DARK（18:00–22:30、2〜4名、宮崎牛個室→焼酎→地元バー→徒歩） | 2名 ¥180,000／3名 ¥210,000／4名 ¥240,000 | /private の問い合わせ制 |
+| 下 | Nishitachi Night with a Local（3時間、2〜6名、週2日開催） | 1人 ¥25,000 | GetYourGuide・Viator・Airbnb Experiences に掲載（アカウントは運営者が作る） |
+| 付随 | Local on Call（旅行中の英語チャット窓口、最長7日） | 1組 ¥15,000 | /private から申込。案内・送迎はしない（情報提供のみ） |
+| 付随 | 7-Day Southern Kyushu Route（料金つき道順の PDF） | $49（当面は無料サンプル） | /private から申込。listing データから生成し季節ごとに更新 |
+
+# 自動実行（tasks/queue）
+
+実装は PC の共通ランナー（C:\projects\_agent\run-agent.ps1、タスクスケジューラ 10分ごと）が `tasks/queue/*.txt` を名前順に1本ずつ `claude -p` で実行し、`tasks/done/` に移して push する。設計側の Claude が queue にファイルを置く。毎月1日 3:00 に `tasks/monthly.md` が走る。無人実行では：確認が必要な操作はスキップして RESULT 行に理由を書く／ビルドが通らなければ push しない／`.claude/settings.local.json` に許可済みのコマンド以外は使わない。
+
+＝＝＝ 新しい現在のフェーズ（そのまま）＝＝＝
+# 現在のフェーズ
+
+**「第2段階：データの質と、最初の売上」。** 4ジャンル315件（サーフ50・キャンプ65・食132・ゴルフ68）、875ページを公開済み。料金の拾い直し済み（出典に料金が無い listing は `null` のまま）。
+いまの優先順：(1) MIYAZAKI PRIVATE の下段商品を GetYourGuide 等で売り始め、月1組を確実にする (2) Local on Call と 7-Day Route の受け皿を作る (3) 韓国語版（`/ko/`）を出してゴルフの韓国人需要を取る (4) Search Console 月間1,000クリックで有料掲載枠を開く。
+収益機能（有料掲載・決済・アフィリエイト）はまだ作らない。第1段階の「サーフィン50件」は達成済み。
+END OF PROMPT

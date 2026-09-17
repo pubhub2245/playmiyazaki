@@ -16,6 +16,9 @@ export default function PrivateHome() {
       <p className="mp-lede" style={{ marginTop: "28px" }}>
         There is another Miyazaki.
       </p>
+      <p className="mp-lede">
+        Zero-crowd Japan. Miyazaki is what Kyoto used to feel like.
+      </p>
 
       <section className="mp-section">
         <p>

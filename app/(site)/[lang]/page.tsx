@@ -73,6 +73,11 @@ export default function HomePage({ params }: Props) {
 
   return (
     <div className="space-y-8">
+      {lang === "en" && (
+        <p className="pm-mono text-[12px] uppercase tracking-wider text-text-secondary">
+          Zero-crowd Japan. Surf, camp, food and golf in Miyazaki — with prices, verified.
+        </p>
+      )}
       <section className="space-y-3">
         <h1 className="font-display font-bold text-[32px] leading-tight text-text-primary">
           {t.heading}
