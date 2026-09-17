@@ -7,11 +7,13 @@
   "area": "kushima",
   "name": {
     "ja": "民宿黄金荘",
-    "en": "Minshuku Ogon-so"
+    "en": "Minshuku Ogon-so",
+    "ko": "민슈쿠 오곤소"
   },
   "address": {
     "ja": "宮崎県串間市大納48-7",
-    "en": "48-7 Ono, Kushima-shi, Miyazaki"
+    "en": "48-7 Ono, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 大納48-7"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "恋ヶ浦のある大納エリアの民宿。",
-    "en": "Minshuku in the Ono district near Koigaura."
+    "en": "Minshuku in the Ono district near Koigaura.",
+    "ko": "고이가우라가 있는 지역의 민박."
   },
   "tags": null,
   "features": [

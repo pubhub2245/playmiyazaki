@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "NPO法人 ひむか感動体験ワールド",
-    "en": "NPO Himuka Kando Taiken World"
+    "en": "NPO Himuka Kando Taiken World",
+    "ko": "NPO법인 히무카 간도 다이켄 월드"
   },
   "address": {
     "ja": "宮崎県延岡市北川町川内7344",
-    "en": "7344 Kawachi, Kitakawa-cho, Nobeoka-shi, Miyazaki 889-0101"
+    "en": "7344 Kawachi, Kitakawa-cho, Nobeoka-shi, Miyazaki 889-0101",
+    "ko": "미야자키현 노베오카시 北川町川内7344"
   },
   "lat": null,
   "lng": null,
@@ -20,15 +22,18 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜18:00 水曜定休、12/29〜1/3 休み",
-    "en": "9:00–18:00, closed Wed and Dec 29–Jan 3"
+    "en": "9:00–18:00, closed Wed and Dec 29–Jan 3",
+    "ko": "9:00〜18:00 수요일 휴무, 12/29〜1/3 휴무"
   },
   "price": {
     "ja": "1人 7,000円（別途レンタル料）",
-    "en": "7,000 yen per person (rental fee extra)"
+    "en": "7,000 yen per person (rental fee extra)",
+    "ko": "1인 7,000엔(별도 렌탈 요금)"
   },
   "description": {
     "ja": "初心者向けロングボードから上級者向けショートボードまで、プロが指導するサーフィン体験。延岡市北川町拠点。",
-    "en": "Surf sessions taught by a pro, from beginner longboard to advanced shortboard. Based in Kitakawa, Nobeoka."
+    "en": "Surf sessions taught by a pro, from beginner longboard to advanced shortboard. Based in Kitakawa, Nobeoka.",
+    "ko": "초보자용 롱보드부터 상급자용 숏보드까지 프로가 지도하는 서핑 체험. 노베오카시 기타가와초 거점."
   },
   "tags": null,
   "features": [

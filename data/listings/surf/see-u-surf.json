@@ -9,11 +9,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "シーユー",
-    "en": "See u Surf Shop"
+    "en": "See u Surf Shop",
+    "ko": "시 유 서프숍"
   },
   "address": {
     "ja": "宮崎県宮崎市青島1-4-10",
-    "en": "1-4-10 Aoshima, Miyazaki-shi, Miyazaki 889-2162"
+    "en": "1-4-10 Aoshima, Miyazaki-shi, Miyazaki 889-2162",
+    "ko": "미야자키현 미야자키시 青島1-4-10"
   },
   "lat": null,
   "lng": null,
@@ -23,11 +25,13 @@
   "hours": null,
   "price": {
     "ja": "ソフトボードレンタル 2,500〜4,500円、スクール 5,000円",
-    "en": "Soft board rental 2,500–4,500 yen; lesson 5,000 yen"
+    "en": "Soft board rental 2,500–4,500 yen; lesson 5,000 yen",
+    "ko": "소프트보드 렌탈 2,500〜4,500엔, 스쿨 5,000엔"
   },
   "description": {
     "ja": "青島ビーチから徒歩約1分のショップ。JPSA プロの梅野航星が営む。",
-    "en": "About a one-minute walk from Aoshima Beach. Run by JPSA pro Kosei Umeno."
+    "en": "About a one-minute walk from Aoshima Beach. Run by JPSA pro Kosei Umeno.",
+    "ko": "아오시마 해변에서 걸어서 약 1분 거리의 숍. JPSA 프로 우메노 고세이가 운영한다."
   },
   "tags": null,
   "features": [

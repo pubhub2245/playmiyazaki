@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "ゲストハウスグーフィー",
-    "en": "Guest House Goofy"
+    "en": "Guest House Goofy",
+    "ko": "게스트하우스 구피"
   },
   "address": {
     "ja": "宮崎県日向市大字幸脇569番イ",
-    "en": "569-i Sachiwaki, Hyuga-shi, Miyazaki 889-1112"
+    "en": "569-i Sachiwaki, Hyuga-shi, Miyazaki 889-1112",
+    "ko": "미야자키현 휴가시 大字幸脇569番イ"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "1名利用 4,500円（税別）、1棟貸切 108,000円〜（税別）／1泊",
-    "en": "4,500 yen per person (excl. tax); whole-house rental from 108,000 yen (excl. tax) per night"
+    "en": "4,500 yen per person (excl. tax); whole-house rental from 108,000 yen (excl. tax) per night",
+    "ko": "1인 이용 4,500엔(부가세 별도), 1채 대절 108,000엔〜(부가세 별도)／1박"
   },
   "description": {
     "ja": "金ヶ浜から350m、お倉ヶ浜まで車で5分。ボードスタンド、ウェットスーツ乾燥ラック、屋外シャワーあり。2019年営業開始。",
-    "en": "350 m from Kanegahama; five minutes by car to Okuragahama. Board stands, wetsuit-drying racks, and outdoor showers. Open since 2019."
+    "en": "350 m from Kanegahama; five minutes by car to Okuragahama. Board stands, wetsuit-drying racks, and outdoor showers. Open since 2019.",
+    "ko": "가네가하마에서 350m, 오쿠라가하마까지 차로 5분. 보드 스탠드, 웨트슈트 건조 랙, 야외 샤워 있음. 2019년 영업 시작."
   },
   "tags": null,
   "features": [

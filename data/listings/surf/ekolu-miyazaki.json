@@ -8,11 +8,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "エコル宮崎サーフガイド&レンタカー",
-    "en": "ekolu Surf Guide & Rent a Car"
+    "en": "ekolu Surf Guide & Rent a Car",
+    "ko": "에콜루 미야자키 서프 가이드 & 렌터카"
   },
   "address": {
     "ja": "宮崎県宮崎市大字赤江74-1 レジデンスエアポート402",
-    "en": "Residence Airport 402, 74-1 Akae, Miyazaki-shi, Miyazaki 880-0912"
+    "en": "Residence Airport 402, 74-1 Akae, Miyazaki-shi, Miyazaki 880-0912",
+    "ko": "미야자키현 미야자키시 大字赤江74-1 레지던스 에어포트402"
   },
   "lat": null,
   "lng": null,
@@ -23,7 +25,8 @@
   "price": null,
   "description": {
     "ja": "元 JPSA プロの水元光志が営む。空港近くでサーフガイドとサーファー向けレンタカーを扱う。",
-    "en": "Run by former JPSA pro Koshi Mizumoto. Offers surf guiding and surfer-focused rental cars near the airport."
+    "en": "Run by former JPSA pro Koshi Mizumoto. Offers surf guiding and surfer-focused rental cars near the airport.",
+    "ko": "전 JPSA 프로 미즈모토 고지가 운영. 공항 근처에서 서프 가이드와 서퍼용 렌터카를 다룬다."
   },
   "tags": null,
   "features": [

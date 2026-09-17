@@ -9,11 +9,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "コネクション",
-    "en": "CONNECTION"
+    "en": "CONNECTION",
+    "ko": "커넥션"
   },
   "address": {
     "ja": "宮崎県延岡市方財町64",
-    "en": "64 Hozai-cho, Nobeoka-shi, Miyazaki 882-0853"
+    "en": "64 Hozai-cho, Nobeoka-shi, Miyazaki 882-0853",
+    "ko": "미야자키현 노베오카시 方財町64"
   },
   "lat": null,
   "lng": null,
@@ -24,7 +26,8 @@
   "price": null,
   "description": {
     "ja": "フルカスタムボードを扱うショップ。BeMoLo シューズ取扱い。初心者体験とコーチングあり。木曜定休。",
-    "en": "Shop that handles fully custom boards. BeMoLo shoes dealer. Beginner sessions and coaching. Closed Thursdays."
+    "en": "Shop that handles fully custom boards. BeMoLo shoes dealer. Beginner sessions and coaching. Closed Thursdays.",
+    "ko": "풀 커스텀 보드를 다루는 숍. BeMoLo 신발 취급. 초보자 체험과 코칭 있음. 목요일 휴무."
   },
   "tags": null,
   "features": [
