@@ -22,7 +22,10 @@
     "ja": "ライチ狩り 5月〜7月",
     "en": "Lychee picking May–July"
   },
-  "price": null,
+  "price": {
+    "ja": "ライチ狩り 100g 700円、入園無料。",
+    "en": "Lychee picking ¥700 per 100 g, free admission."
+  },
   "description": {
     "ja": "高鍋町のライチ狩り農園。国内で数少ないライチ狩り。",
     "en": "Lychee-picking farm in Takanabe, one of few lychee-picking farms in Japan."
@@ -32,8 +35,9 @@
     "seasonal"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/feature/fruit"
+    "https://www.kanko-miyazaki.jp/feature/fruit",
+    "https://miki-farm.co.jp/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

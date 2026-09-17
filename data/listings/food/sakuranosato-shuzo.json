@@ -19,7 +19,10 @@
   "website": "https://www.sakuranosato.co.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "入場無料。",
+    "en": "Free admission."
+  },
   "description": {
     "ja": "日南市北郷の焼酎蔵「焼酎道場」。予約不要で見学と試飲、オリジナルブレンド体験ができる。",
     "en": "Nichinan brewery 'Shochu Dojo'. Walk-in tour, tasting, and make-your-own blend, no reservation needed."
@@ -32,6 +35,6 @@
   "sources": [
     "https://www.sakuranosato.co.jp/tour/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

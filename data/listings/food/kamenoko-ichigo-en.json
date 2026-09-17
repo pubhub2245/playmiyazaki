@@ -22,7 +22,10 @@
     "ja": "いちご狩り 2月〜5月（50分食べ放題）",
     "en": "Strawberry picking February–May (50 min all-you-can-eat)"
   },
-  "price": null,
+  "price": {
+    "ja": "40分食べ放題。2〜4月：中学生以上 2,500円／小学生 2,000円／3歳以上 1,600円／3歳未満 無料。5月〜シーズン終了：中学生以上 2,000円／小学生 1,800円／3歳以上 1,400円。要予約。",
+    "en": "40-min all-you-can-eat. Feb–Apr: adults ¥2,500 / elementary ¥2,000 / age 3+ ¥1,600 / under 3 free. May–season end: adults ¥2,000 / elementary ¥1,800 / age 3+ ¥1,400. Reservation required."
+  },
   "description": {
     "ja": "日向市塩見のいちご狩り農園。50分の食べ放題方式。",
     "en": "Strawberry farm in Shiomi, Hyuga. 50-minute all-you-can-eat picking."
@@ -32,8 +35,9 @@
     "seasonal"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/feature/strawberry"
+    "https://www.kanko-miyazaki.jp/feature/strawberry",
+    "https://kamenoko15.com/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

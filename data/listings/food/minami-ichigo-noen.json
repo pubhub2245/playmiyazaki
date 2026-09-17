@@ -22,7 +22,10 @@
     "ja": "いちご狩り 1月〜5月",
     "en": "Strawberry picking January–May"
   },
-  "price": null,
+  "price": {
+    "ja": "1時間食べ放題。2/1〜4/12：中学生以上 2,400円／小学生 1,900円／3歳以上・75歳以上 1,400円。4/13〜終了：中学生以上 2,000円／小学生 1,500円／3歳以上・75歳以上 1,000円。摘み取り 100g 250〜300円。",
+    "en": "1-hour all-you-can-eat. Feb 1–Apr 12: adults ¥2,400 / elementary ¥1,900 / age 3+ or 75+ ¥1,400. Apr 13–end: adults ¥2,000 / elementary ¥1,500 / age 3+ or 75+ ¥1,000. Pick-your-own ¥250–300 per 100 g."
+  },
   "description": {
     "ja": "日南市北郷のいちご狩り農園。ぶどうや柿など季節の果物も。",
     "en": "Strawberry farm in Kitago, Nichinan. Grapes and persimmons also in season."
@@ -34,6 +37,6 @@
   "sources": [
     "https://www.373strawberryfarm.com/picking.php"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

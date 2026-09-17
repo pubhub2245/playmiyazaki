@@ -22,7 +22,10 @@
     "ja": "17：00～22：00",
     "en": "17：00～22：00"
   },
-  "price": null,
+  "price": {
+    "ja": "夜予算 3,001〜4,000円。地頭鶏炭火焼 1,480円、チキン南蛮 968円。お通し代 330円（税込）。",
+    "en": "Dinner budget ¥3,001–4,000. Jidori charcoal-grilled ¥1,480, chicken nanban ¥968. Table charge ¥330 (tax incl.)."
+  },
   "description": {
     "ja": "都城市栄町のろばた焼き。テイクアウトあり。営業17：00～22：00。定休日曜日、祝日の月曜日。みやざき地頭鶏の指定店。",
     "en": "Robatayaki in Miyakonojo that serves Miyazaki Jitokko. Takeout available. Open 17：00～22：00."
@@ -32,8 +35,9 @@
     "takeout"
   ],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1712802582"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1712802582",
+    "https://www.hotpepper.jp/strJ000590557/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

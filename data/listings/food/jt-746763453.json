@@ -22,7 +22,10 @@
     "ja": "11:30～23:30",
     "en": "11:30～23:30"
   },
-  "price": null,
+  "price": {
+    "ja": "平日昼 日替わり定食 750円（限定10食）。夜予算 1,001〜3,000円。コース 5,000〜5,500円（飲み放題付）。",
+    "en": "Weekday lunch daily set ¥750 (limit 10). Dinner budget ¥1,001–3,000. Course ¥5,000–5,500 (with all-you-can-drink)."
+  },
   "description": {
     "ja": "食堂。宮崎市橘通西にある。みやざき地頭鶏の指定店。営業11:30～23:30。定休元日。",
     "en": "Diner in Miyazaki City. Open 11:30～23:30. Cooperative-designated Miyazaki Jitokko store."
@@ -30,8 +33,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1746763453"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746763453",
+    "https://www.hotpepper.jp/strJ000763546/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

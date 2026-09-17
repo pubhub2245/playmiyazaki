@@ -22,7 +22,10 @@
     "ja": "17:00～23:00",
     "en": "17:00～23:00"
   },
-  "price": null,
+  "price": {
+    "ja": "夜予算 3,001〜4,000円（3,300円）。コース 3,500〜5,000円。",
+    "en": "Dinner budget ¥3,001–4,000 (¥3,300). Courses ¥3,500–5,000."
+  },
   "description": {
     "ja": "宮崎市中央通の居酒屋。組合の指定店。営業17:00～23:00。定休元日。",
     "en": "Cooperative-designated izakaya in Miyazaki City. Open 17:00～23:00."
@@ -30,8 +33,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1747009942"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1747009942",
+    "https://www.hotpepper.jp/strJ000033639/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

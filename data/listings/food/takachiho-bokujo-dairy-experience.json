@@ -19,7 +19,10 @@
   "website": "https://www.takachiho-bokujou.co.jp/oneday/taiken/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "乳しぼり体験 500円（ソフトクリーム引換券付）、アイスクリーム手作り 1,300円、バター手作り 800円、乗馬 1,500円（70m）／3,000円（250m）／撮影 800円。",
+    "en": "Milking ¥500 (with soft-serve voucher), ice-cream making ¥1,300, butter making ¥800, horseback ¥1,500 (70 m) / ¥3,000 (250 m) / photo ¥800."
+  },
   "description": {
     "ja": "霧島連山ふもとの観光牧場。バターやアイスの手作り体験、乳しぼり、乗馬（要予約）。",
     "en": "Tourist dairy farm at the foot of the Kirishima range. Butter and ice-cream making, milking, horse riding (reservation required)."
@@ -30,8 +33,9 @@
     "reservation"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/activity/1502"
+    "https://www.kanko-miyazaki.jp/activity/1502",
+    "https://www.takachiho-bokujou.co.jp/oneday/taiken/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

@@ -22,7 +22,10 @@
     "ja": "17:00～23:30",
     "en": "17:00～23:30"
   },
-  "price": null,
+  "price": {
+    "ja": "夜予算 3,001〜4,000円（3,300円／人）。コース 4,000〜5,170円。",
+    "en": "Dinner budget ¥3,001–4,000 (¥3,300/person). Courses ¥4,000–5,170."
+  },
   "description": {
     "ja": "みやざき地頭鶏の指定店。宮崎市橘通西の居酒屋。営業17:00～23:30。定休元日。",
     "en": "Izakaya in Miyazaki City on the Miyazaki Jitokko cooperative roster. Open 17:00～23:30."
@@ -30,8 +33,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1746764226"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1746764226",
+    "https://www.hotpepper.jp/strJ001010609/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

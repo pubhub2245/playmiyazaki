@@ -22,7 +22,10 @@
     "ja": "水金土 9:00〜15:00 蔵見学は要予約",
     "en": "Wed/Fri/Sat 9:00–15:00, tour by reservation"
   },
-  "price": null,
+  "price": {
+    "ja": "蔵見学 500円／人（税込）、ブレンドコース 1,500円／人（税込）。要予約。",
+    "en": "Brewery tour ¥500 per person (tax incl.), blending course ¥1,500 per person (tax incl.). Reservation required."
+  },
   "description": {
     "ja": "日南市北郷の焼酎蔵。蔵見学は水金土のみ、要予約。",
     "en": "Shochu brewery in Kitago, Nichinan. Tours Wed/Fri/Sat by reservation."
@@ -33,8 +36,9 @@
     "reservation"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/feature/sakagura3"
+    "https://www.kanko-miyazaki.jp/feature/sakagura3",
+    "https://ohtemon1895.jp/sakagura-tour/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-17",
   "status": "open"
 }
