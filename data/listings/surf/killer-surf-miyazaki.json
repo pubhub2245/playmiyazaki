@@ -21,7 +21,10 @@
   "website": "https://www.miyazaki-killersurfjapan.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "スクール 5,940〜17,600円（税込）／90〜120分、ボードレンタル 3,500円／4時間・5,000円／1日（税込）",
+    "en": "Lesson 5,940–17,600 yen (incl. tax) for 90–120 min; board rental 3,500 yen/4 hrs or 5,000 yen/day (incl. tax)"
+  },
   "description": {
     "ja": "JPSA プロの川端太志が営むスクール。ガイド、レンタル、STAND ウェットスーツも扱う。",
     "en": "School run by JPSA pro Taishi Kawabata. Guiding, rentals, and STAND wetsuits."
@@ -32,8 +35,10 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-killersurfjapan.com/"
+    "https://www.miyazaki-killersurfjapan.com/",
+    "https://www.miyazaki-killersurfjapan.com/school/",
+    "https://www.miyazaki-killersurfjapan.com/rental/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

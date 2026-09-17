@@ -19,7 +19,10 @@
   "website": "https://www.guest-house-goofy.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1名利用 4,500円（税別）、1棟貸切 108,000円〜（税別）／1泊",
+    "en": "4,500 yen per person (excl. tax); whole-house rental from 108,000 yen (excl. tax) per night"
+  },
   "description": {
     "ja": "金ヶ浜から350m、お倉ヶ浜まで車で5分。ボードスタンド、ウェットスーツ乾燥ラック、屋外シャワーあり。2019年営業開始。",
     "en": "350 m from Kanegahama; five minutes by car to Okuragahama. Board stands, wetsuit-drying racks, and outdoor showers. Open since 2019."
@@ -32,6 +35,6 @@
   "sources": [
     "https://www.guest-house-goofy.com/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

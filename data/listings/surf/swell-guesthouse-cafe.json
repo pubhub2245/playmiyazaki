@@ -19,7 +19,10 @@
   "website": "https://swell-gh.co.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "通常期 4,000円〜／1名、ハイシーズン 5,500円〜／1名（税込）",
+    "en": "From 4,000 yen per person off-season; from 5,500 yen per person high season (incl. tax)"
+  },
   "description": {
     "ja": "ゲストハウス併設のカフェ。屋外シャワーあり。",
     "en": "Guesthouse with an attached cafe. Outdoor shower available."
@@ -30,8 +33,9 @@
     "stay"
   ],
   "sources": [
-    "https://swell-gh.co.jp/"
+    "https://swell-gh.co.jp/",
+    "https://swell-gh.co.jp/price.php"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

@@ -19,7 +19,10 @@
   "website": null,
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "温水シャワー 200円、コインロッカー 大300円・小200円、駐車場 無料",
+    "en": "Warm shower 200 yen; coin locker 200–300 yen; parking free"
+  },
   "description": {
     "ja": "青島神社に隣接する海岸。南側は穏やか、北側は木崎浜方面へ広がる。青島ビーチセンターにロッカーと温水シャワーあり。",
     "en": "Beach next to Aoshima Shrine. South side is calmer; the north side extends toward Kizakihama. Aoshima Beach Center has lockers and hot showers."
@@ -31,6 +34,6 @@
   "sources": [
     "https://www.kanko-miyazaki.jp/golf_surfing/1447"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

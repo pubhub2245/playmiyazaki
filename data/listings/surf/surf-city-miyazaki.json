@@ -20,7 +20,10 @@
   "website": "https://surfcity-miyazaki.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "月額会員 4,400〜9,900円（税込）、1日フリーパス 8,800円、1プログラム 3,300円〜、施設利用のみ 1,100円",
+    "en": "Monthly membership 4,400–9,900 yen (incl. tax); 1-day pass 8,800 yen; single program from 3,300 yen; facility only 1,100 yen"
+  },
   "description": {
     "ja": "青島海浜公園に隣接。サーフ、SUP、ヨガ、キッズ放課後サーフを扱う。アソビューから予約可。",
     "en": "Adjacent to Aoshima Beach Park. Surf, SUP, yoga, and after-school kids' surf. Bookable via Asoview."
@@ -34,6 +37,6 @@
   "sources": [
     "https://surfcity-miyazaki.jp/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

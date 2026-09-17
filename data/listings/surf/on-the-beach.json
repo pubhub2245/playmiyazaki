@@ -21,7 +21,10 @@
   "website": "https://onthebeach.jp/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "ボードレンタル 4,400円／日、ウェットスーツ 2,750〜3,300円／日、SUP 5,500円／日（税込）",
+    "en": "Board rental 4,400 yen/day; wetsuit 2,750–3,300 yen/day; SUP 5,500 yen/day (incl. tax)"
+  },
   "description": {
     "ja": "1996年創業。JPSA プロの久保田聡が営むショップ。カスタムボード・ウェットスーツ、オンラインコーチングあり。",
     "en": "Established in 1996 and run by JPSA pro Satoshi Kubota. Custom boards and wetsuits, plus online coaching."
@@ -32,8 +35,9 @@
     "rental"
   ],
   "sources": [
-    "https://onthebeach.jp/"
+    "https://onthebeach.jp/",
+    "https://onthebeach.jp/rental"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

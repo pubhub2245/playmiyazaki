@@ -21,7 +21,10 @@
   "website": "https://newwavesurf.shop/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "体験スクール 3,300円、レベルアップスクール 5,500円、ボードレンタル 3,300〜4,400円、ウェットスーツ 1,100〜2,200円",
+    "en": "Beginner lesson 3,300 yen; level-up lesson 5,500 yen; board rental 3,300–4,400 yen; wetsuit 1,100–2,200 yen"
+  },
   "description": {
     "ja": "木崎浜近くのショップ。スクール、レンタル、ガイドツアーを扱う。JPBA プロショップ。",
     "en": "Shop near Kizakihama. Handles lessons, rentals, and guided tours. JPBA pro shop."
@@ -32,8 +35,10 @@
     "rental"
   ],
   "sources": [
-    "https://newwavesurf.shop/"
+    "https://newwavesurf.shop/",
+    "https://newwavesurf.shop/school/",
+    "https://newwavesurf.shop/rental/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

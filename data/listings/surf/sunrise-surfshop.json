@@ -21,7 +21,10 @@
   "website": "https://www.sunrise-surfshop.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "スクール 6,600〜11,000円（税込）／約1.5〜2時間",
+    "en": "Lesson 6,600–11,000 yen (incl. tax) for about 1.5–2 hours"
+  },
   "description": {
     "ja": "お倉ヶ浜のすぐそば。ゲストハウス OCEANSIDE お倉ヶ浜（2024年3月開業）に隣接する。",
     "en": "Right next to Okuragahama. Adjacent to the OCEANSIDE Okuragahama guesthouse, which opened in March 2024."
@@ -32,8 +35,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.sunrise-surfshop.com/"
+    "https://www.sunrise-surfshop.com/",
+    "https://www.sunrise-surfshop.com/school.html"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }

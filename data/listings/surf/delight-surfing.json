@@ -21,7 +21,10 @@
   "website": "https://www.delight-mjc.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "スクール 6,500〜8,000円／2時間（レンタル込）、ボードレンタル 3,000円／日、ウェットスーツ 2,000円／日",
+    "en": "Lesson 6,500–8,000 yen for 2 hours (rentals included); board rental 3,000 yen/day; wetsuit 2,000 yen/day"
+  },
   "description": {
     "ja": "都城市内のショップ。ボード、ボディボード、ウェットスーツを扱い、カスタムボード製造（ヒロタサーフボードラボ）も行う。",
     "en": "Shop in Miyakonojo. Handles boards, bodyboards, and wetsuits, and manufactures custom boards (Hirota Surfboards Lab)."
@@ -32,8 +35,10 @@
     "rental"
   ],
   "sources": [
-    "https://www.delight-mjc.com/"
+    "https://www.delight-mjc.com/",
+    "https://www.delight-mjc.com/school",
+    "https://www.delight-mjc.com/rental"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-17",
   "status": "open"
 }
