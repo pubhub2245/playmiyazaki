@@ -37,6 +37,10 @@
 | ジャンル・種別の定義 | `data/taxonomy.json` | ここに無い genre / category を JSON に書かない |
 | listing の features | 各 JSON の `features` 配列 | `scripts/patch-features.ts` は UNION（追加のみ）で付ける。外すときは JSON を手で直す |
 
+# MIYAZAKI PRIVATE（/private）
+
+`/private` 配下は別ブランド「MIYAZAKI PRIVATE」の売るためのページ。`docs/private.md` が唯一の方針。playmiyazaki.com 側の「評価語なし・フォームなし・予約なし・写真なし」のルールは `/private` には適用しない。ただし「架空の店を作らない」「店名は提携が決まるまで種類で書く（a wagyu restaurant 等）」「事実（時間・人数・含まれるもの）は正確に」は `/private` にも適用する。listing データは読み取り専用で共用してよい。
+
 # North Star Metric
 
 **Google 検索からの月間クリック数（Search Console）。** これ以外で成功判断しない。PV や訪問者数は見ない（自分のアクセスや bot で動くため）。

@@ -1,6 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Zen_Kaku_Gothic_New, IBM_Plex_Mono } from "next/font/google";
-import "./globals.css";
+import "../globals.css";
 import { HOME_TITLE, SITE_TAGLINE, SITE_URL } from "@/lib/i18n";
 
 const display = Zen_Kaku_Gothic_New({
