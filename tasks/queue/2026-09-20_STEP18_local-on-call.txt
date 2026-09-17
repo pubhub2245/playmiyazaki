@@ -1,0 +1,25 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作（外部サービスのアカウント登録・有料契約を含む）
+(3) listing JSON・taxonomy・docs/design.md・/ja /en のページの変更。実在の店名・人名を載せること。事業者への連絡。
+
+【前提】
+CLAUDE.md、docs/private.md を最初に読むこと。/private の見た目の方針は変えない。
+
+【やること】STEP 18：付随商品「Local on Call」のページ
+1. app/(private)/private/local-on-call/page.tsx を作る。英文：
+   見出し：LOCAL ON CALL
+   サブ：A local friend in your pocket, for the length of your stay in Miyazaki.
+   本文：Not a tour. Not a guide. Just someone local you can message — in English — for up to seven days. Where to eat tonight, whether the surf is worth the drive tomorrow, what to buy at that roadside station, how to say it at the counter. We answer within the hour, from 8:00 to 23:00 Japan time, using our own verified database of 315 places in Miyazaki with prices.
+   What you get：One chat thread (WhatsApp or email) for your whole group／Answers within the hour, 8:00–23:00 JST／Restaurant and activity suggestions with prices and opening hours／Reservations made on your behalf where a phone call in Japanese is needed
+   What we don't do：Transport, accommodation or flight bookings／Guiding in person／Payments on your behalf
+   Price：¥15,000 per group, up to seven days.
+   CTA：Request Local on Call → /private/request
+2. /private トップの商品リンクに「LOCAL ON CALL — a local friend in your pocket. ¥15,000 per group. → /private/local-on-call」を追加。
+3. docs/private.md に「Local on Call の運用：問い合わせは運営者の Gmail に届く。設計側の Claude が英文の返答を下書きし、運営者が送る。返答時間は 8:00–23:00 JST を守る。飲食店への電話予約は運営者が日本語で行う（提携ではなく通常の客として）」を追記。
+4. sitemap 追加。npm run build → コミット「Add Local on Call product page」→ git push origin main
+
+【禁止】デザインの新しい部品・色、写真、実在の店名、決済・チャット機能の実装（連絡先は既存の mailto／フォームで受ける）
+RESULT 行：作ったページ／push YES|NO／コミットハッシュ
+END OF PROMPT

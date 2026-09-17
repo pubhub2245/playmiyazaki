@@ -1,0 +1,22 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作（外部サービスのアカウント登録・有料契約を含む）
+(3) listing JSON・taxonomy・docs/design.md・/ja /en のページの変更。実在の店名・人名を載せること。事業者への連絡。
+
+【前提】
+CLAUDE.md、docs/要件.md、docs/design.md を最初に読むこと。本作業は listing JSON に **ko フィールドを追加するだけ**（ja/en は触らない）。安全ルール(3) の「listing JSON の変更」は、この ko 追加に限って許可する。
+
+【背景】宮崎のインバウンドで最大の塊は冬にゴルフで来る韓国人。ゴルフ68件・宿・食を韓国語で検索に乗せる。
+
+【やること】STEP 20：韓国語版 /ko/
+1. lib と app/(site)/[lang] の lang を 'ja' | 'en' | 'ko' に拡張。/ko/... を /en/... と同じ構造で静的生成。hreflang に ko を追加。sitemap に ko を追加。ヘッダーの言語切替に「한국어」を追加（design.md の部品の範囲内）。
+2. data/taxonomy.json の genres/categories/areas/features に ko を追加（自然な韓国語。固有名詞はハングル表記＋必要なら漢字併記なし）。UI 文言（見出し・ボタン・「公式サイトで確認」等）の ko 訳を既存の i18n の仕組みに追加。
+3. 全 listing の name.ko / description.ko / address.ko / price.ko を追加。description は en を基に自然な韓国語に訳す（事実のみ、評価語なし、160字以内）。name は「原語（ハングル読み）」の形（例：フェニックスカントリークラブ → 피닉스 컨트리클럽）。address は市町村までハングル＋番地は原文。price は数字と単位を韓国語に。
+   ★ 優先順：golf → camp → surf → food。時間内に終わらなければ golf と camp だけで一旦コミット・push し、残りは RESULT に書く（次回の queue で続ける）。
+4. lib/validate.ts を ko 対応（ko は任意項目。無い listing は /ko/ で en にフォールバックして表示）。
+5. npm run validate → npm run build → 生成ページ数を報告 → コミット「Add Korean (/ko/) pages」→ git push origin main
+
+【禁止】ja/en の値の変更、デザインの新しい部品・色、翻訳APIの利用（自分で訳す）
+RESULT 行：ko を付けた件数（ジャンル別）／生成ページ数／push YES|NO／コミットハッシュ
+END OF PROMPT

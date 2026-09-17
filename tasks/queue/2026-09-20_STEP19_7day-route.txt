@@ -1,0 +1,23 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作（外部サービスのアカウント登録・有料契約を含む）
+(3) listing JSON・taxonomy・docs/design.md・/ja /en のページの変更。実在の店名・人名を載せること。事業者への連絡。
+
+【前提】
+CLAUDE.md、docs/要件.md、docs/private.md を最初に読むこと。listing データ（data/listings）は読み取り専用で使う。
+
+【やること】STEP 19：「7-Day Southern Kyushu Route」の中身とページ
+1. scripts/build-route.ts を作る：data/listings の全 listing（status が closed でないもの）から、7日間の道順を組む。条件：宮崎空港発着／Day1 宮崎市（ニシタチ）／Day2 青島・日南海岸（サーフ or ゴルフ）／Day3 日南・串間（ゴルフ or キャンプ）／Day4 都城（宮崎牛・焼酎）／Day5 綾・西都（食・直売所）／Day6 高千穂方面（延岡経由）／Day7 宮崎市に戻る。各日に listing を3〜5件、**price が null でないものを優先**し、営業時間・定休日・出典URLを添える。宿泊は書かない（旅行業法の理由。「Stay in the same area」とだけ）。移動時間は書かない（推測になるため）。出力は docs/route-7days.en.md と docs/route-7days.ja.md（Markdown、季節に依存する記述は避ける）。
+2. app/(private)/private/route/page.tsx を作る。英文：
+   見出し：7-DAY SOUTHERN KYUSHU ROUTE
+   サブ：For your second or third time in Japan. Miyazaki, without the crowds.
+   本文：A seven-day route through Miyazaki built from our own verified database: every stop with its price, opening hours and official source. No hotels sold, no commissions — just the order we would do it in. Updated every season.
+   下に Day 1〜7 の見出しと、各日の listing 名（英語）・種類・料金（あれば）・Google マップへのリンク（既存の maps リンク生成を使う）。出典URLは出さない（PDF 版にだけ入れる）。
+   最後：Want the full route as a PDF with sources and a map? Request it — free while we are in preview. → /private/request
+3. /private トップの商品リンクに「7-DAY SOUTHERN KYUSHU ROUTE — Miyazaki without the crowds. Free preview. → /private/route」を追加。
+4. sitemap 追加。npm run validate → npm run build → コミット「Add 7-day route generated from listings」→ git push origin main
+
+【禁止】listing データの変更、宿泊・移動時間の記載、写真、実在の店名の"おすすめ"表現（事実の並びとして出す）
+RESULT 行：各日の件数／price ありの割合／push YES|NO／コミットハッシュ
+END OF PROMPT

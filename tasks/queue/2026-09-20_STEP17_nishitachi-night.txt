@@ -1,0 +1,28 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作（外部サービスのアカウント登録・有料契約を含む）
+(3) listing JSON・taxonomy・docs/design.md・/ja /en のページの変更。実在の店名・人名を載せること。事業者への連絡。
+
+【前提】
+CLAUDE.md（STEP16 で更新済み）、docs/private.md を最初に読むこと。/private の見た目の方針（暗い背景・文字だけ・Cormorant Garamond＋Inter・真鍮色の枠線ボタン）は変えない。
+
+【やること】STEP 17：下段商品「Nishitachi Night with a Local」のページと、掲載用の文章
+1. app/(private)/private/nishitachi-night/page.tsx を作る（after-dark と同じ部品・レイアウト）。英文は下のとおり。数字・時刻・価格は変えない。
+   見出し：NISHITACHI NIGHT WITH A LOCAL
+   サブ：Three hours. 19:00–22:00. Two to six guests. Twice a week.
+   本文：Nishitachi is where Miyazaki drinks. Not on any itinerary, not in any guidebook — just a few streets of tiny bars where the regulars are. A local host takes you in: one plate of Miyazaki wagyu, shochu poured the way it is here, and a bar you would never find on your own. Everything within a five-minute walk.
+   The night：19:00 Meet your host at a landmark in central Miyazaki City／19:15 Miyazaki wagyu — one plate, one drink／20:15 Shochu tasting／21:15 A local bar／22:00 Goodnight at the same landmark
+   Included：English-speaking local host／One wagyu plate, shochu tasting and two drinks／All seats reserved
+   Not included：Additional food and drinks／Transport to and from central Miyazaki／Gratuities (not expected in Japan)
+   Price：¥25,000 per guest. Minimum two guests, maximum six. Private group on request.
+   Book：Available on GetYourGuide, Viator and Airbnb Experiences. Or send us a request. → /private/request（ボタン）
+   注記：Guests must be 20 or older (Japan's legal drinking age).
+2. /private トップの商品リンクに、AFTER DARK の下に「NISHITACHI NIGHT WITH A LOCAL — three hours. ¥25,000 per guest. → /private/nishitachi-night」を追加。
+3. /private/request のフォームの「Preferred dates」の上に、選択肢「Which evening? (After Dark private evening / Nishitachi Night with a Local / Local on Call / 7-Day Route)」を追加（mailto の本文ひな形にも入れる）。
+4. docs/listing-copy.md を新規作成し、プラットフォーム掲載用の英文を書く：タイトル（60字以内）、短い説明（160字）、長い説明（1,200字以内。上の本文を膨らませる。店名なし・写真なし・評価語は控えめ）、含まれるもの／含まれないもの、集合場所（"a landmark in central Miyazaki City — exact spot sent after booking"）、キャンセル規定（24時間前まで全額返金）、写真の要件（運営者が撮る：ニシタチの路地・提灯・焼酎の瓶・宮崎牛の皿。人物の顔なし）、開催曜日案（金・土）、価格 ¥25,000、最少催行2名。GetYourGuide／Viator／Airbnb Experiences それぞれの文字数制限に合わせた3種を書く。
+5. sitemap に /private/nishitachi-night を追加。npm run build → コミット「Add Nishitachi Night product page and platform copy」→ git push origin main
+
+【禁止】デザインの新しい部品・色、写真、実在の店名、予約カレンダー・決済
+RESULT 行：作ったページ／docs/listing-copy.md の有無／push YES|NO／コミットハッシュ
+END OF PROMPT
