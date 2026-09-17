@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "朝霧の里 ATOM",
-    "en": "Asagiri-no-Sato ATOM"
+    "en": "Asagiri-no-Sato ATOM",
+    "ko": "아사기리노사토 ATOM"
   },
   "address": {
     "ja": "宮崎県都城市高木町6316",
-    "en": "6316 Takagi-cho, Miyakonojo-shi, Miyazaki"
+    "en": "6316 Takagi-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 高木町6316"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "都城市のJA直売所。",
-    "en": "JA direct-sales shop in Miyakonojo."
+    "en": "JA direct-sales shop in Miyakonojo.",
+    "ko": "미야코노조시의 JA 직매장."
   },
   "tags": null,
   "features": [

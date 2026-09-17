@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "道の駅 日向",
-    "en": "Michi-no-Eki Hyuga"
+    "en": "Michi-no-Eki Hyuga",
+    "ko": "미치노에키 휴가"
   },
   "address": {
     "ja": "宮崎県日向市大字幸脇241-7",
-    "en": "241-7 Sachiwaki, Hyuga-shi, Miyazaki"
+    "en": "241-7 Sachiwaki, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 大字幸脇241-7"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日向市南部の道の駅の直売所。海が近い。",
-    "en": "Direct-sales shop at Michi-no-Eki Hyuga in the south of the city, near the sea."
+    "en": "Direct-sales shop at Michi-no-Eki Hyuga in the south of the city, near the sea.",
+    "ko": "휴가시 남부 휴게소의 직매장. 바다가 가깝다."
   },
   "tags": null,
   "features": [

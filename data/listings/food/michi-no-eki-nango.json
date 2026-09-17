@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "道の駅 なんごう",
-    "en": "Michi-no-Eki Nango"
+    "en": "Michi-no-Eki Nango",
+    "ko": "미치노에키 난고"
   },
   "address": {
     "ja": "宮崎県日南市南郷町大字贄波3220-24",
-    "en": "3220-24 Nietsuba, Nango-cho, Nichinan-shi, Miyazaki"
+    "en": "3220-24 Nietsuba, Nango-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 南郷町大字贄波3220-24"
   },
   "lat": null,
   "lng": null,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "4月〜7月に完熟マンゴー販売",
-    "en": "Ripe mango sales April–July"
+    "en": "Ripe mango sales April–July",
+    "ko": "4월~7월에 완숙 망고 판매"
   },
   "price": null,
   "description": {
     "ja": "日南市南郷の道の駅の直売所。トロピカルフルーツと完熟マンゴーを扱う。",
-    "en": "Michi-no-Eki Nango shop in Nichinan. Tropical fruit and ripe mango."
+    "en": "Michi-no-Eki Nango shop in Nichinan. Tropical fruit and ripe mango.",
+    "ko": "니치난시 난고 휴게소의 직매장. 열대 과일과 완숙 망고를 취급."
   },
   "tags": null,
   "features": [

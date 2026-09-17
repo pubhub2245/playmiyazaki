@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "櫻の郷酒造 焼酎道場",
-    "en": "Sakuranosato Shuzo (Shochu Dojo)"
+    "en": "Sakuranosato Shuzo (Shochu Dojo)",
+    "ko": "사쿠라노사토 주조 쇼추 도장"
   },
   "address": {
     "ja": "宮崎県日南市北郷町郷之原甲888",
-    "en": "888 Gonohara-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+    "en": "888 Gonohara-ko, Kitago-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 北郷町郷之原甲888"
   },
   "lat": null,
   "lng": null,
@@ -21,11 +23,13 @@
   "hours": null,
   "price": {
     "ja": "入場無料。",
-    "en": "Free admission."
+    "en": "Free admission.",
+    "ko": "입장 무료."
   },
   "description": {
     "ja": "日南市北郷の焼酎蔵「焼酎道場」。予約不要で見学と試飲、オリジナルブレンド体験ができる。",
-    "en": "Nichinan brewery 'Shochu Dojo'. Walk-in tour, tasting, and make-your-own blend, no reservation needed."
+    "en": "Nichinan brewery 'Shochu Dojo'. Walk-in tour, tasting, and make-your-own blend, no reservation needed.",
+    "ko": "니치난시 기타고의 쇼추 양조장 '쇼추 도장'. 예약 없이 견학과 시음, 나만의 블렌드 체험을 할 수 있다."
   },
   "tags": null,
   "features": [

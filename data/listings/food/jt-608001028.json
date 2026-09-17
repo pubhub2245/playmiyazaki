@@ -7,11 +7,13 @@
   "area": "kobayashi",
   "name": {
     "ja": "居酒屋あねさん",
-    "en": "Izakaya Anesan"
+    "en": "Izakaya Anesan",
+    "ko": "이자카야 아네상"
   },
   "address": {
     "ja": "宮崎県小林市大字細野１１７－６ (仲町）",
-    "en": "117-6 Hosono (Nakamachi), Kobayashi, Miyazaki"
+    "en": "117-6 Hosono (Nakamachi), Kobayashi, Miyazaki",
+    "ko": "미야자키현 고바야시시 大字細野１１７－６ (仲町）"
   },
   "lat": 31.992415,
   "lng": 130.979248,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～21:00（L.O. 20:30）",
-    "en": "17:00～21:00（L.O. 20:30）"
+    "en": "17:00～21:00（L.O. 20:30）",
+    "ko": "17:00~21:00 (L.O. 20:30)"
   },
   "price": null,
   "description": {
     "ja": "小林市細野にある居酒屋。みやざき地頭鶏の指定店。テイクアウトあり。営業17:00～21:00（L.O. 20:30）。定休日休。",
-    "en": "Miyazaki Jitokko cooperative-designated izakaya in Kobayashi. Takeout available. Open 17:00～21:00（L.O. 20:30）."
+    "en": "Miyazaki Jitokko cooperative-designated izakaya in Kobayashi. Takeout available. Open 17:00～21:00（L.O. 20:30）.",
+    "ko": "고바야시시 호소노에 있는 이자카야. 미야자키 지토코 지정점. 포장 가능. 영업 17:00~21:00 (L.O. 20:30). 정기휴무 없음."
   },
   "tags": null,
   "features": [

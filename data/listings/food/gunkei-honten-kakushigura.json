@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ぐんけい本店 隠蔵",
-    "en": "Gunkei Honten Kakushigura"
+    "en": "Gunkei Honten Kakushigura",
+    "ko": "군케이 본점 가쿠시구라"
   },
   "address": {
     "ja": "宮崎県宮崎市中央通8-12",
-    "en": "8-12 Chuo-dori, Miyazaki-shi, Miyazaki"
+    "en": "8-12 Chuo-dori, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 中央通8-12"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏を炭火で焼く店。ぐんけいグループの本店。中央通の裏路地にある。",
-    "en": "Charcoal-grilled Miyazaki Jitokko chicken. The flagship shop of the Gunkei group, in a Chuo-dori back alley."
+    "en": "Charcoal-grilled Miyazaki Jitokko chicken. The flagship shop of the Gunkei group, in a Chuo-dori back alley.",
+    "ko": "미야자키 지토코를 숯불로 굽는 가게. 군케이 그룹의 본점. 주오도리 뒷골목에 있다."
   },
   "tags": null,
   "features": [],

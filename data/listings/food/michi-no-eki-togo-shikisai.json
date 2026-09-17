@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "道の駅 とうごう 詩季彩",
-    "en": "Michi-no-Eki Togo Shikisai"
+    "en": "Michi-no-Eki Togo Shikisai",
+    "ko": "미치노에키 도고 시키사이"
   },
   "address": {
     "ja": "宮崎県日向市東郷町山陰辛244-1",
-    "en": "244-1 Yamakage-Kanoto, Togo-cho, Hyuga-shi, Miyazaki"
+    "en": "244-1 Yamakage-Kanoto, Togo-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 東郷町山陰辛244-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日向市東郷町の道の駅の物産館「詩季彩」。",
-    "en": "Shikisai, the shop at Michi-no-Eki Togo, Hyuga."
+    "en": "Shikisai, the shop at Michi-no-Eki Togo, Hyuga.",
+    "ko": "휴가시 도고초 휴게소의 물산관 '시키사이'."
   },
   "tags": null,
   "features": [

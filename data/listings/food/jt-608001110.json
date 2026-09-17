@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "炭火居酒屋みなとや",
-    "en": "Sumibi Izakaya Minatoya"
+    "en": "Sumibi Izakaya Minatoya",
+    "ko": "숯불 이자카야 미나토야"
   },
   "address": {
     "ja": "宮崎県日南市中央通2丁目4番地20",
-    "en": "2-4-20 Chuo-dori, Nichinan, Miyazaki"
+    "en": "2-4-20 Chuo-dori, Nichinan, Miyazaki",
+    "ko": "미야자키현 니치난시 中央通2丁目4番地20"
   },
   "lat": 31.604226,
   "lng": 131.379803,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～23:00",
-    "en": "17:00～23:00"
+    "en": "17:00～23:00",
+    "ko": "17:00~23:00"
   },
   "price": null,
   "description": {
     "ja": "日南市中央通の炭火居酒屋。組合の指定店。営業17:00～23:00。定休日曜日。",
-    "en": "Cooperative-designated sumibi izakaya in Nichinan. Open 17:00～23:00."
+    "en": "Cooperative-designated sumibi izakaya in Nichinan. Open 17:00～23:00.",
+    "ko": "니치난시 주오도리의 숯불 이자카야. 조합 지정점. 영업 17:00~23:00. 휴무 일요일."
   },
   "tags": null,
   "features": [],

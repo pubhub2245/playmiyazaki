@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "アグリショップ あがた生活店",
-    "en": "Agri Shop Agata"
+    "en": "Agri Shop Agata",
+    "ko": "아그리숍 아가타 생활점"
   },
   "address": {
     "ja": "宮崎県日南市中央通1-2-3",
-    "en": "1-2-3 Chuo-dori, Nichinan-shi, Miyazaki"
+    "en": "1-2-3 Chuo-dori, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 中央通1-2-3"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日南市中央通のJA直売所。",
-    "en": "JA direct-sales shop on Nichinan's Chuo-dori."
+    "en": "JA direct-sales shop on Nichinan's Chuo-dori.",
+    "ko": "니치난시 주오도리의 JA 직매장."
   },
   "tags": null,
   "features": [

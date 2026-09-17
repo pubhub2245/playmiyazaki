@@ -7,11 +7,13 @@
   "area": "shintomi",
   "name": {
     "ja": "こゆ農畜産物直売所 ルーピン",
-    "en": "Koyu Farmers Market Lupin"
+    "en": "Koyu Farmers Market Lupin",
+    "ko": "고유 농축산물 직매장 루핀"
   },
   "address": {
     "ja": "宮崎県児湯郡新富町大字三納代2032-2",
-    "en": "2032-2 Minoushiro, Shintomi-cho, Koyu-gun, Miyazaki"
+    "en": "2032-2 Minoushiro, Shintomi-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 신토미초 大字三納代2032-2"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "新富町のJA直売所。",
-    "en": "JA direct-sales shop in Shintomi."
+    "en": "JA direct-sales shop in Shintomi.",
+    "ko": "신토미초의 JA 직매장."
   },
   "tags": null,
   "features": [

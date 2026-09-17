@@ -7,11 +7,13 @@
   "area": "kobayashi",
   "name": {
     "ja": "焼き鳥 安兵衛",
-    "en": "Yakitori Yasube"
+    "en": "Yakitori Yasube",
+    "ko": "야키토리 야스베"
   },
   "address": {
     "ja": "宮崎県小林市細野156",
-    "en": "156 Hosono, Kobayashi, Miyazaki"
+    "en": "156 Hosono, Kobayashi, Miyazaki",
+    "ko": "미야자키현 고바야시시 細野156"
   },
   "lat": 31.9932,
   "lng": 130.97821,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～23:00",
-    "en": "17:00～23:00"
+    "en": "17:00～23:00",
+    "ko": "17:00~23:00"
   },
   "price": null,
   "description": {
     "ja": "小林市細野の焼鳥店。組合の指定店。テイクアウトあり。営業17:00～23:00。定休月曜日。",
-    "en": "Cooperative-designated yakitori in Kobayashi. Takeout available. Open 17:00～23:00."
+    "en": "Cooperative-designated yakitori in Kobayashi. Takeout available. Open 17:00～23:00.",
+    "ko": "고바야시시 호소노의 야키토리 가게. 조합 지정점. 포장 가능. 영업 17:00~23:00. 휴무 월요일."
   },
   "tags": null,
   "features": [

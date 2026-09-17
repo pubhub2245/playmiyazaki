@@ -7,11 +7,13 @@
   "area": "miyakonojo",
   "name": {
     "ja": "道の駅 山之口 ふるさと産品販売所",
-    "en": "Michi-no-Eki Yamanokuchi"
+    "en": "Michi-no-Eki Yamanokuchi",
+    "ko": "미치노에키 야마노쿠치 고향 산품 판매소"
   },
   "address": {
     "ja": "宮崎県都城市山之口町山之口2304-6",
-    "en": "2304-6 Yamanokuchi, Yamanokuchi-cho, Miyakonojo-shi, Miyazaki"
+    "en": "2304-6 Yamanokuchi, Yamanokuchi-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 山之口町山之口2304-6"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "都城市山之口の道の駅の直売所。地元の野菜と甘乳蘇を扱う。",
-    "en": "Direct-sales shop at Michi-no-Eki Yamanokuchi, Miyakonojo. Local vegetables and kanchisu."
+    "en": "Direct-sales shop at Michi-no-Eki Yamanokuchi, Miyakonojo. Local vegetables and kanchisu.",
+    "ko": "미야코노조시 야마노쿠치 휴게소의 직매장. 지역 채소와 간뉴소를 취급."
   },
   "tags": null,
   "features": [

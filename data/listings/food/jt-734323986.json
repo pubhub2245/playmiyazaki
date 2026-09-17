@@ -7,11 +7,13 @@
   "area": "takachiho",
   "name": {
     "ja": "酒処 ひだりうま",
-    "en": "Sakedokoro Hidariuma"
+    "en": "Sakedokoro Hidariuma",
+    "ko": "사케도코로 히다리우마"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町大字三田井799-3",
-    "en": "799-3 Mitai, Takachiho, Miyazaki"
+    "en": "799-3 Mitai, Takachiho, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 大字三田井799-3"
   },
   "lat": 32.7100562,
   "lng": 131.3079881,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～22:00",
-    "en": "17:00～22:00"
+    "en": "17:00～22:00",
+    "ko": "17:00~22:00"
   },
   "price": null,
   "description": {
     "ja": "高千穂町三田井の居酒屋。組合の指定店。営業17:00～22:00。定休日曜日・火曜日(その他臨時休業あり）。",
-    "en": "Cooperative-designated izakaya in Takachiho. Open 17:00～22:00."
+    "en": "Cooperative-designated izakaya in Takachiho. Open 17:00～22:00.",
+    "ko": "다카치호초 미타이의 이자카야. 조합 지정점. 영업 17:00~22:00. 휴무 일요일·화요일 (그 밖에 임시 휴무 있음)."
   },
   "tags": null,
   "features": [],

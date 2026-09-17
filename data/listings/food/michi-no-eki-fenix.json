@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "道の駅 フェニックス",
-    "en": "Michi-no-Eki Phoenix"
+    "en": "Michi-no-Eki Phoenix",
+    "ko": "미치노에키 피닉스"
   },
   "address": {
     "ja": "宮崎県宮崎市大字内海字三池381-1",
-    "en": "381-1 Miike, Uchiumi, Miyazaki-shi, Miyazaki"
+    "en": "381-1 Miike, Uchiumi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 大字内海字三池381-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市南部・日南海岸の道の駅の物産館。",
-    "en": "Michi-no-Eki shop on the Nichinan coast, south of Miyazaki City."
+    "en": "Michi-no-Eki shop on the Nichinan coast, south of Miyazaki City.",
+    "ko": "미야자키시 남부·니치난 해안 휴게소의 물산관."
   },
   "tags": null,
   "features": [

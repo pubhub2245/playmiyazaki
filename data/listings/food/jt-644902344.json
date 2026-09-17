@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "とり松",
-    "en": "Torimatsu"
+    "en": "Torimatsu",
+    "ko": "도리마쓰"
   },
   "address": {
     "ja": "宮崎県日南市吾田東5-9-48",
-    "en": "5-9-48 Agata-Higashi, Nichinan, Miyazaki"
+    "en": "5-9-48 Agata-Higashi, Nichinan, Miyazaki",
+    "ko": "미야자키현 니치난시 吾田東5-9-48"
   },
   "lat": null,
   "lng": null,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "11：00 ～ 19：00（14：00～16：30は準備中になる場合があります）",
-    "en": "11：00 ～ 19：00（14：00～16：30は準備中になる場合があります）"
+    "en": "11：00 ～ 19：00（14：00～16：30は準備中になる場合があります）",
+    "ko": "11:00~19:00 (14:00~16:30은 준비 중일 수 있음)"
   },
   "price": null,
   "description": {
     "ja": "日南市吾田東にあるテイクアウト専門店。みやざき地頭鶏の指定店。テイクアウトあり。精肉・加工品の販売あり。",
-    "en": "Miyazaki Jitokko cooperative-designated takeout specialty in Nichinan. Takeout available. Meat and prepared products sold."
+    "en": "Miyazaki Jitokko cooperative-designated takeout specialty in Nichinan. Takeout available. Meat and prepared products sold.",
+    "ko": "니치난시 아가타히가시에 있는 포장 전문점. 미야자키 지토코 지정점. 포장 가능. 정육·가공품 판매 있음."
   },
   "tags": null,
   "features": [

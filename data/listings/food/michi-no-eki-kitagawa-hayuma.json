@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "道の駅 北川はゆま",
-    "en": "Michi-no-Eki Kitagawa Hayuma"
+    "en": "Michi-no-Eki Kitagawa Hayuma",
+    "ko": "미치노에키 기타가와 하유마"
   },
   "address": {
     "ja": "宮崎県延岡市北川町長井5751-1",
-    "en": "5751-1 Nagai, Kitagawa-cho, Nobeoka-shi, Miyazaki"
+    "en": "5751-1 Nagai, Kitagawa-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 北川町長井5751-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "延岡市北川町の道の駅の物産館。新鮮野菜と手作りの特産品を扱う。",
-    "en": "Michi-no-Eki shop in Kitagawa, Nobeoka. Fresh vegetables and local products."
+    "en": "Michi-no-Eki shop in Kitagawa, Nobeoka. Fresh vegetables and local products.",
+    "ko": "노베오카시 기타가와초 휴게소의 물산관. 신선한 채소와 수제 특산품을 취급."
   },
   "tags": null,
   "features": [

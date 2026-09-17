@@ -7,11 +7,13 @@
   "area": "aya",
   "name": {
     "ja": "綾 手づくりほんものセンター",
-    "en": "Aya Handmade Honmono Center"
+    "en": "Aya Handmade Honmono Center",
+    "ko": "아야 데즈쿠리 혼모노 센터"
   },
   "address": {
     "ja": "宮崎県東諸県郡綾町大字南俣515",
-    "en": "515 Minamimata, Aya-cho, Higashi-Morokata-gun, Miyazaki"
+    "en": "515 Minamimata, Aya-cho, Higashi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 히가시모로카타군 아야초 大字南俣515"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "綾町の直売施設。有機認証の農産物、加工品、工芸品を扱う。",
-    "en": "Aya direct-sales facility. Certified organic produce, prepared foods, and crafts."
+    "en": "Aya direct-sales facility. Certified organic produce, prepared foods, and crafts.",
+    "ko": "아야초의 직매 시설. 유기 인증 농산물, 가공품, 공예품을 취급."
   },
   "tags": null,
   "features": [

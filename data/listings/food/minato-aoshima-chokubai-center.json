@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "港あおしま 直売センター",
-    "en": "Minato Aoshima Direct Sales Center"
+    "en": "Minato Aoshima Direct Sales Center",
+    "ko": "미나토 아오시마 직매 센터"
   },
   "address": {
     "ja": "宮崎県宮崎市青島3-5-1",
-    "en": "3-5-1 Aoshima, Miyazaki-shi, Miyazaki"
+    "en": "3-5-1 Aoshima, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 青島3-5-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "青島漁港の漁協直売所。青島どれの魚介類を扱う。",
-    "en": "Aoshima fisheries co-op direct sales. Aoshima-dore seafood."
+    "en": "Aoshima fisheries co-op direct sales. Aoshima-dore seafood.",
+    "ko": "아오시마 어항의 어협 직매장. 아오시마 앞바다의 해산물을 취급."
   },
   "tags": null,
   "features": [

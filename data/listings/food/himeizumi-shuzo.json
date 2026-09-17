@@ -7,11 +7,13 @@
   "area": "hinokage",
   "name": {
     "ja": "姫泉酒造",
-    "en": "Himeizumi Shuzo"
+    "en": "Himeizumi Shuzo",
+    "ko": "히메이즈미 주조"
   },
   "address": {
     "ja": "宮崎県西臼杵郡日之影町岩井川3380-1",
-    "en": "3380-1 Iwaigawa, Hinokage-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "3380-1 Iwaigawa, Hinokage-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 히노카게초 岩井川3380-1"
   },
   "lat": null,
   "lng": null,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00〜16:00 蔵見学は要予約",
-    "en": "10:00–16:00, tour by reservation"
+    "en": "10:00–16:00, tour by reservation",
+    "ko": "10:00~16:00, 양조장 견학은 예약 필수"
   },
   "price": null,
   "description": {
     "ja": "日之影町の焼酎蔵。蔵見学は要予約。",
-    "en": "Shochu brewery in Hinokage. Tours by reservation only."
+    "en": "Shochu brewery in Hinokage. Tours by reservation only.",
+    "ko": "히노카게초의 쇼추 양조장. 양조장 견학은 예약 필수."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "みやざき地頭鶏 百笑村",
-    "en": "Miyazaki Jitokko Hyakushomura"
+    "en": "Miyazaki Jitokko Hyakushomura",
+    "ko": "미야자키 지토코 햐쿠쇼무라"
   },
   "address": {
     "ja": "宮崎県宮崎市田野町乙9281-3",
-    "en": "9281-3 Tano-cho-otsu, Miyazaki City, Miyazaki"
+    "en": "9281-3 Tano-cho-otsu, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 田野町乙9281-3"
   },
   "lat": 31.8425426,
   "lng": 131.3004796,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00～16:00",
-    "en": "8:00～16:00"
+    "en": "8:00～16:00",
+    "ko": "8:00~16:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市田野町の直売所併設店。テイクアウトあり。精肉・加工品の販売あり。営業8:00～16:00。定休日曜日。みやざき地頭鶏の指定店。",
-    "en": "Direct-sales shop with dining in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Meat and prepared products sold. Open 8:00～16:00."
+    "en": "Direct-sales shop with dining in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Meat and prepared products sold. Open 8:00～16:00.",
+    "ko": "미야자키시 다노초의 직매장 병설점. 포장 가능. 정육·가공품 판매 있음. 영업 8:00~16:00. 휴무 일요일. 미야자키 지토코 지정점."
   },
   "tags": null,
   "features": [
