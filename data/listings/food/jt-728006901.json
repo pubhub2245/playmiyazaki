@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "焼鳥 蒼樹",
-    "en": "焼鳥 蒼樹"
+    "en": "焼鳥 蒼樹",
+    "ko": "야키토리 소주"
   },
   "address": {
     "ja": "宮崎県宮崎市高松町1-1 第七匠家ビル1F",
-    "en": "1F Dai-7 Shoka Bldg, 1-1 Takamatsu-cho, Miyazaki City, Miyazaki"
+    "en": "1F Dai-7 Shoka Bldg, 1-1 Takamatsu-cho, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 高松町1-1 第七匠家ビル1F"
   },
   "lat": 31.9133327,
   "lng": 131.4202397,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18:00～24:00",
-    "en": "18:00～24:00"
+    "en": "18:00～24:00",
+    "ko": "18:00~24:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市高松町にある焼鳥店。みやざき地頭鶏の指定店。営業18:00～24:00。定休日曜日。",
-    "en": "Miyazaki Jitokko cooperative-designated yakitori in Miyazaki City. Open 18:00～24:00."
+    "en": "Miyazaki Jitokko cooperative-designated yakitori in Miyazaki City. Open 18:00～24:00.",
+    "ko": "미야자키시 다카마쓰초에 있는 야키토리 가게. 미야자키 지토코 지정점. 영업 18:00~24:00. 휴무 일요일."
   },
   "tags": null,
   "features": [],

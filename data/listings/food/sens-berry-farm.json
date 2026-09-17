@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "SEN's Berry Farm",
-    "en": "SEN's Berry Farm"
+    "en": "SEN's Berry Farm",
+    "ko": "SEN's Berry Farm"
   },
   "address": {
     "ja": "宮崎県えびの市原田4070",
-    "en": "4070 Harada, Ebino-shi, Miyazaki"
+    "en": "4070 Harada, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 原田4070"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "えびの市原田のいちご狩り農園。",
-    "en": "Strawberry-picking farm in Harada, Ebino."
+    "en": "Strawberry-picking farm in Harada, Ebino.",
+    "ko": "에비노시 하라다의 딸기 따기 농원."
   },
   "tags": null,
   "features": [

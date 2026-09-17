@@ -7,11 +7,13 @@
   "area": "takachiho",
   "name": {
     "ja": "道の駅 高千穂 物産館",
-    "en": "Michi-no-Eki Takachiho"
+    "en": "Michi-no-Eki Takachiho",
+    "ko": "미치노에키 다카치호 물산관"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町大字三田井1296-5",
-    "en": "1296-5 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki"
+    "en": "1296-5 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 大字三田井1296-5"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "高千穂の道の駅の物産館。地元の野菜と加工品を扱う。",
-    "en": "Michi-no-Eki Takachiho's shop. Local vegetables and prepared products."
+    "en": "Michi-no-Eki Takachiho's shop. Local vegetables and prepared products.",
+    "ko": "다카치호 휴게소의 물산관. 지역 채소와 가공품을 취급."
   },
   "tags": null,
   "features": [

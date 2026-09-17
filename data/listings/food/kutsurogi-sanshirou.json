@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "Kutsurogi 三四郎",
-    "en": "Kutsurogi Sanshirou"
+    "en": "Kutsurogi Sanshirou",
+    "ko": "Kutsurogi 산시로"
   },
   "address": {
     "ja": "宮崎県宮崎市堀川町57-1",
-    "en": "57-1 Horikawa-cho, Miyazaki-shi, Miyazaki"
+    "en": "57-1 Horikawa-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 堀川町57-1"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の炭火焼を扱う店。組合の指定店。",
-    "en": "Charcoal-grilled Miyazaki Jitokko. A cooperative-designated shop."
+    "en": "Charcoal-grilled Miyazaki Jitokko. A cooperative-designated shop.",
+    "ko": "미야자키 지토코 숯불구이를 취급하는 가게. 조합 지정점."
   },
   "tags": null,
   "features": [],

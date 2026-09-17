@@ -7,11 +7,13 @@
   "area": "hyuga",
   "name": {
     "ja": "亀の子いちご園",
-    "en": "Kamenoko Ichigo Farm"
+    "en": "Kamenoko Ichigo Farm",
+    "ko": "가메노코 딸기 농원"
   },
   "address": {
     "ja": "宮崎県日向市塩見字亀ノ甲7028",
-    "en": "7028 Kamenoko, Shiomi, Hyuga-shi, Miyazaki"
+    "en": "7028 Kamenoko, Shiomi, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 塩見字亀ノ甲7028"
   },
   "lat": null,
   "lng": null,
@@ -20,15 +22,18 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 2月〜5月（50分食べ放題）",
-    "en": "Strawberry picking February–May (50 min all-you-can-eat)"
+    "en": "Strawberry picking February–May (50 min all-you-can-eat)",
+    "ko": "딸기 따기 2월~5월 (50분 무제한)"
   },
   "price": {
     "ja": "40分食べ放題。2〜4月：中学生以上 2,500円／小学生 2,000円／3歳以上 1,600円／3歳未満 無料。5月〜シーズン終了：中学生以上 2,000円／小学生 1,800円／3歳以上 1,400円。要予約。",
-    "en": "40-min all-you-can-eat. Feb–Apr: adults ¥2,500 / elementary ¥2,000 / age 3+ ¥1,600 / under 3 free. May–season end: adults ¥2,000 / elementary ¥1,800 / age 3+ ¥1,400. Reservation required."
+    "en": "40-min all-you-can-eat. Feb–Apr: adults ¥2,500 / elementary ¥2,000 / age 3+ ¥1,600 / under 3 free. May–season end: adults ¥2,000 / elementary ¥1,800 / age 3+ ¥1,400. Reservation required.",
+    "ko": "40분 무제한. 2~4월: 중학생 이상 2,500엔 / 초등학생 2,000엔 / 3세 이상 1,600엔 / 3세 미만 무료. 5월~시즌 종료: 중학생 이상 2,000엔 / 초등학생 1,800엔 / 3세 이상 1,400엔. 예약 필수."
   },
   "description": {
     "ja": "日向市塩見のいちご狩り農園。50分の食べ放題方式。",
-    "en": "Strawberry farm in Shiomi, Hyuga. 50-minute all-you-can-eat picking."
+    "en": "Strawberry farm in Shiomi, Hyuga. 50-minute all-you-can-eat picking.",
+    "ko": "휴가시 시오미의 딸기 따기 농원. 50분 무제한 방식."
   },
   "tags": null,
   "features": [

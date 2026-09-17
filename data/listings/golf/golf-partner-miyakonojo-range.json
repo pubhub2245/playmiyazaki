@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "練習場 平日 6:30〜22:00、土日祝 6:30〜21:00。月曜は早朝枠（6:30〜8:30）休み",
-    "en": "Range weekdays 6:30–22:00, weekends and holidays 6:30–21:00. No early slot (6:30–8:30) on Mondays."
+    "en": "Range weekdays 6:30–22:00, weekends and holidays 6:30–21:00. No early slot (6:30–8:30) on Mondays.",
+    "ko": "연습장 평일 6:30~22:00, 주말·공휴일 6:30~21:00. 월요일은 이른 아침 시간대(6:30~8:30) 휴무"
   },
   "price": null,
   "description": {

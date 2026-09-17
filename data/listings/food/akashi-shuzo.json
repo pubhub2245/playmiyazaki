@@ -7,11 +7,13 @@
   "area": "ebino",
   "name": {
     "ja": "明石酒造",
-    "en": "Akashi Shuzo"
+    "en": "Akashi Shuzo",
+    "ko": "아카시 주조"
   },
   "address": {
     "ja": "宮崎県えびの市大字栗下61-1",
-    "en": "61-1 Kurishita, Ebino-shi, Miyazaki"
+    "en": "61-1 Kurishita, Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시 大字栗下61-1"
   },
   "lat": null,
   "lng": null,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00〜17:00 蔵見学は要予約",
-    "en": "8:00–17:00, tour by reservation"
+    "en": "8:00–17:00, tour by reservation",
+    "ko": "8:00~17:00, 양조장 견학은 예약 필수"
   },
   "price": null,
   "description": {
     "ja": "えびの市の焼酎蔵。蔵見学は要予約。",
-    "en": "Ebino shochu brewery. Tour by reservation only."
+    "en": "Ebino shochu brewery. Tour by reservation only.",
+    "ko": "에비노시의 쇼추 양조장. 양조장 견학은 예약 필수."
   },
   "tags": null,
   "features": [

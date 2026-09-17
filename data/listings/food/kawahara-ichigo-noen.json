@@ -7,11 +7,13 @@
   "area": "nobeoka",
   "name": {
     "ja": "川原いちご農園",
-    "en": "Kawahara Ichigo Farm"
+    "en": "Kawahara Ichigo Farm",
+    "ko": "가와하라 딸기 농원"
   },
   "address": {
     "ja": "宮崎県延岡市柚の木田町1195",
-    "en": "1195 Yunokida-cho, Nobeoka-shi, Miyazaki"
+    "en": "1195 Yunokida-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 柚の木田町1195"
   },
   "lat": null,
   "lng": null,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 3月〜5月",
-    "en": "Strawberry picking March–May"
+    "en": "Strawberry picking March–May",
+    "ko": "딸기 따기 3월~5월"
   },
   "price": null,
   "description": {
     "ja": "延岡市のいちご狩り農園。",
-    "en": "Strawberry-picking farm in Nobeoka."
+    "en": "Strawberry-picking farm in Nobeoka.",
+    "ko": "노베오카시의 딸기 따기 농원."
   },
   "tags": null,
   "features": [

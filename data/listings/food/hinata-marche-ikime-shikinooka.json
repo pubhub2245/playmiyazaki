@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ひなたマルシェ生目四季の丘",
-    "en": "Hinata Marche Ikime Shikinooka"
+    "en": "Hinata Marche Ikime Shikinooka",
+    "ko": "히나타 마르셰 이키메 시키노오카"
   },
   "address": {
     "ja": "宮崎県宮崎市大字柏原字高後508-7",
-    "en": "508-7 Koka, Kashiwabara, Miyazaki-shi, Miyazaki"
+    "en": "508-7 Koka, Kashiwabara, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 大字柏原字高後508-7"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市生目のJA直売所。",
-    "en": "JA direct-sales shop in Ikime, Miyazaki City."
+    "en": "JA direct-sales shop in Ikime, Miyazaki City.",
+    "ko": "미야자키시 이키메의 JA 직매장."
   },
   "tags": null,
   "features": [

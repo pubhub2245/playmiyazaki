@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "櫻乃峰酒造",
-    "en": "Sakuranomine Shuzo"
+    "en": "Sakuranomine Shuzo",
+    "ko": "사쿠라노미네 주조"
   },
   "address": {
     "ja": "宮崎県日南市大字隈谷甲1192",
-    "en": "1192 Kumatani-ko, Nichinan-shi, Miyazaki"
+    "en": "1192 Kumatani-ko, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 大字隈谷甲1192"
   },
   "lat": null,
   "lng": null,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜16:00 蔵見学は要予約",
-    "en": "9:00–16:00, tour by reservation"
+    "en": "9:00–16:00, tour by reservation",
+    "ko": "9:00~16:00, 양조장 견학은 예약 필수"
   },
   "price": null,
   "description": {
     "ja": "日南市の焼酎蔵。蔵見学は要予約。",
-    "en": "Nichinan shochu brewery. Tour by reservation only."
+    "en": "Nichinan shochu brewery. Tour by reservation only.",
+    "ko": "니치난시의 쇼추 양조장. 양조장 견학은 예약 필수."
   },
   "tags": null,
   "features": [

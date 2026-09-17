@@ -7,11 +7,13 @@
   "area": "saito",
   "name": {
     "ja": "いっちゃが広場",
-    "en": "Icchaga Hiroba"
+    "en": "Icchaga Hiroba",
+    "ko": "잇차가 광장"
   },
   "address": {
     "ja": "宮崎県西都市大字三宅9386",
-    "en": "9386 Miyake, Saito-shi, Miyazaki"
+    "en": "9386 Miyake, Saito-shi, Miyazaki",
+    "ko": "미야자키현 사이토시 大字三宅9386"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "西都市のJA直売所。",
-    "en": "JA direct-sales shop in Saito."
+    "en": "JA direct-sales shop in Saito.",
+    "ko": "사이토시의 JA 직매장."
   },
   "tags": null,
   "features": [

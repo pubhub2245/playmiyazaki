@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ふらんす食堂Bistroマルハチ",
-    "en": "France Shokudo Bistro Maruhachi"
+    "en": "France Shokudo Bistro Maruhachi",
+    "ko": "프랑스 식당 Bistro 마루하치"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通東2-9-14",
-    "en": "2-9-14 Tachibana-dori Higashi, Miyazaki City, Miyazaki"
+    "en": "2-9-14 Tachibana-dori Higashi, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通東2-9-14"
   },
   "lat": 31.9121664,
   "lng": 131.4245376,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18:00～22:30",
-    "en": "18:00～22:30"
+    "en": "18:00～22:30",
+    "ko": "18:00~22:30"
   },
   "price": null,
   "description": {
     "ja": "食堂・ビストロ。宮崎市橘通東にある。みやざき地頭鶏の指定店。テイクアウトあり。営業18:00～22:30。定休月曜日。",
-    "en": "French bistro in Miyazaki City. Takeout available. Open 18:00～22:30. Cooperative-designated Miyazaki Jitokko store."
+    "en": "French bistro in Miyazaki City. Takeout available. Open 18:00～22:30. Cooperative-designated Miyazaki Jitokko store.",
+    "ko": "식당·비스트로. 미야자키시 다치바나도리히가시에 있다. 미야자키 지토코 지정점. 포장 가능. 영업 18:00~22:30. 휴무 월요일."
   },
   "tags": null,
   "features": [

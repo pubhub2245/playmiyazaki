@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00〜21:00。木曜はノーコーチデー",
-    "en": "10:00–21:00. No coach on Thursdays."
+    "en": "10:00–21:00. No coach on Thursdays.",
+    "ko": "10:00~21:00. 목요일은 코치 없는 날"
   },
   "price": {
     "ja": "貸クラブ 無料。",

@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "酒蔵 王手門",
-    "en": "Ohtemon Shuzo"
+    "en": "Ohtemon Shuzo",
+    "ko": "주조 오테몬"
   },
   "address": {
     "ja": "宮崎県日南市北郷町大藤甲898-8",
-    "en": "898-8 Ofuji-ko, Kitago-cho, Nichinan-shi, Miyazaki"
+    "en": "898-8 Ofuji-ko, Kitago-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 北郷町大藤甲898-8"
   },
   "lat": null,
   "lng": null,
@@ -20,15 +22,18 @@
   "google_maps_url": null,
   "hours": {
     "ja": "水金土 9:00〜15:00 蔵見学は要予約",
-    "en": "Wed/Fri/Sat 9:00–15:00, tour by reservation"
+    "en": "Wed/Fri/Sat 9:00–15:00, tour by reservation",
+    "ko": "수·금·토 9:00~15:00, 양조장 견학은 예약 필수"
   },
   "price": {
     "ja": "蔵見学 500円／人（税込）、ブレンドコース 1,500円／人（税込）。要予約。",
-    "en": "Brewery tour ¥500 per person (tax incl.), blending course ¥1,500 per person (tax incl.). Reservation required."
+    "en": "Brewery tour ¥500 per person (tax incl.), blending course ¥1,500 per person (tax incl.). Reservation required.",
+    "ko": "양조장 견학 500엔/인 (부가세 포함), 블렌드 코스 1,500엔/인 (부가세 포함). 예약 필수."
   },
   "description": {
     "ja": "日南市北郷の焼酎蔵。蔵見学は水金土のみ、要予約。",
-    "en": "Shochu brewery in Kitago, Nichinan. Tours Wed/Fri/Sat by reservation."
+    "en": "Shochu brewery in Kitago, Nichinan. Tours Wed/Fri/Sat by reservation.",
+    "ko": "니치난시 기타고의 쇼추 양조장. 양조장 견학은 수·금·토만, 예약 필수."
   },
   "tags": null,
   "features": [

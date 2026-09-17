@@ -7,11 +7,13 @@
   "area": "mimata",
   "name": {
     "ja": "三股町物産館 よかもんや",
-    "en": "Mimata Yokamonya"
+    "en": "Mimata Yokamonya",
+    "ko": "미마타초 물산관 요카몬야"
   },
   "address": {
     "ja": "宮崎県北諸県郡三股町大字樺山4421-22",
-    "en": "4421-22 Kabayama, Mimata-cho, Kita-Morokata-gun, Miyazaki"
+    "en": "4421-22 Kabayama, Mimata-cho, Kita-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 기타모로카타군 미마타초 大字樺山4421-22"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "三股町の町営物産館。町内の名品と野菜を扱う。",
-    "en": "Town-run product hall in Mimata. Local specialties and vegetables."
+    "en": "Town-run product hall in Mimata. Local specialties and vegetables.",
+    "ko": "미마타초가 운영하는 물산관. 지역의 명품과 채소를 취급."
   },
   "tags": null,
   "features": [

@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00〜21:00（最終受付 20:30）",
-    "en": "8:00–21:00 (last entry 20:30)"
+    "en": "8:00–21:00 (last entry 20:30)",
+    "ko": "8:00~21:00(마지막 접수 20:30)"
   },
   "price": null,
   "description": {

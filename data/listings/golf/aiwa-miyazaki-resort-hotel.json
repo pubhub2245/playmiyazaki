@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "チェックイン 15:00、チェックアウト 11:00。朝食 6:30〜9:00",
-    "en": "Check-in 15:00, check-out 11:00. Breakfast 6:30–9:00."
+    "en": "Check-in 15:00, check-out 11:00. Breakfast 6:30–9:00.",
+    "ko": "체크인 15:00, 체크아웃 11:00. 조식 6:30~9:00"
   },
   "price": null,
   "description": {

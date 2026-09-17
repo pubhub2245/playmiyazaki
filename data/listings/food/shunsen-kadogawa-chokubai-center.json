@@ -7,11 +7,13 @@
   "area": "kadogawa",
   "name": {
     "ja": "旬鮮かどがわ直売センター",
-    "en": "Shunsen Kadogawa Direct Sales Center"
+    "en": "Shunsen Kadogawa Direct Sales Center",
+    "ko": "슌센 가도카와 직매 센터"
   },
   "address": {
     "ja": "宮崎県東臼杵郡門川町加草2333",
-    "en": "2333 Kagusa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki"
+    "en": "2333 Kagusa, Kadogawa-cho, Higashi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 가도카와초 加草2333"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "門川町の直売所。野菜・魚・蜂蜜・手搾りへべす果汁など。",
-    "en": "Kadogawa direct-sales shop. Vegetables, fish, honey, hand-pressed hebesu juice."
+    "en": "Kadogawa direct-sales shop. Vegetables, fish, honey, hand-pressed hebesu juice.",
+    "ko": "가도카와초의 직매장. 채소·생선·꿀·손으로 짠 헤베스 과즙 등."
   },
   "tags": null,
   "features": [

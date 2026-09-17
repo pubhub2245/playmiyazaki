@@ -23,7 +23,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "温泉入浴 10:00〜21:00",
-    "en": "Onsen 10:00–21:00"
+    "en": "Onsen 10:00–21:00",
+    "ko": "온천 입욕 10:00~21:00"
   },
   "price": null,
   "description": {

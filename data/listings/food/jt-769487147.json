@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "宮崎食酒処 ぎんの月",
-    "en": "Miyazaki Shoku-dokoro Ginnotsuki"
+    "en": "Miyazaki Shoku-dokoro Ginnotsuki",
+    "ko": "미야자키 쇼쿠도코로 긴노쓰키"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通東2-4-5",
-    "en": "2-4-5 Tachibana-dori Higashi, Miyazaki City, Miyazaki"
+    "en": "2-4-5 Tachibana-dori Higashi, Miyazaki City, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通東2-4-5"
   },
   "lat": 31.9118613,
   "lng": 131.4227002,
@@ -20,12 +22,14 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:30～23:00",
-    "en": "17:30～23:00"
+    "en": "17:30～23:00",
+    "ko": "17:30~23:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市橘通東の居酒屋。テイクアウトあり。営業17:30～23:00。みやざき地頭鶏の指定店。",
-    "en": "Izakaya in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Open 17:30～23:00."
+    "en": "Izakaya in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Open 17:30～23:00.",
+    "ko": "미야자키시 다치바나도리히가시의 이자카야. 포장 가능. 영업 17:30~23:00. 미야자키 지토코 지정점."
   },
   "tags": null,
   "features": [

@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "ふるさと料理 杉の子",
-    "en": "Furusato Ryori Suginoko"
+    "en": "Furusato Ryori Suginoko",
+    "ko": "후루사토 료리 스기노코"
   },
   "address": {
     "ja": "宮崎県宮崎市橘通西2-1-4",
-    "en": "2-1-4 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki"
+    "en": "2-1-4 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 橘通西2-1-4"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の炭火焼を含む宮崎の郷土料理を出す店。組合の指定店。",
-    "en": "Miyazaki home-style dishes, including charcoal-grilled Miyazaki Jitokko. A cooperative-designated shop."
+    "en": "Miyazaki home-style dishes, including charcoal-grilled Miyazaki Jitokko. A cooperative-designated shop.",
+    "ko": "미야자키 지토코 숯불구이를 포함한 미야자키 향토 요리를 내는 가게. 조합 지정점."
   },
   "tags": null,
   "features": [],

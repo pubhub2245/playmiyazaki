@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "クラブハウス 平日 7:30〜、土日祝 7:00〜",
-    "en": "Clubhouse opens 7:30 on weekdays, 7:00 at weekends and on holidays."
+    "en": "Clubhouse opens 7:30 on weekdays, 7:00 at weekends and on holidays.",
+    "ko": "클럽하우스 평일 7:30~, 주말·공휴일 7:00~"
   },
   "price": {
     "ja": "平日セルフ 4,650円（総額 5,490円）〜／土日祝セルフ 6,923円（総額 7,990円）〜。昼食補助付、ナビ付4人乗りカート。",

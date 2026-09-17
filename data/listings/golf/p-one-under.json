@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "7:00〜22:00",
-    "en": "7:00–22:00."
+    "en": "7:00–22:00.",
+    "ko": "7:00~22:00"
   },
   "price": null,
   "description": {

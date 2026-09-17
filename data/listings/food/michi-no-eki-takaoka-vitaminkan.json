@@ -7,11 +7,13 @@
   "area": "miyazaki-shi",
   "name": {
     "ja": "道の駅 高岡 ビタミン館",
-    "en": "Michi-no-Eki Takaoka Vitaminkan"
+    "en": "Michi-no-Eki Takaoka Vitaminkan",
+    "ko": "미치노에키 다카오카 비타민관"
   },
   "address": {
     "ja": "宮崎県宮崎市高岡町花見304-5",
-    "en": "304-5 Hanami, Takaoka-cho, Miyazaki-shi, Miyazaki"
+    "en": "304-5 Hanami, Takaoka-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 高岡町花見304-5"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "宮崎市高岡町の道の駅の直売所。農産物と特産・お土産を扱う。",
-    "en": "Direct-sales shop at Michi-no-Eki Takaoka in Miyazaki City. Produce and local specialties."
+    "en": "Direct-sales shop at Michi-no-Eki Takaoka in Miyazaki City. Produce and local specialties.",
+    "ko": "미야자키시 다카오카초 휴게소의 직매장. 농산물과 특산·기념품을 취급."
   },
   "tags": null,
   "features": [

@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "定休日 1/1",
-    "en": "Closed January 1."
+    "en": "Closed January 1.",
+    "ko": "휴무일 1월 1일"
   },
   "price": null,
   "description": {

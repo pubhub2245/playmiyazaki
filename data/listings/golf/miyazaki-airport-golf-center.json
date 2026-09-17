@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "7:00〜21:00（日曜は7:00〜20:00）。定休日 毎月第4木曜（祝日は営業）、12/31、1/1",
-    "en": "7:00–21:00 (Sundays to 20:00). Closed the fourth Thursday each month (open if a holiday), December 31 and January 1."
+    "en": "7:00–21:00 (Sundays to 20:00). Closed the fourth Thursday each month (open if a holiday), December 31 and January 1.",
+    "ko": "7:00~21:00(일요일은 7:00~20:00). 휴무일 매월 넷째 목요일(공휴일이면 영업), 12월 31일, 1월 1일"
   },
   "price": {
     "ja": "入場料 400円（コインなしの場合、コイン購入時は無料）。ボール代 平日 7:00〜17:00 200球 800円／300球 1,300円、17:00〜21:00 200球 1,200円／300球 1,700円。土日祝 200球 1,300円／300球 1,600円。貸クラブ 1本 200円。",

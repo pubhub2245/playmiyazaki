@@ -7,11 +7,13 @@
   "area": "nichinan",
   "name": {
     "ja": "道の駅 酒谷 せせらぎの里 物産館",
-    "en": "Michi-no-Eki Sakatani Shop"
+    "en": "Michi-no-Eki Sakatani Shop",
+    "ko": "미치노에키 사카타니 세세라기노사토 물산관"
   },
   "address": {
     "ja": "宮崎県日南市酒谷1840-4",
-    "en": "1840-4 Sakatani, Nichinan-shi, Miyazaki"
+    "en": "1840-4 Sakatani, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 酒谷1840-4"
   },
   "lat": null,
   "lng": null,
@@ -22,7 +24,8 @@
   "price": null,
   "description": {
     "ja": "日南市酒谷の道の駅の物産館。地元の野菜・山菜・果物、草だんごや棚田そばを扱う。",
-    "en": "Michi-no-Eki Sakatani shop. Local produce and mountain vegetables; kusa-dango and tanada soba."
+    "en": "Michi-no-Eki Sakatani shop. Local produce and mountain vegetables; kusa-dango and tanada soba.",
+    "ko": "니치난시 사카타니 휴게소의 물산관. 지역 채소·산나물·과일, 구사당고와 다랑논 소바를 취급."
   },
   "tags": null,
   "features": [

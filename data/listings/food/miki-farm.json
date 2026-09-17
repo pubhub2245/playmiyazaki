@@ -7,11 +7,13 @@
   "area": "takanabe",
   "name": {
     "ja": "ミキファーム",
-    "en": "Miki Farm"
+    "en": "Miki Farm",
+    "ko": "미키 팜"
   },
   "address": {
     "ja": "宮崎県児湯郡高鍋町南高鍋8751",
-    "en": "8751 Minami-Takanabe, Takanabe-cho, Koyu-gun, Miyazaki"
+    "en": "8751 Minami-Takanabe, Takanabe-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 다카나베초 南高鍋8751"
   },
   "lat": null,
   "lng": null,
@@ -20,15 +22,18 @@
   "google_maps_url": null,
   "hours": {
     "ja": "ライチ狩り 5月〜7月",
-    "en": "Lychee picking May–July"
+    "en": "Lychee picking May–July",
+    "ko": "리치 따기 5월~7월"
   },
   "price": {
     "ja": "ライチ狩り 100g 700円、入園無料。",
-    "en": "Lychee picking ¥700 per 100 g, free admission."
+    "en": "Lychee picking ¥700 per 100 g, free admission.",
+    "ko": "리치 따기 100g 700엔, 입장 무료."
   },
   "description": {
     "ja": "高鍋町のライチ狩り農園。国内で数少ないライチ狩り。",
-    "en": "Lychee-picking farm in Takanabe, one of few lychee-picking farms in Japan."
+    "en": "Lychee-picking farm in Takanabe, one of few lychee-picking farms in Japan.",
+    "ko": "다카나베초의 리치 따기 농원. 일본에서 몇 안 되는 리치 따기."
   },
   "tags": null,
   "features": [
