@@ -1,0 +1,42 @@
+{
+  "slug": "michi-no-eki-miyakonojo-niqll",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "道の駅 都城NiQLL",
+    "en": "Michi-no-Eki Miyakonojo NiQLL",
+    "ko": "미치노에키 미야코노조 NiQLL"
+  },
+  "address": {
+    "ja": "宮崎県都城市都北町5225番地1",
+    "en": "5225-1 Tokita-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 都北町5225번지1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-38-5529",
+  "website": "https://coconiqll.co.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜19:00（年末年始は時短。直販所・レストランは別時間）。休館 1月1日と1月・4月・7月・10月の第3月曜（祝日なら翌平日）。",
+    "en": "9:00-19:00 (shorter over New Year; farm shop and restaurant keep their own hours). Closed 1 Jan and the 3rd Monday of Jan, Apr, Jul and Oct (next weekday if a holiday).",
+    "ko": "9:00~19:00 (연말연시는 단축. 직판소·레스토랑은 별도 시간). 휴관 1월 1일과 1월·4월·7월·10월 셋째 월요일 (공휴일이면 다음 평일)."
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市の道の駅。直販所とレストランがある。",
+    "en": "Roadside station in Miyakonojo with a farm shop and a restaurant.",
+    "ko": "미야코노조시의 미치노에키. 직판소와 레스토랑이 있다."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://coconiqll.co.jp/",
+    "https://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/miyakonojyo/miyakonojyo.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

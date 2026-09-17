@@ -1,0 +1,47 @@
+{
+  "slug": "shinwa-no-yu-aoshima",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "神話の湯",
+    "en": "Shinwa-no-Yu",
+    "ko": "신와노유"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市青島3-1-53",
+    "en": "3-1-53 Aoshima, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 青島3-1-53"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-77-5525",
+  "website": "https://aoshima-hostel.com/hotspring/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "日帰り入浴 6:00〜22:00（最終受付21:30）。",
+    "en": "Day-use bathing 6:00-22:00 (last entry 21:30).",
+    "ko": "당일 입욕 6:00~22:00 (최종 접수 21:30)."
+  },
+  "price": {
+    "ja": "入浴 大人（13才以上）700円・小人（6〜12才）450円・5才以下無料。当日中は何度でも入れる。",
+    "en": "Bath 700 yen (13+), 450 yen (6-12), free under 6. Re-entry all day.",
+    "ko": "입욕 대인(13세 이상) 700엔・어린이(6~12세) 450엔・5세 이하 무료. 당일 중 몇 번이든 입장 가능."
+  },
+  "description": {
+    "ja": "青島のホステル併設の日帰り温泉。朝6時から入れる。",
+    "en": "Day-use hot spring attached to a hostel in Aoshima, open from 6:00.",
+    "ko": "아오시마의 호스텔에 병설된 당일 온천. 아침 6시부터 이용 가능."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://aoshima-hostel.com/hotspring/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

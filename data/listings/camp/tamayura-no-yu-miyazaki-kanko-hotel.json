@@ -1,0 +1,47 @@
+{
+  "slug": "tamayura-no-yu-miyazaki-kanko-hotel",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "たまゆらの湯（宮崎観光ホテル）",
+    "en": "Tamayura-no-Yu (Miyazaki Kanko Hotel)",
+    "ko": "다마유라노유 (미야자키 간코 호텔)"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市松山1-1-1",
+    "en": "1-1-1 Matsuyama, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 松山1-1-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-27-1212",
+  "website": "https://www.miyakan-h.com/hotspring/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "外来 15:00〜22:00（最終受付21:30）。特別点検日（毎月1回）は16:00から。",
+    "en": "Visitors 15:00-22:00 (last entry 21:30). From 16:00 on the monthly maintenance day.",
+    "ko": "외래 15:00~22:00 (최종 접수 21:30). 특별 점검일(매월 1회)은 16:00부터."
+  },
+  "price": {
+    "ja": "入浴 大人1,200円（税込）・3〜12歳600円（税込）。",
+    "en": "Bath 1,200 yen/adult, 600 yen for ages 3-12 (tax incl.).",
+    "ko": "입욕 대인 1,200엔(부가세 포함)・3~12세 600엔(부가세 포함)."
+  },
+  "description": {
+    "ja": "宮崎市中心部のホテルの日帰り温泉。",
+    "en": "Day-use hot spring at a hotel in central Miyazaki.",
+    "ko": "미야자키시 중심부 호텔의 당일 온천."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://www.miyakan-h.com/hotspring/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

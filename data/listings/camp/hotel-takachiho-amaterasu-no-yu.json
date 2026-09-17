@@ -1,0 +1,48 @@
+{
+  "slug": "hotel-takachiho-amaterasu-no-yu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "ホテル高千穂 天照の湯",
+    "en": "Hotel Takachiho Amaterasu-no-Yu",
+    "ko": "호텔 다카치호 아마테라스노유"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字三田井789-7",
+    "en": "789-7 Mitai, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 大字三田井789-7"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-73-1213",
+  "website": "http://h-takachiho.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "日帰り入浴 11:00〜16:00。月曜定休。",
+    "en": "Day-use bathing 11:00-16:00. Closed Mondays.",
+    "ko": "당일 입욕 11:00~16:00. 월요일 정기휴무."
+  },
+  "price": {
+    "ja": "入浴 大人390円・小人250円・3歳未満無料。",
+    "en": "Bath 390 yen/adult, 250 yen/child, free under 3.",
+    "ko": "입욕 대인 390엔・어린이 250엔・3세 미만 무료."
+  },
+  "description": {
+    "ja": "高千穂町のホテルの日帰り入浴。",
+    "en": "Day-use bathing at a hotel in Takachiho.",
+    "ko": "다카치호초 호텔의 당일 입욕."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://takachiho-kanko.info/sightseeing/24/",
+    "http://h-takachiho.com/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "shiratori-onsen-kamiyu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "白鳥温泉 上湯",
+    "en": "Shiratori Onsen Kamiyu",
+    "ko": "시라토리 온천 가미유"
+  },
+  "address": {
+    "ja": "宮崎県えびの市",
+    "en": "Ebino-shi, Miyazaki",
+    "ko": "미야자키현 에비노시"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-33-1104",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "7:00〜20:00。毎月第1火曜休。",
+    "en": "7:00-20:00. Closed the first Tuesday of each month.",
+    "ko": "7:00~20:00. 매월 첫째 화요일 휴무."
+  },
+  "price": null,
+  "description": {
+    "ja": "えびの市の日帰り温泉。白鳥温泉には上湯と下湯がある。",
+    "en": "Day-use hot spring in Ebino. Shiratori Onsen has an upper bath (Kamiyu) and a lower bath (Shimoyu).",
+    "ko": "에비노시의 당일 온천. 시라토리 온천에는 가미유와 시모유가 있다."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://www.city.ebino.lg.jp/soshiki/kankoshoko/4/1758.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

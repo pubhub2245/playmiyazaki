@@ -1,0 +1,47 @@
+{
+  "slug": "tsumayu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "saito",
+  "name": {
+    "ja": "妻湯",
+    "en": "Tsumayu",
+    "ko": "쓰마유"
+  },
+  "address": {
+    "ja": "宮崎県西都市調殿687-5",
+    "en": "687-5 Tsukidono, Saito-shi, Miyazaki",
+    "ko": "미야자키현 사이토시 調殿687-5"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-32-1108",
+  "website": "https://tsumayu.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10:00〜22:00。火曜定休（祝日は営業）。",
+    "en": "10:00-22:00. Closed Tuesdays (open if a public holiday).",
+    "ko": "10:00~22:00. 화요일 정기휴무 (공휴일은 영업)."
+  },
+  "price": {
+    "ja": "入浴 大人900円・小人500円。",
+    "en": "Bath 900 yen/adult, 500 yen/child.",
+    "ko": "입욕 대인 900엔・어린이 500엔."
+  },
+  "description": {
+    "ja": "西都市の源泉掛け流しの日帰り温泉。",
+    "en": "Day-use hot spring in Saito with free-flowing spring water.",
+    "ko": "사이토시의 원천 가케나가시 당일 온천."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://tsumayu.com/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
