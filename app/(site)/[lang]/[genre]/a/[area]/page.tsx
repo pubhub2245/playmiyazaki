@@ -2,11 +2,14 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { listingsByGenre, loadTaxonomy } from "@/lib/data";
 import { LANGS, parseLang, type Lang } from "@/lib/i18n";
-import { absolute, urlArea, urlGenre, urlHome } from "@/lib/url";
+import Link from "next/link";
+import { absolute, urlArea, urlAreaAll, urlGenre, urlHome } from "@/lib/url";
 import {
+  areaTotal,
   areasWithListings,
   genresWithListings,
   hasArea,
+  hasCrossGenreAreaPage,
 } from "@/lib/coverage";
 import { CategoryChips, categoryCountsForGenre } from "@/app/_components/FilterBar";
 import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureChips";
@@ -35,6 +38,16 @@ const SPOT_LABEL: Record<Lang, string> = {
   en: "places",
   ko: "스팟",
 };
+
+function allGenresLinkLabel(
+  lang: Lang,
+  area: { ja: string; en: string; ko: string },
+  total: number,
+): string {
+  if (lang === "ja") return `${area.ja}の全ジャンル ${total} スポットを見る`;
+  if (lang === "ko") return `${area.ko}의 모든 장르 ${total}곳 보기`;
+  return `All ${total} places in ${area.en}, every genre`;
+}
 
 function areaTitle(
   lang: Lang,
@@ -134,6 +147,14 @@ export default function AreaPage({ params }: Props) {
       </div>
 
       <FilterableList items={items} lang={lang} />
+
+      {hasCrossGenreAreaPage(params.area) && (
+        <p className="text-[14px]">
+          <Link href={urlAreaAll(lang, params.area)}>
+            {allGenresLinkLabel(lang, area, areaTotal(params.area))}
+          </Link>
+        </p>
+      )}
     </div>
   );
 }
