@@ -15,6 +15,8 @@ import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureCh
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilterableList } from "@/app/_components/FilterableList";
 import { listingToRow } from "@/lib/rows";
+import { JsonLd } from "@/app/_components/JsonLd";
+import { collectionJsonLd } from "@/lib/jsonld";
 
 type Props = { params: { lang: string; genre: string; feature: string } };
 
@@ -90,6 +92,14 @@ export default function FeaturePage({ params }: Props) {
 
   return (
     <div className="space-y-6">
+      <JsonLd
+        data={collectionJsonLd({
+          name: heading,
+          description: definition,
+          path: urlFeature(lang, params.genre, params.feature),
+          items,
+        })}
+      />
       <Breadcrumbs
         lang={lang}
         crumbs={[

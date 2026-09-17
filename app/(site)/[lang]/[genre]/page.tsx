@@ -20,6 +20,8 @@ import { TideBand } from "@/app/_components/TideBand";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilteredCategoryGroups, type Group } from "@/app/_components/FilteredCategoryGroups";
 import { listingToRow } from "@/lib/rows";
+import { JsonLd } from "@/app/_components/JsonLd";
+import { collectionJsonLd } from "@/lib/jsonld";
 
 type Props = { params: { lang: string; genre: string } };
 
@@ -91,6 +93,14 @@ export default function GenrePage({ params }: Props) {
       return { key: c.slug, label: c[lang], items };
     });
 
+  const pageTitle =
+    lang === "ja" ? `宮崎の${genre.ja}一覧` : `${genre.en} in Miyazaki`;
+  const pageDescription =
+    lang === "ja"
+      ? `宮崎県内の${genre.ja}を、出典URL付きで一覧にしています。`
+      : `A source-linked directory of ${genre.en.toLowerCase()} spots across Miyazaki.`;
+  const allRows = groups.flatMap((g) => g.items);
+
   return (
     <>
       <div className="-mx-4 -mt-6 mb-6">
@@ -101,6 +111,14 @@ export default function GenrePage({ params }: Props) {
         />
       </div>
       <div className="space-y-6">
+        <JsonLd
+          data={collectionJsonLd({
+            name: pageTitle,
+            description: pageDescription,
+            path: urlGenre(lang, params.genre),
+            items: allRows,
+          })}
+        />
         <Breadcrumbs
           lang={lang}
           crumbs={[
