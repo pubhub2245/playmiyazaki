@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
 import { HOME_TITLE, LANGS, SITE_TAGLINE, parseLang, type Lang } from "@/lib/i18n";
-import { absolute, urlFeature, urlGenre, urlHome } from "@/lib/url";
+import { absolute, urlAreaIndex, urlFeature, urlGenre, urlHome } from "@/lib/url";
 import { allFeaturePagesRanked, genresWithListings } from "@/lib/coverage";
 import { GenreIcon } from "@/app/_components/GenreIcon";
 import { FilterableList } from "@/app/_components/FilterableList";
@@ -19,6 +19,7 @@ const HERO = {
     leadSuffix: " か所。",
     recentHeading: "最近確認したスポット",
     intentHeading: "条件から探す",
+    areaLink: "エリア（市町村）から探す",
   },
   en: {
     heading: "Every place to play in Miyazaki.",
@@ -26,6 +27,7 @@ const HERO = {
     leadSuffix: " places, every one with a source.",
     recentHeading: "Recently verified",
     intentHeading: "Browse by feature",
+    areaLink: "Browse by area",
   },
   ko: {
     heading: "미야자키에서 놀 수 있는 모든 곳.",
@@ -33,6 +35,7 @@ const HERO = {
     leadSuffix: "곳.",
     recentHeading: "최근 확인한 스팟",
     intentHeading: "조건으로 찾기",
+    areaLink: "지역으로 찾기",
   },
 };
 
@@ -126,6 +129,9 @@ export default function HomePage({ params }: Props) {
             </Link>
           ))}
         </div>
+        <p className="text-[14px] mt-3">
+          <Link href={urlAreaIndex(lang)}>{t.areaLink}</Link>
+        </p>
       </section>
 
       {topFeaturePages.length > 0 && (

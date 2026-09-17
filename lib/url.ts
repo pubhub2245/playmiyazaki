@@ -16,6 +16,14 @@ export function urlArea(lang: Lang, genre: string, area: string): string {
   return `/${lang}/${genre}/a/${area}`;
 }
 
+export function urlAreaIndex(lang: Lang): string {
+  return `/${lang}/area`;
+}
+
+export function urlAreaAll(lang: Lang, area: string): string {
+  return `/${lang}/area/${area}`;
+}
+
 export function urlListing(lang: Lang, genre: string, slug: string): string {
   return `/${lang}/${genre}/${slug}`;
 }

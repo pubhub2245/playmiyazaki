@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
 import { loadAllListings } from "@/lib/data";
 import { LANGS, SITE_URL } from "@/lib/i18n";
-import { absolute, urlArea, urlCategory, urlFeature, urlGenre, urlHome, urlListing } from "@/lib/url";
+import { absolute, urlArea, urlAreaAll, urlAreaIndex, urlCategory, urlFeature, urlGenre, urlHome, urlListing } from "@/lib/url";
 import {
+  areasWithCrossGenrePages,
   areasWithListings,
   categoriesWithListings,
   featuresWithListings,
@@ -29,6 +30,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     urls.push({ url: absolute(urlHome(lang)), lastModified: now });
     for (const p of INFO_PATHS) {
       urls.push({ url: absolute(`/${lang}${p}`), lastModified: now });
+    }
+    urls.push({ url: absolute(urlAreaIndex(lang)), lastModified: now });
+    for (const a of areasWithCrossGenrePages()) {
+      urls.push({ url: absolute(urlAreaAll(lang, a)), lastModified: now });
     }
     for (const g of genresWithListings()) {
       urls.push({ url: absolute(urlGenre(lang, g)), lastModified: now });
