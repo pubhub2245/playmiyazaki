@@ -1,0 +1,33 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作
+(3) listing JSON・taxonomy・/ja /en のページ・docs/design.md の変更。実在の店名を載せること。
+
+【前提】
+CLAUDE.md、docs/private.md を最初に読むこと。運営者の判断で AFTER DARK の内容が変わった：**シーシャを外す**（需要が薄いと判断）。**店との提携交渉はしない**（ホストが通常の客として個室を予約する運用。ページの表現も「提携」を匂わせない）。
+
+【やること】STEP 15：AFTER DARK の内容更新（英文の差し替えのみ。デザイン・構造は変えない）
+1. /private/after-dark の英文を次のとおり差し替える（数字・時刻はこのまま。他は変えない）
+   サブ：A private evening. 18:00–22:30. Two to four guests. One group per night.
+   本文：Miyazaki after dark is not on any itinerary. We take you through it the way a local friend would — a private-room wagyu dinner, shochu poured by someone who knows it, and a bar where the regulars are. Everything is within a ten-minute walk in Nishitachi, the city's night district.
+   The evening：
+     18:00 Your host meets you at your hotel lobby in central Miyazaki City
+     18:30 Private-room dinner — Miyazaki wagyu, for your table only
+     20:30 Shochu tasting with a local host
+     21:30 A local bar
+     22:30 Your host walks you back to your hotel
+   Included：English-speaking host for the whole evening／Dinner and drinks／All reservations and private rooms
+   Not included：（変更なし）
+   Price：¥180,000 for two guests, ¥210,000 for three, ¥240,000 for four — per group, tax included, all food and drinks included. Five or six guests on request.
+2. /private（トップ）の本文から shisha に触れる語があれば外す。/private/request の説明文も同様。サイト全体で "shisha" を grep して /private 配下から消す（/ja /en の listing データは対象外）
+3. docs/private.md の商品説明も同じ内容に更新（シーシャの行を削除、時間を 18:00–22:30 に）
+4. npm run build → コミット「Update After Dark: remove shisha, end at 22:30」→ git push origin main
+
+【禁止】
+- デザイン・部品・構造の変更、写真の追加
+- 実在の店名の記載
+- 上記以外の英文の変更
+
+RESULT 行：差し替えたページ数／"shisha" の残り件数（/private 配下）／push YES|NO／コミットハッシュ
+END OF PROMPT
