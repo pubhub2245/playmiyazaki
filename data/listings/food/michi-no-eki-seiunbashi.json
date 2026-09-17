@@ -1,0 +1,41 @@
+{
+  "slug": "michi-no-eki-seiunbashi",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "hinokage",
+  "name": {
+    "ja": "道の駅 青雲橋",
+    "en": "Michi-no-Eki Seiunbashi",
+    "ko": "미치노에키 세이운바시"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡日之影町大字七折8705-12",
+    "en": "8705-12 Nanaori, Hinokage-cho, Nishi-Usuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 히노카게초 大字七折8705-12"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-87-2491",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "物産 9:00〜18:00、レストラン 10:00〜16:00。不定休（年間数日）。",
+    "en": "Shop 9:00-18:00, restaurant 10:00-16:00. Irregular closing days (a few days a year).",
+    "ko": "물산 9:00~18:00, 레스토랑 10:00~16:00. 부정기 휴무 (연간 며칠)."
+  },
+  "price": null,
+  "description": {
+    "ja": "日之影町の道の駅。物産館とレストランがある。",
+    "en": "Roadside station in Hinokage with a produce shop and a restaurant.",
+    "ko": "히노카게초의 미치노에키. 물산관과 레스토랑이 있다."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/seiunbashi/seiunbashi.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

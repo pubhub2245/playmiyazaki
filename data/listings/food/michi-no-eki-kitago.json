@@ -1,0 +1,42 @@
+{
+  "slug": "michi-no-eki-kitago",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "道の駅 きたごう",
+    "en": "Michi-no-Eki Kitago",
+    "ko": "미치노에키 기타고"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町郷之原乙1477-1",
+    "en": "1477-1 Otsu, Gonohara, Kitago-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 北郷町郷之原乙1477-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-32-3256",
+  "website": "https://michinoekikitago.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "物産館 9:00〜18:00（情報館・トイレは24時間）。年中無休。",
+    "en": "Shop 9:00-18:00 (information room and toilets 24h). Open year round.",
+    "ko": "물산관 9:00~18:00 (정보관·화장실은 24시간). 연중무휴."
+  },
+  "price": null,
+  "description": {
+    "ja": "日南市北郷の道の駅。物産館と情報館がある。",
+    "en": "Roadside station in Kitago, Nichinan, with a produce shop and an information room.",
+    "ko": "니치난시 기타고의 미치노에키. 물산관과 정보관이 있다."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://michinoekikitago.com/",
+    "https://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/kitagou/kitagou.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

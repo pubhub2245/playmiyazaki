@@ -1,0 +1,48 @@
+{
+  "slug": "oujibaru-onsen-kenkomura",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "皇子原温泉健康村",
+    "en": "Oujibaru Onsen Kenkomura",
+    "ko": "오지바루 온천 겐코무라"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町大字蒲牟田5631-14",
+    "en": "5631-14 Kamamuta, Takaharu-cho, Nishimorokata-gun, Miyazaki",
+    "ko": "미야자키현 니시모로카타군 다카하루초 大字蒲牟田5631-14"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-42-1221",
+  "website": "https://oujibaruonsen.com/spa.html",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜19:30。火曜定休。",
+    "en": "9:00-19:30. Closed Tuesdays.",
+    "ko": "9:00~19:30. 화요일 정기휴무."
+  },
+  "price": {
+    "ja": "入浴 大人600円・小人（1歳〜小学生）250円。",
+    "en": "Bath 600 yen/adult, 250 yen/child (age 1 to elementary school).",
+    "ko": "입욕 대인 600엔・어린이(1세~초등학생) 250엔."
+  },
+  "description": {
+    "ja": "高原町の皇子原公園にある日帰り温泉。",
+    "en": "Day-use hot spring at Oujibaru Park in Takaharu.",
+    "ko": "다카하루초 오지바루 공원에 있는 당일 온천."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://oujibaruonsen.com/spa.html",
+    "https://www.takaharu-tourism.jp/leisureandstay/411/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

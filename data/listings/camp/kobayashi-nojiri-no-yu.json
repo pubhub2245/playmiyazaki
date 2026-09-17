@@ -1,0 +1,44 @@
+{
+  "slug": "kobayashi-nojiri-no-yu",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "こばやしのじりの湯",
+    "en": "Kobayashi Nojiri-no-Yu",
+    "ko": "고바야시 노지리노유"
+  },
+  "address": {
+    "ja": "宮崎県小林市野尻町三ケ野山4347-1",
+    "en": "4347-1 Mikanoyama, Nojiri-cho, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 野尻町三ケ野山4347-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-44-2210",
+  "website": "https://yuparu-nojiri.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "12:00〜20:30（最終受付20:00）。定休 毎月第1水曜（祝日なら翌日）。",
+    "en": "12:00-20:30 (last entry 20:00). Closed the first Wednesday of each month (next day if a holiday).",
+    "ko": "12:00~20:30 (최종 접수 20:00). 정기휴무 매월 첫째 수요일 (공휴일이면 다음 날)."
+  },
+  "price": null,
+  "description": {
+    "ja": "道の駅 ゆ〜ぱるのじりの中にある日帰り温泉。",
+    "en": "Day-use hot spring inside the Yuparu Nojiri roadside station.",
+    "ko": "미치노에키 유파루 노지리 안에 있는 당일 온천."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://yuparu-nojiri.com/",
+    "https://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/yuparu/yuparu.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
