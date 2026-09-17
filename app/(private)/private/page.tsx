@@ -42,6 +42,11 @@ export default function PrivateHome() {
             NISHITACHI NIGHT WITH A LOCAL — three hours. ¥25,000 per guest. →
           </Link>
         </h2>
+        <h2 style={{ marginTop: "28px" }}>
+          <Link href="/private/local-on-call">
+            LOCAL ON CALL — a local friend in your pocket. ¥15,000 per group. →
+          </Link>
+        </h2>
       </section>
 
       <section className="mp-section">
