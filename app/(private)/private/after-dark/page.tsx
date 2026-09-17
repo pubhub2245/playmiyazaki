@@ -5,7 +5,7 @@ import { PRIVATE_FOOTER } from "../brand";
 export const metadata: Metadata = {
   title: "MIYAZAKI AFTER DARK",
   description:
-    "A private evening in Nishitachi, Miyazaki. 18:00–23:00, two to four guests, one group per night.",
+    "A private evening in Nishitachi, Miyazaki. 18:00–22:30, two to four guests, one group per night.",
   alternates: { canonical: "/private/after-dark" },
 };
 
@@ -14,13 +14,12 @@ const EVENING: { time: string; what: string }[] = [
   { time: "18:30", what: "Private-room dinner — Miyazaki wagyu, for your table only" },
   { time: "20:30", what: "Shochu tasting with a local host" },
   { time: "21:30", what: "A local bar" },
-  { time: "22:15", what: "Private shisha room" },
-  { time: "23:00", what: "Your host walks you back to your hotel" },
+  { time: "22:30", what: "Your host walks you back to your hotel" },
 ];
 
 const INCLUDED = [
   "English-speaking host for the whole evening",
-  "Dinner, drinks and shisha",
+  "Dinner and drinks",
   "All reservations and private rooms",
 ];
 
@@ -39,16 +38,16 @@ export default function AfterDark() {
       </p>
       <h1>MIYAZAKI AFTER DARK</h1>
       <p className="mp-lede" style={{ marginTop: "28px" }}>
-        A private evening. 18:00–23:00. Two to four guests. One group per night.
+        A private evening. 18:00–22:30. Two to four guests. One group per night.
       </p>
 
       <section className="mp-section">
         <p>
           Miyazaki after dark is not on any itinerary. We take you through it
           the way a local friend would — a private-room wagyu dinner, shochu
-          poured by someone who knows it, a bar where the regulars are, and a
-          private shisha room to end the night. Everything is within a
-          ten-minute walk in Nishitachi, the city&rsquo;s night district.
+          poured by someone who knows it, and a bar where the regulars are.
+          Everything is within a ten-minute walk in Nishitachi, the
+          city&rsquo;s night district.
         </p>
       </section>
 
