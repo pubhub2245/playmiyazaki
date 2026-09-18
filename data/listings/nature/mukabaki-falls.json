@@ -1,0 +1,38 @@
+{
+  "slug": "mukabaki-falls",
+  "genre": "nature",
+  "category": [
+    "waterfall",
+    "mountain"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "行縢山・行縢の滝",
+    "en": "Mount Mukabaki and Mukabaki Falls",
+    "ko": "무카바키산 · 무카바키 폭포"
+  },
+  "address": {
+    "ja": "宮崎県延岡市行縢町",
+    "en": "Mukabaki-cho, Nobeoka, Miyazaki 882-0077",
+    "ko": "미야자키현 노베오카시 무카바키초"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-29-2155",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市の行縢山と、その山にかかる滝。",
+    "en": "Mount Mukabaki in Nobeoka and the waterfall on its rock face.",
+    "ko": "노베오카시의 무카바키산과 그 산에 걸린 폭포."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1068"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

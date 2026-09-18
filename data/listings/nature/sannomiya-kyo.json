@@ -1,0 +1,37 @@
+{
+  "slug": "sannomiya-kyo",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "三之宮峡",
+    "en": "Sannomiya Gorge",
+    "ko": "산노미야 협곡"
+  },
+  "address": {
+    "ja": "宮崎県小林市東方",
+    "en": "Higashikata, Kobayashi, Miyazaki 886-0001",
+    "ko": "미야자키현 고바야시시 히가시카타"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-23-1174",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "小林市東方にある渓谷。",
+    "en": "A gorge in Higashikata, Kobayashi.",
+    "ko": "고바야시시 히가시카타에 있는 협곡."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1027"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

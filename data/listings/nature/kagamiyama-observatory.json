@@ -1,0 +1,37 @@
+{
+  "slug": "kagamiyama-observatory",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "鏡山",
+    "en": "Mount Kagami",
+    "ko": "가가미야마"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北川町川内名4151（鏡山展望所）",
+    "en": "4151 Kawachimyo, Kitagawa-cho, Nobeoka, Miyazaki 889-0101 (Kagamiyama Observatory)",
+    "ko": "미야자키현 노베오카시 기타가와초 가와치묘 4151 (가가미야마 전망소)"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-46-5010",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北川町にある山と展望所。",
+    "en": "A mountain and observation point in Kitagawa, Nobeoka.",
+    "ko": "노베오카시 기타가와초에 있는 산과 전망소."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1041"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "yatogi-falls",
+  "genre": "nature",
+  "category": [
+    "waterfall"
+  ],
+  "area": "tsuno",
+  "name": {
+    "ja": "矢研の滝",
+    "en": "Yatogi Falls",
+    "ko": "야토기 폭포"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡都農町",
+    "en": "Tsuno-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 쓰노초"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-25-5712",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都農町にある滝。",
+    "en": "A waterfall in Tsuno.",
+    "ko": "쓰노초에 있는 폭포."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1009"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

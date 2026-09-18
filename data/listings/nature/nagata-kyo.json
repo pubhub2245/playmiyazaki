@@ -1,0 +1,41 @@
+{
+  "slug": "nagata-kyo",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "mimata",
+  "name": {
+    "ja": "長田峡",
+    "en": "Nagata Gorge",
+    "ko": "나가타 협곡"
+  },
+  "address": {
+    "ja": "宮崎県北諸県郡三股町大字長田6580-1",
+    "en": "6580-1 Oaza Nagata, Mimata-cho, Kitamorokata-gun, Miyazaki 889-1911",
+    "ko": "미야자키현 기타모로카타군 미마타초 오아자 나가타 6580-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-52-9085",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "無料。",
+    "en": "Free.",
+    "ko": "무료."
+  },
+  "description": {
+    "ja": "三股町にある渓谷。入場無料。",
+    "en": "A gorge in Mimata. Free to enter.",
+    "ko": "미마타초에 있는 협곡. 입장 무료."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1024"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

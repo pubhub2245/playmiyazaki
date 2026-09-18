@@ -1,0 +1,37 @@
+{
+  "slug": "horikiri-toge",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "堀切峠",
+    "en": "Horikiri Pass",
+    "ko": "호리키리 고개"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字折生迫",
+    "en": "Oaza Orusako, Miyazaki City, Miyazaki 889-2164",
+    "ko": "미야자키현 미야자키시 오아자 오류사코"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-20-8658",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市の日南海岸沿いにある峠。",
+    "en": "A pass on the Nichinan coast road in Miyazaki City.",
+    "ko": "미야자키시 니치난 해안을 따라 있는 고개."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1211"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

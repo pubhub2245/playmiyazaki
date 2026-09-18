@@ -19,7 +19,7 @@ export const localizedStringNullable = z
 
 export const listingSchema = z.object({
   slug: z.string().regex(/^[a-z0-9-]+$/, "slug must be lowercase-hyphen"),
-  genre: z.enum(["surf", "camp", "food", "golf"]),
+  genre: z.enum(["surf", "camp", "food", "golf", "nature"]),
   category: z.array(z.string().min(1)).min(1),
   area: z.string().min(1),
   name: localizedString,

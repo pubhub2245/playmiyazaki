@@ -1,0 +1,37 @@
+{
+  "slug": "inohae-valley",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "猪八重渓谷",
+    "en": "Inohae Valley",
+    "ko": "이노하에 계곡"
+  },
+  "address": {
+    "ja": "宮崎県日南市北郷町大字郷之原猪八重",
+    "en": "Inohae, Oaza Gonohara, Kitago-cho, Nichinan, Miyazaki",
+    "ko": "미야자키현 니치난시 기타고초 오아자 고노하라 이노하에"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-55-2700",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市北郷町にある渓谷。",
+    "en": "A valley in Kitago, Nichinan.",
+    "ko": "니치난시 기타고초에 있는 계곡."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1106"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "pakkun-iwa",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "パックン岩",
+    "en": "Pakkun Iwa Rock",
+    "ko": "팟쿤 바위"
+  },
+  "address": {
+    "ja": "宮崎県延岡市",
+    "en": "Nobeoka, Miyazaki 882-0231",
+    "ko": "미야자키현 노베오카시"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-29-2155",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市にある奇岩。",
+    "en": "An unusually shaped rock in Nobeoka.",
+    "ko": "노베오카시에 있는 기암."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1144"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

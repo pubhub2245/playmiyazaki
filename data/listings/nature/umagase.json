@@ -1,0 +1,41 @@
+{
+  "slug": "umagase",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "日向岬・馬ヶ背",
+    "en": "Hyuga Cape and Umagase",
+    "ko": "히우가곶 · 우마가세"
+  },
+  "address": {
+    "ja": "宮崎県日向市細島1-1",
+    "en": "1-1 Hososhima, Hyuga, Miyazaki 883-0001",
+    "ko": "미야자키현 히우가시 호소시마 1-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-54-6177",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "馬ヶ背茶屋 10月〜3月 8:40〜17:20／4月〜9月 9:10〜17:50",
+    "en": "Umagase Chaya: Oct-Mar 8:40-17:20 / Apr-Sep 9:10-17:50",
+    "ko": "우마가세 찻집 10월~3월 8:40~17:20 / 4월~9월 9:10~17:50"
+  },
+  "price": null,
+  "description": {
+    "ja": "日向市の日向岬にある岬と柱状節理の断崖。",
+    "en": "A cape and columnar-jointed cliffs on Hyuga Cape in Hyuga.",
+    "ko": "히우가시 히우가곶에 있는 곶과 주상절리 절벽."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1105"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "unoko-falls",
+  "genre": "nature",
+  "category": [
+    "waterfall"
+  ],
+  "area": "gokase",
+  "name": {
+    "ja": "うのこの滝",
+    "en": "Unoko Falls",
+    "ko": "우노코 폭포"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡五ヶ瀬町三ヶ所",
+    "en": "Sangasho, Gokase-cho, Nishiusuki-gun, Miyazaki 882-1203",
+    "ko": "미야자키현 니시우스키군 고카세초 산가쇼"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-82-1200",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "五ヶ瀬町にある滝。",
+    "en": "A waterfall in Gokase, in the mountains of northern Miyazaki.",
+    "ko": "고카세초에 있는 폭포."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1055"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

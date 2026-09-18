@@ -1,0 +1,37 @@
+{
+  "slug": "miike-lake",
+  "genre": "nature",
+  "category": [
+    "lake"
+  ],
+  "area": "takaharu",
+  "name": {
+    "ja": "御池",
+    "en": "Lake Miike",
+    "ko": "미이케 호수"
+  },
+  "address": {
+    "ja": "宮崎県西諸県郡高原町蒲牟田長尾",
+    "en": "Nagao, Kamamuta, Takaharu-cho, Nishimorokata-gun, Miyazaki 889-4414",
+    "ko": "미야자키현 니시모로카타군 다카하루초 가마무타 나가오"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-42-4560",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高原町にある火口湖。",
+    "en": "A crater lake in Takaharu.",
+    "ko": "다카하루초에 있는 화구호."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1029"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

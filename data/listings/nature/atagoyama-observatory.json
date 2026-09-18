@@ -1,0 +1,37 @@
+{
+  "slug": "atagoyama-observatory",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "愛宕山展望台",
+    "en": "Mount Atago Observatory",
+    "ko": "아타고야마 전망대"
+  },
+  "address": {
+    "ja": "宮崎県延岡市愛宕山",
+    "en": "Atagoyama, Nobeoka, Miyazaki 882-0871",
+    "ko": "미야자키현 노베오카시 아타고야마"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-29-2155",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市の愛宕山にある展望台。",
+    "en": "An observation deck on Mount Atago in Nobeoka.",
+    "ko": "노베오카시 아타고야마에 있는 전망대."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1007"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
