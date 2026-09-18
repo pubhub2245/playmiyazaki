@@ -1,0 +1,37 @@
+{
+  "slug": "shishigawa-keikoku",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "鹿川渓谷",
+    "en": "Shishigawa Valley",
+    "ko": "시시가와 계곡"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北方町上鹿川 882-0231",
+    "en": "Kamishishigawa, Kitakata-cho, Nobeoka, Miyazaki 882-0231",
+    "ko": "미야자키현 노베오카시 기타카타초 가미시시가와 882-0231"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-47-3600",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北方町上鹿川にある渓谷。",
+    "en": "A valley in Kamishishigawa, Kitakata, Nobeoka.",
+    "ko": "노베오카시 기타카타초 가미시시가와에 있는 계곡."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1146"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

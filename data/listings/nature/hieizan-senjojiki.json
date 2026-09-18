@@ -1,0 +1,38 @@
+{
+  "slug": "hieizan-senjojiki",
+  "genre": "nature",
+  "category": [
+    "mountain",
+    "viewpoint"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "比叡山・千畳敷",
+    "en": "Mount Hiei and Senjojiki",
+    "ko": "히에이잔·센조지키"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北方町菅原 882-0233",
+    "en": "Sugawara, Kitakata-cho, Nobeoka, Miyazaki 882-0233",
+    "ko": "미야자키현 노베오카시 기타카타초 스가와라 882-0233"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-29-2155",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北方町菅原にある山と展望地。",
+    "en": "A mountain and viewpoint in Sugawara, Kitakata, Nobeoka.",
+    "ko": "노베오카시 기타카타초 스가와라에 있는 산과 전망지."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1053"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

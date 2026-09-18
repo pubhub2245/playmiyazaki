@@ -1,0 +1,45 @@
+{
+  "slug": "ikoma-kogen",
+  "genre": "nature",
+  "category": [
+    "park"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "生駒高原",
+    "en": "Ikoma Kogen",
+    "ko": "이코마 고원"
+  },
+  "address": {
+    "ja": "宮崎県小林市南西方8565 886-0005",
+    "en": "8565 Minamiseiho, Kobayashi, Miyazaki 886-0005",
+    "ko": "미야자키현 고바야시시 미나미세이호 8565"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-27-1919",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜17:00",
+    "en": "9:00-17:00",
+    "ko": "9:00~17:00"
+  },
+  "price": {
+    "ja": "大人（中学生以上）700円、小学生・未就学児 無料。",
+    "en": "Adults (junior high and up) 700 yen; elementary school children and younger free.",
+    "ko": "성인(중학생 이상) 700엔, 초등학생·미취학 아동 무료."
+  },
+  "description": {
+    "ja": "小林市南西方にある高原の花の名所。",
+    "en": "A highland flower spot in Minamiseiho, Kobayashi.",
+    "ko": "고바야시시 미나미세이호에 있는 고원의 꽃 명소."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1025"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

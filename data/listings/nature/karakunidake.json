@@ -1,0 +1,41 @@
+{
+  "slug": "karakunidake",
+  "genre": "nature",
+  "category": [
+    "mountain"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "韓国岳",
+    "en": "Mount Karakuni",
+    "ko": "가라쿠니다케"
+  },
+  "address": {
+    "ja": "宮崎県えびの市原田 889-4301",
+    "en": "Harada, Ebino, Miyazaki 889-4301",
+    "ko": "미야자키현 에비노시 하라다 889-4301"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-33-3002",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "えびのエコミュージアムセンター 9:00〜17:00",
+    "en": "Ebino Eco Museum Center 9:00-17:00",
+    "ko": "에비노 에코뮤지엄 센터 9:00~17:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "えびの市原田にある山。",
+    "en": "A mountain in Harada, Ebino.",
+    "ko": "에비노시 하라다에 있는 산."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1010"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

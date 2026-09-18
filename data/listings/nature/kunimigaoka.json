@@ -1,0 +1,37 @@
+{
+  "slug": "kunimigaoka",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "国見ヶ丘",
+    "en": "Kunimigaoka",
+    "ko": "구니미가오카"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字押方 882-1102",
+    "en": "Oshikata, Takachiho-cho, Nishiusuki-gun, Miyazaki 882-1102",
+    "ko": "미야자키현 니시우스키군 다카치호초 오시카타 882-1102"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-73-1213",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂町押方にある展望地。",
+    "en": "A scenic viewpoint in Oshikata, Takachiho.",
+    "ko": "다카치호초 오시카타에 있는 전망지."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1011"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

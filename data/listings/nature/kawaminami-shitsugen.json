@@ -1,0 +1,45 @@
+{
+  "slug": "kawaminami-shitsugen",
+  "genre": "nature",
+  "category": [
+    "park"
+  ],
+  "area": "kawaminami",
+  "name": {
+    "ja": "川南湿原植物群落",
+    "en": "Kawaminami Wetland Plant Community",
+    "ko": "가와미나미 습원 식물군락"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡川南町川南19403-14 889-1301",
+    "en": "19403-14 Kawaminami, Kawaminami-cho, Koyu-gun, Miyazaki 889-1301",
+    "ko": "미야자키현 고유군 가와미나미초 가와미나미 19403-14"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-27-8020",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "4月〜9月 9:00〜17:00、10月〜11月 9:00〜16:00",
+    "en": "April-September 9:00-17:00; October-November 9:00-16:00",
+    "ko": "4~9월 9:00~17:00, 10~11월 9:00~16:00"
+  },
+  "price": {
+    "ja": "無料。",
+    "en": "Free.",
+    "ko": "무료."
+  },
+  "description": {
+    "ja": "川南町にある湿原。国の天然記念物。",
+    "en": "A wetland in Kawaminami, designated a national natural monument.",
+    "ko": "가와미나미초에 있는 습원. 국가 천연기념물."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1667"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "izakibana-park",
+  "genre": "nature",
+  "category": [
+    "park",
+    "viewpoint"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "猪崎鼻公園",
+    "en": "Izakibana Park",
+    "ko": "이자키바나 공원"
+  },
+  "address": {
+    "ja": "宮崎県日南市下方",
+    "en": "Shimokata, Nichinan, Miyazaki",
+    "ko": "미야자키현 니치난시 시모카타"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-31-1134",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南市下方の海沿いにある公園。",
+    "en": "A park on the coast in Shimokata, Nichinan.",
+    "ko": "니치난시 시모카타 해안에 있는 공원."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1085"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
