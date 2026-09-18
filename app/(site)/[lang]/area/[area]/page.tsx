@@ -18,6 +18,8 @@ import { GenreIcon } from "@/app/_components/GenreIcon";
 import { RevealList } from "@/app/_components/RevealList";
 import { Row } from "@/app/_components/Row";
 import { listingToRow } from "@/lib/rows";
+import { AffiliateLink } from "@/app/_components/AffiliateLink";
+import { RAKUTEN_TRAVEL } from "@/lib/affiliate";
 
 type Props = { params: { lang: string; area: string } };
 
@@ -34,6 +36,17 @@ export function generateStaticParams() {
 type Labels = { ja: string; en: string; ko: string };
 
 const SPOT_LABEL: Record<Lang, string> = { ja: "スポット", en: "places", ko: "스팟" };
+
+/**
+ * 泊まりで来る人に、予約サイトへの紹介リンクを1本だけ置く。
+ * 送り先は楽天トラベルの「宮崎県」の一覧。市町村ごとのURLは出典が取れていないので、
+ * 文言も「宮崎の宿」にして、その町の宿だと読める書き方にはしない。
+ */
+const FIND_STAY: Record<Lang, string> = {
+  ja: "楽天トラベルで宮崎の宿を探す",
+  en: "Find places to stay in Miyazaki on Rakuten Travel",
+  ko: "라쿠텐 트래블에서 미야자키 숙소 찾기",
+};
 
 const ALL_AREAS: Record<Lang, string> = {
   ja: "エリア一覧",
@@ -133,6 +146,8 @@ export default function AreaAllGenresPage({ params }: Props) {
         lang={lang}
         hideWhenEmpty
       />
+
+      <AffiliateLink lang={lang} program={RAKUTEN_TRAVEL} label={FIND_STAY[lang]} />
 
       {groups.map(({ genre, count }) => {
         const g = genreLabel.get(genre);
