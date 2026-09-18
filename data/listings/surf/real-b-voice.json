@@ -1,0 +1,41 @@
+{
+  "slug": "real-b-voice",
+  "genre": "surf",
+  "category": [
+    "school",
+    "rental"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "REAL B VOICE",
+    "en": "REAL B VOICE",
+    "ko": "리얼 비 보이스 (REAL B VOICE)"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市中村東3-6-14",
+    "en": "3-6-14 Nakamura-higashi, Miyazaki-shi, Miyazaki 880-0904",
+    "ko": "미야자키현 미야자키시 나카무라히가시 3-6-14"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-59-3320",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "青島海岸で活動するNSA公認サーフスクール。プロサーファー水元公志と田村幸子を中心に、初心者から上級者までのスクールと道具レンタルを扱う。",
+    "en": "NSA-certified surf school around Aoshima beach. Led by pro surfers Koji Mizumoto and Sachiko Tamura. Lessons for all levels and gear rental.",
+    "ko": "아오시마 해안에서 활동하는 NSA 공인 서핑 스쿨. 프로 서퍼 미즈모토 코지와 다무라 사치코를 중심으로 초보자부터 상급자까지의 스쿨과 도구 렌탈을 취급한다."
+  },
+  "tags": null,
+  "features": [
+    "beginner",
+    "rental"
+  ],
+  "sources": [
+    "https://www.nsa-surf.org/school/miyazaki02/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
