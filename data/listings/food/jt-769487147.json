@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:30～23:00",
-    "en": "17:30～23:00",
-    "ko": "17:30~23:00"
+    "en": "17:30～23:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市橘通東の居酒屋。テイクアウトあり。営業17:30～23:00。みやざき地頭鶏の指定店。",
     "en": "Izakaya in Miyazaki City that serves Miyazaki Jitokko. Takeout available. Open 17:30～23:00.",
-    "ko": "미야자키시 다치바나도리히가시의 이자카야. 포장 가능. 영업 17:30~23:00. 미야자키 지토코 지정점."
+    "ko": "미야자키시 다치바나도리 히가시의 이자카야. 테이크아웃 가능. 영업 17:30~23:00. 미야자키 지도리 지정점."
   },
   "tags": null,
   "features": [

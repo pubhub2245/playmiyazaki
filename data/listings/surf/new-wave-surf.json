@@ -10,7 +10,7 @@
   "name": {
     "ja": "ニューウェーブ",
     "en": "NEW WAVE SURF & SKATE",
-    "ko": "뉴 웨이브 서프 & 스케이트"
+    "ko": "뉴 웨이브 (NEW WAVE SURF & SKATE)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字熊野1315-1",
@@ -26,12 +26,12 @@
   "price": {
     "ja": "体験スクール 3,300円、レベルアップスクール 5,500円、ボードレンタル 3,300〜4,400円、ウェットスーツ 1,100〜2,200円",
     "en": "Beginner lesson 3,300 yen; level-up lesson 5,500 yen; board rental 3,300–4,400 yen; wetsuit 1,100–2,200 yen",
-    "ko": "체험 스쿨 3,300엔, 레벨업 스쿨 5,500엔, 보드 렌탈 3,300〜4,400엔, 웨트슈트 1,100〜2,200엔"
+    "ko": "체험 스쿨 3,300엔, 레벨업 스쿨 5,500엔, 보드 렌탈 3,300~4,400엔, 웻수트 1,100~2,200엔"
   },
   "description": {
     "ja": "木崎浜近くのショップ。スクール、レンタル、ガイドツアーを扱う。JPBA プロショップ。",
     "en": "Shop near Kizakihama. Handles lessons, rentals, and guided tours. JPBA pro shop.",
-    "ko": "기자키하마 근처의 숍. 스쿨, 렌탈, 가이드 투어를 다룬다. JPBA 프로숍."
+    "ko": "기자키하마 근처의 숍. 스쿨, 렌탈, 가이드 투어를 취급. JPBA 프로숍."
   },
   "tags": null,
   "features": [

@@ -8,7 +8,7 @@
   "name": {
     "ja": "地頭鶏ランド日南",
     "en": "Jitokko Land Nichinan",
-    "ko": "지토코랜드 니치난"
+    "ko": "지도리 랜드 니치난"
   },
   "address": {
     "ja": "宮崎県日南市大字毛吉田2723-1",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00〜17:00 日曜定休",
-    "en": "8:00–17:00, closed Sundays",
-    "ko": "8:00~17:00, 일요일 휴무"
+    "en": "8:00–17:00, closed Sundays"
   },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の生産センター。処理場に併設された直売所で丸鶏や加工品を扱う。",
     "en": "Miyazaki Jitokko production centre. The retail counter next to the processing plant sells whole birds and prepared products.",
-    "ko": "미야자키 지토코 생산 센터. 처리장에 병설된 직매장에서 통닭과 가공품을 취급."
+    "ko": "미야자키 지도리 생산 센터. 처리장에 병설된 직매장에서 통닭과 가공품을 취급한다."
   },
   "tags": null,
   "features": [

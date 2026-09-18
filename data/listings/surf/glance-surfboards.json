@@ -8,7 +8,7 @@
   "name": {
     "ja": "グランスサーフボード",
     "en": "glance surfboards",
-    "ko": "글랜스 서프보드"
+    "ko": "글랜스 서프보드 (glance surfboards)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字熊野10314-6",
@@ -25,7 +25,7 @@
   "description": {
     "ja": "ボード製造、カスタムエアブラシ、修理を扱うショップ。レンタルとスクールは無し。",
     "en": "Shop that handles board manufacturing, custom airbrush, and repairs. No rentals or lessons.",
-    "ko": "보드 제작, 커스텀 에어브러시, 수리를 다루는 숍. 렌탈과 스쿨은 없다."
+    "ko": "보드 제작, 커스텀 에어브러시, 수리를 취급하는 숍. 렌탈과 스쿨은 없음."
   },
   "tags": null,
   "features": [

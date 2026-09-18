@@ -8,7 +8,7 @@
   "name": {
     "ja": "みやざき地頭鶏直売店 鶏愛",
     "en": "Miyazaki Jitokko Direct Sales Keiai",
-    "ko": "미야자키 지토코 직매점 게이아이"
+    "ko": "미야자키 지도리 직매점 케이아이"
   },
   "address": {
     "ja": "宮崎県都城市山田町山田4645-1",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:30～18:00",
-    "en": "10:30～18:00",
-    "ko": "10:30~18:00"
+    "en": "10:30～18:00"
   },
   "price": null,
   "description": {
     "ja": "直売店。都城市山田町にある。みやざき地頭鶏の指定店。精肉・加工品の販売あり。営業10:30～18:00。定休日曜日、月曜日の祝日。",
     "en": "Direct-sales shop in Miyakonojo. Meat and prepared products sold. Open 10:30～18:00. Cooperative-designated Miyazaki Jitokko store.",
-    "ko": "직매점. 미야코노조시 야마다초에 있다. 미야자키 지토코 지정점. 정육·가공품 판매 있음. 영업 10:30~18:00. 휴무 일요일, 월요일의 공휴일."
+    "ko": "미야코노조시 야마다초의 직매점. 미야자키 지도리 지정점. 정육·가공품 판매. 영업 10:30~18:00. 일요일과 월요일 공휴일 휴무."
   },
   "tags": null,
   "features": [

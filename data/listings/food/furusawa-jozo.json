@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00〜16:00 蔵見学は要予約",
-    "en": "8:00–16:00, tour by reservation",
-    "ko": "8:00~16:00, 양조장 견학은 예약 필수"
+    "en": "8:00–16:00, tour by reservation"
   },
   "price": null,
   "description": {
     "ja": "日南市大堂津の焼酎蔵。蔵見学は要予約。店頭販売あり。",
     "en": "Shochu brewery in Odotsu, Nichinan. Tour by reservation. Direct sales on site.",
-    "ko": "니치난시 오도쓰의 쇼추 양조장. 양조장 견학은 예약 필수. 매장 판매 있음."
+    "ko": "니치난시 오도쓰의 쇼추 양조장. 양조장 견학은 예약제. 매장 판매 있음."
   },
   "tags": null,
   "features": [

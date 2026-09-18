@@ -8,7 +8,7 @@
   "name": {
     "ja": "トータルコーディネート",
     "en": "Total Coordinate",
-    "ko": "토탈 코디네이트"
+    "ko": "토털 코디네이트"
   },
   "address": {
     "ja": "宮崎県宮崎市小戸町27",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜19:00",
-    "en": "9:00–19:00",
-    "ko": "9:00〜19:00"
+    "en": "9:00–19:00"
   },
   "price": null,
   "description": {
     "ja": "サーフィン指導25年のガイドが在籍。サーフ、SUP、SUPヨガ、ヨガ、コアトレーニングを扱う。宮崎駅からの送迎あり。駐車場7台。",
     "en": "Guide with 25 years of surf instruction experience. Handles surf, SUP, SUP yoga, yoga, and core training. Pickup from Miyazaki Station. Parking for seven.",
-    "ko": "서핑 지도 25년 경력의 가이드가 있다. 서프, SUP, SUP 요가, 요가, 코어 트레이닝을 다룬다. 미야자키역에서 픽업 있음. 주차 7대."
+    "ko": "서핑 지도 25년 경력의 가이드 재직. 서프, SUP, SUP 요가, 요가, 코어 트레이닝을 취급. 미야자키역 픽업 서비스. 주차 7대."
   },
   "tags": null,
   "features": [

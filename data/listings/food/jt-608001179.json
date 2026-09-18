@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～23:30",
-    "en": "17:00～23:30",
-    "ko": "17:00~23:30"
+    "en": "17:00～23:30"
   },
   "price": null,
   "description": {
     "ja": "宮崎市錦町の鶏料理店。組合の指定店。テイクアウトあり。営業17:00～23:30。定休無。",
     "en": "Cooperative-designated chicken restaurant in Miyazaki City. Takeout available. Open 17:00～23:30.",
-    "ko": "미야자키시 니시키초의 닭요리 전문점. 조합 지정점. 포장 가능. 영업 17:00~23:30. 정기휴무 없음."
+    "ko": "미야자키시 니시키초의 닭 요리 전문점. 조합 지정점. 테이크아웃 가능. 영업 17:00~23:30."
   },
   "tags": null,
   "features": [

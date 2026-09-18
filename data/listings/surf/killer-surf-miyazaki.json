@@ -26,12 +26,12 @@
   "price": {
     "ja": "スクール 5,940〜17,600円（税込）／90〜120分、ボードレンタル 3,500円／4時間・5,000円／1日（税込）",
     "en": "Lesson 5,940–17,600 yen (incl. tax) for 90–120 min; board rental 3,500 yen/4 hrs or 5,000 yen/day (incl. tax)",
-    "ko": "스쿨 5,940〜17,600엔(부가세 포함)／90〜120분, 보드 렌탈 3,500엔／4시간·5,000엔／1일(부가세 포함)"
+    "ko": "스쿨 5,940~17,600엔(부가세 포함)/90~120분, 보드 렌탈 3,500엔/4시간·5,000엔/1일(부가세 포함)"
   },
   "description": {
     "ja": "JPSA プロの川端太志が営むスクール。ガイド、レンタル、STAND ウェットスーツも扱う。",
     "en": "School run by JPSA pro Taishi Kawabata. Guiding, rentals, and STAND wetsuits.",
-    "ko": "JPSA 프로 가와바타 다이시가 운영하는 스쿨. 가이드, 렌탈, STAND 웨트슈트도 다룬다."
+    "ko": "JPSA 프로 가와바타 다이시가 운영하는 스쿨. 가이드, 렌탈, STAND 웻수트도 취급."
   },
   "tags": null,
   "features": [

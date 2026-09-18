@@ -8,7 +8,7 @@
   "name": {
     "ja": "いちにのいちご園",
     "en": "Ichini no Ichigo En",
-    "ko": "이치니노 딸기 농원"
+    "ko": "이치니노 딸기원"
   },
   "address": {
     "ja": "宮崎県延岡市大貫町4-1439",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 1月〜5月",
-    "en": "Strawberry picking January–May",
-    "ko": "딸기 따기 1월~5월"
+    "en": "Strawberry picking January–May"
   },
   "price": null,
   "description": {
     "ja": "延岡市のいちご狩り農園。5品種を扱う。",
     "en": "Strawberry farm in Nobeoka growing five varieties.",
-    "ko": "노베오카시의 딸기 따기 농원. 5개 품종을 취급."
+    "ko": "노베오카시의 딸기 따기 농원. 5품종을 재배한다."
   },
   "tags": null,
   "features": [

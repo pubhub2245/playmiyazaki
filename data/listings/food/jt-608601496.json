@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～23:00",
-    "en": "17:00～23:00",
-    "ko": "17:00~23:00"
+    "en": "17:00～23:00"
   },
   "price": null,
   "description": {
     "ja": "小林市細野の焼鳥店。組合の指定店。テイクアウトあり。営業17:00～23:00。定休月曜日。",
     "en": "Cooperative-designated yakitori in Kobayashi. Takeout available. Open 17:00～23:00.",
-    "ko": "고바야시시 호소노의 야키토리 가게. 조합 지정점. 포장 가능. 영업 17:00~23:00. 휴무 월요일."
+    "ko": "고바야시시 호소노의 야키토리 전문점. 조합 지정점. 테이크아웃 가능. 영업 17:00~23:00. 월요일 정기 휴무."
   },
   "tags": null,
   "features": [

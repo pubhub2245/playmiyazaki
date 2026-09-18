@@ -9,7 +9,7 @@
   "name": {
     "ja": "サーフスリー",
     "en": "Surf3",
-    "ko": "서프3"
+    "ko": "서프3 (Surf3)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字熊野2278-8",
@@ -25,12 +25,12 @@
   "price": {
     "ja": "ボードレンタル 3,000円/日、ウェットスーツ 2,000円",
     "en": "Board rental 3,000 yen/day; wetsuit 2,000 yen",
-    "ko": "보드 렌탈 3,000엔/1일, 웨트슈트 2,000엔"
+    "ko": "보드 렌탈 3,000엔/일, 웻수트 2,000엔"
   },
   "description": {
     "ja": "木崎浜近くのショップ。店内にウェットスーツ工場を併設。ブランド問わず修理を受け付ける。木曜定休。",
     "en": "Shop near Kizakihama with an in-house wetsuit factory. Repairs boards from any brand. Closed Thursdays.",
-    "ko": "기자키하마 근처의 숍. 매장 안에 웨트슈트 공장을 함께 두고 있다. 브랜드를 가리지 않고 수리를 받는다. 목요일 휴무."
+    "ko": "기자키하마 근처의 숍. 매장에 웻수트 공장을 병설. 브랜드 상관없이 수리를 받는다. 목요일 정기 휴무."
   },
   "tags": null,
   "features": [

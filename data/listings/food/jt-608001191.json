@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00～22:00",
-    "en": "10:00～22:00",
-    "ko": "10:00~22:00"
+    "en": "10:00～22:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市宮崎駅東にあるスーパー。みやざき地頭鶏の指定店。精肉・加工品の販売あり。営業10:00～22:00。定休1／2～1／4。",
     "en": "Miyazaki Jitokko cooperative-designated supermarket in Miyazaki City. Meat and prepared products sold. Open 10:00～22:00.",
-    "ko": "미야자키시 미야자키에키히가시에 있는 슈퍼. 미야자키 지토코 지정점. 정육·가공품 판매 있음. 영업 10:00~22:00. 휴무 1/2~1/4."
+    "ko": "미야자키시 미야자키역 히가시의 슈퍼. 미야자키 지도리 지정점. 정육·가공품 판매. 영업 10:00~22:00. 1/2~1/4 휴무."
   },
   "tags": null,
   "features": [

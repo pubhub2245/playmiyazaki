@@ -13,7 +13,7 @@
   "address": {
     "ja": "宮崎県児湯郡高鍋町蚊口浦6259-1",
     "en": "6259-1 Kaguchiura, Takanabe-cho, Miyazaki 884-0004",
-    "ko": "미야자키현 고유군 다카나베초 蚊口浦6259-1"
+    "ko": "미야자키현 다카나베초 蚊口浦6259-1"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +25,7 @@
   "description": {
     "ja": "ビーチブレイクの海岸。蚊口浜海浜公園キャンプ場が隣接。無料駐車場50台。",
     "en": "Beach break. Kaguchihama Seaside Park campsite is adjacent. 50 free parking spaces.",
-    "ko": "비치 브레이크 해안. 가구치하마 해변공원 캠프장이 인접해 있다. 무료 주차 50대."
+    "ko": "비치 브레이크 해안. 가구치하마 해변공원 캠프장이 인접. 무료 주차 50대."
   },
   "tags": null,
   "features": [

@@ -8,12 +8,12 @@
   "name": {
     "ja": "神楽酒造 トンネルの駅",
     "en": "Kagura Shuzo — Tunnel no Eki",
-    "ko": "가구라 주조 터널의 역"
+    "ko": "카구라 주조 - 터널의 역"
   },
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町下野2221-2",
     "en": "2221-2 Shimono, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
-    "ko": "미야자키현 니시우스키군 다카치호초 下野2221-2"
+    "ko": "미야자키현 다카치호초 下野2221-2"
   },
   "lat": null,
   "lng": null,
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜17:00 第1水曜定休",
-    "en": "9:00–17:00, closed the first Wednesday",
-    "ko": "9:00~17:00, 첫째 수요일 휴무"
+    "en": "9:00–17:00, closed the first Wednesday"
   },
   "price": null,
   "description": {
     "ja": "旧鉄道トンネルを焼酎の貯蔵庫にした施設。神楽酒造の焼酎は無料試飲もできる。",
     "en": "A former railway tunnel used as a shochu cellar. Free tastings of Kagura Shuzo's shochu.",
-    "ko": "옛 철도 터널을 쇼추 저장고로 쓰는 시설. 가구라 주조의 쇼추를 무료로 시음할 수 있다."
+    "ko": "폐선 철도 터널을 쇼추 저장고로 쓰는 시설. 카구라 주조의 쇼추 무료 시음이 있다."
   },
   "tags": null,
   "features": [

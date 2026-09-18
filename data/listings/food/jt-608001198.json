@@ -8,7 +8,7 @@
   "name": {
     "ja": "こっこ家くまちゃん",
     "en": "Kokkoya Kuma-chan",
-    "ko": "곳코야 구마짱"
+    "ko": "콧코야 구마짱"
   },
   "address": {
     "ja": "宮崎県日南市大字下方1616番地",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00～16:00",
-    "en": "10:00～16:00",
-    "ko": "10:00~16:00"
+    "en": "10:00～16:00"
   },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。日南市下方の精肉直売店。精肉・加工品の販売あり。営業10:00～16:00。定休日曜日。",
     "en": "Meat direct sales in Nichinan on the Miyazaki Jitokko cooperative roster. Meat and prepared products sold. Open 10:00～16:00.",
-    "ko": "미야자키 지토코 지정점. 니치난시 시모카타의 정육 직매점. 정육·가공품 판매 있음. 영업 10:00~16:00. 휴무 일요일."
+    "ko": "니치난시 시모가타의 정육 직매점. 미야자키 지도리 지정점. 정육·가공품 판매. 영업 10:00~16:00. 일요일 정기 휴무."
   },
   "tags": null,
   "features": [

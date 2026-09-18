@@ -10,7 +10,7 @@
   "name": {
     "ja": "コネクション",
     "en": "CONNECTION",
-    "ko": "커넥션"
+    "ko": "커넥션 (CONNECTION)"
   },
   "address": {
     "ja": "宮崎県延岡市方財町64",
@@ -27,7 +27,7 @@
   "description": {
     "ja": "フルカスタムボードを扱うショップ。BeMoLo シューズ取扱い。初心者体験とコーチングあり。木曜定休。",
     "en": "Shop that handles fully custom boards. BeMoLo shoes dealer. Beginner sessions and coaching. Closed Thursdays.",
-    "ko": "풀 커스텀 보드를 다루는 숍. BeMoLo 신발 취급. 초보자 체험과 코칭 있음. 목요일 휴무."
+    "ko": "풀 커스텀 보드를 취급하는 숍. BeMoLo 슈즈 판매. 초보 체험과 코칭 있음. 목요일 정기 휴무."
   },
   "tags": null,
   "features": [

@@ -8,7 +8,7 @@
   "name": {
     "ja": "日南地頭鶏センター",
     "en": "Nichinan Jitokko Center",
-    "ko": "니치난 지토코 센터"
+    "ko": "니치난 지도리 센터"
   },
   "address": {
     "ja": "宮崎県日南市大字隈谷乙１７９８番地１",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9：00 ～ 16：00",
-    "en": "9：00 ～ 16：00",
-    "ko": "9:00~16:00"
+    "en": "9：00 ～ 16：00"
   },
   "price": null,
   "description": {
     "ja": "日南市隈谷の処理・直売センター。精肉・加工品の販売あり。営業9：00 ～ 16：00。定休無し。みやざき地頭鶏の指定店。",
     "en": "Poultry processing and direct sales in Nichinan that serves Miyazaki Jitokko. Meat and prepared products sold. Open 9：00 ～ 16：00.",
-    "ko": "니치난시 구마타니의 가공·직판 센터. 정육·가공품 판매 있음. 영업 9:00~16:00. 정기휴무 없음. 미야자키 지토코 지정점."
+    "ko": "니치난시 구마타니의 처리·직판 센터. 정육·가공품 판매. 영업 9:00~16:00. 정기 휴무 없음. 미야자키 지도리 지정점."
   },
   "tags": null,
   "features": [

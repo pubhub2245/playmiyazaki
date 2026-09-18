@@ -8,7 +8,7 @@
   "name": {
     "ja": "川原いちご農園",
     "en": "Kawahara Ichigo Farm",
-    "ko": "가와하라 딸기 농원"
+    "ko": "카와하라 딸기 농원"
   },
   "address": {
     "ja": "宮崎県延岡市柚の木田町1195",
@@ -22,8 +22,7 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 3月〜5月",
-    "en": "Strawberry picking March–May",
-    "ko": "딸기 따기 3월~5월"
+    "en": "Strawberry picking March–May"
   },
   "price": null,
   "description": {

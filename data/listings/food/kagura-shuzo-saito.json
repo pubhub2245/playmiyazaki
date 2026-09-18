@@ -8,7 +8,7 @@
   "name": {
     "ja": "神楽酒造 西の都アグリホール",
     "en": "Kagura Shuzo (Saito Plant)",
-    "ko": "가구라 주조 니시노미야코 아그리홀"
+    "ko": "카구라 주조 사이토 공장 (니시노미야코 아그리홀)"
   },
   "address": {
     "ja": "宮崎県西都市鹿野田11365-1",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "平日 9:00〜16:30 蔵見学は要予約",
-    "en": "Weekdays 9:00–16:30, tour by reservation",
-    "ko": "평일 9:00~16:30, 양조장 견학은 예약 필수"
+    "en": "Weekdays 9:00–16:30, tour by reservation"
   },
   "price": null,
   "description": {
     "ja": "神楽酒造の西都工場。蔵見学は平日のみ、要予約。",
     "en": "Kagura Shuzo's Saito plant. Weekday-only tours by reservation.",
-    "ko": "가구라 주조의 사이토 공장. 양조장 견학은 평일만, 예약 필수."
+    "ko": "카구라 주조의 사이토 공장. 견학은 평일에 한하며 예약제."
   },
   "tags": null,
   "features": [

@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18：00～23：00",
-    "en": "18：00～23：00",
-    "ko": "18:00~23:00"
+    "en": "18：00～23：00"
   },
   "price": null,
   "description": {
     "ja": "都城市広原町にある七輪焼き。みやざき地頭鶏の指定店。営業18：00～23：00。",
     "en": "Miyazaki Jitokko cooperative-designated shichirin charcoal grill in Miyakonojo. Open 18：00～23：00.",
-    "ko": "미야코노조시 히로하라초에 있는 시치린 숯불구이. 미야자키 지토코 지정점. 영업 18:00~23:00."
+    "ko": "미야코노조시 코바루초의 시치린 숯불구이. 미야자키 지도리 지정점. 영업 18:00~23:00."
   },
   "tags": null,
   "features": [],

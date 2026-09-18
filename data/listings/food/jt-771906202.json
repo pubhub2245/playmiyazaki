@@ -8,12 +8,12 @@
   "name": {
     "ja": "美食鳥",
     "en": "Bishokutori",
-    "ko": "비쇼쿠도리"
+    "ko": "비쇼쿠토리"
   },
   "address": {
     "ja": "宮崎県児湯郡都農町川北5521-2",
     "en": "5521-2 Kawakita, Tsuno, Miyazaki",
-    "ko": "미야자키현 고유군 쓰노초 川北5521-2"
+    "ko": "미야자키현 쓰노초 川北5521-2"
   },
   "lat": 32.2540796,
   "lng": 131.5534891,
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18:00～22:30",
-    "en": "18:00～22:30",
-    "ko": "18:00~22:30"
+    "en": "18:00～22:30"
   },
   "price": null,
   "description": {
     "ja": "都農町川北の居酒屋。組合の指定店。テイクアウトあり。精肉・加工品の販売あり。営業18:00～22:30。定休日曜日。",
     "en": "Cooperative-designated izakaya in Tsuno. Takeout available. Meat and prepared products sold. Open 18:00～22:30.",
-    "ko": "쓰노초 가와키타의 이자카야. 조합 지정점. 포장 가능. 정육·가공품 판매 있음. 영업 18:00~22:30. 휴무 일요일."
+    "ko": "쓰노초 가와키타의 이자카야. 조합 지정점. 테이크아웃 가능. 정육·가공품 판매. 영업 18:00~22:30. 일요일 정기 휴무."
   },
   "tags": null,
   "features": [

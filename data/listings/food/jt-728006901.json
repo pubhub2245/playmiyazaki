@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18:00～24:00",
-    "en": "18:00～24:00",
-    "ko": "18:00~24:00"
+    "en": "18:00～24:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市高松町にある焼鳥店。みやざき地頭鶏の指定店。営業18:00～24:00。定休日曜日。",
     "en": "Miyazaki Jitokko cooperative-designated yakitori in Miyazaki City. Open 18:00～24:00.",
-    "ko": "미야자키시 다카마쓰초에 있는 야키토리 가게. 미야자키 지토코 지정점. 영업 18:00~24:00. 휴무 일요일."
+    "ko": "미야자키시 다카마쓰초의 야키토리 전문점. 미야자키 지도리 지정점. 영업 18:00~24:00. 일요일 정기 휴무."
   },
   "tags": null,
   "features": [],

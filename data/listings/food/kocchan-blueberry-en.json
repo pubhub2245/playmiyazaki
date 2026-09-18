@@ -8,7 +8,7 @@
   "name": {
     "ja": "こっちゃんブルーベリー園",
     "en": "Kocchan Blueberry Farm",
-    "ko": "곳짱 블루베리 농원"
+    "ko": "콧짱 블루베리원"
   },
   "address": {
     "ja": "宮崎県三股町長田5045-2",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "ブルーベリー狩り 7月〜8月",
-    "en": "Blueberry picking July–August",
-    "ko": "블루베리 따기 7월~8월"
+    "en": "Blueberry picking July–August"
   },
   "price": null,
   "description": {
     "ja": "三股町のブルーベリー狩り農園。200株以上を有機で栽培。",
     "en": "Blueberry-picking farm in Mimata. Over 200 organically grown bushes.",
-    "ko": "미마타초의 블루베리 따기 농원. 200그루 이상을 유기로 재배."
+    "ko": "미마타초의 블루베리 따기 농원. 200그루 이상을 유기 재배."
   },
   "tags": null,
   "features": [

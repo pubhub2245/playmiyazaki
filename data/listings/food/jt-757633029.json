@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:00～23:00",
-    "en": "17:00～23:00",
-    "ko": "17:00~23:00"
+    "en": "17:00～23:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市中央通にある居酒屋。みやざき地頭鶏の指定店。営業17:00～23:00。定休月曜日、火曜日。",
     "en": "Miyazaki Jitokko cooperative-designated izakaya in Miyazaki City. Open 17:00～23:00.",
-    "ko": "미야자키시 주오도리에 있는 이자카야. 미야자키 지토코 지정점. 영업 17:00~23:00. 휴무 월요일, 화요일."
+    "ko": "미야자키시 주오도리의 이자카야. 미야자키 지도리 지정점. 영업 17:00~23:00. 월·화 정기 휴무."
   },
   "tags": null,
   "features": [],

@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18:00～22:30",
-    "en": "18:00～22:30",
-    "ko": "18:00~22:30"
+    "en": "18:00～22:30"
   },
   "price": null,
   "description": {
     "ja": "延岡市紺屋町にある和食店。みやざき地頭鶏の指定店。営業18:00～22:30。定休日曜日。",
     "en": "Miyazaki Jitokko cooperative-designated Japanese restaurant in Nobeoka. Open 18:00～22:30.",
-    "ko": "노베오카시 곤야마치에 있는 일식점. 미야자키 지토코 지정점. 영업 18:00~22:30. 휴무 일요일."
+    "ko": "노베오카시 곤야초의 일식 전문점. 미야자키 지도리 지정점. 영업 18:00~22:30. 일요일 정기 휴무."
   },
   "tags": null,
   "features": [],

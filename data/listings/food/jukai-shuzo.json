@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "13:00〜16:00 蔵見学・店頭販売は要予約",
-    "en": "13:00–16:00, tour and direct sales by reservation",
-    "ko": "13:00~16:00, 양조장 견학·매장 판매는 예약 필수"
+    "en": "13:00–16:00, tour and direct sales by reservation"
   },
   "price": null,
   "description": {
     "ja": "串間市の焼酎蔵。蔵見学と店頭販売は要予約。",
     "en": "Kushima shochu brewery. Tour and direct sales by reservation.",
-    "ko": "구시마시의 쇼추 양조장. 양조장 견학과 매장 판매는 예약 필수."
+    "ko": "구시마시의 쇼추 양조장. 견학과 매장 판매는 예약제."
   },
   "tags": null,
   "features": [

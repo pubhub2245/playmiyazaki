@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "17:30～22:30",
-    "en": "17:30～22:30",
-    "ko": "17:30~22:30"
+    "en": "17:30～22:30"
   },
   "price": null,
   "description": {
     "ja": "延岡市中央通にある炭火焼専門店。みやざき地頭鶏の指定店。テイクアウトあり。営業17:30～22:30。",
     "en": "Miyazaki Jitokko cooperative-designated charcoal-grill specialty in Nobeoka. Takeout available. Open 17:30～22:30.",
-    "ko": "노베오카시 주오도리에 있는 숯불구이 전문점. 미야자키 지토코 지정점. 포장 가능. 영업 17:30~22:30."
+    "ko": "노베오카시 주오도리의 숯불구이 전문점. 미야자키 지도리 지정점. 테이크아웃 가능. 영업 17:30~22:30."
   },
   "tags": null,
   "features": [

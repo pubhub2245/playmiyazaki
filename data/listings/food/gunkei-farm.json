@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜17:00",
-    "en": "9:00–17:00",
-    "ko": "9:00~17:00"
+    "en": "9:00–17:00"
   },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏を林間放し飼いで育てる直営農場。物販あり。",
     "en": "The farm where Gunkei raises Miyazaki Jitokko free-range in the woodland. Retail on site.",
-    "ko": "미야자키 지토코를 숲속 방목으로 키우는 직영 농장. 판매 있음."
+    "ko": "미야자키 지도리를 숲 방목으로 기르는 직영 농장. 매장 판매 있음."
   },
   "tags": null,
   "features": [],

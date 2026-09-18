@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "毎月第4日曜 7:00〜9:00",
-    "en": "4th Sunday of each month, 7:00–9:00",
-    "ko": "매월 넷째 일요일 7:00~9:00"
+    "en": "4th Sunday of each month, 7:00–9:00"
   },
   "price": null,
   "description": {
     "ja": "油津漁港で毎月第4日曜に開かれる朝市。日南どれの魚とセルフ焼き場もある。",
     "en": "Morning market at Aburatsu port on the 4th Sunday of each month. Nichinan-dore fish and a self-grill area.",
-    "ko": "아부라쓰 어항에서 매월 넷째 일요일에 열리는 아침시장. 니치난 앞바다의 생선과 셀프 구이 공간이 있다."
+    "ko": "아부라쓰 어항에서 매월 넷째 일요일에 열리는 아침시장. 니치난 자연산 생선과 셀프 굽는 공간이 있다."
   },
   "tags": null,
   "features": [

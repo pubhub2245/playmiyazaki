@@ -10,7 +10,7 @@
   "name": {
     "ja": "ハイサーフ",
     "en": "HIGH SURF",
-    "ko": "하이 서프"
+    "ko": "하이 서프 (HIGH SURF)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字加江田4710-13",
@@ -31,7 +31,7 @@
   "description": {
     "ja": "加江田エリアのショップ。スクールと SUP を扱う。駐車場20台。",
     "en": "Shop in the Kaeda area. Lessons and SUP available. 20 parking spaces.",
-    "ko": "가에다 지역의 숍. 스쿨과 SUP를 다룬다. 주차 20대."
+    "ko": "가에다 지역의 숍. 스쿨과 SUP을 취급. 주차 20대."
   },
   "tags": null,
   "features": [

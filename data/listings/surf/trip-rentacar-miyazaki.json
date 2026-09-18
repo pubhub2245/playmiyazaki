@@ -8,7 +8,7 @@
   "name": {
     "ja": "トリップレンタカー宮崎",
     "en": "SURF & TURF Trip Rent a Car MIYAZAKI",
-    "ko": "SURF & TURF 트립 렌터카 미야자키"
+    "ko": "트립 렌터카 미야자키 (SURF & TURF)"
   },
   "address": {
     "ja": "宮崎県宮崎市学園木花台南3-16-4",
@@ -24,12 +24,12 @@
   "price": {
     "ja": "軽バン 6,000円／12時間・10,000円／1泊2日、ミドルバン 9,000円／12時間、ボードレンタル 3,000円／日（税別）",
     "en": "Micro van 6,000 yen/12 hrs or 10,000 yen for 2 days; midsize van 9,000 yen/12 hrs; board rental 3,000 yen/day (excl. tax)",
-    "ko": "경형 밴 6,000엔／12시간·10,000엔／1박 2일, 미들 밴 9,000엔／12시간, 보드 렌탈 3,000엔／1일(부가세 별도)"
+    "ko": "경밴 6,000엔/12시간·10,000엔/1박2일, 미드밴 9,000엔/12시간, 보드 렌탈 3,000엔/일(세별)"
   },
   "description": {
     "ja": "宮崎空港の送迎付きレンタカー。サーフボードのレンタル込み。サーフトリップ向けの車両サイズ。",
     "en": "Rental car service with airport pickup and surfboard rental included. Vehicles sized for surf trips.",
-    "ko": "미야자키 공항 픽업이 포함된 렌터카. 서프보드 렌탈 포함. 서프 트립에 맞는 차 크기."
+    "ko": "미야자키 공항 픽업 포함 렌터카. 서프보드 렌탈 포함. 서프 트립 사이즈의 차량."
   },
   "tags": null,
   "features": [

@@ -13,7 +13,7 @@
   "address": {
     "ja": "宮崎県西臼杵郡高千穂町大字押方925",
     "en": "925 Oshikata, Takachiho-cho, Nishi-Usuki-gun, Miyazaki",
-    "ko": "미야자키현 니시우스키군 다카치호초 大字押方925"
+    "ko": "미야자키현 다카치호초 大字押方925"
   },
   "lat": null,
   "lng": null,
@@ -25,7 +25,7 @@
   "description": {
     "ja": "高千穂の焼酎蔵。蔵見学は要予約。",
     "en": "Takachiho shochu brewery. Tours by reservation only.",
-    "ko": "다카치호의 쇼추 양조장. 양조장 견학은 예약 필수."
+    "ko": "다카치호의 쇼추 양조장. 양조장 견학은 예약제."
   },
   "tags": null,
   "features": [

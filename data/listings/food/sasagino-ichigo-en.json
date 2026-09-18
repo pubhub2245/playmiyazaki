@@ -8,7 +8,7 @@
   "name": {
     "ja": "笹木野いちご園",
     "en": "Sasagino Ichigo Farm",
-    "ko": "사사기노 딸기 농원"
+    "ko": "사사기노 딸기원"
   },
   "address": {
     "ja": "宮崎県日向市東郷町山陰戊93",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 1月〜5月",
-    "en": "Strawberry picking January–May",
-    "ko": "딸기 따기 1월~5월"
+    "en": "Strawberry picking January–May"
   },
   "price": null,
   "description": {
     "ja": "日向市東郷町のいちご狩り農園。車いすでも入れる。",
     "en": "Strawberry farm in Togo, Hyuga. Wheelchair accessible.",
-    "ko": "휴가시 도고초의 딸기 따기 농원. 휠체어로도 들어갈 수 있다."
+    "ko": "휴가시 도고초의 딸기 따기 농원. 휠체어로도 입장 가능."
   },
   "tags": null,
   "features": [

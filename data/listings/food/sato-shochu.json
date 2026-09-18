@@ -8,7 +8,7 @@
   "name": {
     "ja": "佐藤焼酎製造場",
     "en": "Sato Shochu",
-    "ko": "사토 쇼추 제조장"
+    "ko": "사토 쇼추 제조소"
   },
   "address": {
     "ja": "宮崎県延岡市祝子町2388-1",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00〜16:00 蔵見学は要予約",
-    "en": "10:00–16:00, tour by reservation",
-    "ko": "10:00~16:00, 양조장 견학은 예약 필수"
+    "en": "10:00–16:00, tour by reservation"
   },
   "price": null,
   "description": {
     "ja": "延岡市の焼酎蔵。蔵見学は要予約。直売所あり。",
     "en": "Nobeoka shochu brewery. Tours by reservation. Direct sales on site.",
-    "ko": "노베오카시의 쇼추 양조장. 양조장 견학은 예약 필수. 직매장 있음."
+    "ko": "노베오카시의 쇼추 양조장. 양조장 견학은 예약제. 직매장 있음."
   },
   "tags": null,
   "features": [

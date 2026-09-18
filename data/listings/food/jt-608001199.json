@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00～18:00",
-    "en": "10:00～18:00",
-    "ko": "10:00~18:00"
+    "en": "10:00～18:00"
   },
   "price": null,
   "description": {
     "ja": "宮崎市清武町の直売所。精肉・加工品の販売あり。営業10:00～18:00。定休日曜日、月曜日。みやざき地頭鶏の指定店。",
     "en": "Direct-sales shop in Miyazaki City that serves Miyazaki Jitokko. Meat and prepared products sold. Open 10:00～18:00.",
-    "ko": "미야자키시 기요타케초의 직매장. 정육·가공품 판매 있음. 영업 10:00~18:00. 휴무 일요일, 월요일. 미야자키 지토코 지정점."
+    "ko": "미야자키시 기요타케초의 직매장. 정육·가공품 판매. 영업 10:00~18:00. 일·월 정기 휴무. 미야자키 지도리 지정점."
   },
   "tags": null,
   "features": [

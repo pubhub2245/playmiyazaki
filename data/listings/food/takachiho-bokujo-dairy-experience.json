@@ -8,7 +8,7 @@
   "name": {
     "ja": "高千穂牧場 手作り体験",
     "en": "Takachiho Bokujo Hands-on Experience",
-    "ko": "다카치호 목장 수제 체험"
+    "ko": "다카치호 목장 손수 만들기 체험"
   },
   "address": {
     "ja": "宮崎県都城市吉之元町5265-103",
@@ -24,12 +24,12 @@
   "price": {
     "ja": "乳しぼり体験 500円（ソフトクリーム引換券付）、アイスクリーム手作り 1,300円、バター手作り 800円、乗馬 1,500円（70m）／3,000円（250m）／撮影 800円。",
     "en": "Milking ¥500 (with soft-serve voucher), ice-cream making ¥1,300, butter making ¥800, horseback ¥1,500 (70 m) / ¥3,000 (250 m) / photo ¥800.",
-    "ko": "젖 짜기 체험 500엔 (소프트아이스크림 교환권 포함), 아이스크림 만들기 1,300엔, 버터 만들기 800엔, 승마 1,500엔 (70m) / 3,000엔 (250m) / 촬영 800엔."
+    "ko": "젖 짜기 체험 500엔(소프트아이스크림 교환권 포함), 아이스크림 손수 만들기 1,300엔, 버터 손수 만들기 800엔, 승마 1,500엔(70m)/3,000엔(250m)/촬영 800엔."
   },
   "description": {
     "ja": "霧島連山ふもとの観光牧場。バターやアイスの手作り体験、乳しぼり、乗馬（要予約）。",
     "en": "Tourist dairy farm at the foot of the Kirishima range. Butter and ice-cream making, milking, horse riding (reservation required).",
-    "ko": "기리시마 연산 기슭의 관광 목장. 버터와 아이스크림 만들기 체험, 젖 짜기, 승마 (예약 필수)."
+    "ko": "기리시마 연산 기슭의 관광 목장. 버터·아이스크림 만들기 체험, 젖 짜기, 승마(예약 필수)."
   },
   "tags": null,
   "features": [

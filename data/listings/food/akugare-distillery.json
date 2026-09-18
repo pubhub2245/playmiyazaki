@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "10:00〜17:00 蔵見学は要予約",
-    "en": "10:00–17:00, tour by reservation",
-    "ko": "10:00~17:00, 양조장 견학은 예약 필수"
+    "en": "10:00–17:00, tour by reservation"
   },
   "price": null,
   "description": {
     "ja": "日向市東郷町の焼酎蔵。蔵見学は要予約。",
     "en": "Shochu brewery in Togo, Hyuga. Tours by reservation only.",
-    "ko": "휴가시 도고초의 쇼추 양조장. 양조장 견학은 예약 필수."
+    "ko": "휴가시 도고초의 쇼추 양조장. 양조장 견학은 예약제."
   },
   "tags": null,
   "features": [

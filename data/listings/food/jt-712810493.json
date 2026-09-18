@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "18:00～22:30",
-    "en": "18:00～22:30",
-    "ko": "18:00~22:30"
+    "en": "18:00～22:30"
   },
   "price": null,
   "description": {
     "ja": "食堂・ビストロ。宮崎市橘通東にある。みやざき地頭鶏の指定店。テイクアウトあり。営業18:00～22:30。定休月曜日。",
     "en": "French bistro in Miyazaki City. Takeout available. Open 18:00～22:30. Cooperative-designated Miyazaki Jitokko store.",
-    "ko": "식당·비스트로. 미야자키시 다치바나도리히가시에 있다. 미야자키 지토코 지정점. 포장 가능. 영업 18:00~22:30. 휴무 월요일."
+    "ko": "미야자키시 다치바나도리 히가시의 식당·비스트로. 미야자키 지도리 지정점. 테이크아웃 가능. 영업 18:00~22:30. 월요일 정기 휴무."
   },
   "tags": null,
   "features": [

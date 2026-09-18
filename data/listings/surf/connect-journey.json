@@ -10,12 +10,12 @@
   "name": {
     "ja": "コネクトジャーニー",
     "en": "CONNECT JOURNEY",
-    "ko": "커넥트 저니"
+    "ko": "커넥트 저니 (CONNECT JOURNEY)"
   },
   "address": {
     "ja": "宮崎県宮崎市田代町59-1 ハピネス田代501",
     "en": "Happiness Tashiro 501, 59-1 Tashiro-cho, Miyazaki-shi, Miyazaki 880-0855",
-    "ko": "미야자키현 미야자키시 田代町59-1 하피네스 다시로501"
+    "ko": "미야자키현 미야자키시 田代町59-1 ハピネス田代501"
   },
   "lat": null,
   "lng": null,
@@ -26,12 +26,12 @@
   "price": {
     "ja": "スクール 7,000円、ガイド・レンタル 3,500円/日",
     "en": "Lesson 7,000 yen; guide and rental 3,500 yen/day",
-    "ko": "스쿨 7,000엔, 가이드·렌탈 3,500엔/1일"
+    "ko": "스쿨 7,000엔, 가이드·렌탈 3,500엔/일"
   },
   "description": {
     "ja": "プロサーファー秋元翔平のブランド。スクール、ガイド、レンタルを扱う。",
     "en": "Brand run by pro surfer Shohei Akimoto. Lessons, guiding, and rentals.",
-    "ko": "프로 서퍼 아키모토 쇼헤이의 브랜드. 스쿨, 가이드, 렌탈을 다룬다."
+    "ko": "프로 서퍼 아키모토 쇼헤이의 브랜드. 스쿨, 가이드, 렌탈을 취급한다."
   },
   "tags": null,
   "features": [

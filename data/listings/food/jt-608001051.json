@@ -8,12 +8,12 @@
   "name": {
     "ja": "株式会社黒木食鳥",
     "en": "Kuroki Shokucho Co.",
-    "ko": "주식회사 구로키 쇼쿠초"
+    "ko": "구로키 식조 주식회사"
   },
   "address": {
     "ja": "宮崎県児湯郡川南町川南11260-1",
     "en": "11260-1 Kawaminami, Kawaminami, Miyazaki",
-    "ko": "미야자키현 고유군 가와미나미초 川南11260-1"
+    "ko": "미야자키현 가와미나미초 川南11260-1"
   },
   "lat": 32.223153,
   "lng": 131.564505,
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00～17:00",
-    "en": "8:00～17:00",
-    "ko": "8:00~17:00"
+    "en": "8:00～17:00"
   },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の指定店。川南町の食鳥処理・直売。精肉・加工品の販売あり。営業8:00～17:00。",
     "en": "Poultry processor and direct sales in Kawaminami on the Miyazaki Jitokko cooperative roster. Meat and prepared products sold. Open 8:00～17:00.",
-    "ko": "미야자키 지토코 지정점. 가와미나미초의 닭 가공·직판. 정육·가공품 판매 있음. 영업 8:00~17:00."
+    "ko": "가와미나미초의 가금 처리·직판. 미야자키 지도리 지정점. 정육·가공품 판매. 영업 8:00~17:00."
   },
   "tags": null,
   "features": [

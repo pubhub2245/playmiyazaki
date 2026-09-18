@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "ブルーベリー狩り 6月〜8月",
-    "en": "Blueberry picking June–August",
-    "ko": "블루베리 따기 6월~8월"
+    "en": "Blueberry picking June–August"
   },
   "price": null,
   "description": {
     "ja": "都城市高城町のブルーベリー狩り農園。30品種を無農薬で栽培。",
     "en": "Blueberry-picking farm in Takajo, Miyakonojo. 30 varieties grown pesticide-free.",
-    "ko": "미야코노조시 다카조초의 블루베리 따기 농원. 30개 품종을 무농약으로 재배."
+    "ko": "미야코노조시 다카조초의 블루베리 따기 농원. 30품종을 무농약으로 재배한다."
   },
   "tags": null,
   "features": [

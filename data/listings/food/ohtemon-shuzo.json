@@ -22,18 +22,17 @@
   "google_maps_url": null,
   "hours": {
     "ja": "水金土 9:00〜15:00 蔵見学は要予約",
-    "en": "Wed/Fri/Sat 9:00–15:00, tour by reservation",
-    "ko": "수·금·토 9:00~15:00, 양조장 견학은 예약 필수"
+    "en": "Wed/Fri/Sat 9:00–15:00, tour by reservation"
   },
   "price": {
     "ja": "蔵見学 500円／人（税込）、ブレンドコース 1,500円／人（税込）。要予約。",
     "en": "Brewery tour ¥500 per person (tax incl.), blending course ¥1,500 per person (tax incl.). Reservation required.",
-    "ko": "양조장 견학 500엔/인 (부가세 포함), 블렌드 코스 1,500엔/인 (부가세 포함). 예약 필수."
+    "ko": "양조장 견학 500엔/인(부가세 포함), 블렌드 코스 1,500엔/인(부가세 포함). 예약 필수."
   },
   "description": {
     "ja": "日南市北郷の焼酎蔵。蔵見学は水金土のみ、要予約。",
     "en": "Shochu brewery in Kitago, Nichinan. Tours Wed/Fri/Sat by reservation.",
-    "ko": "니치난시 기타고의 쇼추 양조장. 양조장 견학은 수·금·토만, 예약 필수."
+    "ko": "니치난시 기타고의 쇼추 양조장. 견학은 수·금·토만 예약제."
   },
   "tags": null,
   "features": [

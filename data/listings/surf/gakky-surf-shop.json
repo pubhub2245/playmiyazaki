@@ -10,7 +10,7 @@
   "name": {
     "ja": "ガッキーサーフショップ",
     "en": "GAKKY SURF SHOP",
-    "ko": "가키 서프숍"
+    "ko": "각키 서프숍 (GAKKY SURF SHOP)"
   },
   "address": {
     "ja": "宮崎県宮崎市大字赤江262",
@@ -26,12 +26,12 @@
   "price": {
     "ja": "スクール 5,500円〜",
     "en": "Lesson from 5,500 yen",
-    "ko": "스쿨 5,500엔〜"
+    "ko": "스쿨 5,500엔~"
   },
   "description": {
     "ja": "宮崎空港から徒歩3分ほどのショップ。空港からの無料送迎あり。",
     "en": "Shop about a 3-minute walk from Miyazaki Airport. Free airport shuttle available.",
-    "ko": "미야자키 공항에서 걸어서 3분 정도의 숍. 공항에서 무료 픽업 있음."
+    "ko": "미야자키 공항에서 도보 약 3분의 숍. 공항 무료 픽업 서비스가 있다."
   },
   "tags": null,
   "features": [

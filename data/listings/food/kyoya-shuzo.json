@@ -8,7 +8,7 @@
   "name": {
     "ja": "京屋酒造",
     "en": "Kyoya Shuzo",
-    "ko": "교야 주조"
+    "ko": "쿄야 주조"
   },
   "address": {
     "ja": "宮崎県日南市平野4299",
@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜16:00 蔵見学は要予約",
-    "en": "9:00–16:00, tour by reservation",
-    "ko": "9:00~16:00, 양조장 견학은 예약 필수"
+    "en": "9:00–16:00, tour by reservation"
   },
   "price": null,
   "description": {
     "ja": "日南市の焼酎蔵。蔵見学は要予約。",
     "en": "Nichinan shochu brewery. Tour by reservation only.",
-    "ko": "니치난시의 쇼추 양조장. 양조장 견학은 예약 필수."
+    "ko": "니치난시의 쇼추 양조장. 양조장 견학은 예약제."
   },
   "tags": null,
   "features": [

@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 1月〜6月",
-    "en": "Strawberry picking January–June",
-    "ko": "딸기 따기 1월~6월"
+    "en": "Strawberry picking January–June"
   },
   "price": null,
   "description": {
     "ja": "宮崎市清武町のいちご狩り農園。量り売りと食べ放題を選べる。",
     "en": "Strawberry farm in Kiyotake, Miyazaki. Choose between weigh-out or all-you-can-pick.",
-    "ko": "미야자키시 기요타케초의 딸기 따기 농원. 무게 판매와 무제한 중에서 고를 수 있다."
+    "ko": "미야자키시 기요타케초의 딸기 따기 농원. 무게 판매와 무제한 방식을 선택할 수 있다."
   },
   "tags": null,
   "features": [

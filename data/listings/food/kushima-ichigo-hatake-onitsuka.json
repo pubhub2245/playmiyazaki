@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "いちご狩り 12月〜5月中旬 量り売り",
-    "en": "Strawberry picking December–mid-May, pay by weight",
-    "ko": "딸기 따기 12월~5월 중순, 무게 판매"
+    "en": "Strawberry picking December–mid-May, pay by weight"
   },
   "price": null,
   "description": {
     "ja": "串間市のいちご畑。完熟きんかん、日向夏、動物ふれあいもある。",
     "en": "Kushima strawberry field. Also serves ripe kinkan, hyuganatsu, and animal petting.",
-    "ko": "구시마시의 딸기밭. 완숙 금귤, 휴가나쓰, 동물 체험도 있다."
+    "ko": "구시마시의 딸기밭. 완숙 킨칸, 휴가나쓰, 동물과의 교감도 즐길 수 있다."
   },
   "tags": null,
   "features": [

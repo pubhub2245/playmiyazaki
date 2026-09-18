@@ -26,12 +26,12 @@
   "price": {
     "ja": "スクール 6,500〜8,000円／2時間（レンタル込）、ボードレンタル 3,000円／日、ウェットスーツ 2,000円／日",
     "en": "Lesson 6,500–8,000 yen for 2 hours (rentals included); board rental 3,000 yen/day; wetsuit 2,000 yen/day",
-    "ko": "스쿨 6,500〜8,000엔／2시간(렌탈 포함), 보드 렌탈 3,000엔／1일, 웨트슈트 2,000엔／1일"
+    "ko": "스쿨 6,500~8,000엔/2시간(렌탈 포함), 보드 렌탈 3,000엔/일, 웻수트 2,000엔/일"
   },
   "description": {
     "ja": "都城市内のショップ。ボード、ボディボード、ウェットスーツを扱い、カスタムボード製造（ヒロタサーフボードラボ）も行う。",
     "en": "Shop in Miyakonojo. Handles boards, bodyboards, and wetsuits, and manufactures custom boards (Hirota Surfboards Lab).",
-    "ko": "미야코노조시의 숍. 보드, 보디보드, 웨트슈트를 다루고 커스텀 보드 제작(히로타 서프보드 랩)도 한다."
+    "ko": "미야코노조시의 숍. 보드, 보디보드, 웻수트를 취급하고 커스텀 보드도 제작한다(히로타 서프보드 랩)."
   },
   "tags": null,
   "features": [

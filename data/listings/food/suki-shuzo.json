@@ -22,14 +22,13 @@
   "google_maps_url": null,
   "hours": {
     "ja": "9:00〜16:00 蔵見学は要予約",
-    "en": "9:00–16:00, tour by reservation",
-    "ko": "9:00~16:00, 양조장 견학은 예약 필수"
+    "en": "9:00–16:00, tour by reservation"
   },
   "price": null,
   "description": {
     "ja": "小林市須木の焼酎蔵。蔵見学は要予約、店頭販売あり。",
     "en": "Shochu brewery in Sugi, Kobayashi. Tour by reservation. Direct sales on site.",
-    "ko": "고바야시시 스기의 쇼추 양조장. 양조장 견학은 예약 필수, 매장 판매 있음."
+    "ko": "고바야시시 스기의 쇼추 양조장. 양조장 견학은 예약제. 매장 판매 있음."
   },
   "tags": null,
   "features": [
