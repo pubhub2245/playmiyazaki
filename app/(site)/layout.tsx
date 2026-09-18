@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Zen_Kaku_Gothic_New, IBM_Plex_Mono } from "next/font/google";
 import "../globals.css";
 import { HOME_TITLE, SITE_TAGLINE, SITE_URL } from "@/lib/i18n";
+import VisitBeacon from "@/app/_components/VisitBeacon";
 
 const display = Zen_Kaku_Gothic_New({
   weight: ["400", "700"],
@@ -37,6 +38,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <div className="pm-canvas-bg" aria-hidden />
         <div className="pm-page">{children}</div>
+        {/* 訪問を数えるだけの合図。画面には何も出ない */}
+        <VisitBeacon />
       </body>
     </html>
   );
