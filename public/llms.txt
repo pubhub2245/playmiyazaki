@@ -1,0 +1,69 @@
+# Play Miyazaki
+
+宮崎で遊ぶための一覧サイト。サーフィン・キャンプ／車中泊・食・ゴルフ・自然の5ジャンルについて、宮崎県内のお店・施設・スポットを出典URL付きで載せている。日本語・英語・韓国語。
+Directory for playing in Miyazaki, Japan. Surfing, camping/van life, food, golf, and nature. Every listing has a source URL. Japanese, English, and Korean.
+
+Site: https://playmiyazaki.com
+
+## ジャンル一覧 / Genre index (Japanese)
+
+- サーフィン: https://playmiyazaki.com/ja/surf
+- キャンプ・車中泊: https://playmiyazaki.com/ja/camp
+- 食: https://playmiyazaki.com/ja/food
+- ゴルフ: https://playmiyazaki.com/ja/golf
+- 自然: https://playmiyazaki.com/ja/nature
+- エリア別（市町村横断）: https://playmiyazaki.com/ja/area
+
+## Genre index (English)
+
+- Surfing: https://playmiyazaki.com/en/surf
+- Camping & Van Life: https://playmiyazaki.com/en/camp
+- Food: https://playmiyazaki.com/en/food
+- Golf: https://playmiyazaki.com/en/golf
+- Nature: https://playmiyazaki.com/en/nature
+- By area: https://playmiyazaki.com/en/area
+
+## 장르 목록 / Genre index (Korean)
+
+- 서핑: https://playmiyazaki.com/ko/surf
+- 캠핑 · 차박: https://playmiyazaki.com/ko/camp
+- 음식: https://playmiyazaki.com/ko/food
+- 골프: https://playmiyazaki.com/ko/golf
+- 자연: https://playmiyazaki.com/ko/nature
+- 지역별: https://playmiyazaki.com/ko/area
+
+## 条件ページ / Filtered feature pages
+
+各ジャンルの特徴（例：初心者向け・海が近い・電源サイトあり）ごとに、該当が3件以上あるときだけ独立したページを生成している。URL は `/[lang]/[genre]/f/[feature]`。
+For each genre, feature-filtered pages (e.g. beginner-friendly, near the sea, power sites) are generated only when at least three listings match. URL pattern: `/[lang]/[genre]/f/[feature]`.
+
+## 方針 / Editorial policy
+
+- 出典URLが無い情報は載せない。営業時間・料金・定休日を推測で書かない。
+- 評価語（絶景・最高・おすすめ・厳選など）は使わない。事実だけを短く書く。
+- 写真・画像は使わない。地図は Google マップへのリンクのみ（埋め込みはしない）。
+- 口コミ・レビュー・予約フォームは無い。予約は各店の公式サイト側で行う想定。
+- ランキング・人気順は付けない（実データが無いのに「人気」と書くのは創作にあたる）。
+- Every listing must cite a source URL. No fabricated hours, prices, or holidays.
+- No adjectives of praise ("best", "amazing", "must-see"). Short factual sentences only.
+- No photos or generated images. Maps are outbound links to Google Maps.
+- No reviews, ratings, or booking forms.
+
+## 掲載申請 / Listing submission
+
+掲載は無料。公式サイトなど出典になるページのURLを添えて、下記メールに送ってください。
+Listings are free. Send the URL of an official page (or another verifiable source) to the email below.
+
+Email: playmiyazaki@gmail.com
+- 日本語窓口: https://playmiyazaki.com/ja/submit
+- English: https://playmiyazaki.com/en/submit
+- 한국어: https://playmiyazaki.com/ko/submit
+
+## 掲載バッジ / Listing badge
+
+各 listing ページの最下部に、そのページへリンクを張るための SVG バッジ（ja/en/ko）を置いている。詳細は各 listing ページを参照。
+Each listing page provides an SVG badge (Japanese, English, Korean) that links back to that listing. See the listing page for the copy-paste snippet.
+
+## Sitemap
+
+- https://playmiyazaki.com/sitemap.xml

@@ -37,6 +37,17 @@ const PRICE_NOTE = {
 };
 const FEATURES_LABEL = { ja: "特徴", en: "Features", ko: "특징" };
 const VERIFIED_LABEL = { ja: "確認済み", en: "Verified", ko: "확인 완료" };
+const BADGE_HEADING = {
+  ja: "このページのバッジを貼る",
+  en: "Add a badge to your site",
+  ko: "배지 달기",
+};
+const BADGE_NOTE = {
+  ja: "自分のサイトに貼ると、このページへのリンクになります。無料です。",
+  en: "Paste this on your site to link back to this page. Free.",
+  ko: "사이트에 붙이면 이 페이지로 링크됩니다. 무료입니다.",
+};
+const BADGE_ALT = "Listed on Play Miyazaki";
 
 // Link out to the cross-genre area page so every listing is a way into
 // "everything in this town", not just "more of the same genre".
@@ -308,6 +319,20 @@ export default function ListingDetail({ params }: Props) {
           )}
         </section>
       )}
+
+      <section className="space-y-3 border-t border-line pt-6">
+        <h2 className="pm-subhead">
+          <span>{BADGE_HEADING[lang]}</span>
+        </h2>
+        <img
+          src={`/badge-${lang}.svg`}
+          alt={BADGE_ALT}
+          width={180}
+          height={36}
+        />
+        <pre className="pm-mono text-[12px] text-text-primary bg-panel/60 border border-line rounded p-3 overflow-x-auto whitespace-pre-wrap break-all">{`<a href="${absolute(urlListing(lang, listing.genre, listing.slug))}"><img src="${absolute(`/badge-${lang}.svg`)}" alt="${BADGE_ALT}" width="180" height="36"></a>`}</pre>
+        <p className="pm-mono text-[13px] text-text-secondary">{BADGE_NOTE[lang]}</p>
+      </section>
     </article>
   );
 }
