@@ -1,0 +1,31 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作（外部サービスのアカウント登録・有料契約を含む）
+(3) listing JSON・taxonomy の変更。実在の店名・人名を新たに載せること。事業者への連絡。docs/design.md に無い色・部品を使うこと。
+
+【前提】
+CLAUDE.md、docs/design.md を最初に読むこと。/ja /en /ko の3言語すべてに同じ変更を入れる（i18n の T オブジェクト方式に合わせる）。
+
+【目的】
+海外の先行ディレクトリ（OpenAlternative・Hipcamp・The Dyrt）が検索流入を伸ばした共通の手のうち、事業者に連絡せずに被リンクが増える仕組み「掲載バッジ」と、掲載申請の受付先を入れる。あわせて AI 検索向けの llms.txt を置く。
+
+【やること】STEP 21：掲載申請の窓口／掲載バッジ／llms.txt
+1. 掲載申請 /[lang]/submit：「受付窓口は準備中」を、メール受付に置き換える。
+   - 受付先：playmiyazaki@gmail.com（mailto リンク。件名は ja「掲載申請」、en「Listing submission」、ko「게재 신청」を事前入力）
+   - 本文の指示は現行どおり「出典URLを添えて」。ページに書く連絡先はこのメールアドレスだけ。フォームは作らない（CLAUDE.md の永久禁止）。
+2. 掲載バッジ：
+   - `public/badge-ja.svg` `public/badge-en.svg` `public/badge-ko.svg` を作る。横 180×高さ 36 程度、地は --canvas、枠線は --line-strong、文字は --text-primary、左端に --sea の縦線。文言は ja「Play Miyazaki 掲載」、en「Listed on Play Miyazaki」、ko「Play Miyazaki 등재」。フォントは SVG 内で system-ui 指定（外部フォントを読み込まない）。
+   - 各 listing 詳細ページ（app/(site)/[lang]/[genre]/[slug]/page.tsx）の最下部、関連リンクより下に「事実の行」と同じ罫線スタイルで1ブロックを追加：見出し ja「このページのバッジを貼る」en「Add a badge to your site」ko「배지 달기」。中身は (a) バッジ画像のプレビュー、(b) コピー用のHTML1行を `<pre>` で表示：
+     `<a href="https://playmiyazaki.com/<lang>/<genre>/<slug>"><img src="https://playmiyazaki.com/badge-<lang>.svg" alt="Listed on Play Miyazaki" width="180" height="36"></a>`
+     (c) 1行の説明 ja「自分のサイトに貼ると、このページへのリンクになります。無料です。」en「Paste this on your site to link back to this page. Free.」ko「사이트에 붙이면 이 페이지로 링크됩니다. 무료입니다.」
+   - ★ボタンは追加しない（詳細ページのボタンは1つだけ、の design.md ルール）。コピー機能も JS で作らない。`<pre>` の文字列を選択してコピーしてもらう。
+   - ★色・余白・フォントは docs/design.md のトークンだけを使う。新しい部品を発明しない。
+3. `public/llms.txt` を作る。内容：サイト名と1行説明（ja/en）、4ジャンルの一覧ページURL（/ja と /en）、条件ページの説明、「出典URL付き・評価語なし・写真なし」の方針、掲載申請先（playmiyazaki@gmail.com）。150行以内。
+4. `app/robots.ts` に llms.txt を妨げる設定が無いことを確認（Disallow していないこと）。
+5. docs/要件.md の「やらないこと／決めたこと」に追記：「掲載申請の受付は playmiyazaki@gmail.com（2026-09-18）」「掲載バッジ（被リンク用）を各 listing ページに置く。事業者への案内メールは送らない」。
+6. `npm run build` → 通ったらコミット「Add submit contact, listing badges and llms.txt」→ push origin main。
+
+【禁止】listing JSON の変更、フォーム、JS のコピー機能、新しい色・部品、メール送信の実装、外部サービスの登録。
+RESULT 行：submit の連絡先 YES|NO／バッジ3言語 YES|NO／listing ページに追加 YES|NO／llms.txt YES|NO／ビルド YES|NO／push YES|NO／コミットハッシュ
+END OF PROMPT
