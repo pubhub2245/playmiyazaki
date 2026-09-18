@@ -1,0 +1,46 @@
+{
+  "slug": "kamoshika-no-mori",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hinokage",
+  "name": {
+    "ja": "かもしかの森",
+    "en": "Kamoshika no Mori",
+    "ko": "가모시카노모리"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡日之影町見立2234-2",
+    "en": "2234-2 Mitate, Hinokage-cho, Nishiusuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 히노카게초 미타테 2234-2"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-89-1220",
+  "website": "http://www.town.hinokage.lg.jp/docs/2016022500198/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "リフレッシュケビン 11,000円／棟（5名まで、1名追加 1,100円）。多目的ホール 2,000円、和室 3,500円／人。",
+    "en": "Refresh cabin 11,000 yen per unit (up to 5 guests, +1,100 yen per extra person). Multi-purpose hall 2,000 yen, Japanese room 3,500 yen per person.",
+    "ko": "리프레시 케빈 11,000엔 / 동 (5명까지, 1인 추가 1,100엔). 다목적 홀 2,000엔, 일식실 3,500엔 / 인."
+  },
+  "description": {
+    "ja": "日之影町見立にあるケビンと研修施設。谷川沿いで通年営業。",
+    "en": "Cabins and training lodging along a mountain stream in Mitate, Hinokage; open year-round.",
+    "ko": "히노카게초 미타테의 케빈과 연수 시설. 계곡가에서 연중 영업."
+  },
+  "tags": null,
+  "features": [
+    "mountain",
+    "river",
+    "cottage"
+  ],
+  "sources": [
+    "https://himuka-tour.jp/2020/02/20/kamosikanomori/",
+    "http://www.town.hinokage.lg.jp/docs/2016022500198/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

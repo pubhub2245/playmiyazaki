@@ -1,0 +1,44 @@
+{
+  "slug": "kirishima-golf-center",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "きりしまゴルフセンター",
+    "en": "Kirishima Golf Center",
+    "ko": "기리시마 골프 센터"
+  },
+  "address": {
+    "ja": "宮崎県小林市野尻町三ケ野山3237",
+    "en": "3237 Sangenoyama, Nojiri-cho, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 野尻町 三ケ野山 3237"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-44-0137",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "8:00〜21:00",
+    "en": "8:00–21:00.",
+    "ko": "8:00~21:00"
+  },
+  "price": null,
+  "description": {
+    "ja": "小林市野尻町の練習場。ナイター営業（21:00まで）、レンタルクラブあり。バンカー・アプローチ・パター練習場、レフティー打席あり。",
+    "en": "Range in Nojiri, Kobayashi. Night play until 21:00, club rental, bunker, approach and putting areas, left-handed bays.",
+    "ko": "고바야시시 노지리초의 연습장. 야간 영업(21:00까지), 클럽 렌탈, 벙커·어프로치·퍼팅 연습장, 왼손 타석 있음."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1404"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

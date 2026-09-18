@@ -1,0 +1,45 @@
+{
+  "slug": "seiryuso-nobeoka",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "自然休養村センター 清流荘",
+    "en": "Shizen Kyuyoson Center Seiryuso",
+    "ko": "자연 휴양촌 센터 세이류소"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北浦町三川内5681",
+    "en": "5681 Migawachi, Kitaura-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 기타우라초 미가와치 5681"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-42-1210",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "大集会室 880円／人・泊。休憩室 2,090円／人・泊。バンガロー大（10名以上）880円／人・泊。バンガロー小 3,300円／棟・泊。",
+    "en": "Large meeting room 880 yen/person/night. Rest room 2,090 yen/person/night. Large bungalow (10+ guests) 880 yen/person/night. Small bungalow 3,300 yen/unit/night.",
+    "ko": "대집회실 880엔/인·박. 휴게실 2,090엔/인·박. 대형 방갈로 (10명 이상) 880엔/인·박. 소형 방갈로 3,300엔/동·박."
+  },
+  "description": {
+    "ja": "三川内川沿いの研修・宿泊施設。バンガロー、野営場、BBQ炉あり。月曜定休。",
+    "en": "Training and lodging facility on the Migawachi River with bungalows, tent field, and BBQ stoves; closed Mondays.",
+    "ko": "미가와치강 옆의 연수·숙박 시설. 방갈로, 야영장, BBQ 화로 있음. 월요일 휴무."
+  },
+  "tags": null,
+  "features": [
+    "river",
+    "cottage",
+    "shower"
+  ],
+  "sources": [
+    "https://himuka-tour.jp/2020/02/12/%e8%87%aa%e7%84%b6%e4%bc%91%e9%a4%8a%e6%9d%91%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e3%80%80%e6%b8%85%e6%b5%81%e8%8d%98%ef%bc%88%e5%bb%b6%e5%b2%a1%e5%b8%82%ef%bc%89/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

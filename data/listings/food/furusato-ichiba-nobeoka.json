@@ -1,0 +1,44 @@
+{
+  "slug": "furusato-ichiba-nobeoka",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "ふるさと市場",
+    "en": "Furusato Ichiba (Nobeoka)",
+    "ko": "후루사토 이치바 (노베오카)"
+  },
+  "address": {
+    "ja": "宮崎県延岡市恒富町4丁目27",
+    "en": "4-27 Tsunetomi-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 恒富町4丁目27"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-28-0080",
+  "website": "https://nobeoka.ja-miyazaki.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:30〜18:00 1月1〜4日休",
+    "en": "9:30–18:00, closed Jan 1–4",
+    "ko": "9:30~18:00 1월 1~4일 휴무"
+  },
+  "price": null,
+  "description": {
+    "ja": "延岡市恒富町のJA直売所。野菜・鮮魚・精肉・加工品を扱う。駐車場40台。",
+    "en": "JA farmers market in Nobeoka. Vegetables, fresh fish, meat, and prepared foods. 40 parking spaces.",
+    "ko": "노베오카시 쓰네토미의 JA 직매장. 채소·선어·정육·가공품 취급. 주차 40대."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales",
+    "parking"
+  ],
+  "sources": [
+    "https://life.ja-group.jp/farm/market/detail?id=798"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

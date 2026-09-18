@@ -1,0 +1,46 @@
+{
+  "slug": "toiglam-solasita",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "TOIGLAM SOLASITA（トイグラン ソラシタ）",
+    "en": "TOIGLAM SOLASITA",
+    "ko": "TOIGLAM SOLASITA (토이글램 소라시타)"
+  },
+  "address": {
+    "ja": "宮崎県串間市大納42-3",
+    "en": "42-3 Ohno, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 오노 42-3"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://toiglam-solasita.jp/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "チェックイン 15:00〜19:00／チェックアウト 10:00。",
+    "en": "Check-in 15:00–19:00, check-out 10:00.",
+    "ko": "체크인 15:00~19:00, 체크아웃 10:00."
+  },
+  "price": null,
+  "description": {
+    "ja": "都井岬にある2023年開業のドームテント9棟のグランピング施設。各テントに浴室・トイレ完備。",
+    "en": "Glamping site at Cape Toi with nine dome tents (opened 2023); each tent has private bath and toilet.",
+    "ko": "도이곶에 위치한 2023년 개업 돔 텐트 9동 글램핑 시설. 각 텐트에 욕실·화장실 완비."
+  },
+  "tags": null,
+  "features": [
+    "sea",
+    "glamping",
+    "reservation-online"
+  ],
+  "sources": [
+    "https://toiglam-solasita.jp/",
+    "https://kushima-city.jp/tourism/?category=stay"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

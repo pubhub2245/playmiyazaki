@@ -1,0 +1,44 @@
+{
+  "slug": "hotaru-no-yado",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "ホタルの宿",
+    "en": "Hotaru no Yado",
+    "ko": "호타루노야도"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北川町川内名7330",
+    "en": "7330 Kawachimyo, Kitagawa-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 기타가와초 가와치묘 7330"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-24-6022",
+  "website": "http://kitagawa-hayuma.jp/hotaru.html",
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "洋室 大人 5,500円・小学生 4,400円。和室 大人 4,400円・小学生 3,300円。大部屋 大人 1,100円・小学生 550円（1泊）。",
+    "en": "Western room 5,500 yen adult / 4,400 yen child. Japanese room 4,400 yen / 3,300 yen. Large room 1,100 yen / 550 yen (per night).",
+    "ko": "양실 성인 5,500엔·초등 4,400엔. 일식실 성인 4,400엔·초등 3,300엔. 대실 성인 1,100엔·초등 550엔 (1박)."
+  },
+  "description": {
+    "ja": "北川総合運動公園内、清流北川のほとりの宿泊施設。道の駅北川はゆまから車で約10分。",
+    "en": "Lodging in Kitagawa Sports Park by the clear Kitagawa River; about 10 minutes by car from Michi-no-Eki Kitagawa Hayuma.",
+    "ko": "기타가와 종합운동공원 내, 맑은 기타가와 강가의 숙박 시설. 미치노에키 기타가와 하유마에서 차로 약 10분."
+  },
+  "tags": null,
+  "features": [
+    "river"
+  ],
+  "sources": [
+    "https://himuka-tour.jp/2020/02/20/hotarunoyado/",
+    "http://kitagawa-hayuma.jp/hotaru.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

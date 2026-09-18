@@ -1,0 +1,41 @@
+{
+  "slug": "hyuga-surf-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "日向サーフキャンプ",
+    "en": "Hyuga Surf Camp",
+    "ko": "휴가 서프 캠프"
+  },
+  "address": {
+    "ja": "宮崎県日向市美々津町4815-1",
+    "en": "4815-1 Mimitsu-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 미미쓰초 4815-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": null,
+  "website": "https://hyugasurf.camp/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "美々津にある一棟貸しのゲストハウス。18棟でそれぞれ設計が異なる。金ヶ浜・お倉ヶ浜まで車で約5分。",
+    "en": "Whole-house guest lodging in Mimitsu with 18 uniquely designed buildings; about 5 minutes by car from Kanegahama and Okuragahama beaches.",
+    "ko": "미미쓰에 위치한 1동 대여형 게스트하우스. 18동으로 각기 다른 설계. 가네가하마·오쿠라가하마까지 차로 약 5분."
+  },
+  "tags": null,
+  "features": [
+    "sea",
+    "cottage"
+  ],
+  "sources": [
+    "https://hyugasurf.camp/",
+    "https://himuka-tour.jp/2021/12/24/%e6%97%a5%e5%90%91%e3%82%b5%e3%83%bc%e3%83%95%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

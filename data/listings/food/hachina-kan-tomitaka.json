@@ -1,0 +1,45 @@
+{
+  "slug": "hachina-kan-tomitaka",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "八菜館 ひゅうが店",
+    "en": "Hachina-kan (Hyuga Store)",
+    "ko": "하치나칸 휴가점"
+  },
+  "address": {
+    "ja": "宮崎県日向市大字富高299-1",
+    "en": "299-1 Tomitaka, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 大字富高299-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-56-0831",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜19:00 1月1日休",
+    "en": "9:00–19:00, closed Jan 1",
+    "ko": "9:00~19:00 1월 1일 휴무"
+  },
+  "price": null,
+  "description": {
+    "ja": "日向市富高のJAみやざき日向地区の直売所。野菜・果物・花・鮮魚・精肉・加工品・弁当を扱う。駐車場80台。",
+    "en": "JA farmers market in Hyuga's Tomitaka area. Sells vegetables, fruit, flowers, fresh fish, meat, prepared foods, and boxed lunches. 80 parking spaces.",
+    "ko": "휴가시 도미타카의 JA 직매장. 채소·과일·꽃·선어·정육·가공품·도시락 취급. 주차 80대."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales",
+    "parking",
+    "takeout"
+  ],
+  "sources": [
+    "https://life.ja-group.jp/farm/market/detail?id=667"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

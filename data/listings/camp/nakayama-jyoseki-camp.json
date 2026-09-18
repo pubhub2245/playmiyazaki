@@ -1,0 +1,44 @@
+{
+  "slug": "nakayama-jyoseki-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "仲山城跡キャンプ場",
+    "en": "Nakayama Castle Ruins Campsite",
+    "ko": "나카야마 성터 캠프장"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町向山440-1",
+    "en": "440-1 Mukoyama, Takachiho-cho, Nishiusuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 무코야마 440-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "090-3070-2274",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "施設利用 高校生以上 800円・小中学生 600円・4歳以上 400円（1泊）。テントサイト 1,000円／張。バンガロー 5,000〜8,000円／棟。",
+    "en": "Facility use per night: 800 yen (high school+), 600 yen (elementary/junior high), 400 yen (age 4+). Tent site 1,000 yen. Bungalow 5,000–8,000 yen per unit.",
+    "ko": "시설 이용 (1박) 고교생 이상 800엔, 초·중학생 600엔, 4세 이상 400엔. 텐트 사이트 1,000엔 / 장. 방갈로 5,000~8,000엔 / 동."
+  },
+  "description": {
+    "ja": "高千穂の町を見下ろす芝生のテントサイトとバンガロー。通年営業。",
+    "en": "Grass tent sites and bungalows overlooking the town of Takachiho; open year-round.",
+    "ko": "다카치호 시가지가 내려다보이는 잔디 텐트 사이트와 방갈로. 연중 영업."
+  },
+  "tags": null,
+  "features": [
+    "mountain",
+    "cottage"
+  ],
+  "sources": [
+    "https://himuka-tour.jp/2020/02/20/%e4%bb%b2%e5%b1%b1%e5%9f%8e%e8%b7%a1%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e5%a0%b4/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

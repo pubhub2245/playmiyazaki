@@ -1,0 +1,48 @@
+{
+  "slug": "my-golf-lane-miyazaki-tachibana",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "MY GOLF LANE 宮崎橘通店",
+    "en": "MY GOLF LANE Miyazaki Tachibana-dori",
+    "ko": "MY GOLF LANE 미야자키 다치바나도리점"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市橘通西3丁目3-27 みやざきアートセンター2F",
+    "en": "3-3-27 Tachibana-dori Nishi, Miyazaki-shi, Miyazaki (Miyazaki Art Center 2F)",
+    "ko": "미야자키현 미야자키시 다치바나도리니시 3초메 3-27 미야자키 아트센터 2F"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0120-150-562",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "24時間営業。定休日なし",
+    "en": "Open 24 hours, no closed days.",
+    "ko": "24시간 영업. 정기 휴무 없음"
+  },
+  "price": {
+    "ja": "入会金 15,000円（入会金10,000円＋登録料5,000円）、月会費 6,980円〜。",
+    "en": "Initiation 15,000 yen (10,000 yen initiation + 5,000 yen registration), monthly fee from 6,980 yen.",
+    "ko": "입회금 15,000엔(입회금 10,000엔＋등록료 5,000엔), 월 회비 6,980엔~."
+  },
+  "description": {
+    "ja": "宮崎市橘通西のみやざきアートセンター2階の24時間営業インドア練習場。3打席、個室・弾道測定器・バーチャルラウンドあり。クラブレンタル無料。",
+    "en": "24-hour indoor range on the second floor of Miyazaki Art Center on Tachibana-dori. Three bays, launch monitor and virtual rounds. Free club rental.",
+    "ko": "미야자키시 다치바나도리니시의 미야자키 아트센터 2층에 있는 24시간 영업 인도어 연습장. 3타석, 개별룸·탄도 측정기·버추얼 라운드. 클럽 렌탈 무료."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/3203"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
