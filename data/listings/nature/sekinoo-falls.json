@@ -1,0 +1,37 @@
+{
+  "slug": "sekinoo-falls",
+  "genre": "nature",
+  "category": [
+    "waterfall"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "関之尾滝",
+    "en": "Sekinoo Falls",
+    "ko": "세키노오 폭포"
+  },
+  "address": {
+    "ja": "宮崎県都城市関之尾町",
+    "en": "Sekinoo-cho, Miyakonojo, Miyazaki 885-0113",
+    "ko": "미야자키현 미야코노조시 세키노오초"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-38-2460",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "都城市関之尾町にある滝。",
+    "en": "A waterfall in Sekinoo, Miyakonojo.",
+    "ko": "미야코노조시 세키노오초에 있는 폭포."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1008"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

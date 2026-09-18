@@ -1,0 +1,45 @@
+{
+  "slug": "toi-misaki-lighthouse",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "都井岬灯台",
+    "en": "Toi Misaki Lighthouse",
+    "ko": "도이미사키 등대"
+  },
+  "address": {
+    "ja": "宮崎県串間市大納80-2",
+    "en": "80-2 Ono, Kushima, Miyazaki 888-0221",
+    "ko": "미야자키현 구시마시 오노 80-2"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-76-1838",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "【午前】通年 9:00〜12:00 【午後】3月〜10月 平日 13:00〜17:00・土日祝 13:00〜16:30／11月〜2月 13:00〜16:30",
+    "en": "Morning: year-round 9:00-12:00. Afternoon: Mar-Oct weekdays 13:00-17:00, weekends and holidays 13:00-16:30 / Nov-Feb 13:00-16:30",
+    "ko": "[오전] 연중 9:00~12:00 [오후] 3월~10월 평일 13:00~17:00 · 주말 공휴일 13:00~16:30 / 11월~2월 13:00~16:30"
+  },
+  "price": {
+    "ja": "参観寄付金 300円（中学生以上）。",
+    "en": "Admission 300 yen (junior high school age and over).",
+    "ko": "참관 기부금 300엔 (중학생 이상)."
+  },
+  "description": {
+    "ja": "串間市の都井岬にある灯台。参観できる。",
+    "en": "A lighthouse on Cape Toi in Kushima, open to visitors.",
+    "ko": "구시마시 도이곶에 있는 등대. 참관할 수 있다."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2023"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

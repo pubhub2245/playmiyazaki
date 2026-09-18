@@ -38,6 +38,13 @@ export function GenreIcon({ genre, className }: { genre: string; className?: str
           <path d="M10 4 L 22 8 L 10 12" />
         </svg>
       );
+    case "nature":
+      return (
+        <svg xmlns="http://www.w3.org/2000/svg" {...common} className={className} aria-hidden>
+          <path d="M2 26 L 12 10 L 22 26 Z" />
+          <path d="M16 26 L 24 13 L 30 26 Z" />
+        </svg>
+      );
     default:
       return null;
   }

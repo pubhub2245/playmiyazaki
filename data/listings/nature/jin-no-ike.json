@@ -1,0 +1,37 @@
+{
+  "slug": "jin-no-ike",
+  "genre": "nature",
+  "category": [
+    "lake"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "陣の池",
+    "en": "Jin no Ike Pond",
+    "ko": "진노이케 연못"
+  },
+  "address": {
+    "ja": "宮崎県えびの市末永2439-3",
+    "en": "2439-3 Suenaga, Ebino, Miyazaki 889-4302",
+    "ko": "미야자키현 에비노시 스에나가 2439-3"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-37-2663",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "えびの市にある池。",
+    "en": "A pond in Ebino.",
+    "ko": "에비노시에 있는 연못."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1006"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "hokedake-park",
+  "genre": "nature",
+  "category": [
+    "park"
+  ],
+  "area": "kunitomi",
+  "name": {
+    "ja": "法華嶽公園",
+    "en": "Hokedake Park",
+    "ko": "호케다케 공원"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡国富町深年4106-18",
+    "en": "4106-18 Fukatoshi, Kunitomi-cho, Higashimorokata-gun, Miyazaki 880-1224",
+    "ko": "미야자키현 히가시모로카타군 구니토미초 후카토시 4106-18"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-78-1943",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜17:00 ※7・8月のじゃぶんこ広場は 10:00〜16:00",
+    "en": "9:00-17:00. The Jabunko water play area is 10:00-16:00 in July and August.",
+    "ko": "9:00~17:00 ※7 · 8월의 자분코 광장은 10:00~16:00"
+  },
+  "price": {
+    "ja": "入場無料（園内に有料の遊具・施設あり）。",
+    "en": "Free entry. Some facilities and rides inside the park charge a fee.",
+    "ko": "입장 무료 (원내에 유료 놀이기구 · 시설 있음)."
+  },
+  "description": {
+    "ja": "国富町にある町営の公園。",
+    "en": "A town-run park in Kunitomi.",
+    "ko": "구니토미초에 있는 정영 공원."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1118"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

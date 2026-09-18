@@ -1,0 +1,41 @@
+{
+  "slug": "takachiho-gorge",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "高千穂峡",
+    "en": "Takachiho Gorge",
+    "ko": "다카치호 협곡"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町三田井御塩井",
+    "en": "Mitai Mishioi, Takachiho-cho, Nishiusuki-gun, Miyazaki 882-1101",
+    "ko": "미야자키현 니시우스키군 다카치호초 미타이 미시오이"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-73-1213",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "無料。",
+    "en": "Free.",
+    "ko": "무료."
+  },
+  "description": {
+    "ja": "高千穂町にある渓谷。入場無料。",
+    "en": "A gorge in Takachiho. Free to enter.",
+    "ko": "다카치호초에 있는 협곡. 입장 무료."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1001"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

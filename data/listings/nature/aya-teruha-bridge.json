@@ -1,0 +1,45 @@
+{
+  "slug": "aya-teruha-bridge",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "aya",
+  "name": {
+    "ja": "綾の照葉大吊橋",
+    "en": "Aya Teruha Suspension Bridge",
+    "ko": "아야 데루하 대현수교"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡綾町南俣5691-1",
+    "en": "5691-1 Minamimata, Aya-cho, Higashimorokata-gun, Miyazaki 880-1303",
+    "ko": "미야자키현 히가시모로카타군 아야초 미나미마타 5691-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-77-2055",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜17:00",
+    "en": "9:00-17:00",
+    "ko": "9:00~17:00"
+  },
+  "price": {
+    "ja": "大人・高校生 500円、小中学生 350円、小学生未満 無料。",
+    "en": "Adults and high school students 500 yen, elementary and junior high students 350 yen, under school age free.",
+    "ko": "어른 · 고등학생 500엔, 초중학생 350엔, 초등학생 미만 무료."
+  },
+  "description": {
+    "ja": "綾町の照葉樹林に架かる吊橋。",
+    "en": "A suspension bridge over the evergreen broadleaf forest in Aya.",
+    "ko": "아야초의 조엽수림에 걸린 현수교."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1004"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
