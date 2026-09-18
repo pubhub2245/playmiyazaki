@@ -1,0 +1,44 @@
+{
+  "slug": "atom-nanbu-miyakonojo",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "直売所 ATOM 南部店",
+    "en": "Chokubaijo ATOM (South Store)",
+    "ko": "직매장 ATOM 남부점"
+  },
+  "address": {
+    "ja": "宮崎県都城市早鈴町2111",
+    "en": "2111 Hayasuzu-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 早鈴町2111"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-51-4129",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "9:00〜19:00 月1回定休（8月・12月を除く）",
+    "en": "9:00–19:00, closed once a month (except Aug and Dec)",
+    "ko": "9:00~19:00 월 1회 휴무 (8월·12월 제외)"
+  },
+  "price": null,
+  "description": {
+    "ja": "都城市早鈴町のJAみやざき都城地区の直売所。野菜と精肉、加工品を扱う。駐車場60台。",
+    "en": "JA farmers market in Miyakonojo's Hayasuzu area. Vegetables, meat and prepared products. 60 parking spaces.",
+    "ko": "미야코노조시 하야스즈초의 JA 직매장. 채소·정육·가공품 취급. 주차 60대."
+  },
+  "tags": null,
+  "features": [
+    "meat-sales",
+    "parking"
+  ],
+  "sources": [
+    "https://life.ja-group.jp/farm/market/detail?id=1591"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
