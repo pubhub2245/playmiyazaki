@@ -1,0 +1,45 @@
+{
+  "slug": "kamenoko-golf-practice",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "kunitomi",
+  "name": {
+    "ja": "亀の甲ゴルフ練習場",
+    "en": "Kamenoko Golf Practice Range",
+    "ko": "가메노코 골프 연습장"
+  },
+  "address": {
+    "ja": "宮崎県東諸県郡国富町大字三名3171-20",
+    "en": "3171-20 Mina, Kunitomi-cho, Higashi-Morokata-gun, Miyazaki",
+    "ko": "미야자키현 히가시모로카타군 구니토미초 三名 3171-20"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-75-3431",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 8:00〜16:00、土日祝 7:30〜16:00",
+    "en": "Weekdays 8:00–16:00, weekends and holidays 7:30–16:00.",
+    "ko": "평일 8:00~16:00, 주말·공휴일 7:30~16:00"
+  },
+  "price": {
+    "ja": "打席料 無料、1階 5円／球、照明代 無料。",
+    "en": "Bay use free, 5 yen per ball on the ground floor, floodlights free.",
+    "ko": "타석 요금 무료, 1층 5엔 / 볼, 조명료 무료."
+  },
+  "description": {
+    "ja": "国富町三名の練習場。バンカー・アプローチ・パター練習場あり、レフティー打席あり。",
+    "en": "Range in Mina, Kunitomi. Bunker, approach and putting areas, left-handed bays.",
+    "ko": "구니토미초 미나의 연습장. 벙커·어프로치·퍼팅 연습장 있음, 왼손 타석 있음."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1400"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

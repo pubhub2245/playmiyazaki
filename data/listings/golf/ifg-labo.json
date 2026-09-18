@@ -1,0 +1,49 @@
+{
+  "slug": "ifg-labo",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "IFG LABO",
+    "en": "IFG LABO",
+    "ko": "IFG LABO"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市下北方町井手下南22-1",
+    "en": "22-1 Idegeshita-minami, Shimokitakata-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 下北方町 井手下南 22-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-86-7180",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "平日 10:00〜22:00、土日祝 9:00〜19:00",
+    "en": "Weekdays 10:00–22:00, weekends and holidays 9:00–19:00.",
+    "ko": "평일 10:00~22:00, 주말·공휴일 9:00~19:00"
+  },
+  "price": {
+    "ja": "入会金 10,000円＋登録料 3,000円、月会費 10,000円〜。",
+    "en": "Initiation 10,000 yen plus 3,000 yen registration, monthly fee from 10,000 yen.",
+    "ko": "입회금 10,000엔＋등록료 3,000엔, 월 회비 10,000엔~."
+  },
+  "description": {
+    "ja": "宮崎市下北方町の会員制インドア施設。GOLFZON GDR 3打席と FlightScope 2打席、アプローチ・パター練習エリア、レッスンあり。",
+    "en": "Members-only indoor facility in Shimokitakata, Miyazaki. Three GOLFZON GDR bays and two FlightScope bays, with approach and putting areas and on-site lessons.",
+    "ko": "미야자키시 시모키타카타초의 회원제 인도어 시설. GOLFZON GDR 3타석과 FlightScope 2타석, 어프로치·퍼팅 연습 공간, 레슨 있음."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs",
+    "lesson"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/4082"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

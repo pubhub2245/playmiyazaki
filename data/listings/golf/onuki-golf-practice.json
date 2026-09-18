@@ -1,0 +1,48 @@
+{
+  "slug": "onuki-golf-practice",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "大貫ゴルフ練習場",
+    "en": "Onuki Golf Practice Range",
+    "ko": "오누키 골프 연습장"
+  },
+  "address": {
+    "ja": "宮崎県延岡市大貫町5-1796",
+    "en": "5-1796 Onuki-cho, Nobeoka-shi, Miyazaki",
+    "ko": "미야자키현 노베오카시 大貫町 5-1796"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-34-1421",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "6:00〜21:00。定休日なし",
+    "en": "6:00–21:00. Open every day.",
+    "ko": "6:00~21:00. 정기 휴무 없음"
+  },
+  "price": {
+    "ja": "1階 5円／球、6Hショートコース 3回周り500円・フリー1,000円。",
+    "en": "Ground floor 5 yen per ball, six-hole short course 500 yen for three loops or 1,000 yen unlimited.",
+    "ko": "1층 5엔 / 볼, 6홀 쇼트 코스 3바퀴 500엔·프리 1,000엔."
+  },
+  "description": {
+    "ja": "延岡市大貫町の練習場。6Hショートコース併設、レンタルクラブあり。バンカー・アプローチ・パター練習場、レフティー打席あり。",
+    "en": "Range in Onuki, Nobeoka. Six-hole short course, club rental, bunker, approach and putting areas, left-handed bays.",
+    "ko": "노베오카시 오누키초의 연습장. 6홀 쇼트 코스 병설, 클럽 렌탈 있음. 벙커·어프로치·퍼팅 연습장, 왼손 타석 있음."
+  },
+  "tags": null,
+  "features": [
+    "rental-clubs",
+    "short-course"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/1402"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

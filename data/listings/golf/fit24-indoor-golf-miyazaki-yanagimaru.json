@@ -1,0 +1,48 @@
+{
+  "slug": "fit24-indoor-golf-miyazaki-yanagimaru",
+  "genre": "golf",
+  "category": [
+    "range"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "FiT24 インドアゴルフ宮崎柳丸店",
+    "en": "FiT24 Indoor Golf Miyazaki Yanagimaru",
+    "ko": "FiT24 인도어 골프 미야자키 야나기마루점"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市柳丸町97-1",
+    "en": "97-1 Yanagimaru-cho, Miyazaki-shi, Miyazaki",
+    "ko": "미야자키현 미야자키시 柳丸町 97-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-61-6688",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "24時間営業。定休日なし（スタッフ対応 11:00〜20:00）",
+    "en": "Open 24 hours, no closed days (staff on site 11:00–20:00).",
+    "ko": "24시간 영업. 정기 휴무 없음(직원 대응 11:00~20:00)"
+  },
+  "price": {
+    "ja": "入会金 5,500円、月会費 12,100円。",
+    "en": "Initiation 5,500 yen, monthly fee 12,100 yen.",
+    "ko": "입회금 5,500엔, 월 회비 12,100엔."
+  },
+  "description": {
+    "ja": "宮崎市柳丸町の24時間営業インドア練習場。完全無人運営、弾道測定器・スイング解析・バーチャルラウンド機能あり。クラブレンタル無料。",
+    "en": "24-hour indoor range in Yanagimaru, Miyazaki. Unstaffed operation with launch monitors, swing analysis and virtual rounds. Free club rental.",
+    "ko": "미야자키시 야나기마루초의 24시간 영업 인도어 연습장. 완전 무인 운영, 탄도 측정기·스윙 분석·버추얼 라운드 기능. 클럽 렌탈 무료."
+  },
+  "tags": null,
+  "features": [
+    "night",
+    "rental-clubs"
+  ],
+  "sources": [
+    "https://golf-medley.com/practice_facilities/2635"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
