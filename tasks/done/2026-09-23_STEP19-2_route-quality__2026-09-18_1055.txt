@@ -1,0 +1,28 @@
+【安全ルール】
+確認は原則スキップして進めてよい。ただし以下は絶対に実行せず、必要になったら先に私に確認すること。
+(1) 全データの削除や取り返しのつかない操作（git push --force、rm -rf、条件なしの一括削除など）
+(2) 課金や支払いが発生する操作
+(3) listing JSON・taxonomy・docs/design.md・/ja /en /ko のページの変更。実在の店名を"おすすめ"として評価すること。
+
+【前提】
+CLAUDE.md、docs/private.md、scripts/build-route.ts、docs/route-7days.en.md を最初に読むこと。
+
+【背景】本番の /private/route を設計側が確認した。日程の骨格は良いが、日のテーマと合わない選び方がある：Day 2「青島・日南海岸」に宮崎市中心部の屋内練習場（Hello Golf、Indoor Golf Club Kyushu Aoba）が入っている／Day 1 に直売所（Foodaly）が2件並ぶ／Day 5 が「公式サイトで確認」ばかり。
+
+【やること】STEP 19-2：道順の選び方を締める（scripts/build-route.ts のルールだけ変える）
+1. 日ごとの「許可する種別」と「エリア」を明示する：
+   Day1 宮崎市：food の jidori／izakaya 系 2件、shochu-bar or shuzo 1件、market 1件まで
+   Day2 青島・日南海岸：golf.course（青島・日南方面の area）2件、surf.school/shop/point 3件。golf.range（練習場・インドア）は除外
+   Day3 日南・串間：golf.course 1件、camp 2件、food（market/farm/shuzo）2件
+   Day4 都城：food（jidori/wagyu 系）2件、shuzo 1件、farm 1件、market 1件
+   Day5 綾・西都・国富：shuzo 1件、market 2件、farm 1件、food 1件
+   Day6 高千穂方面（延岡・日之影・五ヶ瀬・高千穂）：onsen 2件、camp 2件、shuzo 1件
+   Day7 宮崎市（青島）：surf 3件、camp 1件、food 1件
+   ★ area は data/taxonomy.json の areas で判定。該当が足りない日は件数を減らす（別エリアで埋めない）
+2. 同じ日に同じ category が3件以上並ばないようにする。同じ運営（name が同じ接頭辞、例 Foodaly）は1日1件まで
+3. price が null の listing は「その日の候補が足りないときだけ」使う。各日の price あり比率を RESULT に出す
+4. docs/route-7days.en.md / .ja.md と /private/route を再生成。npm run build → コミット「Tighten 7-day route selection rules」→ git push origin main
+
+【禁止】listing データの変更、宿泊・移動時間の記載、評価語（best, must など）の追加
+RESULT 行：各日の件数と price あり比率／push YES|NO／コミットハッシュ
+END OF PROMPT

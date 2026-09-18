@@ -4,16 +4,18 @@
  * Generates a 7-day Southern Kyushu route from data/listings/ and writes it
  * to docs/route-7days.en.md and docs/route-7days.ja.md.
  *
- * Rules:
+ * Rules (STEP 19-2):
  * - Route is: Miyazaki airport out and back.
- * - Day 1 Miyazaki-shi (Nishitachi), Day 2 Aoshima / Nichinan coast (surf or
- *   golf), Day 3 Nichinan / Kushima (golf or camp), Day 4 Miyakonojo (wagyu,
- *   shochu), Day 5 Aya / Saito (food, markets), Day 6 Takachiho area (via
- *   Nobeoka), Day 7 back to Miyazaki-shi.
- * - Each day gets 3–5 listings.
- * - Listings with a non-null price rank ahead of null-price ones.
- * - We do not list accommodation or drive times (see docs/private.md and
- *   requirements). Instead each day ends with "Stay in the same area".
+ * - Each day has a fixed set of category "buckets" (e.g. Day 2 = 2 golf
+ *   courses + 3 surf spots, no driving ranges). Areas are matched against
+ *   data/taxonomy.json areas — items outside the day's areas are dropped
+ *   even if they would otherwise fit the category.
+ * - Listings with a non-null price are preferred. Null-price listings only
+ *   fill in if a day cannot reach its minimum count with priced items.
+ * - Same operator (same website hostname) is capped to 1 pick per day so a
+ *   chain like Foodaly doesn't take multiple slots on the same day.
+ * - No accommodation and no drive times (see docs/private.md). Each day
+ *   ends with "Stay in the same area".
  *
  * Also emits stats to stdout so the operator can see how many priced
  * listings landed in each day.
@@ -24,6 +26,12 @@ import { loadAllListings } from "../lib/data";
 import type { Listing } from "../lib/types";
 import { googleMapsUrl } from "../lib/url";
 
+type Bucket = {
+  name: string;
+  max: number;
+  match: (l: Listing) => boolean;
+};
+
 type DayFilter = {
   n: number;
   headingJa: string;
@@ -31,11 +39,14 @@ type DayFilter = {
   themeJa: string;
   themeEn: string;
   areas: string[];
-  genres: Array<Listing["genre"]>;
-  categoriesExclude?: string[];
+  buckets: Bucket[];
   min: number;
-  max: number;
 };
+
+function hasCategory(l: Listing, cats: string[]): boolean {
+  const set = new Set(cats);
+  return l.category.some((c) => set.has(c));
+}
 
 const DAYS: DayFilter[] = [
   {
@@ -46,10 +57,24 @@ const DAYS: DayFilter[] = [
     themeEn:
       "Arrival at Miyazaki Airport. Central Miyazaki City for charcoal-grilled jidori chicken and shochu.",
     areas: ["miyazaki-shi"],
-    genres: ["food"],
-    categoriesExclude: ["farm"],
+    buckets: [
+      {
+        name: "jidori",
+        max: 2,
+        match: (l) => l.genre === "food" && hasCategory(l, ["jidori"]),
+      },
+      {
+        name: "shochu",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["shochu"]),
+      },
+      {
+        name: "market",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["market"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
   {
     n: 2,
@@ -59,10 +84,20 @@ const DAYS: DayFilter[] = [
     themeEn:
       "Aoshima and the Nichinan coast — a day for either surfing or golf.",
     areas: ["miyazaki-shi", "nichinan"],
-    genres: ["surf", "golf"],
-    categoriesExclude: ["stay"],
+    buckets: [
+      {
+        name: "golf-course",
+        max: 2,
+        match: (l) => l.genre === "golf" && hasCategory(l, ["course"]),
+      },
+      {
+        name: "surf",
+        max: 3,
+        match: (l) =>
+          l.genre === "surf" && hasCategory(l, ["school", "shop", "point"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
   {
     n: 3,
@@ -72,10 +107,27 @@ const DAYS: DayFilter[] = [
     themeEn:
       "Nichinan into Kushima. Golf courses, campsites, and farm markets.",
     areas: ["nichinan", "kushima"],
-    genres: ["golf", "camp", "food"],
-    categoriesExclude: ["stay", "jidori"],
+    buckets: [
+      {
+        name: "golf-course",
+        max: 1,
+        match: (l) => l.genre === "golf" && hasCategory(l, ["course"]),
+      },
+      {
+        name: "camp",
+        max: 2,
+        match: (l) =>
+          l.genre === "camp" &&
+          hasCategory(l, ["campsite", "rvpark", "carstay"]),
+      },
+      {
+        name: "food",
+        max: 2,
+        match: (l) =>
+          l.genre === "food" && hasCategory(l, ["market", "farm", "shochu"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
   {
     n: 4,
@@ -85,21 +137,61 @@ const DAYS: DayFilter[] = [
     themeEn:
       "Miyakonojo is where Miyazaki wagyu is raised and where more shochu is produced than anywhere else in Japan.",
     areas: ["miyakonojo", "mimata"],
-    genres: ["food"],
+    buckets: [
+      {
+        name: "jidori",
+        max: 2,
+        match: (l) => l.genre === "food" && hasCategory(l, ["jidori"]),
+      },
+      {
+        name: "shochu",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["shochu"]),
+      },
+      {
+        name: "farm",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["farm"]),
+      },
+      {
+        name: "market",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["market"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
   {
     n: 5,
-    headingJa: "Day 5 — 綾・西都（食と直売所）",
-    headingEn: "Day 5 — Aya and Saito (food and farm markets)",
+    headingJa: "Day 5 — 綾・西都・国富（食と直売所）",
+    headingEn: "Day 5 — Aya, Saito and Kunitomi (food and farm markets)",
     themeJa: "有機の里・綾町から西都へ。焼酎蔵と直売所。",
     themeEn:
       "From Aya, Japan's organic-farming town, up to Saito. Shochu distilleries and roadside farm markets.",
-    areas: ["aya", "saito", "kunitomi", "kobayashi"],
-    genres: ["food"],
+    areas: ["aya", "saito", "kunitomi"],
+    buckets: [
+      {
+        name: "shochu",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["shochu"]),
+      },
+      {
+        name: "market",
+        max: 2,
+        match: (l) => l.genre === "food" && hasCategory(l, ["market"]),
+      },
+      {
+        name: "farm",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["farm"]),
+      },
+      {
+        name: "food-other",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["jidori"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
   {
     n: 6,
@@ -109,29 +201,62 @@ const DAYS: DayFilter[] = [
     themeEn:
       "Nobeoka up into the mountains: Takachiho, Hinokage, Gokase. The land of the founding myths.",
     areas: ["nobeoka", "takachiho", "hinokage", "gokase"],
-    genres: ["food", "camp"],
-    categoriesExclude: [],
+    buckets: [
+      {
+        name: "onsen",
+        max: 2,
+        match: (l) => l.genre === "camp" && hasCategory(l, ["onsen"]),
+      },
+      {
+        name: "camp",
+        max: 2,
+        match: (l) =>
+          l.genre === "camp" &&
+          hasCategory(l, ["campsite", "rvpark", "carstay"]),
+      },
+      {
+        name: "shochu",
+        max: 1,
+        match: (l) => l.genre === "food" && hasCategory(l, ["shochu"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
   {
     n: 7,
-    headingJa: "Day 7 — 宮崎市へ戻る",
-    headingEn: "Day 7 — Back to Miyazaki City",
+    headingJa: "Day 7 — 宮崎市（青島）",
+    headingEn: "Day 7 — Miyazaki City (Aoshima)",
     themeJa: "帰り道。空港に戻る前に、青島とその周辺を歩く。",
     themeEn:
       "The way back. Aoshima and the beach walk before returning to the airport.",
     areas: ["miyazaki-shi"],
-    genres: ["surf", "food", "camp"],
-    categoriesExclude: ["jidori", "shochu"],
+    buckets: [
+      {
+        name: "surf",
+        max: 3,
+        match: (l) =>
+          l.genre === "surf" && hasCategory(l, ["school", "shop", "point"]),
+      },
+      {
+        name: "camp",
+        max: 1,
+        match: (l) =>
+          l.genre === "camp" &&
+          hasCategory(l, ["campsite", "rvpark", "carstay"]),
+      },
+      {
+        name: "food",
+        max: 1,
+        match: (l) =>
+          l.genre === "food" && hasCategory(l, ["market", "farm"]),
+      },
+    ],
     min: 3,
-    max: 5,
   },
 ];
 
 function scoreListing(l: Listing): number {
   let s = 0;
-  if (l.price) s += 100;
   if (l.website) s += 20;
   if (l.hours) s += 10;
   if (l.description?.en) s += 5;
@@ -139,35 +264,75 @@ function scoreListing(l: Listing): number {
   return s;
 }
 
-function pickForDay(day: DayFilter, all: Listing[], used: Set<string>): Listing[] {
-  const areaSet = new Set(day.areas);
-  const genreSet = new Set(day.genres);
-  const excludeCategories = new Set(day.categoriesExclude ?? []);
-  const pool = all.filter((l) => {
-    if (used.has(`${l.genre}/${l.slug}`)) return false;
-    if (l.status === "closed") return false;
-    if (!areaSet.has(l.area)) return false;
-    if (!genreSet.has(l.genre)) return false;
-    for (const c of l.category) {
-      if (excludeCategories.has(c)) return false;
+function operatorOf(l: Listing): string {
+  if (l.website) {
+    try {
+      const u = new URL(l.website);
+      const host = u.hostname.replace(/^www\./, "").toLowerCase();
+      if (host) return `host:${host}`;
+    } catch {
+      // fall through
     }
-    return true;
-  });
-  pool.sort((a, b) => {
+  }
+  return `slug:${l.genre}/${l.slug}`;
+}
+
+function pickForDay(
+  day: DayFilter,
+  all: Listing[],
+  used: Set<string>,
+): Listing[] {
+  const areaSet = new Set(day.areas);
+  const pool = all.filter(
+    (l) =>
+      !used.has(`${l.genre}/${l.slug}`) &&
+      l.status !== "closed" &&
+      areaSet.has(l.area),
+  );
+
+  const bucketPicks: Listing[][] = day.buckets.map(() => []);
+  const usedOperators = new Set<string>();
+  const categoryCounts = new Map<string, number>();
+
+  const bucketFor = (l: Listing): number =>
+    day.buckets.findIndex((b) => b.match(l));
+
+  const sortByScore = (a: Listing, b: Listing): number => {
     const s = scoreListing(b) - scoreListing(a);
     if (s !== 0) return s;
     return a.slug.localeCompare(b.slug);
-  });
-  const picks: Listing[] = [];
-  const categoryTaken = new Map<string, number>();
-  for (const l of pool) {
-    if (picks.length >= day.max) break;
+  };
+
+  const tryAdd = (l: Listing): boolean => {
+    const bi = bucketFor(l);
+    if (bi < 0) return false;
+    if (bucketPicks[bi].length >= day.buckets[bi].max) return false;
+    const op = operatorOf(l);
+    if (usedOperators.has(op)) return false;
     const primary = l.category[0] ?? "";
-    const count = categoryTaken.get(primary) ?? 0;
-    if (count >= 2) continue;
-    picks.push(l);
-    categoryTaken.set(primary, count + 1);
-    used.add(`${l.genre}/${l.slug}`);
+    if ((categoryCounts.get(primary) ?? 0) >= 2) return false;
+    bucketPicks[bi].push(l);
+    usedOperators.add(op);
+    categoryCounts.set(primary, (categoryCounts.get(primary) ?? 0) + 1);
+    return true;
+  };
+
+  const priced = pool.filter((l) => l.price !== null).sort(sortByScore);
+  for (const l of priced) tryAdd(l);
+
+  // Fill remaining bucket slots with null-price listings only where the
+  // priced pool could not reach the bucket's max. Priced items are always
+  // preferred (they were tried first).
+  const unpriced = pool.filter((l) => l.price === null).sort(sortByScore);
+  for (const l of unpriced) tryAdd(l);
+
+  const picks: Listing[] = [];
+  for (const arr of bucketPicks) {
+    arr.sort(sortByScore);
+    for (const l of arr) {
+      picks.push(l);
+      used.add(`${l.genre}/${l.slug}`);
+    }
   }
   return picks;
 }
@@ -304,18 +469,23 @@ function main(): void {
 
   let total = 0;
   let priced = 0;
+  const perDay: string[] = [];
   console.log("=== 7-day route ===");
   for (const { day, picks } of daysWithPicks) {
     const p = picks.filter((x) => x.price !== null).length;
-    console.log(`Day ${day.n}: ${picks.length} picks, ${p} with price`);
+    const pct = picks.length ? Math.round((p * 100) / picks.length) : 0;
+    console.log(
+      `Day ${day.n}: ${picks.length} picks, ${p} priced (${pct}%)`,
+    );
+    perDay.push(`D${day.n} ${picks.length}(${pct}% priced)`);
     total += picks.length;
     priced += p;
   }
   console.log(
     `Total: ${total}, priced: ${priced} (${total ? Math.round((priced * 100) / total) : 0}%)`,
   );
+  console.log(`STATS_LINE: ${perDay.join(" ")}`);
 
-  // Also print a machine-readable summary so the page can import it if needed.
   const summary = daysWithPicks.map(({ day, picks }) => ({
     n: day.n,
     slugs: picks.map((p) => `${p.genre}/${p.slug}`),
