@@ -1,0 +1,48 @@
+{
+  "slug": "rvpark-marisol-hyuga",
+  "genre": "camp",
+  "category": [
+    "rvpark"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "RV-PARK MARISOL",
+    "en": "RV-PARK MARISOL",
+    "ko": "RV-PARK MARISOL"
+  },
+  "address": {
+    "ja": "宮崎県日向市美々津町1380-2",
+    "en": "1380-2 Mimitsu-cho, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 미미쓰초 1380-2"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "090-6266-8081",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "チェックイン 12:00〜18:00／チェックアウト 6:00〜11:00。",
+    "en": "Check-in 12:00–18:00, check-out 6:00–11:00.",
+    "ko": "체크인 12:00~18:00, 체크아웃 6:00~11:00."
+  },
+  "price": {
+    "ja": "1泊 4,400円／1台（トレーラー含む）。",
+    "en": "4,400 yen per night per vehicle (trailers included).",
+    "ko": "1박 4,400엔 / 1대 (트레일러 포함)."
+  },
+  "description": {
+    "ja": "美々津にあるRVパーク。トイレは24時間利用可。",
+    "en": "RV park in Mimitsu, Hyuga. 24-hour toilet access.",
+    "ko": "미미쓰에 위치한 RV 파크. 화장실은 24시간 이용 가능."
+  },
+  "tags": null,
+  "features": [
+    "rv",
+    "carstay"
+  ],
+  "sources": [
+    "https://kurumatabi.com/park/rvpark/1751.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

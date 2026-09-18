@@ -1,0 +1,49 @@
+{
+  "slug": "kirei-village",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "キレイビレッジ",
+    "en": "Kirei Village",
+    "ko": "키레이 빌리지"
+  },
+  "address": {
+    "ja": "宮崎県小林市南西方1112-141",
+    "en": "1112-141 Minami-Nishikata, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 미나미니시카타 1112-141"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-23-7373",
+  "website": "http://www.kireivillage.net/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "チェックイン 15:00〜18:00／チェックアウト 10:00。",
+    "en": "Check-in 15:00–18:00, check-out 10:00.",
+    "ko": "체크인 15:00~18:00, 체크아웃 10:00."
+  },
+  "price": {
+    "ja": "キャンプサイト 3,000円／区画（4名まで）。コテージAタイプ 8,000円／2名、Fタイプ 16,000円／4名（1泊税込）。",
+    "en": "Tent site 3,000 yen per space (up to 4 guests). Type A cottage 8,000 yen for 2 guests; Type F cottage 16,000 yen for 4 (per night, tax incl.).",
+    "ko": "캠프 사이트 3,000엔 / 구획 (4명까지). 코티지 A타입 8,000엔 / 2명, F타입 16,000엔 / 4명 (1박, 세금 포함)."
+  },
+  "description": {
+    "ja": "北霧島にある宿泊施設。キャンプサイトとコテージがあり、駐車場無料。",
+    "en": "Lodging in Kita-Kirishima with tent sites and cottages; free parking.",
+    "ko": "기타키리시마에 위치한 숙박 시설. 캠프 사이트와 코티지 있음, 주차장 무료."
+  },
+  "tags": null,
+  "features": [
+    "mountain",
+    "cottage"
+  ],
+  "sources": [
+    "http://www.kireivillage.net/",
+    "https://www.city.kobayashi.lg.jp/kanko_bunka_sports/kankojoho/tomaru/3116.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

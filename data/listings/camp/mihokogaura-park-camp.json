@@ -1,0 +1,44 @@
+{
+  "slug": "mihokogaura-park-camp",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "御鉾ケ浦公園キャンプ場",
+    "en": "Mihokogaura Park Campsite",
+    "ko": "미호코가우라 공원 캠프장"
+  },
+  "address": {
+    "ja": "宮崎県日向市細島伊勢",
+    "en": "Hososhima Ise, Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시 호소시마 이세"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-52-2111",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": {
+    "ja": "利用無料。要予約。",
+    "en": "Free of charge. Reservation required.",
+    "ko": "이용 무료. 예약 필수."
+  },
+  "description": {
+    "ja": "細島湾沿いの公園内のキャンプ場。トイレとBBQ設備あり、シャワーは夏季のみ。",
+    "en": "Campsite in a park along Hososhima Bay with toilets and BBQ facilities; showers available in summer only.",
+    "ko": "호소시마만 옆 공원 내 캠프장. 화장실과 BBQ 시설 있음, 샤워는 여름철만."
+  },
+  "tags": null,
+  "features": [
+    "sea",
+    "free-site"
+  ],
+  "sources": [
+    "https://himuka-tour.jp/2020/02/21/%e5%be%a1%e9%89%be%e3%82%b1%e6%b5%a6%e5%85%ac%e5%9c%92%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e5%a0%b4/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

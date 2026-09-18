@@ -1,0 +1,42 @@
+{
+  "slug": "calm-lanai-harbor-glamping",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "グランピング in カームラナイハーバー",
+    "en": "Glamping in Calm Lanai Harbor",
+    "ko": "글램핑 인 카무라나이 하버"
+  },
+  "address": {
+    "ja": "宮崎県日南市大字平野8338-2",
+    "en": "8338-2 Hirano, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 히라노 8338-2"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-21-1887",
+  "website": "https://glamping.lcs-izakaya.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向灘を望むプライベートハーバーのコテージ型グランピング施設。",
+    "en": "Cottage glamping on a private harbor overlooking the Hyuganada Sea.",
+    "ko": "휴가나다 바다를 바라보는 프라이빗 하버 코티지형 글램핑 시설."
+  },
+  "tags": null,
+  "features": [
+    "sea",
+    "glamping",
+    "cottage"
+  ],
+  "sources": [
+    "https://www.kankou-nichinan.jp/tourisms/7871/",
+    "https://glamping.lcs-izakaya.com/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

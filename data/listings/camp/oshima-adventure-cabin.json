@@ -1,0 +1,40 @@
+{
+  "slug": "oshima-adventure-cabin",
+  "genre": "camp",
+  "category": [
+    "campsite"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "大島アドベンチャーキャビン・コテージ",
+    "en": "Oshima Adventure Cabin & Cottage",
+    "ko": "오시마 어드벤처 캐빈·코티지"
+  },
+  "address": {
+    "ja": "宮崎県日南市南郷町中村乙大島",
+    "en": "Oshima, Nakamura-otsu, Nango-cho, Nichinan-shi, Miyazaki",
+    "ko": "미야자키현 니치난시 난고초 나카무라오쓰 오시마"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "080-6413-2898",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日南沖の大島にあるキャビン3棟とコテージ2棟、BBQ場。渡船で渡る。要予約。",
+    "en": "Three cabins and two cottages with a BBQ area on Oshima Island off Nichinan; access by ferry, reservation required.",
+    "ko": "니치난 앞바다 오시마 섬에 있는 캐빈 3동과 코티지 2동, BBQ장. 배로 이동. 예약 필수."
+  },
+  "tags": null,
+  "features": [
+    "sea",
+    "cottage"
+  ],
+  "sources": [
+    "https://www.kankou-nichinan.jp/tourisms/389/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
