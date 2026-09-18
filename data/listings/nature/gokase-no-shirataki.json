@@ -1,0 +1,37 @@
+{
+  "slug": "gokase-no-shirataki",
+  "genre": "nature",
+  "category": [
+    "waterfall"
+  ],
+  "area": "gokase",
+  "name": {
+    "ja": "五ヶ瀬の白滝",
+    "en": "Gokase Shirataki Falls",
+    "ko": "고카세의 시라타키 폭포"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡五ヶ瀬町鞍岡 882-1201",
+    "en": "Kuraoka, Gokase-cho, Nishiusuki-gun, Miyazaki 882-1201",
+    "ko": "미야자키현 니시우스키군 고카세초 구라오카 882-1201"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-82-1200",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "五ヶ瀬町鞍岡にある滝。",
+    "en": "A waterfall in Kuraoka, Gokase.",
+    "ko": "고카세초 구라오카에 있는 폭포."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1568"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

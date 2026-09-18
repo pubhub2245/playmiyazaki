@@ -1,0 +1,37 @@
+{
+  "slug": "futagamiyama",
+  "genre": "nature",
+  "category": [
+    "mountain"
+  ],
+  "area": "takachiho",
+  "name": {
+    "ja": "二上山",
+    "en": "Mount Futagami",
+    "ko": "후타가미야마"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡高千穂町大字押方",
+    "en": "Oshikata, Takachiho-cho, Nishiusuki-gun, Miyazaki",
+    "ko": "미야자키현 니시우스키군 다카치호초 오시카타"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-73-1212",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "高千穂町押方にある山。",
+    "en": "A mountain in Oshikata, Takachiho.",
+    "ko": "다카치호초 오시카타에 있는 산."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1079"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

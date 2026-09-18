@@ -1,0 +1,37 @@
+{
+  "slug": "mitate-keikoku",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "hinokage",
+  "name": {
+    "ja": "見立渓谷",
+    "en": "Mitate Valley",
+    "ko": "미타테 계곡"
+  },
+  "address": {
+    "ja": "宮崎県西臼杵郡日之影町見立 882-0403",
+    "en": "Mitate, Hinokage-cho, Nishiusuki-gun, Miyazaki 882-0403",
+    "ko": "미야자키현 니시우스키군 히노카게초 미타테 882-0403"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-78-1021",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日之影町見立にある渓谷。",
+    "en": "A valley in Mitate, Hinokage.",
+    "ko": "히노카게초 미타테에 있는 계곡."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1130"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

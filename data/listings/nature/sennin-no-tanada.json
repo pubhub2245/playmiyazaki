@@ -1,0 +1,37 @@
+{
+  "slug": "sennin-no-tanada",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "shiiba",
+  "name": {
+    "ja": "仙人の棚田（大いちょう展望台）",
+    "en": "Sennin no Tanada Rice Terraces (Oicho Viewpoint)",
+    "ko": "센닌노 다나다 계단식 논 (큰은행나무 전망대)"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡椎葉村松尾ロクロ",
+    "en": "Rokuro, Matsuo, Shiiba-son, Higashiusuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 시이바손 마쓰오 로쿠로"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-67-3139",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "椎葉村松尾にある棚田と展望台。",
+    "en": "Rice terraces and a viewpoint in Matsuo, Shiiba.",
+    "ko": "시이바손 마쓰오에 있는 계단식 논과 전망대."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1404"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

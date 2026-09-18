@@ -1,0 +1,37 @@
+{
+  "slug": "morotsukayama",
+  "genre": "nature",
+  "category": [
+    "mountain"
+  ],
+  "area": "morotsuka",
+  "name": {
+    "ja": "諸塚山",
+    "en": "Mount Morotsuka",
+    "ko": "모로쓰카야마"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡諸塚村大字七ツ山",
+    "en": "Nanatsuyama, Morotsuka-son, Higashiusuki-gun, Miyazaki",
+    "ko": "미야자키현 히가시우스키군 모로쓰카손 나나쓰야마"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-65-0178",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "諸塚村七ツ山にある山。",
+    "en": "A mountain in Nanatsuyama, Morotsuka.",
+    "ko": "모로쓰카손 나나쓰야마에 있는 산."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1076"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

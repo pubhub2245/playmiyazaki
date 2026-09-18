@@ -1,0 +1,41 @@
+{
+  "slug": "udo-senjojiki",
+  "genre": "nature",
+  "category": [
+    "viewpoint"
+  ],
+  "area": "nichinan",
+  "name": {
+    "ja": "鵜戸千畳敷奇岩",
+    "en": "Udo Senjojiki Rocks",
+    "ko": "우도 센조지키 기암"
+  },
+  "address": {
+    "ja": "宮崎県日南市宮浦字串平地先 887-0101",
+    "en": "Kushidaira, Miyaura, Nichinan, Miyazaki 887-0101",
+    "ko": "미야자키현 니치난시 미야우라 구시다이라 887-0101"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-31-1134",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "散策自由",
+    "en": "Open to walk at any time",
+    "ko": "자유 산책"
+  },
+  "price": null,
+  "description": {
+    "ja": "日南市宮浦の海沿いに広がる岩場。",
+    "en": "A rocky shoreline in Miyaura, Nichinan.",
+    "ko": "니치난시 미야우라 해안에 펼쳐진 바위밭."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1037"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "horigawa-keikoku",
+  "genre": "nature",
+  "category": [
+    "gorge"
+  ],
+  "area": "nobeoka",
+  "name": {
+    "ja": "祝子川渓谷",
+    "en": "Horigawa Valley",
+    "ko": "호리가와 계곡"
+  },
+  "address": {
+    "ja": "宮崎県延岡市北川町川内名 882-0097",
+    "en": "Kawauchimyo, Kitagawa-cho, Nobeoka, Miyazaki 882-0097",
+    "ko": "미야자키현 노베오카시 기타가와초 가와우치묘 882-0097"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-27-4740",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "延岡市北川町を流れる祝子川の渓谷。",
+    "en": "A river valley along the Horigawa in Kitagawa, Nobeoka.",
+    "ko": "노베오카시 기타가와초를 흐르는 호리가와의 계곡."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/2450"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

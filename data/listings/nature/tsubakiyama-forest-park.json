@@ -1,0 +1,37 @@
+{
+  "slug": "tsubakiyama-forest-park",
+  "genre": "nature",
+  "category": [
+    "park"
+  ],
+  "area": "miyazaki-shi",
+  "name": {
+    "ja": "椿山森林公園",
+    "en": "Tsubakiyama Forest Park",
+    "ko": "쓰바키야마 삼림공원"
+  },
+  "address": {
+    "ja": "宮崎県宮崎市大字鏡洲字内平4343-1 889-2156",
+    "en": "4343-1 Kagamizu, Miyazaki-shi, Miyazaki 889-2156",
+    "ko": "미야자키현 미야자키시 가가미즈 4343-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0985-21-1919",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "宮崎市鏡洲にある森林公園。",
+    "en": "A forest park in Kagamizu, Miyazaki City.",
+    "ko": "미야자키시 가가미즈에 있는 삼림공원."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1245"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

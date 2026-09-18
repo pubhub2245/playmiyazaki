@@ -1,0 +1,37 @@
+{
+  "slug": "oseri-falls",
+  "genre": "nature",
+  "category": [
+    "waterfall"
+  ],
+  "area": "misato",
+  "name": {
+    "ja": "おせりの滝",
+    "en": "Oseri Falls",
+    "ko": "오세리 폭포"
+  },
+  "address": {
+    "ja": "宮崎県東臼杵郡美郷町西郷小原 883-1212",
+    "en": "Obaru, Saigo, Misato-cho, Higashiusuki-gun, Miyazaki 883-1212",
+    "ko": "미야자키현 히가시우스키군 미사토초 사이고 오바루 883-1212"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-66-3603",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "美郷町西郷小原にある滝。",
+    "en": "A waterfall in Obaru, Saigo, Misato.",
+    "ko": "미사토초 사이고 오바루에 있는 폭포."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1142"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

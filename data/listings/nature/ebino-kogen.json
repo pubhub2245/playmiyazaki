@@ -1,0 +1,45 @@
+{
+  "slug": "ebino-kogen",
+  "genre": "nature",
+  "category": [
+    "mountain"
+  ],
+  "area": "ebino",
+  "name": {
+    "ja": "えびの高原",
+    "en": "Ebino Kogen Highland",
+    "ko": "에비노 고원"
+  },
+  "address": {
+    "ja": "宮崎県えびの市末永1495-5 889-4302",
+    "en": "1495-5 Suenaga, Ebino, Miyazaki 889-4302",
+    "ko": "미야자키현 에비노시 스에나가 1495-5"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-33-3002",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "えびのエコミュージアムセンター 9:00〜17:00",
+    "en": "Ebino Eco Museum Center 9:00-17:00",
+    "ko": "에비노 에코뮤지엄 센터 9:00~17:00"
+  },
+  "price": {
+    "ja": "駐車場 1日500円。",
+    "en": "Parking 500 yen per day.",
+    "ko": "주차장 1일 500엔."
+  },
+  "description": {
+    "ja": "えびの市にある高原。えびのエコミュージアムセンターがある。",
+    "en": "A highland in Ebino, with the Ebino Eco Museum Center on site.",
+    "ko": "에비노시에 있는 고원. 에비노 에코뮤지엄 센터가 있다."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1015"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

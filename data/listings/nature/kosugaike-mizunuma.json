@@ -1,0 +1,37 @@
+{
+  "slug": "kosugaike-mizunuma",
+  "genre": "nature",
+  "category": [
+    "lake"
+  ],
+  "area": "shintomi",
+  "name": {
+    "ja": "湖水ケ池・水沼神社",
+    "en": "Kosugaike Pond and Mizunuma Shrine",
+    "ko": "고스가이케 연못·미즈누마 신사"
+  },
+  "address": {
+    "ja": "宮崎県児湯郡新富町日置",
+    "en": "Hioki, Shintomi-cho, Koyu-gun, Miyazaki",
+    "ko": "미야자키현 고유군 신토미초 히오키"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0983-33-6029",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "新富町日置にある池と、池のほとりの神社。",
+    "en": "A pond in Hioki, Shintomi, with a shrine on its bank.",
+    "ko": "신토미초 히오키에 있는 연못과 연못가의 신사."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://www.kanko-miyazaki.jp/spot/1089"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
