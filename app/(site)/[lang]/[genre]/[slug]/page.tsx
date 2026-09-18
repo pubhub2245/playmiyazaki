@@ -25,6 +25,8 @@ import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { Row } from "@/app/_components/Row";
 import { RevealList } from "@/app/_components/RevealList";
 import { listingToRow } from "@/lib/rows";
+import { AffiliateLink } from "@/app/_components/AffiliateLink";
+import { RAKUTEN_TRAVEL } from "@/lib/affiliate";
 
 type Props = { params: { lang: string; genre: string; slug: string } };
 
@@ -44,6 +46,19 @@ const AREA_ALL_LINK: Record<Lang, (area: string, n: number) => string> = {
   ja: (area, n) => `${area}で遊ぶ（全ジャンル ${n} スポット）`,
   en: (area, n) => `Everything to do in ${area} (${n} places)`,
   ko: (area, n) => `${area}에서 놀기 (전체 장르 ${n}곳)`,
+};
+
+/**
+ * 宿泊で探している人だけに、予約サイトへの紹介リンクを1本出す。
+ * 対象は「泊まる／湯につかる」種類だけ（サーファー向け宿・ゴルフ宿・温泉）。
+ * サーフポイントや食のページには出さない（探しているものが違うため）。
+ */
+const STAY_CATEGORIES = new Set(["stay", "onsen"]);
+
+const FIND_STAY: Record<Lang, string> = {
+  ja: "楽天トラベルで宮崎の宿を探す",
+  en: "Find places to stay in Miyazaki on Rakuten Travel",
+  ko: "라쿠텐 트래블에서 미야자키 숙소 찾기",
 };
 
 export const dynamicParams = false;
@@ -183,6 +198,14 @@ export default function ListingDetail({ params }: Props) {
               {OPEN_MAP[lang]} <span aria-hidden>↗</span>
             </a>
           </div>
+
+          {listing.category.some((c) => STAY_CATEGORIES.has(c)) && (
+            <AffiliateLink
+              lang={lang}
+              program={RAKUTEN_TRAVEL}
+              label={FIND_STAY[lang]}
+            />
+          )}
         </div>
 
         {/* Right column: facts table */}

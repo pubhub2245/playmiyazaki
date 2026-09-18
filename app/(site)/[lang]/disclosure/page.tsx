@@ -22,7 +22,7 @@ function content(lang: Lang): InfoContent {
             <>
               <p>Some links to booking sites (hotels, golf courses, activities) and to shops that sell gear are affiliate links. If you book or buy through one, Play Miyazaki may receive a commission from that site. The price you pay does not change.</p>
               <p>Affiliate links are marked with the word “affiliate” next to the link. Links to a place’s official site and to Google Maps are never affiliate links.</p>
-              <p>Programs we plan to use: Rakuten Affiliate (Rakuten Travel, Rakuten GORA), Moshimo Affiliate (Jalan), Amazon Associates. As of September 2026 no affiliate link is on the site yet. When a program goes live, it is named here with the wording that program requires.</p>
+              <p>Programs we plan to use: Rakuten Affiliate (Rakuten Travel, Rakuten GORA), Moshimo Affiliate (Jalan), Amazon Associates. Live since September 2026: Rakuten Travel, through Moshimo Affiliate. It appears as a single “Find places to stay in Miyazaki on Rakuten Travel” button on town pages and on pages for places you sleep at or bathe at, and nowhere else. When another program goes live, it is named here with the wording that program requires.</p>
             </>
           ),
         },
@@ -72,7 +72,7 @@ function content(lang: Lang): InfoContent {
           <>
             <p>宿・ゴルフ場・体験の予約サイトや、道具を売る通販サイトへのリンクの一部は紹介リンクです。そのリンクから予約・購入があると、そのサイトから当サイトに紹介料が支払われることがあります。利用者が払う金額は変わりません。</p>
             <p>紹介リンクには、リンクのそばに「紹介リンク」と書きます。各スポットの公式サイトと Google マップへのリンクは紹介リンクではありません。</p>
-            <p>参加予定のプログラム：楽天アフィリエイト（楽天トラベル・楽天GORA）、もしもアフィリエイト（じゃらん）、Amazon アソシエイト。2026年9月時点では、まだ紹介リンクは置いていません。始めたときは、そのプログラムが求める表記とあわせてここに名前を載せます。</p>
+            <p>参加予定のプログラム：楽天アフィリエイト（楽天トラベル・楽天GORA）、もしもアフィリエイト（じゃらん）、Amazon アソシエイト。2026年9月から、もしもアフィリエイト経由の楽天トラベルを置いています。出る場所は、市町村ごとのページと、泊まる・湯につかる種類のスポット（サーファー向け宿・ゴルフ宿・温泉）のページで、「楽天トラベルで宮崎の宿を探す」ボタン1つだけです。ほかのプログラムを始めたときは、そのプログラムが求める表記とあわせてここに名前を載せます。</p>
           </>
         ),
       },
