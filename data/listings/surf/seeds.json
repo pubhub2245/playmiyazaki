@@ -1,0 +1,42 @@
+{
+  "slug": "seeds",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "SEED'S",
+    "en": "SEED'S",
+    "ko": "시즈 (SEED'S)"
+  },
+  "address": {
+    "ja": "宮崎県日向市",
+    "en": "Hyuga-shi, Miyazaki",
+    "ko": "미야자키현 휴가시"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-57-1377",
+  "website": null,
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "日向市のサーフショップ。レンタル込みのサーフィン体験を扱う（8,000円〜）。",
+    "en": "Surf shop in Hyuga. Offers surf experiences with rental gear included (from 8,000 yen).",
+    "ko": "휴가시의 서프숍. 렌탈 포함 서핑 체험을 운영한다(8,000엔부터)."
+  },
+  "tags": null,
+  "features": [
+    "beginner",
+    "rental"
+  ],
+  "sources": [
+    "https://iju.pref.miyazaki.lg.jp/workation/activity/activity-298/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

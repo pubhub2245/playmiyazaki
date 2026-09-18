@@ -1,0 +1,43 @@
+{
+  "slug": "dearsurf",
+  "genre": "surf",
+  "category": [
+    "shop",
+    "school",
+    "rental"
+  ],
+  "area": "hyuga",
+  "name": {
+    "ja": "ディアサーフ",
+    "en": "DearSurf",
+    "ko": "디어서프 (DearSurf)"
+  },
+  "address": {
+    "ja": "宮崎県日向市平岩12131-5",
+    "en": "12131-5 Hiraiwa, Hyuga-shi, Miyazaki 883-0022",
+    "ko": "미야자키현 휴가시 히라이와 12131-5"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0982-57-1141",
+  "website": "http://www.dearsurf.com/",
+  "google_maps_url": null,
+  "hours": null,
+  "price": null,
+  "description": {
+    "ja": "お倉ヶ浜交差点南西角にあるサーフショップ。JPSA公認インストラクターによるスクールと、初心者から上級者までのボード・ウェットスーツのレンタル・販売・リペアを扱う。水曜定休。",
+    "en": "Surf shop at the Okuragahama intersection. JPSA-certified school. Boards and wetsuits for all levels are rented, sold, and repaired. Closed Wednesdays.",
+    "ko": "오쿠라가하마 교차로 남서쪽 모퉁이에 있는 서프숍. JPSA 공인 강사가 스쿨을 운영하며, 초보자부터 상급자까지 보드·웻수트의 렌탈·판매·리페어를 취급한다. 수요일 정기 휴무."
+  },
+  "tags": null,
+  "features": [
+    "beginner",
+    "rental"
+  ],
+  "sources": [
+    "https://www.dearsurf.com/",
+    "https://www.nsa-surf.org/school/miyazaki01/"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
