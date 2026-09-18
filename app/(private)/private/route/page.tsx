@@ -45,7 +45,7 @@ const DAY_META: Record<number, DayMeta> = {
   },
   5: {
     n: 5,
-    heading: "Day 5 — Aya and Saito",
+    heading: "Day 5 — Aya, Saito and Kunitomi",
     theme:
       "From Aya, Japan's organic-farming town, up to Saito. Shochu distilleries and roadside farm markets.",
   },
@@ -57,7 +57,7 @@ const DAY_META: Record<number, DayMeta> = {
   },
   7: {
     n: 7,
-    heading: "Day 7 — Back to Miyazaki City",
+    heading: "Day 7 — Miyazaki City (Aoshima)",
     theme:
       "The way back. Aoshima and the beach walk before returning to the airport.",
   },
