@@ -1,0 +1,47 @@
+{
+  "slug": "sekinoo-kanko-noen",
+  "genre": "food",
+  "category": [
+    "farm"
+  ],
+  "area": "miyakonojo",
+  "name": {
+    "ja": "関之尾観光農園",
+    "en": "Sekinoo Farm",
+    "ko": "세키노오 관광농원"
+  },
+  "address": {
+    "ja": "宮崎県都城市関之尾町6620-46",
+    "en": "6620-46 Sekinoo-cho, Miyakonojo-shi, Miyazaki",
+    "ko": "미야자키현 미야코노조시 関之尾町6620-46"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0986-37-0701",
+  "website": null,
+  "google_maps_url": null,
+  "hours": {
+    "ja": "10月〜11月中旬 9:00〜17:00（雨の日を除く）",
+    "en": "Oct to mid-Nov, 9:00-17:00 (closed on rainy days)",
+    "ko": "10월~11월 중순 9:00~17:00 (우천 시 휴업)"
+  },
+  "price": {
+    "ja": "キウイ狩り 1kg 600円（10〜12個）。",
+    "en": "Kiwi picking 600 yen per kg (10-12 fruits).",
+    "ko": "키위 따기 1kg 600엔(10~12개)."
+  },
+  "description": {
+    "ja": "関之尾滝のそばにある観光農園。10月から11月中旬にキウイ狩りができる。",
+    "en": "Farm next to Sekinoo Falls in Miyakonojo. Kiwi picking from October to mid-November.",
+    "ko": "세키노오 폭포 옆에 있는 관광농원. 10월부터 11월 중순까지 키위 따기를 할 수 있다."
+  },
+  "tags": null,
+  "features": [
+    "seasonal"
+  ],
+  "sources": [
+    "https://www.city.miyakonojo.miyazaki.jp/site/kanko/3054.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}
