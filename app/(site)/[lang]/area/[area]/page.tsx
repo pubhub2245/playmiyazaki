@@ -12,6 +12,8 @@ import {
 } from "@/lib/coverage";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { FilterableList } from "@/app/_components/FilterableList";
+import { JsonLd } from "@/app/_components/JsonLd";
+import { collectionJsonLd } from "@/lib/jsonld";
 import { GenreIcon } from "@/app/_components/GenreIcon";
 import { RevealList } from "@/app/_components/RevealList";
 import { Row } from "@/app/_components/Row";
@@ -87,8 +89,27 @@ export default function AreaAllGenresPage({ params }: Props) {
   const genreLabel = new Map(taxonomy.genres.map((g) => [g.slug, g]));
   const groups = genresInArea(params.area);
 
+  // Same order the reader sees: genre by genre, each sorted by Japanese name.
+  const rowsByGenre = new Map(
+    groups.map(({ genre }) => [
+      genre,
+      inArea
+        .filter((l) => l.genre === genre)
+        .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"))
+        .map((l) => listingToRow(l, taxonomy, lang)),
+    ]),
+  );
+
   return (
     <div className="space-y-8">
+      <JsonLd
+        data={collectionJsonLd({
+          name: heading(lang, area),
+          description: description(lang, area, areaTotal(params.area)),
+          path: urlAreaAll(lang, params.area),
+          items: groups.flatMap(({ genre }) => rowsByGenre.get(genre) ?? []),
+        })}
+      />
       <Breadcrumbs
         lang={lang}
         crumbs={[
@@ -116,10 +137,7 @@ export default function AreaAllGenresPage({ params }: Props) {
       {groups.map(({ genre, count }) => {
         const g = genreLabel.get(genre);
         if (!g) return null;
-        const rows = inArea
-          .filter((l) => l.genre === genre)
-          .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"))
-          .map((l) => listingToRow(l, taxonomy, lang));
+        const rows = rowsByGenre.get(genre) ?? [];
         return (
           <section key={genre} className="space-y-3">
             <h2 className="flex items-center gap-3 font-display font-bold text-[20px] text-text-primary">

@@ -5,6 +5,8 @@ import { LANGS, parseLang, type Lang } from "@/lib/i18n";
 import { absolute, urlAreaAll, urlAreaIndex, urlHome } from "@/lib/url";
 import { AREA_MIN_COUNT, areaTotal, areasWithCrossGenrePages, genresInArea } from "@/lib/coverage";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
+import { JsonLd } from "@/app/_components/JsonLd";
+import { collectionJsonLd } from "@/lib/jsonld";
 
 type Props = { params: { lang: string } };
 
@@ -54,6 +56,19 @@ export default function AreaIndexPage({ params }: Props) {
 
   return (
     <div className="space-y-6">
+      <JsonLd
+        data={collectionJsonLd({
+          name: HEADING[lang],
+          description: LEAD[lang],
+          path: urlAreaIndex(lang),
+          items: areas
+            .map((slug) => {
+              const a = areaLabel.get(slug);
+              return a ? { name: a[lang], href: urlAreaAll(lang, slug) } : null;
+            })
+            .filter((x): x is { name: string; href: string } => x !== null),
+        })}
+      />
       <Breadcrumbs
         lang={lang}
         crumbs={[{ label: "Play Miyazaki", href: urlHome(lang) }, { label: HEADING[lang] }]}
