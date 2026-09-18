@@ -3,8 +3,24 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadAllListings, loadTaxonomy } from "@/lib/data";
 import { LANGS, NEARBY_HEADING, UI, parseLang, type Lang } from "@/lib/i18n";
-import { absolute, googleMapsUrl, urlArea, urlCategory, urlFeature, urlGenre, urlHome, urlListing } from "@/lib/url";
-import { FEATURE_MIN_COUNT, featureCount, nearbyInArea } from "@/lib/coverage";
+import {
+  absolute,
+  googleMapsUrl,
+  urlArea,
+  urlAreaAll,
+  urlCategory,
+  urlFeature,
+  urlGenre,
+  urlHome,
+  urlListing,
+} from "@/lib/url";
+import {
+  FEATURE_MIN_COUNT,
+  areaTotal,
+  featureCount,
+  hasCrossGenreAreaPage,
+  nearbyInArea,
+} from "@/lib/coverage";
 import { Breadcrumbs } from "@/app/_components/Breadcrumbs";
 import { Row } from "@/app/_components/Row";
 import { RevealList } from "@/app/_components/RevealList";
@@ -21,6 +37,14 @@ const PRICE_NOTE = {
 };
 const FEATURES_LABEL = { ja: "特徴", en: "Features", ko: "특징" };
 const VERIFIED_LABEL = { ja: "確認済み", en: "Verified", ko: "확인 완료" };
+
+// Link out to the cross-genre area page so every listing is a way into
+// "everything in this town", not just "more of the same genre".
+const AREA_ALL_LINK: Record<Lang, (area: string, n: number) => string> = {
+  ja: (area, n) => `${area}で遊ぶ（全ジャンル ${n} スポット）`,
+  en: (area, n) => `Everything to do in ${area} (${n} places)`,
+  ko: (area, n) => `${area}에서 놀기 (전체 장르 ${n}곳)`,
+};
 
 export const dynamicParams = false;
 
@@ -262,17 +286,26 @@ export default function ListingDetail({ params }: Props) {
         </aside>
       </div>
 
-      {nearby.length > 0 && (
+      {(nearby.length > 0 || hasCrossGenreAreaPage(listing.area)) && (
         <section className="space-y-3">
           <h2 className="pm-subhead">
             <span>{NEARBY_HEADING[lang]}</span>
             <span className="pm-mono text-text-secondary">{areaName}</span>
           </h2>
-          <RevealList>
-            {nearby.map((n) => (
-              <Row key={n.slug} data={n} lang={lang} variant="small" />
-            ))}
-          </RevealList>
+          {nearby.length > 0 && (
+            <RevealList>
+              {nearby.map((n) => (
+                <Row key={n.slug} data={n} lang={lang} variant="small" />
+              ))}
+            </RevealList>
+          )}
+          {hasCrossGenreAreaPage(listing.area) && (
+            <p>
+              <Link href={urlAreaAll(lang, listing.area)} className="pm-mono text-[13px]">
+                {AREA_ALL_LINK[lang](areaName, areaTotal(listing.area))} →
+              </Link>
+            </p>
+          )}
         </section>
       )}
     </article>
