@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "通常 8:00〜20:00、火・金 8:00〜21:00。年中無休",
-    "en": "Usually 8:00–20:00; Tuesdays and Fridays 8:00–21:00. Open every day."
+    "en": "Usually 8:00–20:00; Tuesdays and Fridays 8:00–21:00. Open every day.",
+    "ko": "평상시 8:00~20:00, 화·금 8:00~21:00. 연중무휴"
   },
   "price": null,
   "description": {

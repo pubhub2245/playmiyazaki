@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "受付 8:00〜17:00（営業日のみ）",
-    "en": "Reception 8:00–17:00 on open days."
+    "en": "Reception 8:00–17:00 on open days.",
+    "ko": "접수 8:00~17:00(영업일만)"
   },
   "price": {
     "ja": "貸クラブ 1セット 3,300円。",

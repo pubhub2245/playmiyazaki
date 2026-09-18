@@ -1,0 +1,43 @@
+{
+  "slug": "kushima-onsen-ikoi-no-sato",
+  "genre": "camp",
+  "category": [
+    "onsen"
+  ],
+  "area": "kushima",
+  "name": {
+    "ja": "串間温泉いこいの里",
+    "en": "Kushima Onsen Ikoi-no-Sato",
+    "ko": "구시마 온천 이코이노사토"
+  },
+  "address": {
+    "ja": "宮崎県串間市本城987",
+    "en": "987 Honjo, Kushima-shi, Miyazaki",
+    "ko": "미야자키현 구시마시 本城987"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0987-75-2000",
+  "website": "https://www.natureresort.jp/kushima",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "7:00〜22:00（最終受付21:30）。毎月第3水曜休。",
+    "en": "7:00-22:00 (last entry 21:30). Closed the third Wednesday of each month.",
+    "ko": "7:00~22:00 (최종 접수 21:30). 매월 셋째 수요일 휴무."
+  },
+  "price": null,
+  "description": {
+    "ja": "串間市の日帰り温泉。朝7時から入れる。",
+    "en": "Day-use hot spring in Kushima, open from 7:00.",
+    "ko": "구시마시의 당일 온천. 아침 7시부터 이용 가능."
+  },
+  "tags": null,
+  "features": [
+    "onsen"
+  ],
+  "sources": [
+    "https://www.natureresort.jp/kushima"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

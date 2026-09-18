@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "インドア 火〜土 8:00〜23:00、日祝 8:00〜20:00。定休日 月曜（祝日は火曜）、不定休あり",
-    "en": "Indoor bays Tue–Sat 8:00–23:00, Sun and holidays 8:00–20:00. Closed Mondays (Tuesday if Monday is a holiday)."
+    "en": "Indoor bays Tue–Sat 8:00–23:00, Sun and holidays 8:00–20:00. Closed Mondays (Tuesday if Monday is a holiday).",
+    "ko": "실내 화~토 8:00~23:00, 일·공휴일 8:00~20:00. 휴무일 월요일(월요일이 공휴일이면 화요일), 부정기 휴무 있음"
   },
   "price": {
     "ja": "レギュラー会員 13,200円／月（入会金 5,500円）、平日限定シニア会員 8,800円／月（入会金 2,750円）。ビジター 2,400円／50分。",

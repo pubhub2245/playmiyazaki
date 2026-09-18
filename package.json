@@ -6,10 +6,12 @@
     "dev": "next dev",
     "prebuild": "tsx lib/validate.ts",
     "build": "next build",
+    "postbuild": "tsx scripts/indexnow.ts --from-build",
     "start": "next start",
     "lint": "next lint",
     "validate": "tsx lib/validate.ts",
-    "add-listing": "tsx scripts/add-listing.ts"
+    "add-listing": "tsx scripts/add-listing.ts",
+    "indexnow": "tsx scripts/indexnow.ts"
   },
   "dependencies": {
     "next": "14.2.35",

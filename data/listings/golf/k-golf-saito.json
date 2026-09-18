@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "24時間・年中無休",
-    "en": "Open 24 hours, every day."
+    "en": "Open 24 hours, every day.",
+    "ko": "24시간·연중무휴"
   },
   "price": null,
   "description": {

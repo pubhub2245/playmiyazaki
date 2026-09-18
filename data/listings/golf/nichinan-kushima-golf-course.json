@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "通年営業",
-    "en": "Open year round."
+    "en": "Open year round.",
+    "ko": "연중 영업"
   },
   "price": null,
   "description": {

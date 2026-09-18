@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "夏期のみ営業（7月〜9月）",
-    "en": "Open in summer only (July–September)"
+    "en": "Open in summer only (July–September)",
+    "ko": "여름철(7월~9월)에만 영업"
   },
   "price": {
     "ja": "キャンプサイト 1,100円／宿泊・550円／日中。貸しテント（8人用）1,100円／宿泊・550円／日中。コインシャワー 100円。",

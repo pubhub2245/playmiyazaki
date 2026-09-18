@@ -1,0 +1,42 @@
+{
+  "slug": "michi-no-eki-yuparu-nojiri",
+  "genre": "food",
+  "category": [
+    "market"
+  ],
+  "area": "kobayashi",
+  "name": {
+    "ja": "道の駅 ゆ〜ぱるのじり",
+    "en": "Michi-no-Eki Yuparu Nojiri",
+    "ko": "미치노에키 유파루 노지리"
+  },
+  "address": {
+    "ja": "宮崎県小林市野尻町三ケ野山4347-1",
+    "en": "4347-1 Mikanoyama, Nojiri-cho, Kobayashi-shi, Miyazaki",
+    "ko": "미야자키현 고바야시시 野尻町三ケ野山4347-1"
+  },
+  "lat": null,
+  "lng": null,
+  "phone": "0984-44-2210",
+  "website": "https://yuparu-nojiri.com/",
+  "google_maps_url": null,
+  "hours": {
+    "ja": "物産販売店 8:00〜18:00。定休 毎月第1水曜（祝日なら翌日）。",
+    "en": "Produce shop 8:00-18:00. Closed the first Wednesday of each month (next day if a holiday).",
+    "ko": "물산 판매점 8:00~18:00. 정기휴무 매월 첫째 수요일 (공휴일이면 다음 날)."
+  },
+  "price": null,
+  "description": {
+    "ja": "小林市野尻の道の駅。物産販売店があり、同じ敷地に日帰り温泉がある。",
+    "en": "Roadside station in Nojiri, Kobayashi, with a produce shop and a day-use hot spring on the same site.",
+    "ko": "고바야시시 노지리의 미치노에키. 물산 판매점이 있고 같은 부지에 당일 온천이 있다."
+  },
+  "tags": null,
+  "features": [],
+  "sources": [
+    "https://yuparu-nojiri.com/",
+    "https://www.qsr.mlit.go.jp/n-michi/michi_no_eki/kobetu/yuparu/yuparu.html"
+  ],
+  "verified_at": "2026-09-18",
+  "status": "open"
+}

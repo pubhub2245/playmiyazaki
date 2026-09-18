@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "8:00〜21:00。定休日なし",
-    "en": "8:00–21:00. Open every day."
+    "en": "8:00–21:00. Open every day.",
+    "ko": "8:00~21:00. 정기 휴무 없음"
   },
   "price": {
     "ja": "貸クラブ 100円／本。",

@@ -22,7 +22,8 @@
   "google_maps_url": null,
   "hours": {
     "ja": "平日 8:00〜21:30、土日祝 8:00〜21:00。定休日 12/31〜1/2",
-    "en": "Weekdays 8:00–21:30, weekends and holidays 8:00–21:00. Closed December 31 to January 2."
+    "en": "Weekdays 8:00–21:30, weekends and holidays 8:00–21:00. Closed December 31 to January 2.",
+    "ko": "평일 8:00~21:30, 주말·공휴일 8:00~21:00. 휴무일 12월 31일~1월 2일"
   },
   "price": {
     "ja": "貸クラブ 200円／本。",
