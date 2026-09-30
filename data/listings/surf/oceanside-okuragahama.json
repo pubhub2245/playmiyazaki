@@ -20,8 +20,16 @@
   "phone": "0982-56-2609",
   "website": "https://oceansideokuragahama.com/",
   "google_maps_url": null,
-  "hours": null,
-  "price": null,
+  "hours": {
+    "ja": "チェックイン 15:00、チェックアウト 11:00。",
+    "en": "Check-in 15:00, check-out 11:00.",
+    "ko": "체크인 15:00, 체크아웃 11:00."
+  },
+  "price": {
+    "ja": "Venice Beach・Long Beach は大人1名4,728円／2名7,637円（税別・1泊）。Santa Monica Beach は大人1名6,546円／2名9,455円／3名11,455円（税別）。Malibu Beach は一棟4名まで18,182円、5名から1名につき3,637円加算（税別）。0〜5歳は添い寝無料。",
+    "en": "Venice Beach and Long Beach: 4,728 yen for 1 adult, 7,637 yen for 2 (before tax, per night). Santa Monica Beach: 6,546 / 9,455 / 11,455 yen for 1 / 2 / 3 adults. Malibu Beach: 18,182 yen for the whole unit up to 4 people, plus 3,637 yen per person from the fifth. Children aged 0–5 sharing a bed stay free.",
+    "ko": "Venice Beach·Long Beach: 성인 1명 4,728엔, 2명 7,637엔(세금 별도, 1박). Santa Monica Beach: 성인 1명 6,546엔, 2명 9,455엔, 3명 11,455엔. Malibu Beach: 1동 4명까지 18,182엔, 5명부터 1명당 3,637엔 추가. 0~5세는 같은 침구 이용 시 무료."
+  },
   "description": {
     "ja": "お倉ヶ浜から徒歩5分のコンテナハウス型ゲストハウス。隣にサンライズサーフショップがある。",
     "en": "Container-house guesthouse a five-minute walk from Okuragahama. Sunrise Surf Shop is next door.",
@@ -32,8 +40,9 @@
     "stay"
   ],
   "sources": [
-    "https://hyuga.or.jp/app/hotels"
+    "https://hyuga.or.jp/app/hotels",
+    "https://oceansideokuragahama.com/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

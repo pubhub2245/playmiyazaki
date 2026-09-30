@@ -20,7 +20,11 @@
   "phone": "0986-21-8111",
   "website": "http://www.kirishima-fg.jp/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "レストランのランチ 11:00〜15:00（ラストオーダー14:30・最終入店14:00）、霧の蔵ビアガーデン 17:30〜21:00、霧の蔵ベーカリーは火曜定休。",
+    "en": "Restaurant lunch 11:00–15:00 (last order 14:30, last entry 14:00); Kirinokura beer garden 17:30–21:00; Kirinokura Bakery closed Tuesdays.",
+    "ko": "레스토랑 런치 11:00~15:00(라스트 오더 14:30, 최종 입장 14:00), 기리노쿠라 비어가든 17:30~21:00, 기리노쿠라 베이커리는 화요일 휴무."
+  },
   "price": null,
   "description": {
     "ja": "霧島酒造の工場見学施設。試飲、直売ショップ、レストランを併設。",
@@ -33,8 +37,9 @@
     "tasting"
   ],
   "sources": [
-    "https://www.city.miyakonojo.miyazaki.jp/site/kanko/10169.html"
+    "https://www.city.miyakonojo.miyazaki.jp/site/kanko/10169.html",
+    "http://www.kirishima-fg.jp/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

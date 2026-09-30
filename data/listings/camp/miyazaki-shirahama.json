@@ -21,7 +21,11 @@
   "website": "https://aoshima-camp.com/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "オートサイトA・B・C 1泊4,000円（通常日以外4,800円）。コテージ（4人まで）1泊17,000円（通常日以外19,000円）。シャワー5分200円、洗濯機200円。いずれも税込。",
+    "en": "Auto site A/B/C: 4,000 yen per night (4,800 yen on other days). Cottage (up to 4 people): 17,000 yen per night (19,000 yen on other days). Shower (5 min) 200 yen, washing machine 200 yen. Tax included.",
+    "ko": "오토 사이트 A·B·C 1박 4,000엔(통상일 외 4,800엔). 코티지(4인까지) 1박 17,000엔(통상일 외 19,000엔). 샤워 5분 200엔, 세탁기 200엔. 모두 세금 포함."
+  },
   "description": {
     "ja": "宮崎市南部・白浜海岸に面した市営のオートキャンプ場。青島から車で近い。",
     "en": "City-run auto campsite facing Shirahama Beach in south Miyazaki. Short drive from Aoshima.",
@@ -33,8 +37,9 @@
     "auto"
   ],
   "sources": [
-    "https://www.city.miyazaki.miyazaki.jp/institution/list/item43/"
+    "https://www.city.miyazaki.miyazaki.jp/institution/list/item43/",
+    "https://aoshima-camp.com/fee/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

@@ -20,7 +20,11 @@
   "phone": "0985-82-4936",
   "website": "https://vitaminkan.miyazaki.jp/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "9:00〜18:00。",
+    "en": "9:00–18:00.",
+    "ko": "9:00~18:00."
+  },
   "price": null,
   "description": {
     "ja": "宮崎市高岡町の道の駅の直売所。農産物と特産・お土産を扱う。",
@@ -32,8 +36,9 @@
     "meat-sales"
   ],
   "sources": [
-    "https://www.city.miyazaki.miyazaki.jp/culture/facilities/718.html"
+    "https://www.city.miyazaki.miyazaki.jp/culture/facilities/718.html",
+    "https://vitaminkan.miyazaki.jp/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

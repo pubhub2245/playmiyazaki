@@ -20,7 +20,11 @@
   "phone": "0986-29-2100",
   "website": "https://miyakonojo-bonchi.com/kannonsakura/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "温泉 7:00〜21:00（最終受付20:00）。プール 9:00〜21:00（最終受付20:00）。水曜日定休（祝日・シーズン中は変動）。",
+    "en": "Hot spring 7:00-21:00 (last entry 20:00). Pool 9:00-21:00 (last entry 20:00). Closed Wednesdays (varies on holidays and in season).",
+    "ko": "온천 7:00~21:00(최종 접수 20:00). 수영장 9:00~21:00(최종 접수 20:00). 수요일 휴무(공휴일·시즌 중에는 변동)."
+  },
   "price": {
     "ja": "420円",
     "en": "420 yen",
@@ -36,8 +40,9 @@
     "onsen"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1145"
+    "https://www.kanko-miyazaki.jp/spot/1145",
+    "https://miyakonojo-bonchi.com/kannonsakura/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

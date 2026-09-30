@@ -26,7 +26,8 @@ import { Row } from "@/app/_components/Row";
 import { RevealList } from "@/app/_components/RevealList";
 import { listingToRow } from "@/lib/rows";
 import { AffiliateLink } from "@/app/_components/AffiliateLink";
-import { RAKUTEN_TRAVEL } from "@/lib/affiliate";
+import { RAKUTEN_TRAVEL, RAKUTEN_GORA } from "@/lib/affiliate";
+import type { Listing, Taxonomy } from "@/lib/types";
 
 type Props = { params: { lang: string; genre: string; slug: string } };
 
@@ -72,6 +73,12 @@ const FIND_STAY: Record<Lang, string> = {
   ko: "라쿠텐 트래블에서 미야자키 숙소 찾기",
 };
 
+const FIND_GOLF: Record<Lang, string> = {
+  ja: "楽天GORAで宮崎のゴルフ場を探す",
+  en: "Find golf courses in Miyazaki on Rakuten GORA",
+  ko: "라쿠텐 GORA에서 미야자키 골프장 찾기",
+};
+
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -85,18 +92,118 @@ export function generateStaticParams() {
   return params;
 }
 
+/**
+ * このページだけの題名と説明文を、そのスポットが持っている事実から組み立てる。
+ *
+ * これまでは題名がスポット名だけ（例「愛和宮崎ゴルフクラブ」）、説明文が
+ * description の1文だけだった。description は上限120文字の決まりで、実測の
+ * 中央値は日本語34文字（2026-09-19・392件を数えた）。つまり 1,600 ページ余りが
+ * ほぼ同じ形で並び、そのページだけの中身が題名にも説明文にもほとんど乗って
+ * いなかった。検索する人が打つ言葉（市町村名・種類）も題名に無かった。
+ *
+ * ここで使うのは、すでに持っている事実（市町村・種類・料金・営業時間・確認日）
+ * だけで、新しい事実は1つも作らない。出典に無い値（price / hours が null）は
+ * そのまま出さない。
+ */
+function primaryCategoryLabel(
+  listing: Listing,
+  taxonomy: Taxonomy,
+  lang: Lang,
+): string | null {
+  const labels = taxonomy.categories[listing.genre] ?? [];
+  for (const c of listing.category) {
+    const hit = labels.find((x) => x.slug === c);
+    if (hit) return hit[lang];
+  }
+  return null;
+}
+
+function listingTitle(listing: Listing, taxonomy: Taxonomy, lang: Lang): string {
+  const name = listing.name[lang];
+  const area = taxonomy.areas.find((a) => a.slug === listing.area)?.[lang] ?? null;
+  const genre = taxonomy.genres.find((g) => g.slug === listing.genre)?.[lang] ?? null;
+  const kind = primaryCategoryLabel(listing, taxonomy, lang) ?? genre;
+  if (!area && !kind) return name;
+  if (lang === "ja") {
+    if (area && kind) return `${name}｜${area}の${kind}`;
+    return area ? `${name}｜${area}` : `${name}｜${kind}`;
+  }
+  if (lang === "ko") {
+    if (area && kind) return `${name} | ${area}의 ${kind}`;
+    return area ? `${name} | ${area}` : `${name} | ${kind}`;
+  }
+  if (area && kind) return `${name} – ${kind} in ${area}, Miyazaki`;
+  return area ? `${name} – ${area}, Miyazaki` : `${name} – ${kind} in Miyazaki`;
+}
+
+/** 日本語は全角なので短く切れる。英語・韓国語は検索結果の表示幅に合わせて長め。 */
+const DESC_MAX: Record<Lang, number> = { ja: 110, en: 160, ko: 150 };
+
+/** 文末の句点・ピリオドを落とす（データ側に付いていると二重になるため）。 */
+function trimTail(text: string): string {
+  return text.replace(/[\s。．.、,]+$/u, "");
+}
+
+/**
+ * 上限を超えるときは、なるべく文の切れ目で止める（語尾が途中で切れた形を見せない）。
+ * 切れ目が見つからないときだけ末尾に … を付ける。
+ */
+function clamp(text: string, max: number): string {
+  const t = text.replace(/\s+/gu, " ").trim();
+  if (t.length <= max) return t;
+  const head = t.slice(0, max);
+  const cut = Math.max(head.lastIndexOf("。"), head.lastIndexOf(". "));
+  if (cut >= Math.floor(max * 0.5)) return t.slice(0, cut + 1).trim();
+  return `${head.slice(0, max - 1).trim()}…`;
+}
+
+function listingDescription(
+  listing: Listing,
+  taxonomy: Taxonomy,
+  lang: Lang,
+): string {
+  const name = listing.name[lang];
+  const area = taxonomy.areas.find((a) => a.slug === listing.area)?.[lang] ?? null;
+  const kind = primaryCategoryLabel(listing, taxonomy, lang);
+  const own = listing.description?.[lang]?.trim() || null;
+  const price = listing.price?.[lang]?.trim() || null;
+  const hours = listing.hours?.[lang]?.trim() || null;
+  const parts: string[] = [];
+  if (lang === "ja") {
+    const head = [area, kind].filter(Boolean).join("の");
+    parts.push(head ? `${head}「${name}」。` : `${name}。`);
+    if (own) parts.push(`${trimTail(own)}。`);
+    if (price) parts.push(`料金：${trimTail(price)}。`);
+    if (hours) parts.push(`営業時間：${trimTail(hours)}。`);
+    parts.push(`住所・出典URLつき（確認日 ${listing.verified_at}）。`);
+  } else if (lang === "ko") {
+    parts.push(area && kind ? `${area}의 ${kind} '${name}'.` : `${name}.`);
+    if (own) parts.push(`${trimTail(own)}.`);
+    if (price) parts.push(`요금: ${trimTail(price)}.`);
+    if (hours) parts.push(`영업시간: ${trimTail(hours)}.`);
+    parts.push(`주소·출처 URL 포함 (확인일 ${listing.verified_at}).`);
+  } else {
+    parts.push(area && kind ? `${name} – ${kind} in ${area}, Miyazaki.` : `${name}, Miyazaki.`);
+    if (own) parts.push(`${trimTail(own)}.`);
+    if (price) parts.push(`Price: ${trimTail(price)}.`);
+    if (hours) parts.push(`Hours: ${trimTail(hours)}.`);
+    parts.push(`Address and source links (verified ${listing.verified_at}).`);
+  }
+  return clamp(parts.join(" "), DESC_MAX[lang]);
+}
+
 export function generateMetadata({ params }: Props): Metadata {
   const lang = parseLang(params.lang);
   const listing = loadAllListings().find(
     (l) => l.genre === params.genre && l.slug === params.slug,
   );
   if (!listing) return {};
-  const desc = listing.description?.[lang] || listing.address[lang];
+  const taxonomy = loadTaxonomy();
   const languages: Record<string, string> = {};
   for (const l of LANGS) languages[l] = absolute(urlListing(l, params.genre, params.slug));
   return {
-    title: listing.name[lang],
-    description: desc,
+    title: listingTitle(listing, taxonomy, lang),
+    description: listingDescription(listing, taxonomy, lang),
     alternates: {
       canonical: absolute(urlListing(lang, params.genre, params.slug)),
       languages,
@@ -215,6 +322,14 @@ export default function ListingDetail({ params }: Props) {
               lang={lang}
               program={RAKUTEN_TRAVEL}
               label={FIND_STAY[lang]}
+            />
+          )}
+
+          {listing.genre === "golf" && listing.category.includes("course") && (
+            <AffiliateLink
+              lang={lang}
+              program={RAKUTEN_GORA}
+              label={FIND_GOLF[lang]}
             />
           )}
         </div>

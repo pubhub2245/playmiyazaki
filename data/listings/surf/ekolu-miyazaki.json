@@ -21,8 +21,16 @@
   "phone": "0985-56-1515",
   "website": "https://ekolu-miyazaki.com",
   "google_maps_url": null,
-  "hours": null,
-  "price": null,
+  "hours": {
+    "ja": "8:00〜20:00。",
+    "en": "8:00–20:00.",
+    "ko": "8:00~20:00."
+  },
+  "price": {
+    "ja": "プライベートサーフガイド（1日）20,000〜42,000円（地域・人数による）。エコルサーフガイド（3〜4時間）15,000〜30,000円。レンタルボード 1日3,000〜6,000円。ドローン撮影（2時間以内）18,000円〜。",
+    "en": "Private surf guide (full day) 20,000–42,000 yen depending on area and group size. Ekolu surf guide (3–4 h) 15,000–30,000 yen. Board rental 3,000–6,000 yen per day. Drone filming (up to 2 h) from 18,000 yen.",
+    "ko": "프라이빗 서프 가이드(1일) 20,000~42,000엔(지역·인원에 따라 변동). 에콜 서프 가이드(3~4시간) 15,000~30,000엔. 렌털 보드 1일 3,000~6,000엔. 드론 촬영(2시간 이내) 18,000엔~."
+  },
   "description": {
     "ja": "元 JPSA プロの水元光志が営む。空港近くでサーフガイドとサーファー向けレンタカーを扱う。",
     "en": "Run by former JPSA pro Koshi Mizumoto. Offers surf guiding and surfer-focused rental cars near the airport.",
@@ -34,8 +42,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11545"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11545",
+    "https://ekolu-miyazaki.com"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

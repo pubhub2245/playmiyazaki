@@ -20,7 +20,11 @@
   "phone": "092-433-7370",
   "website": "https://rvparksmart.jp/rv-smart/meirinspa.html",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "13:00〜翌12:00。",
+    "en": "13:00 to 12:00 the next day.",
+    "ko": "13:00~다음 날 12:00."
+  },
   "price": {
     "ja": "1泊 2,040円／1台（トレーラー含む）。",
     "en": "2,040 yen/vehicle/night (trailer included).",
@@ -38,8 +42,9 @@
     "rv"
   ],
   "sources": [
-    "https://www.kurumatabi.com/park/rvpark/599.html"
+    "https://www.kurumatabi.com/park/rvpark/599.html",
+    "https://rvparksmart.jp/rv-smart/meirinspa.html"
   ],
-  "verified_at": "2026-09-17",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

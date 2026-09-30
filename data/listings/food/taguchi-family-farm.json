@@ -20,7 +20,11 @@
   "phone": null,
   "website": "https://taguchifamily.farm/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "エンチャードカフェ 10:00〜16:00。",
+    "en": "Enchard Cafe 10:00–16:00.",
+    "ko": "엔차드 카페 10:00~16:00."
+  },
   "price": null,
   "description": {
     "ja": "延岡市北方町の果樹園。いちご、柿、ぶどう、桃、きんかんの収穫体験。",
@@ -32,8 +36,9 @@
     "seasonal"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/feature/fruit"
+    "https://www.kanko-miyazaki.jp/feature/fruit",
+    "https://taguchifamily.farm/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

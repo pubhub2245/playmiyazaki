@@ -21,7 +21,11 @@
   "phone": "0984-42-4088",
   "website": "https://miikenoyu-camp.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "10:00〜22:00。火曜日・水曜日定休。",
+    "en": "10:00-22:00. Closed Tuesdays and Wednesdays.",
+    "ko": "10:00~22:00. 화요일·수요일 휴무."
+  },
   "price": null,
   "description": {
     "ja": "御池の湖畔、天然温泉が併設されたオートキャンプ場。",
@@ -35,8 +39,9 @@
     "auto"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1317"
+    "https://www.kanko-miyazaki.jp/spot/1317",
+    "https://miikenoyu-camp.com/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

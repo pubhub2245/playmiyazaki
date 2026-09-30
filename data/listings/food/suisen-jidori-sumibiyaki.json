@@ -20,7 +20,11 @@
   "phone": "0985-23-1588",
   "website": "https://www.suisen-jidori.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "17:00〜23:00（ラストオーダー22:20）。不定休。",
+    "en": "17:00–23:00 (last order 22:20). Irregular closing days.",
+    "ko": "17:00~23:00(라스트 오더 22:20). 부정기 휴무."
+  },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏や宮崎鶏を日向備長炭で焼く炭火焼専門店。組合の指定店。",
@@ -30,8 +34,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1608000960"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608000960",
+    "https://www.suisen-jidori.com/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

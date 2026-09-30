@@ -22,7 +22,11 @@
   "phone": "0985-71-0214",
   "website": "http://gakkysurfshop.blogspot.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "夏季 平日12:00〜19:00・土日祝12:00〜18:00／冬季 平日12:00〜18:00・土日祝12:00〜17:00。",
+    "en": "Summer: weekdays 12:00–19:00, weekends and holidays 12:00–18:00. Winter: weekdays 12:00–18:00, weekends and holidays 12:00–17:00.",
+    "ko": "여름 평일 12:00~19:00·주말 공휴일 12:00~18:00 / 겨울 평일 12:00~18:00·주말 공휴일 12:00~17:00."
+  },
   "price": {
     "ja": "スクール 5,500円〜",
     "en": "Lesson from 5,500 yen",
@@ -40,8 +44,9 @@
     "pickup"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11551"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11551",
+    "http://gakkysurfshop.blogspot.com/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

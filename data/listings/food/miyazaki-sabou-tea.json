@@ -20,7 +20,11 @@
   "phone": "0982-82-0211",
   "website": "https://www.miyazaki-sabou.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "受付時間 9:00〜16:00（月曜日〜土曜日）。",
+    "en": "Reception 9:00–16:00 (Monday to Saturday).",
+    "ko": "접수 시간 9:00~16:00(월~토)."
+  },
   "price": null,
   "description": {
     "ja": "五ヶ瀬町の有機茶園。茶園の散策と試飲の体験ができる。",
@@ -33,8 +37,9 @@
     "tasting"
   ],
   "sources": [
-    "https://takachiho-kanko.info/shopping/32/"
+    "https://takachiho-kanko.info/shopping/32/",
+    "https://www.miyazaki-sabou.com/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

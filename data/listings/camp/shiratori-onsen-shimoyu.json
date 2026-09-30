@@ -20,7 +20,11 @@
   "phone": "0984-33-3611",
   "website": "http://shiratori-onsen.com/wp/down/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "大浴場・庭園風露天風呂 7:00〜20:00。貸切風呂 9:00〜20:00。休憩施設 9:00〜17:00。",
+    "en": "Main bath and garden open-air bath 7:00-20:00. Private bath 9:00-20:00. Rest facilities 9:00-17:00.",
+    "ko": "대욕장·정원 노천탕 7:00~20:00. 전세탕 9:00~20:00. 휴게 시설 9:00~17:00."
+  },
   "price": null,
   "description": {
     "ja": "えびの高原ふもとの日帰り温泉。庭園の露天風呂と貸切風呂がある。",
@@ -33,8 +37,9 @@
     "onsen"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1403"
+    "https://www.kanko-miyazaki.jp/spot/1403",
+    "http://shiratori-onsen.com/wp/down/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }
