@@ -20,7 +20,11 @@
   "phone": null,
   "website": "https://michinoeki-tsuno.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "9:00〜18:00。年中無休。",
+    "en": "9:00–18:00. Open every day.",
+    "ko": "9:00~18:00. 연중무휴."
+  },
   "price": null,
   "description": {
     "ja": "都農町の道の駅の直売所。都農・川南の野菜と果物、都農ワインを扱う。",
@@ -32,8 +36,9 @@
     "meat-sales"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1082"
+    "https://www.kanko-miyazaki.jp/spot/1082",
+    "https://michinoeki-tsuno.com/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

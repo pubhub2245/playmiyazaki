@@ -20,7 +20,11 @@
   "phone": "0986-38-2460",
   "website": "https://sbs.snowpeak.co.jp/miyakonojo/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "受付 10:00〜18:00、毎週水曜定休（大型連休を除く）。チェックイン フリー・眺望・区画オートサイト13:00〜／住箱14:00〜／コテージ15:00〜。チェックアウト サイト翌11:00／住箱・コテージ翌10:30。",
+    "en": "Reception 10:00-18:00, closed Wednesdays (except long holidays). Check-in: free, view and auto sites from 13:00; Jyubako from 14:00; cottages from 15:00. Check-out: sites 11:00; Jyubako and cottages 10:30.",
+    "ko": "접수 10:00~18:00, 매주 수요일 휴무(연휴 제외). 체크인: 프리·전망·구획 오토 사이트 13:00~, 주바코 14:00~, 코티지 15:00~. 체크아웃: 사이트 익일 11:00, 주바코·코티지 익일 10:30."
+  },
   "price": {
     "ja": "フリーサイト 4,000〜6,250円／泊。区画電源オートサイト 4,800〜7,500円／泊。モバイルハウス「住箱」14,080〜22,000円／泊。コテージ 28,160〜42,000円／泊（税込）。",
     "en": "Free site 4,000–6,250 yen/night. Auto site with power 4,800–7,500 yen/night. Mobile house Jyubako 14,080–22,000 yen/night. Cottage 28,160–42,000 yen/night (tax incl.).",
@@ -39,6 +43,6 @@
     "https://www.city.miyakonojo.miyazaki.jp/soshiki/3/61718.html",
     "https://www.snowpeak.co.jp/locations/miyakonojo/"
   ],
-  "verified_at": "2026-09-17",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

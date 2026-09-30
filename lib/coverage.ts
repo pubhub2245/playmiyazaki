@@ -16,6 +16,17 @@ export const FEATURE_MIN_COUNT = 3;
  */
 export const AREA_MIN_COUNT = 5;
 
+/**
+ * A genre x municipality page (/[lang]/[genre]/a/[area]) needs at least this
+ * many listings before it is worth showing to a search engine. With one or two
+ * listings the page is a near-duplicate of the listing's own detail page, and
+ * a pile of near-duplicates makes a crawler stop reading any of them. The
+ * pages themselves stay (people reach them from the genre page); they are just
+ * marked "do not index" and left out of the sitemap. Same threshold as
+ * FEATURE_MIN_COUNT so the two stay consistent.
+ */
+export const AREA_GENRE_MIN_COUNT = 3;
+
 export type Coverage = {
   genres: Set<string>;
   /** listing count per area, across every genre */
@@ -156,4 +167,24 @@ export function nearbyInArea(current: Listing, limit: number): Listing[] {
     .filter((l) => l.genre === current.genre && l.area === current.area && l.slug !== current.slug)
     .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"))
     .slice(0, limit);
+}
+
+
+/** Listings in one genre x area pair. */
+export function areaGenreCount(genre: string, area: string): number {
+  return getCoverage().genreCountsByArea.get(area)?.get(genre) ?? 0;
+}
+
+/**
+ * True when the genre x area page carries enough listings to be worth
+ * indexing. Below the threshold the page still renders, but it is marked
+ * "do not index" and kept out of the sitemap.
+ */
+export function isIndexableAreaPage(genre: string, area: string): boolean {
+  return areaGenreCount(genre, area) >= AREA_GENRE_MIN_COUNT;
+}
+
+/** Areas whose genre x area page meets the indexing threshold, taxonomy order. */
+export function indexableAreasForGenre(genre: string): string[] {
+  return areasWithListings(genre).filter((a) => isIndexableAreaPage(genre, a));
 }

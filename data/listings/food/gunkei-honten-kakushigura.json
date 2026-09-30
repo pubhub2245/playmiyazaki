@@ -20,7 +20,11 @@
   "phone": "0120-85-8170",
   "website": "http://www.gunkei.jp/restaurant/info-kakushigura/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "17:00〜24:00（ラストオーダー23:00）。定休日なし（不定休）。",
+    "en": "17:00–24:00 (last order 23:00). No regular closing day (occasional closures).",
+    "ko": "17:00~24:00(라스트 오더 23:00). 정기 휴무 없음(부정기 휴무)."
+  },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏を炭火で焼く店。ぐんけいグループの本店。中央通の裏路地にある。",
@@ -30,8 +34,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/gourmet/10120"
+    "https://www.miyazaki-city.tourism.or.jp/gourmet/10120",
+    "http://www.gunkei.jp/restaurant/info-kakushigura/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

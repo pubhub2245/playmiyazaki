@@ -22,7 +22,11 @@
   "phone": "0985-75-0473",
   "website": "https://www.highsurf-miyazaki.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "スクール 9:00〜、店舗 11:00〜。",
+    "en": "School from 9:00, shop from 11:00.",
+    "ko": "스쿨 9:00~, 매장 11:00~."
+  },
   "price": {
     "ja": "スクール 5,500円、SUP あり",
     "en": "Lesson 5,500 yen; SUP available",
@@ -40,8 +44,9 @@
     "parking"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11561"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11561",
+    "https://www.highsurf-miyazaki.com/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

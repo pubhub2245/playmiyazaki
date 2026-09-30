@@ -21,7 +21,11 @@
   "phone": "0985-58-5035",
   "website": "https://www.surf3-sincere.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "8:00〜22:00。定休日なし（臨時休業あり）。",
+    "en": "8:00–22:00. No regular closing day (occasional closures).",
+    "ko": "8:00~22:00. 정기 휴무 없음(임시 휴업 있음)."
+  },
   "price": {
     "ja": "ボードレンタル 3,000円/日、ウェットスーツ 2,000円",
     "en": "Board rental 3,000 yen/day; wetsuit 2,000 yen",
@@ -37,8 +41,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11547"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11547",
+    "https://www.surf3-sincere.com/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

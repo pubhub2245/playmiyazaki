@@ -22,7 +22,11 @@
   "phone": "0985-69-0697",
   "website": "https://seeu-surf.shop/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "9:00〜18:00。不定休（予約フォームのカレンダーで確認）。",
+    "en": "9:00–18:00. Irregular closing days (see the calendar on the booking form).",
+    "ko": "9:00~18:00. 부정기 휴무(예약 폼 캘린더에서 확인)."
+  },
   "price": {
     "ja": "ソフトボードレンタル 2,500〜4,500円、スクール 5,000円",
     "en": "Soft board rental 2,500–4,500 yen; lesson 5,000 yen",
@@ -39,8 +43,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11548"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11548",
+    "https://seeu-surf.shop/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

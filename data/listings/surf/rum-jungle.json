@@ -22,7 +22,11 @@
   "phone": "090-4342-0004",
   "website": "https://rumjungle-surf.shop/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "12:00〜19:00。木曜定休。",
+    "en": "12:00–19:00. Closed Thursdays.",
+    "ko": "12:00~19:00. 목요일 휴무."
+  },
   "price": {
     "ja": "ガイド 7,000円〜、スクール 5,000円",
     "en": "Guide from 7,000 yen; lesson 5,000 yen",
@@ -39,8 +43,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11562"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11562",
+    "https://rumjungle-surf.shop/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

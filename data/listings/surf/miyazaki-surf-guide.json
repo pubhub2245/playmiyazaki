@@ -25,7 +25,11 @@
     "ja": "9:00〜17:00（要予約）",
     "en": "9:00–17:00 (reservation required)"
   },
-  "price": null,
+  "price": {
+    "ja": "プライベートサーフガイド 1日コース（7〜8時間）1人30,000円／2人44,000円／3人57,000円、半日コース（3〜4時間）1人20,000円／2人30,000円／3人39,000円。体験スクール（所要100分）1人9,000円。コーチングレッスン60分 15,000円（レンタル込み）／持参12,000円。レンタルはウェットスーツ1日2,000円、サーフボード3時間4,000円・1日6,000円、セット3時間5,000円・1日7,000円。",
+    "en": "Private surf guide: full day (7–8 h) 30,000 yen for 1, 44,000 for 2, 57,000 for 3; half day (3–4 h) 20,000 / 30,000 / 39,000 yen. Intro lesson (100 min) 9,000 yen. Coaching lesson 60 min 15,000 yen incl. rental, 12,000 yen with own gear. Rentals: wetsuit 2,000 yen/day; surfboard 4,000 yen/3 h, 6,000 yen/day; set 5,000 yen/3 h, 7,000 yen/day.",
+    "ko": "프라이빗 서프 가이드: 1일 코스(7~8시간) 1인 30,000엔, 2인 44,000엔, 3인 57,000엔. 반일 코스(3~4시간) 20,000엔, 30,000엔, 39,000엔. 체험 스쿨(100분) 1인 9,000엔. 코칭 레슨 60분 15,000엔(렌털 포함), 개인 장비 12,000엔. 렌털: 웻슈트 1일 2,000엔, 서프보드 3시간 4,000엔·1일 6,000엔, 세트 3시간 5,000엔·1일 7,000엔."
+  },
   "description": {
     "ja": "初心者体験、レベルアップレッスン、プライベートサーフガイド、ボード・ウェットレンタルを扱う。温水シャワー、更衣室、タオル付き。英語対応あり。",
     "en": "Beginner sessions, level-up lessons, private guiding, and board/wetsuit rental. Hot shower, changing room, and towels included. English support available.",
@@ -39,8 +43,9 @@
     "english"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/13152"
+    "https://www.miyazaki-city.tourism.or.jp/spot/13152",
+    "https://miyazakisurfguide.com"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

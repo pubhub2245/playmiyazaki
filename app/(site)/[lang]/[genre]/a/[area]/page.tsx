@@ -10,6 +10,7 @@ import {
   genresWithListings,
   hasArea,
   hasCrossGenreAreaPage,
+  isIndexableAreaPage,
 } from "@/lib/coverage";
 import { CategoryChips, categoryCountsForGenre } from "@/app/_components/FilterBar";
 import { FeatureChips, featureCountsForGenre } from "@/app/_components/FeatureChips";
@@ -89,6 +90,10 @@ export function generateMetadata({ params }: Props): Metadata {
   if (!genre || !area) return {};
   const languages: Record<string, string> = {};
   for (const l of LANGS) languages[l] = absolute(urlArea(l, params.genre, params.area));
+  // With one or two listings this page says almost nothing the listing's own
+  // page does not already say, so we ask search engines not to index it while
+  // still letting them follow the links out of it.
+  const indexable = isIndexableAreaPage(params.genre, params.area);
   return {
     title: areaTitle(lang, genre, area),
     description: areaDescription(lang, genre, area),
@@ -96,6 +101,7 @@ export function generateMetadata({ params }: Props): Metadata {
       canonical: absolute(urlArea(lang, params.genre, params.area)),
       languages,
     },
+    ...(indexable ? {} : { robots: { index: false, follow: true } }),
   };
 }
 

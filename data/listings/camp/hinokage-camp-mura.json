@@ -20,7 +20,11 @@
   "phone": "0982-87-2820",
   "website": "https://hinokage-camp.com/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "チェックイン 15:00〜16:00、チェックアウト 〜11:00。",
+    "en": "Check-in 15:00-16:00, check-out by 11:00.",
+    "ko": "체크인 15:00~16:00, 체크아웃 11:00까지."
+  },
   "price": null,
   "description": {
     "ja": "日之影町の五ヶ瀬川沿いのキャンプ場。テントサイトとバンガロー。",
@@ -33,8 +37,9 @@
     "cottage"
   ],
   "sources": [
-    "https://www.kanko-miyazaki.jp/spot/1303"
+    "https://www.kanko-miyazaki.jp/spot/1303",
+    "https://hinokage-camp.com/price/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

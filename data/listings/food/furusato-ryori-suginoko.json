@@ -20,7 +20,11 @@
   "phone": "0985-22-5798",
   "website": "https://www.miyazaki-suginoko.net/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "11:30〜13:30、17:30〜22:00（昼は予約のみ）。日曜定休（年末年始は12/28〜1/4休み）。",
+    "en": "11:30–13:30 and 17:30–22:00 (lunch by reservation only). Closed Sundays; closed 28 Dec – 4 Jan.",
+    "ko": "11:30~13:30, 17:30~22:00(점심은 예약제). 일요일 휴무(연말연시 12/28~1/4 휴무)."
+  },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の炭火焼を含む宮崎の郷土料理を出す店。組合の指定店。",
@@ -30,8 +34,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001031"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001031",
+    "https://www.miyazaki-suginoko.net/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

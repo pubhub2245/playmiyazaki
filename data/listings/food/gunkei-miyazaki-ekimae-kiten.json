@@ -20,7 +20,11 @@
   "phone": "0985-33-9001",
   "website": "http://www.gunkei.jp/restaurant/info-kiten/",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "12:00〜22:30（ラストオーダー22:00）。定休日なし（不定休）。",
+    "en": "12:00–22:30 (last order 22:00). No regular closing day (occasional closures).",
+    "ko": "12:00~22:30(라스트 오더 22:00). 정기 휴무 없음(부정기 휴무)."
+  },
   "price": null,
   "description": {
     "ja": "みやざき地頭鶏の炭火焼を出す店。JR宮崎駅前のグリーンスフィア2階。",
@@ -30,8 +34,9 @@
   "tags": null,
   "features": [],
   "sources": [
-    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001019"
+    "https://www.mjitokko.jp/restaurant/detail.php?id=1608001019",
+    "http://www.gunkei.jp/restaurant/info-kiten/"
   ],
-  "verified_at": "2026-09-15",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

@@ -21,7 +21,11 @@
   "website": "http://surfguide-himawari.net/",
   "google_maps_url": null,
   "hours": null,
-  "price": null,
+  "price": {
+    "ja": "1日ガイド（朝8時〜夕方）1名13,000円、2名18,000円、3名24,000円、4名28,000円（いずれも税込）。",
+    "en": "Full-day guide (from 8 a.m. to evening): 13,000 yen for 1 person, 18,000 for 2, 24,000 for 3, 28,000 for 4 (tax included).",
+    "ko": "1일 가이드(오전 8시~저녁) 1명 13,000엔, 2명 18,000엔, 3명 24,000엔, 4명 28,000엔(세금 포함)."
+  },
   "description": {
     "ja": "1日1組限定のスクール。ボードロッカー、レンタルあり。要予約。",
     "en": "Lessons for one group per day. Board lockers and rentals. Reservation required.",
@@ -33,8 +37,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11563"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11563",
+    "http://surfguide-himawari.net/"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

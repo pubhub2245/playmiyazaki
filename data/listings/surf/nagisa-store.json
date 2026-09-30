@@ -22,7 +22,11 @@
   "phone": "0985-65-1070",
   "website": "http://www.nagisastore.com",
   "google_maps_url": null,
-  "hours": null,
+  "hours": {
+    "ja": "平日 10:00〜17:00、土・日・祝 9:00〜18:00。水曜定休。レンタルの返却は17:00まで。",
+    "en": "Weekdays 10:00–17:00; Saturdays, Sundays and public holidays 9:00–18:00. Closed Wednesdays. Rentals must be returned by 17:00.",
+    "ko": "평일 10:00~17:00, 토·일·공휴일 9:00~18:00. 수요일 휴무. 렌털 반납은 17:00까지."
+  },
   "price": null,
   "description": {
     "ja": "青島ビーチから徒歩30秒のショップ。60本以上のボードを扱う。水曜定休。",
@@ -35,8 +39,9 @@
     "rental"
   ],
   "sources": [
-    "https://www.miyazaki-city.tourism.or.jp/spot/11560"
+    "https://www.miyazaki-city.tourism.or.jp/spot/11560",
+    "http://www.nagisastore.com"
   ],
-  "verified_at": "2026-09-14",
+  "verified_at": "2026-09-19",
   "status": "open"
 }

@@ -30,6 +30,19 @@ export const RAKUTEN_TRAVEL: AffiliateProgram = {
   target: "https://travel.rakuten.co.jp/yado/miyazaki/",
 };
 
+/**
+ * 楽天GORA（宮崎県のゴルフ場一覧）。
+ * 送り先URLは 司令室 pa26 で A が実際に開いて確定させたページ
+ * （ページ名「宮崎県コースガイド一覧：楽天GORA」）。推測で作ったURLではない。
+ */
+export const RAKUTEN_GORA: AffiliateProgram = {
+  a_id: "5808512",
+  p_id: "57",
+  pc_id: "57",
+  pl_id: "646",
+  target: "https://gora.golf.rakuten.co.jp/doc/special/easylink/miyazaki.html",
+};
+
 /** クリック用のURLを組み立てる */
 export function affiliateHref(p: AffiliateProgram): string {
   const q = new URLSearchParams({
