@@ -79,6 +79,82 @@ const FIND_GOLF: Record<Lang, string> = {
   ko: "라쿠텐 GORA에서 미야자키 골프장 찾기",
 };
 
+/**
+ * このページだけの「数え上げ」。倉庫の listing データだけから計算できる事実を
+ * 3〜5行で出す（同じ市町村・同じ種類の軒数、料金・営業時間が出典で確認できている軒数、
+ * 特徴ごとの県内の軒数）。評価語・順位は付けない。外のサイトは開かない。
+ */
+function listingFacts(
+  listing: Listing,
+  all: Listing[],
+  taxonomy: Taxonomy,
+  lang: Lang,
+): string[] {
+  const area = taxonomy.areas.find((a) => a.slug === listing.area)?.[lang] ?? listing.area;
+  const genreLabel = taxonomy.genres.find((g) => g.slug === listing.genre)?.[lang] ?? listing.genre;
+  const sameGenre = all.filter((l) => l.genre === listing.genre);
+  const sameArea = sameGenre.filter((l) => l.area === listing.area);
+  const catSlug = listing.category.find((c) =>
+    (taxonomy.categories[listing.genre] ?? []).some((x) => x.slug === c),
+  );
+  const kind = catSlug
+    ? (taxonomy.categories[listing.genre] ?? []).find((x) => x.slug === catSlug)?.[lang] ?? null
+    : null;
+  const out: string[] = [];
+
+  if (kind && catSlug) {
+    const inPref = sameGenre.filter((l) => l.category.includes(catSlug)).length;
+    const inTown = sameArea.filter((l) => l.category.includes(catSlug)).length;
+    out.push(
+      lang === "ja"
+        ? `${kind}は県内に${inPref}件掲載。うち${area}に${inTown}件。`
+        : lang === "ko"
+          ? `${kind}: 현 전체 ${inPref}곳 중 ${area} ${inTown}곳.`
+          : `${kind}: ${inPref} listed in Miyazaki, ${inTown} of them in ${area}.`,
+    );
+  }
+
+  const withPrice = sameArea.filter((l) => l.price?.ja).length;
+  const withHours = sameArea.filter((l) => l.hours?.ja).length;
+  const n = sameArea.length;
+  const hasPrice = Boolean(listing.price?.ja);
+  const hasHours = Boolean(listing.hours?.ja);
+  if (lang === "ja") {
+    out.push(
+      `${area}の${genreLabel}${n}件のうち、料金が出典で確認できるのは${withPrice}件、営業時間は${withHours}件。このスポットは料金が${hasPrice ? "掲載あり" : "未掲載（公式サイトで確認）"}、営業時間が${hasHours ? "掲載あり" : "未掲載（公式サイトで確認）"}。`,
+    );
+  } else if (lang === "ko") {
+    out.push(
+      `${area}의 ${genreLabel} ${n}곳 중 요금이 출처에서 확인되는 곳은 ${withPrice}곳, 영업시간은 ${withHours}곳. 이 스팟은 요금 ${hasPrice ? "게재" : "미게재(공식 사이트에서 확인)"}, 영업시간 ${hasHours ? "게재" : "미게재(공식 사이트에서 확인)"}.`,
+    );
+  } else {
+    out.push(
+      `Of ${n} ${genreLabel} listings in ${area}, ${withPrice} have a price and ${withHours} have hours confirmed in the source. This spot: price ${hasPrice ? "listed" : "not listed (check the official site)"}, hours ${hasHours ? "listed" : "not listed (check the official site)"}.`,
+    );
+  }
+
+  const featureLabels = taxonomy.features[listing.genre] ?? [];
+  for (const f of listing.features.slice(0, 3)) {
+    const entry = featureLabels.find((x) => x.slug === f);
+    if (!entry) continue;
+    const c = sameGenre.filter((l) => l.features.includes(f)).length;
+    out.push(
+      lang === "ja"
+        ? `特徴「${entry.ja}」を出典で確認できる${genreLabel}は県内に${c}件。`
+        : lang === "ko"
+          ? `특징 '${entry.ko}'이(가) 출처에서 확인되는 ${genreLabel}: 현 전체 ${c}곳.`
+          : `Spots with "${entry.en}" confirmed in the source (${genreLabel}): ${c} in Miyazaki.`,
+    );
+  }
+  return out;
+}
+
+const FACTS_HEADING: Record<Lang, string> = {
+  ja: "数でみるこのスポット",
+  en: "This spot in numbers",
+  ko: "숫자로 보는 이 스팟",
+};
+
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -235,6 +311,7 @@ export default function ListingDetail({ params }: Props) {
     absolute(urlListing(lang, listing.genre, listing.slug)),
   );
   const CHECK = UI.check_official[lang];
+  const facts = listingFacts(listing, loadAllListings(), taxonomy, lang);
   const nearby = nearbyInArea(listing, 5).map((n) => listingToRow(n, taxonomy, lang));
 
   return (
@@ -434,6 +511,19 @@ export default function ListingDetail({ params }: Props) {
           </div>
         </aside>
       </div>
+
+      {facts.length > 0 && (
+        <section className="space-y-3">
+          <h2 className="pm-subhead">
+            <span>{FACTS_HEADING[lang]}</span>
+          </h2>
+          <ul className="list-disc pl-5 space-y-1 text-[14px] text-text-primary">
+            {facts.map((f) => (
+              <li key={f}>{f}</li>
+            ))}
+          </ul>
+        </section>
+      )}
 
       {(nearby.length > 0 || hasCrossGenreAreaPage(listing.area)) && (
         <section className="space-y-3">
