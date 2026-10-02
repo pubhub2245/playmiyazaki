@@ -23,9 +23,9 @@ export const HOME_TITLE = {
 };
 
 export const NEARBY_HEADING = {
-  ja: "同じエリアのスポット",
-  en: "Also in this area",
-  ko: "같은 지역의 스팟",
+  ja: "近くのスポット",
+  en: "Nearby spots",
+  ko: "주변 스팟",
 };
 
 export const UI = {

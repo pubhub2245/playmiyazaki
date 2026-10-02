@@ -161,12 +161,54 @@ export function genresInArea(area: string): Array<{ genre: string; count: number
     .filter((x) => x.count > 0);
 }
 
+/**
+ * 「近くのスポット」を最大 limit 件選ぶ。順番は
+ *   1. 同じジャンル・同じ市町村・同じ種類
+ *   2. 同じジャンル・同じ市町村
+ *   3. 同じ市町村の別ジャンル
+ *   4. 同じジャンル・別の市町村（緯度経度が両方あれば近い順、無ければ同じ種類を先に）
+ * 各段の中は、自分の次から順に回す輪（名前順の循環）。誰のページにも同じ先頭5件が
+ * 並ぶのをやめ、リンクがどのページにも行き渡るようにする。自分自身は出さない。
+ * 倉庫のデータだけで決まる（外への通信なし）。
+ */
 export function nearbyInArea(current: Listing, limit: number): Listing[] {
-  const all = loadAllListings();
-  return all
-    .filter((l) => l.genre === current.genre && l.area === current.area && l.slug !== current.slug)
-    .sort((a, b) => a.name.ja.localeCompare(b.name.ja, "ja"))
-    .slice(0, limit);
+  const all = loadAllListings()
+    .filter((l) => l.status !== "closed")
+    .slice()
+    .sort((a, b) => a.genre.localeCompare(b.genre) || a.slug.localeCompare(b.slug));
+  const idx = all.findIndex((l) => l.genre === current.genre && l.slug === current.slug);
+  const ring = idx < 0 ? all : [...all.slice(idx + 1), ...all.slice(0, idx)];
+  const others = ring.filter((l) => !(l.genre === current.genre && l.slug === current.slug));
+  const sameCat = (l: Listing) => l.category.some((c) => current.category.includes(c));
+  const dist = (l: Listing) =>
+    current.lat != null && current.lng != null && l.lat != null && l.lng != null
+      ? (l.lat - current.lat) ** 2 + (l.lng - current.lng) ** 2
+      : Infinity;
+
+  const sameGenre = others.filter((l) => l.genre === current.genre);
+  const tiers: Listing[][] = [
+    sameGenre.filter((l) => l.area === current.area && sameCat(l)),
+    sameGenre.filter((l) => l.area === current.area && !sameCat(l)),
+    others.filter((l) => l.genre !== current.genre && l.area === current.area),
+    sameGenre
+      .filter((l) => l.area !== current.area)
+      .map((l, i) => ({ l, i }))
+      .sort(
+        (a, b) =>
+          dist(a.l) - dist(b.l) ||
+          Number(sameCat(b.l)) - Number(sameCat(a.l)) ||
+          a.i - b.i,
+      )
+      .map((x) => x.l),
+  ];
+  const out: Listing[] = [];
+  for (const t of tiers) {
+    for (const l of t) {
+      if (out.length >= limit) return out;
+      out.push(l);
+    }
+  }
+  return out;
 }
 
 
