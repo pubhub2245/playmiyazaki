@@ -529,7 +529,6 @@ export default function ListingDetail({ params }: Props) {
         <section className="space-y-3">
           <h2 className="pm-subhead">
             <span>{NEARBY_HEADING[lang]}</span>
-            <span className="pm-mono text-text-secondary">{areaName}</span>
           </h2>
           {nearby.length > 0 && (
             <RevealList>
